@@ -1,0 +1,911 @@
+terra_id,nome,ufs,municipios,povos,area_ha,modalidade,fase,fase_fonte,fases_por_fonte,divergencia_fase,precisao_geom,sensivel,fontes,n_registros
+TI0001,Acapuri de Cima,AM,Fonte Boa/AM,Kokama,18393.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0002,Acimã,AM,Lábrea/AM,Apurinã,40686.03,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0003,Aconã,AL,Traipu/AL,Tingui-Botó,267.79,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0004,Água Preta/Inari,AM,Pauini/AM,Apurinã,139763.67,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0005,Águas Belas,BA,Prado/BA,Pataxó,1189.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0006,Águas Claras,SC,Major Gercino/SC,Guarani Mbya,165.42,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0007,Aldeia Cerroy,MS,Guia Lopes da Laguna e Jardim e Maracaju/MS; Guia Lopes da Laguna/MS; Jardim/MS; Maracaju/MS,Guaraní,30.54,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0008,Aldeia Escola Floresta,MG,Teófilo Otoni/MG,Maxakali,121.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0009,Aldeia Katurama,MG,São Joaquim de Bicas/MG,"Pataxó, Pataxo Há-Há-Há",346124.0,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0010,Aldeia Kondá,SC,Chapecó/SC,Kaingang,2300.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0011,Aldeia Limão Verde,MS,Amambai/MS,Guarani Kaiowá,668.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0012,Aldeia Pó Mág,RS,Tabaí/RS,Kaingang,11.75,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0013,Aldeia Por Fi Ga,RS,São Leopoldo/RS,Kaingang,10.68,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0014,Aldeia Velha,BA,Porto Seguro/BA,Pataxó,1997.55,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0015,Alto Rio Guamá,PA,Garrafão do Norte e Nova Esperança do Piriá e Paragominas e Santa Luzia do Pará/PA; Garrafão do Norte/PA; Nova Esperança do Piriá/PA; Paragominas/PA; Santa Luzia do Pará/PA,Tembé e Timbira,279897.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0016,Alto Rio Negro,AM,Japurá e São Gabriel da Cachoeira/AM; Japurá/AM; São Gabriel da Cachoeira/AM,Arapáso e Barasána e Baré e Karapanã e Wanana,7999381.17,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0017,Alto Rio Purus,AC,Manoel Urbano e Santa Rosa do Purus/AC; Manoel Urbano/AC; Santa Rosa do Purus/AC,Kaxinawá e Kulina Páno,263129.81,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0018,Alto Sepatini,AM,Lábrea/AM,Apurinã,26095.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0019,Alto Tarauacá,AC,Feijó e Jordão/AC; Jordão/AC; Feijó/AC,Isolados,142619.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0020,Alto Turiaçu,MA,Araguanã e Centro Novo do Maranhão e Centro do Guilherme e Maranhãozinho e Santa Luzia do Paruá e Zé Doca/MA; Araguanã/MA; Centro do Guilherme/MA; Centro Novo do Maranhão/MA; Maranhãozinho/MA; Santa Luzia do Paruá/MA; Zé Doca/MA,Ka´apor,530524.74,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0021,Amambai,MS,Amambai/MS,Guarani Kaiowá,2429.55,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0022,Amanayé,PA,Goianésia do Pará/PA,Amanayé,162856.81,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0023,Amaral/Tekoá Kuriy,SC,Biguaçu/SC,Guarani Mbya,501.36,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0024,Amba Porã,SP,Miracatu/SP; Miracatu e Sete Barras/SP,Guarani Mbya,7204.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0025,Anambé,PA,Moju/PA,Anambé,7882.83,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0026,Ananás,RR,Amajari/RR,Makuxí,1769.42,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0027,Anaro,RR,Amajari/RR,Wapixana,30473.95,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0028,Andirá-Marau,AM;PA,Parintins; Maués; Barreirinha; Aveiro; Itaituba,Sateré-Mawé,788528.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0029,Aningal,RR,Amajari/RR,Makuxí,7627.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0030,Anta,RR,Alto Alegre/RR,Wapixana,3173.82,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0031,Apiaka/Kayabi,MT,Juara/MT,Apiaká e Kaiabi,109245.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0032,Apiaká do Pontal e Isolados,MT,Apiacás/MT,"Isolados,Apiaká",982324.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0033,Apinayé,TO,Cachoeirinha e Itaguatins e Maurilândia do Tocantins e São Bento do Tocantins e Tocantinópolis/TO; Cachoeirinha/TO; Maurilândia do Tocantins/TO; São Bento do Tocantins/TO; Tocantinópolis/TO,Apinayé,141904.21,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0034,Apipica,AM,Careiro da Várzea/AM; Tapauá/AM,Múra,652.76,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0035,Apucarana,PR,Londrina/PR; Tamarana/PR,Kaingang,5574.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0036,Apurinã do Alto Tupana,AM,Beruri e Borba e Manaquiri/AM,Apurinã,251388.91,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0037,Apurinã do Igarapé Mucuim,AM,Lábrea/AM; Careiro da Várzea/AM,Apurinã,73350.61,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0038,Apurinã do Igarapé São João,AM,Tapauá/AM; Lábrea/AM,Apurinã,18232.42,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0039,Apurinã Igarapé Tauamirim,AM,Tapauá/AM,Apurinã,96456.51,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0040,Apurinã Km 124 BR-317,AM,Boca do Acre e Lábrea/AM; Boca do Acre/AM; Lábrea/AM,Apurinã,42197.61,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0041,Apykai,MS,Dourados/MS,Guarani Kaiowá e Guaraní,1058.16,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0042,Apyterewa,PA,São Félix do Xingu/PA,Parakanã,773470.03,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0043,Araçá,RR,Amajari/RR,Wapixana,50018.3,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0044,Aracá-Padauiri (Baixo Rio Negro),AM,Barcelos/AM; Santa Isabel do Rio Negro/AM,Baré e Makuráp e Tukano,3388299.23,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0045,Parque do Araguaia,TO,Formoso do Araguaia/TO; Lagoa da Confusão/TO; Pium/TO,"Tapirapé,Javaé,Karajá,Ava-Canoeiro",1358499.48,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0046,Arara,PA,Medicilândia/PA; Brasil Novo/PA; Altamira/PA; Uruará/PA,Arara do Pará,274010.02,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0047,Ararà,AM,Nhamundá e São Sebastião do Uatumã e Urucará/AM,Hixkaryána,0.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0048,Arara do Igarapé Humaitá,AC,Tarauacá/AC; Porto Walter/AC,Arara do Acre,87571.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0049,Arara do Rio Amônia,AC,Marechal Thaumaturgo/AC,Arara do Acre,20534.22,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0050,Arara do Rio Branco,MT,Aripuanã/MT; Colniza/MT,Arara do Acre,114842.47,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0051,Arara da Volta Grande do Xingu,PA,Senador José Porfírio/PA,Arara do Pará,25524.59,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0052,Araribá,SP,Avaí/SP,"Terena,Guarani Kaiowá",1930.34,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0053,Arariboia,MA,Arame/MA; Buriticupu/MA; Amarante do Maranhão/MA; Bom Jesus das Selvas/MA; Santa Luzia/MA; Grajaú/MA,Guajá,413288.05,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0054,Arary,AM,Novo Aripuanã/AM; Borba/AM; Boca do Acre e Lábrea/AM,Múra,40548.57,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0055,Araweté Igarapé Ipixuna,PA,Altamira/PA; São Félix do Xingu/PA; Senador José Porfírio/PA,Araweté,940900.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0056,Areões,MT,Água Boa/MT,Xavante,218515.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0057,Parque do Aripuanã,MT;RO,Juína; Vilhena,Cinta Larga,1603245.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0058,Aripuanã,MT,Aripuanã/MT; Juína/MT,Cinta Larga,750649.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0059,Ariramba,AM,Manicoré/AM,Múra,10357.53,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0060,Arroio-Korá,MS,Paranhos/MS,Guarani Kaiowá,7175.77,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:homologada,false,poligono,false,"funai,mpf",2
+TI0061,Atikum,PE,Salgueiro/PE; Mirandiba/PE; Carnaubeira da Penha/PE; Belém do São Francisco/PE; Belém de São Francisco/PE,Atikum,16290.19,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0062,Avá-Canoeiro,GO,Minaçu/GO; Colinas do Sul/GO,Ava-Canoeiro,31427.29,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",3
+TI0063,Reserva Indígena Avá Canoeiro,GO,Colinas do Sul/GO; Minaçu/GO,Ava-Canoeiro,0.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0064,Avá-Guarani do Ocoí,PR,São Miguel do Iguaçu/PR,Guarani Kaiowá,231887.0,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0065,Awa,MA,Governador Newton Bello/MA; Centro Novo do Maranhão/MA; Zé Doca/MA; São João do Carú/MA,Guajá,116582.92,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0066,Bacurizinho,MA,Grajaú/MA,Guajá,82432.49,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0067,Bacurizinho,MA,Grajaú/MA,Guajá,134040.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0068,Badjonkore,PA,Cumaru do Norte/PA; São Félix do Xingu/PA,Kayapó,221981.64,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0069,Baía dos Guató,MT,Barão de Melgaço e Poconé/MT; Barão de Melgaço/MT; Poconé/MT,Guató,19216.96,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:homologada,false,poligono,false,"funai,mpf",2
+TI0070,Baixo Marmelos,AM,Humaitá e Manicoré/AM,Mundurukú e Múra e Tenharim e Torá,263263.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0071,Baixo Rio Negro e Rio Caurés,AM,Barcelos/AM,Arapáso e Baniwa e Baré e Makuxí e Tikúna e Tukano,777.12,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0072,Bakairi,MT,Planalto da Serra/MT; Paranatinga/MT,Bakairí,61405.46,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0073,Balaio,AM,São Gabriel da Cachoeira/AM,"Tukano,Tariana,Desána",257281.46,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0074,Banawá,AM,Tapauá/AM; Canutama/AM; Lábrea/AM,Banawa,192659.67,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0075,Barão de Antonina,PR,São Jerônimo da Serra/PR,Kaingang,3750.72,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0076,Barata Livramento,RR,Alto Alegre/RR,"Makuxí,Wapixana",12883.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0077,Barra,BA,Muquém de São Francisco/BA,"Kiriri,Atikum",62.3,reserva_indigena,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0078,Barra Velha,BA,Porto Seguro/BA,Pataxó,8627.46,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0079,Barra Velha do Monte Pascoal,BA,Porto Seguro/BA,Pataxó,52748.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0080,Barragem Norte,SC,José Boiteux/SC,Xokléng,860.73,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0081,Barreira da Missão,AM,Tefé/AM,"Kambéba,Kokama",1772.42,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0082,Barreirinha,PA,Paragominas/PA,Amanayé,2373.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0083,Barro Alto,AM,Tonantins/AM,Kokama,1937.17,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0084,Batelão,MT,Nova Canaã do Norte/MT; Juara/MT; Tabaporã/MT,Kaiabi,117050.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0085,Batovi,MT,Gaúcha do Norte/MT,Wauja,5158.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0086,Baú,PA,Altamira/PA,Kayapó,1540930.16,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0087,Betania,AM,Tonantins/AM; Santo Antônio do Içá/AM; Amaturá/AM,Tikúna,122769.03,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0088,Boa Vista - AM,AM,Careiro da Várzea/AM,Múra,337.36,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0089,Boa Vista - PR,PR,Laranjeiras do Sul/PR,Kaingang,7336.33,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0090,Boa Vista Sertão do Promirim,SP,Ubatuba/SP,Guaraní,906.39,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0091,Boa Vista Sertão do Promirim,SP,Ubatuba/SP,Guaraní,5420.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0092,Boca do Acre,AM,Boca do Acre/AM; Lábrea/AM,Apurinã,26240.42,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0093,Bom Intento,AM,Benjamin Constant/AM,Tikúna,1613.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0094,Bom Jesus,RR,Bonfim/RR,Makuxí,859.13,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0095,Boqueirão,RR,Alto Alegre/RR,"Makuxí,Wapixana",16354.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0096,Bragança-Marituba,PA,Belterra/PA,Mundurukú,13515.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0097,Brejo do Burgo,BA,Glória/BA; Paulo Afonso/BA; Rodelas/BA; Paulo Afonso e Rodelas/BA,Pankararé,17924.85,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0098,Buriti,MS,Sidrolândia/MS; Dois Irmãos do Buriti/MS,Terena,2090.17,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0099,Buriti,MS,Dois Irmãos do Buriti e Sidrolândia/MS,Terena,17200.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0100,Buritizinho,MS,Sidrolândia/MS,Guarani Kaiowá,9.74,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0101,Caarapó,MS,Caarapó/MS,Guarani Kaiowá,3594.42,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0102,Cabeceira do Rio Acre,AC,Sena Madureira/AC; Assis Brasil/AC,Yaminawa,78512.58,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0103,Cacau do Tarauaca,AM,Envira/AM,Kulina Páno,28367.29,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0104,Cachoeira dos Inácios,SC,Imaruí/SC,Guarani Mbya,80.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0105,Cachoeira Seca,PA,Altamira/PA; Uruará/PA; Placas/PA,Arara do Pará,733688.25,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0106,Cachoeirinha,MS,Miranda/MS,Terena,2658.16,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0107,Cachoeirinha,MS,Miranda/MS,Terena,36288.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0108,Cacique Doble,RS,Cacique Doble/RS; São José do Ouro/RS,"Guaraní,Kaingang",4426.28,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0109,Cacique Fontoura,MT,Luciara/MT; São Félix do Araguaia/MT,Karajá,32304.72,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0110,Caiçara/Ilha de São Pedro,SE,Porto da Folha/SE,Xocó,4316.78,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0111,Caieiras Velha II,ES,Aracruz/ES,Guarani Mbya e Tupiniquim,57.39,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0112,Caititu,AM,Lábrea/AM,Apurinã,308062.62,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0113,Cajueiro,RR,Amajari/RR,Makuxí,4303.85,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0114,Cajuhiri Atravessado,AM,Coari/AM,"Kambéba,Miránha,Tikúna",12455.72,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0115,Camadeni,AM,Pauini/AM,Jamamadí,150930.55,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0116,Camicua,AM,Boca do Acre/AM,Apurinã,58519.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0117,Campinas/Katukina,AC,Cruzeiro do Sul/AC; Tarauacá/AC,Katukina,32623.64,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0118,Campo Bonito,RS,Torres/RS,Guarani Mbya,76.39,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0119,Cana Brava/Guajajara,MA,Jenipapo dos Vieiras/MA; Barra do Corda/MA; Barão de Grajaú/MA; Grajaú/MA,Tenetehara,137329.54,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0120,Canauanim,RR,Cantá/RR,"Makuxí,Wapixana",11182.44,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0121,Canelinha,SC,Canelinha/SC,Guarani Mbya,207.76,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0122,Cantagalo,RS,Porto Alegre/RS; Viamão/RS,Guarani Mbya,283.68,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0123,Capivara,AM,Autazes/AM,Múra,27496.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0124,Capivari,RS,Palmares do Sul/RS,Guarani Mbya,43.32,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0125,Capoto/Jarina,MT,São José do Xingu/MT; Santa Cruz do Xingu/MT; Peixoto de Azevedo/MT,Kayapó,634915.23,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0126,Caramuru/Paraguassu,BA,Pau Brasil/BA; Itaju do Colônia/BA; Camacan/BA,Pataxo Há-Há-Há,54105.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0127,Carretão I,GO,Rubiataba/GO; Nova América/GO,Tapuia,1666.45,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0128,Carretão II,GO,Nova América/GO,Tapuia,77.5,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0129,Carreteiro,RS,Água Santa/RS,Kaingang,602.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0130,Caru,MA,Bom Jardim/MA; São João do Carú/MA,Tenetehara,172667.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0131,Catipari/Mamoria,AM,Pauini/AM,Apurinã,115044.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0132,Caxixó,MG,Martinho Campos e Pompéu/MG,Kaxixó,5411.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0133,Cerco Grande,PR,Guaraqueçaba/PR,Guaraní,1390.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0134,Cerrito,MS,Eldorado/MS,Guarani Nhandeva,1950.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0135,Chão Preto,MT,Campinápolis/MT,Xavante,12741.85,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0136,Coata-Laranjal,AM,Borba/AM,Mundurukú,1153210.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0137,Cobra Grande,PA,Santarém/PA,Arapiun,8906.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0138,Comboios,ES,Aracruz/ES,Guaraní e Tupiniquim,3872.14,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0139,Comexatibá,BA,Prado/BA,Pataxó,28077.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0140,Coroa Vermelha,BA,Santa Cruz Cabrália/BA; Porto Seguro/BA; Santa Cruz e Cabrália/BA,Pataxó,1493.99,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0141,Córrego João Pereira,CE,Itarema/CE; Acaraú/CE; Acaraú e Itarema/CE,Tremembé,3162.39,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0142,Crim Patehi,TO,Lagoa da Confusão/TO,Kanela,757.93,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0143,Cué Cué/ Marabitanas,AM,São Gabriel da Cachoeira/AM,Baré,808645.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0144,Cuia,AM,Autazes/AM,Múra,1322.39,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0145,Cuiu-Cuiu,AM,Maraã/AM,Miránha,36450.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0146,Cunhã-Sapucaia,AM,Borba/AM; Autazes/AM,Múra,471450.54,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0147,Curara,AM,Manicoré e Novo Aripuanã/AM; Manicoré/AM,Múra,872691.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0148,Curriã,AM,Lábrea/AM,Apurinã,59282.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0149,Deni,AM,Tapauá/AM; Lábrea/AM; Itamarati/AM; Pauini/AM,Dení,1531303.5,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0150,Diahui,AM,Humaitá/AM,Diahói,47354.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0151,Djaiko-Aty,SP,Miracatu/SP,Guarani Nhandeva,1216.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0152,Dourados,MS,Dourados/MS,"Guarani Nhandeva,Terena",3474.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0153,Dourados-Amambaipeguá I,MS,Amambai e Dourados e Naviraí/MS,Guaraní,55600.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0154,Enawenê-Nawê,MT;RO,Comodoro/MT; Sapezal/MT; Juína/MT; Comodoro; Juína; Brasnorte e Vilhena,Enawenê-Nawê,742088.68,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0155,Entre Serras,PE,Petrolândia/PE; Tacaratu/PE; Jatobá/PE,Pankararú,7550.09,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0156,Erikpatsá,MT,Brasnorte/MT,Rikbaktsa,79934.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0157,Escondido,MT,Cotriguaçu/MT,Rikbaktsa,168938.47,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0158,Espírito Santo,AM,Jutaí/AM,Kokama,33849.09,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0159,Estação Parecis,MT,Diamantino/MT,Paresí,2170.0,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0160,Estivadinho,MT,Tangará da Serra/MT,Paresí,2031.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0161,Estrada do Mar,RS,Osório/RS,Guarani Mbya,45.0,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0162,Estrela da Paz,AM,Jutaí/AM,Tikúna,12876.49,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0163,Évare I,AM,Santo Antônio do Içá/AM; São Paulo de Olivença/AM; Tabatinga/AM,Tikúna,548177.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0164,Évare II,AM,São Paulo de Olivença/AM,Tikúna,176205.72,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0165,Faxinal,PR,Cândido de Abreu/PR,Kaingang,2043.89,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0166,Fazenda Bahiana,BA,Camamu/BA,Pataxó,304.56,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0167,Fazenda Boa Vista - MG,MG,Caldas/MG; Poços de Caldas/MG,Xucuru - Kariri,101.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0168,Fazenda Canto,AL,Palmeira dos Índios/AL,Xucuru - Kariri,276.55,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0169,Fazenda Cristo Rei,PE,Jatobá/PE,Pankararú,0.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0170,Fazenda Guarani,MG,Senhora do Porto/MG; Carmésia/MG,"Pataxó,Krenák",3269.71,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0171,Fazenda Jenipapeiro,BA,Santa Rita de Cássia/BA,Atikum,1505.13,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0172,Fazenda Mabel (Gavião/Akrãtikatêjê),PA,Bom Jesus do Tocantins e Marabá/PA; Bom Jesus do Tocantins/PA; Marabá/PA,Gavião Krikatejê,3600.03,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0173,Fazenda Peró,PE,Águas Belas/PE,Fulni-ô,7195.0,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0174,Fazenda Remanso,BA,Muquém de São Francisco/BA,Tuxá,336.95,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0175,Fazenda Sempre Verde,BA,Muquém de São Francisco/BA,Pankararú,1000.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0176,Fazenda Sítio,BA,Quijingue/BA,Tuxá,409.88,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0177,Figueiras,MT,Barra do Bugres/MT; Tangará da Serra/MT,Paresí,9858.93,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0178,Fortaleza do Castanho,AM,Manaquiri/AM,Múra,2756.16,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0179,Fortaleza do Patauá,AM,Manacapuru/AM,Apurinã,743.58,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0180,Fulni-ô,AL;PE,Itaíba/PE; Águas Belas/PE; Águas Belas; Itaíba,Fulni-ô,11505.71,reserva_indigena,regularizada,funai,funai:regularizada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0181,Funil,TO,Tocantínia/TO,Xerente,15703.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0182,Galibi,AP,Oiapoque/AP,Galibi do Oiapoque,6689.19,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0183,Gavião,AM,Careiro da Várzea/AM,Múra,8611.85,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0184,Gaviãozinho,AM,Itamarati/AM,Kanamarí e Kulina Madijá,206701.79,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0185,Geralda Toco Preto,MA,Arame/MA; Itaipava do Grajaú/MA,Timbira,18506.21,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0186,Geripancó,AL,Pariconha/AL,Jeripancó,200.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0187,Governador,MA,Amarante do Maranhão/MA,"Tenetehara,Gavião Pukobiê",41643.76,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0188,Guaimbé,MS,Laguna Carapã/MS,Guarani Kaiowá,716.93,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0189,Guajahã,AM,Pauini/AM,Apurinã,5036.84,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0190,Guajanaíra,PA,Itupiranga/PA,Guajajara,1368.08,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0191,Guanabara,AM,Benjamin Constant/AM,Kokama,15600.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0192,Guarani do Aguapeu,SP,Mongaguá/SP,Guaraní,4372.26,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0193,Guarani de Águas Brancas,RS,Arambaré/RS,Guaraní,230.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0194,Guarani de Araçai,SC,Cunha Porã e Saudades/SC; Cunha Porã/SC; Saudades/SC,Guaraní,2721.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0195,Guarani Araponga,RJ,Paraty/RJ; Parati/RJ,Guaraní,213.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0196,Guarani Barra do Ouro,RS,Caraá/RS; Riozinho/RS; Maquiné/RS,Guaraní,2268.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0197,Guarani da Barragem,SP,São Paulo/SP,Guarani Kaiowá,26.3,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0198,Guarani de Bracui,RJ,Angra dos Reis/RJ,Guaraní,2127.87,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0199,Guarani do Ribeirão Silveira,SP,São Sebastião/SP; Santos/SP,Guaraní,948.4,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0200,Guarani Votouro,RS,Benjamin Constant do Sul/RS,Guaraní,717377.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0201,Guarita,RS,Tenente Portela/RS; Redentora/RS; Erval Seco/RS,"Guaraní,Kaingang",23406.87,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0202,Guasuti,MS,Aral Moreira/MS,Guarani Kaiowá,958.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0203,Guató,MS,Corumbá/MS,Guató,10984.79,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0204,Guaviraty,SP,Cananéia e Iguape/SP; Iguape e Cananéia/SP,Guarani Mbya,1248.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0205,Guyraroká,MS,Caarapó/MS,Guarani Kaiowá,11440.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0206,Hãm Yîxux,MG,Ladainha/MG,Maxakali,522.72,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0207,Herarekã Xetá,PR,Ivaté/PR; Umuarama/PR,Xetá,2686.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0208,Hi Merimã,AM,Tapauá/AM; Lábrea/AM,Himarimã,677840.32,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0209,Ibirama,SC,Doutor Pedrinho/SC; Vitor Meireles/SC; José Boiteux/SC; Itaiópolis/SC,"Xokléng,Guaraní,Kaingang",14084.89,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0210,Ibirama-La Klãnô,SC,Doutor Pedrinho e Itaiópolis e José Boiteux e Rio Negrinho e Vitor Meireles/SC; Doutor Pedrinho/SC; Itaiópolis/SC; José Boiteux/SC; Vitor Meireles/SC,Guaraní e Kaingang e Xokléng,37108.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0211,Icatu,SP,Braúna/SP,"Terena,Kaingang",300.96,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0212,Igarapé Capana,AM,Boca do Acre/AM,Jamamadí,122555.66,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0213,Igarapé do Caucho,AC,Feijó e Tarauacá/AC; Feijó/AC; Tarauacá/AC,Kaxinawá,12317.89,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0214,Igarapé Grande,AM,Alvarães/AM,Kambéba,1539.68,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0215,Igarapé Lage,RO,Guajará-Mirim/RO; Nova Mamoré/RO; Guajará-Mirim e Nova Mamoré/RO,Pakaa Nova,107321.18,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0216,Igarapé Lourdes,RO,Ji-Paraná/RO,Gavião de Rondônia,185533.58,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0217,Igarapé Ribeirão,RO,Nova Mamoré/RO; Guajará-Mirim e Nova Mamoré/RO,Pakaa Nova,47863.32,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0218,Igarapé Taboca do Alto Tarauacá,AC,Jordão/AC,Isolados,287.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0219,Iguatemipegua I,MS,Iguatemi/MS,Guarani Kaiowá,41571.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0220,Ilha do Camaleão,AM,Anamã/AM,Tikúna,236.78,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0221,Ilha da Cotinga,PR,Paranaguá/PR,Guaraní,1701.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0222,Ilhas da Tapera/São Félix/Porto,PE,Orocó/PE,Truká,0.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0223,Imbiriba,BA,Porto Seguro/BA,Pataxó,408.34,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0224,Inauini/Teuini,AM,Boca do Acre/AM; Pauini/AM,Jamamadí,468996.3,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0225,Inawebohona,TO,Lagoa da Confusão/TO; Pium/TO,"Javaé,Karajá",377113.57,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0226,Inhacorá,RS,São Valério do Sul/RS,Kaingang,2843.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0227,Ipixuna,AM,Humaitá/AM,Diahói,215362.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0228,Irantxe,MT,Brasnorte/MT,Irántxe,45555.95,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0229,Irapuá,RS,Caçapava do Sul/RS,Guaraní,222.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0230,Itaitinga,AM,Autazes/AM,Múra,135.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0231,Itãnury Pupykary (antiga Baixo Seruini),AM,Lábrea e Pauini/AM,Apurinã,176335.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0232,Itaóca,SP,Mongaguá/SP,Guarani Mbya,533.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0233,Itixi Mitari,AM,Tapauá/AM; Anori/AM; Beruri/AM,Apurinã,182134.77,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0234,Ituna/Itatá (restrição de uso),PA,Altamira e Anapu e Senador José Porfírio/PA,Isolados,142402.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0235,Ivai,PR,Manoel Ribas e Pitanga/PR; Manoel Ribas/PR; Pitanga/PR,Kaingang,7306.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0236,Jabuti,RR,Bonfim/RR,"Makuxí,Wapixana",14210.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0237,Jacamim,RR,Bonfim/RR; Caracaraí/RR,"Jaricuna,Wapixana",193493.57,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0238,Jacaré de São Domingos,PB,Rio Tinto/PB; Marcação/PB,Potiguara,5032.24,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0239,Jacareúba/Katauixi (restrição uso),AM,Canutama/AM; Lábrea/AM,Isolados,647386.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0240,Jaguapiré,MS,Tacuru/MS,Guarani Kaiowá,2342.02,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0241,Jaguari,MS,Amambai/MS,Guarani Kaiowá,404.71,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0242,Jaminaua/Envira,AC,Feijó/AC,Kulina Madijá,80618.18,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0243,Jaminawa Arara do Rio Bagé,AC,Marechal Thaumaturgo/AC; Jordão/AC; Tarauacá/AC,"Yaminawa,Arara do Acre",28926.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0244,Jaminawa do Igarapé Preto,AC,Cruzeiro do Sul/AC; Rodrigues Alves/AC,Yaminawa,25651.62,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0245,Japuira,MT,Juara/MT,Rikbaktsa,152509.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0246,Jaquiri,AM,Uarini/AM,Kambéba,1819.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0247,Jaraguá,SP,São Paulo/SP; Osasco/SP; São Paulo/Osasco/SP,Guaraní,1.76,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0248,Jaraguá,SP,Osasco e São Paulo/SP,Guaraní,532.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0249,Jarara,MS,Juti/MS,Guarani Kaiowá,479.07,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:homologada,false,poligono,false,"funai,mpf",2
+TI0250,Jarawara/Jamamadi/Kanamati,AM,Lábrea e Tapauá/AM; Lábrea/AM; Tapauá/AM,Jamamadí e Kanamarí e Yaminawa,390233.05,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0251,Jarudore,MT,Poxoréo/MT,Boróro,4706.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0252,Jatayvari,MS,Ponta Porã/MS,Guarani Kaiowá,8800.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0253,Jatuarana,AM,Manacapuru/AM,Apurinã,5251.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0254,Jauary,AM,Autazes/AM,Múra,24831.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0255,Juininha,MT,Conquista D´Oeste/MT; Conquista D'Oeste/MT,Paresí,70537.52,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0256,Juma,AM,Canutama/AM; Lábrea/AM,Juma,38351.15,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0257,Jumina,AP,Oiapoque/AP,"Karipuna,Galibi do Oiapoque",41601.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0258,Jurubaxi-téa,AM,Barcelos e Santa Isabel do Rio Negro/AM,Nadëb e Tariana e Piratapuya e Baré e Arapáso e Baniwa e Tukano e Tikúna e Kuripako e Desána,1208155.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0259,Juruna do Km 17,PA,Vitória do Xingu/PA,Yudjá,2292.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0260,Ka´aguy Hovy,SP,Iguape/SP,Guaraní,1950.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:delimitada,true,poligono,false,"funai,mpf",2
+TI0261,Ka´aguy Mirim,SP,Miracatu e Pedro de Toledo/SP,Guarani Mbya,1190.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0262,Kadiwéu,MS,Porto Murtinho/MS; Corumbá/MS,"Terena,Kadiwéu",538535.78,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0263,Kaingang de Iraí,RS,Iraí/RS,Kaingang,279.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0264,Kambiwá,PE,Inajá/PE; Ibimirim/PE; Floresta/PE,Kambiwá,31495.31,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0265,Kampa do Igarapé Primavera,AC,Tarauacá/AC,Ashaninka,21987.23,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0266,Kampa e Isolados do Rio Envira,AC,Jordão/AC; Feijó/AC,Ashaninka,232795.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0267,Kampa do Rio Amônia,AC,Marechal Thaumaturgo/AC,Ashaninka,87205.4,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0268,Kanamari do Rio Juruá,AM,Itamarati/AM; Pauini/AM; Eirunepé/AM,Kanamarí,596433.64,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0269,Kanela,MA,Fernando Falcão/MA; Barra do Corda/MA,Kanela,125212.16,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0270,Kanela do Araguaia,MT,Luciara e São Félix do Araguaia/MT; Confresa/MT; Luciara/MT; Porto Alegre do Norte/MT; Santa Terezinha/MT,Kanela,136026.77,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:sem_providencia,true,poligono,false,"funai,mpf",2
+TI0271,Kanela Memortumré,MA,Barra do Corda e Fernando Falcão/MA; Barra do Corda/MA; Fernando Falcão/MA,Kanela,100221.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:regularizada,true,poligono,false,"funai,mpf",3
+TI0272,Kantaruré,BA,Glória/BA,Kantaruré,1811.87,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0273,Kapinawá,PE,Buíque/PE,Kapinawá,12403.09,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0274,Kapôt Nhinore,MT;PA,Santa Cruz do Xingu e São Félix do Xingu e Vila Rica; Santa Cruz do Xingu; São Félix do Xingu; Vila Rica,Kayapó,362243.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0275,Kapyra Kanakury,AM,Pauini/AM,Apurinã e Jamamadí,567606.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0276,Karajá de Aruanã I,GO,Aruanã/GO,Karajá,14.26,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0277,Karajá de Aruanã II,MT,Cocalinho/MT,Karajá,893.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0278,Karajá de Aruanã III,GO,Aruanã/GO,Karajá,705.17,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0279,Karajá Santana do Araguaia,PA,Santa Maria das Barreiras/PA,Karajá,1485.61,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0280,Karapotó,AL,São Sebastião/AL,Karapotó,1242.52,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0281,Kararaô,PA,Altamira/PA,Kayapó,330837.54,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0282,Karipuna,RO,Porto Velho/RO; Nova Mamoré/RO,Karipuna,152929.86,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0283,Kariri de Serra Grande,PI,Queimada Nova/PI,Kariri,2114.68,dominial,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0284,Kariri-Xocó,AL,São Brás/AL; Porto Real do Colégio/AL,Kariri - Xocó,699358.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0285,Kariri-Xocó,AL,São Brás/AL; Porto Real do Colégio/AL,Kariri - Xocó,4694.88,tradicionalmente_ocupada,homologada,funai,funai:homologada,false,poligono,false,funai,1
+TI0286,Karitiana,RO,Porto Velho/RO,Karitiana,89682.14,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0287,Katukina/Kaxinawá,AC,Feijó/AC; Envira/AC,"Kaxinawá,Katukina",23474.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0288,Kawahiva do Rio Pardo,MT,Colniza/MT,Isolados,411844.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0289,Kaxarari,AM;RO,Lábrea; Porto Velho,Kaxarari,145889.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0290,Kaxinawá Ashaninka do Rio Breu,AC,Marechal Thaumaturgo/AC; Jordão/AC,"Kaxinawá,Ashaninka",31277.86,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0291,Kaxinawá do Baixo Rio Jordão,AC,Jordão/AC,Kaxinawá,8726.5,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0292,Kaxinawá Colônia Vinte e Sete,AC,Tarauacá/AC,Kaxinawá,105.17,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0293,Kaxinawá Nova Olinda,AC,Feijó/AC,Kaxinawá,27533.4,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0294,Kaxinawá da Praia do Carapanã,AC,Tarauacá/AC,Kaxinawá,60698.72,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0295,Kaxinawá do Rio Humaitá,AC,Feijó/AC,Kaxinawá,127383.56,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0296,Kaxinawá do Rio Jordão,AC,Jordão/AC,Kaxinawá,87293.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0297,Kaxinawá Seringal Independência,AC,Jordão/AC,Kaxinawá,11584.13,dominial,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0298,Kaxuyana-Tunayana,AM;PA,Oriximiná/PA; Oriximiná; Faro e Nhamundá,Kaxuyana,2184120.0,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0299,Kayabi,MT;PA,Apiacás; Jacareacanga,Kaiabi,1053257.68,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0300,Kayapó,PA,Bannach/PA; Cumaru do Norte/PA; São Félix do Xingu/PA; Ourilândia do Norte/PA,Kayapó,3284004.97,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0301,Kiriri,BA,Ribeira do Pombal/BA; Quijingue/BA; Tucano/BA; Banzaê/BA,Kiriri,12299.87,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0302,Kiriri de Caldas,MG,Caldas/MG,Kiriri,38.89,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0303,Koatinemo,PA,Altamira/PA; Senador José Porfírio/PA,Asurini do Xingu,387834.25,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0304,Krahó-Kanela,TO,Lagoa da Confusão/TO,Krahô-Kanela,7612.77,reserva_indigena,regularizada,funai,funai:regularizada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0305,Kraolandia,TO,Goiatins/TO; Itacajá/TO; Goiatins e Itacajá/TO,Krahô,302533.4,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0306,Krenak,MG,Resplendor/MG; Conselheiro Pena/MG; Itueta/MG; Santa Rita do Itueto/MG,Krenák,4039.82,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0307,Krenak de Sete Salões,MG,Santa Rita do Itueto/MG; Resplendor/MG; Conselheiro Pena/MG; Itueta/MG,Krenák,16959.92,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0308,Krenrehé,MT,Luciara/MT; Canabrava do Norte/MT,Krenák,5973.72,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0309,Krenyê,MA,Vitorino Freire/MA; Barra do Corda/MA,"Timbira,Krenyê",8035.68,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0310,Krikati,MA,Montes Altos/MA; Amarante do Maranhão/MA; Lajeado Novo/MA; Sítio Novo/MA; Lajeado/MA; Sítio Nova/MA,Krikati,144775.79,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0311,Krukutu,SP,São Paulo/SP,Guaraní,25.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0312,Kulina Igarapé do Pau,AC,Feijó/AC,Kulina Páno,45590.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0313,Kulina do Medio Jurua,AC;AM,Envira; Ipixuna; Eirunepé; Tarauacá,Kulina Páno,730143.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0314,Kulina do Rio Envira,AC,Feijó/AC,"Kaxinawá,Kulina Páno",84364.61,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0315,Kulina do Rio Ueré,AM,Carauari/AM,Kulina Madijá,274526.72,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0316,Kumaru do Lago Ualá,AM,Juruá/AM,Kulina Páno,80035.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0317,Kuruáya,PA,Altamira/PA,Kuruáya,166784.25,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0318,Kwazá do Rio São Pedro,RO,Parecis/RO,"Kwazá,Aikanã",16799.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0319,Lago Aiapua,AM,Anori/AM; Beruri/AM,Múra,24866.09,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0320,Lago do Beruri,AM,Beruri/AM,Tikúna,4080.37,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0321,Lago Capanã,AM,Manicoré/AM,Múra,6321.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0322,Lago do Correio,AM,Santo Antônio do Içá/AM,"Kokama,Tikúna",13209.78,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0323,Lago Jauari,AM,Manicoré/AM,Múra,12023.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0324,Lago do Limão,AM,Borba/AM,Múra,8210.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0325,Lago do Marinheiro,AM,Careiro/AM; Careiro da Várzea/AM,Múra,3586.29,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0326,Lagoa dos Brincos,MT,Comodoro/MT,Negarotê,1845.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0327,Lagoa Comprida,MA,Jenipapo dos Vieiras/MA; Itaipava do Grajaú/MA,Tenetehara,13198.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0328,Lagoa  Encantada,CE,Aquiraz/CE,Kanindé,1731.0,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0329,Lalima,MS,Miranda/MS,"Terena,Kinikinau",3000.21,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0330,Laranjinha,PR,Santa Amélia/PR; Abatiá/PR,"Guaraní,Kaingang",284.24,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0331,Las Casas,PA,Redenção/PA; Pau D´Arco/PA; Floresta do Araguaia/PA; Pau d'Arco/PA,Kayapó,21344.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0332,Lauro Sodré,AM,Benjamin Constant/AM,Tikúna,9478.62,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0333,Ligeiro,RS,Charrua/RS,Kaingang,4565.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0334,Limão Verde,MS,Aquidauana/MS,Terena,5377.28,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0335,Macarrão,AM,Jutaí/AM,Tikúna,44267.91,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0336,Mãe Maria,PA,Bom Jesus do Tocantins/PA,Gavião Parkatejê,62488.45,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0337,Malacacheta,RR,Cantá/RR,Wapixana,28631.83,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0338,Mamoadate,AC,Sena Madureira/AC; Assis Brasil/AC,"Machineri,Yaminawa",313646.87,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0339,Mamoriá Grande,AM,Lábrea e Tapauá/AM,Isolados,343.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0340,Mangueira,RR,Alto Alegre/RR,Makuxí,4063.74,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0341,Mangueirinha,PR,Mangueirinha/PR; Coronel Vivida/PR; Chopinzinho/PR,"Guaraní,Kaingang",16375.76,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0342,Manoa/Pium,RR,Bonfim/RR,"Makuxí,Wapixana",43336.73,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0343,Manoki,MT,Brasnorte/MT,Irántxe,250539.83,tradicionalmente_ocupada,homologada,funai,funai:homologada,false,poligono,false,funai,1
+TI0344,Mapari,AM,Fonte Boa/AM; Japurá/AM; Tonantins/AM,Kaixana,157246.23,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0345,Maraã Urubaxi,AM,Maraã/AM; Santa Isabel do Rio Negro/AM,"Makú,Kanamarí",94405.07,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0346,Maracaxi,PA,Aurora do Pará/PA,Tembé,720.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0347,Maraitá,AM,Amaturá/AM,Tikúna,53038.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0348,Maraiwatsede,MT,São Félix do Araguaia/MT; Bom Jesus do Araguaia/MT; Alto Boa Vista/MT,Xavante,165241.23,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0349,Marajai,AM,Alvarães/AM,Matsés,1196.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0350,Maranduba,PA;TO,Araguacema; Santa Maria das Barreiras,Karajá,375.15,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0351,Marechal Rondon,MT,Paranatinga/MT,Xavante,98500.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0352,Maró,PA,Santarém/PA,Arapiun,42373.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0353,Marrecas,PR,Guarapuava e Turvo/PR; Guarapuava/PR; Turvo/PR,Kaingang,16838.57,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0354,Mashco do Rio Chandless,AC,Manoel Urbano e Santa Rosa do Purus e Sena Madureira/AC,Isolados,421.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0355,Massacara,BA,Euclides da Cunha/BA,Kaimbé,8020.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0356,Massaco,RO,Alta Floresta D´Oeste/RO; São Francisco do Guaporé/RO; Alta Floresta d'Oeste/RO,Isolados,421895.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0357,Mata da Cafurna,AL,Palmeira dos Índios/AL,Xucuru - Kariri,117.6,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0358,Mata Medonha,BA,Santa Cruz Cabrália/BA,Pataxó,549.62,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0359,Matintin,AM,Tonantins/AM; Santo Antônio do Içá/AM,Tikúna,21760.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0360,Mato Castelhano,RS,Mato Castelhano/RS,Kaingang,3567.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0361,Mato Preto,RS,Erebango e Erechim e Getúlio Vargas/RS; Erebango/RS; Erechim/RS; Getúlio Vargas/RS,Guaraní,4230.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0362,Mawetek,AM,Jutaí/AM; Eirunepé/AM,Kanamarí,115492.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0363,Maxacali,MG,Santa Helena de Minas/MG; Bertópolis/MG; Bertópolis e Santa Helena de Minas/MG,Maxakali,5305.67,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0364,Mbiguaçu,SC,Biguaçu/SC,"Guarani Nhandeva,Guarani Mbya",59.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",3
+TI0365,Médio Rio Negro I,AM,Japurá/AM; Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,"Tukano,Makú,Tariana,Baré,Baniwa",1776139.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0366,Médio Rio Negro II,AM,Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,"Tukano,Makú,Tariana,Desána,Baré,Baniwa",316194.99,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0367,Menkragnoti,MT;PA,Matupá; Peixoto de Azevedo; Altamira; São Félix do Xingu,Kayapó,4914254.82,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0368,Menkü,MT,Brasnorte/MT,Mynky,47094.86,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0369,Meria,AM,Alvarães/AM,Miránha,585.49,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0370,Merure,MT,Barra do Garças/MT; General Carneiro/MT,Boróro,82301.14,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0371,Miguel/Josefa,AM,Autazes/AM,Múra,1628.81,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0372,Miratu,AM,Uarini/AM,Miránha,13198.79,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0373,Monte Caseros,RS,Muliterno/RS; Ibiraiaras/RS,Kaingang,1112.41,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0374,Morro Alto,SC,São Francisco do Sul/SC,Guarani Mbya,893.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0375,Morro Branco,MA,Grajaú/MA,Tenetehara,48.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0376,Morro dos Cavalos,SC,Palhoça/SC,Guaraní,1983.49,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0377,Morro da Palha,SC,Biguaçu/SC,Guarani Mbya,240.33,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0378,Moskow,RR,Bonfim/RR,Wapixana,14213.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0379,Muã Mimatxi (Fazenda Modelo Diniz),MG,Itapecerica/MG,Pataxó,0.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0380,Mundo Verde/Cachoeirinha,MG,Teófilo Otoni/MG,Maxakali,606.19,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0381,Munduruku,PA,Jacareacanga/PA; Jacareanga/PA,Mundurukú,2381795.78,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0382,Munduruku-Taquara,PA,Belterra/PA,Mundurukú,25323.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0383,Mura do Médio Madeira,AM,Humaitá e Manicoré/AM,Múra,0.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0384,Muriru,RR,Bonfim/RR; Cantá/RR,Wapixana,5555.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0385,Murutinga/Tracaja,AM,Autazes/AM,Múra,13286.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0386,Nambikwara,MT,Comodoro/MT,Nambikwára,1011961.49,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0387,Ñande Ru Marangatu,MS,Antônio João/MS,Guarani Kaiowá,9317.22,tradicionalmente_ocupada,homologada,funai,funai:homologada,false,poligono,false,funai,1
+TI0388,Natal/Felicidade,AM,Autazes/AM,Múra,313.34,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0389,Nawa,AC,Mâncio Lima e Rodrigues Alves/AC; Mâncio Lima/AC,Nawa,65159.27,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0390,Nhamundá/Mapuera,AM;PA,Nhamundá; Urucará; Oriximiná; Faro,"Hixkaryána,Wai Wai",1049520.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0391,Nioaque,MS,Nioaque/MS,Terena,3029.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0392,Nonoai,RS,Rio dos Índios/RS; Planalto/RS; Nonoai/RS; Gramado dos Loureiros/RS,"Guaraní,Kaingang",19830.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0393,Nonoai/Rio da Várzea,RS,Trindade do Sul/RS; Planalto/RS; Nonoai/RS; Liberato Salzano/RS; Gramado dos Loureiros/RS,Kaingang,16415.44,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0394,Nossa Senhora de Fátima,MS,Miranda/MS,Terena,88888.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0395,Nova Esperança do Rio Jandiatuba,AM,São Paulo de Olivença/AM; Amaturá/AM,Tikúna,20003.93,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0396,Nova Jacundá,PA,Rondon do Pará/PA,Guarani Mbya,424614.0,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0397,Nove de Janeiro,AM,Humaitá/AM,Diahói,228777.1,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0398,Nukini,AC,Mâncio Lima/AC,Nukiní,27263.52,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0399,Ofayé-Xavante,MS,Brasilândia/MS,Ofayé,1937.62,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0400,Ofayé-Xavante,MS,Brasilândia/MS,Ofayé,484.0,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0401,Ouro,RR,Boa Vista/RR,Makuxí,13572.97,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0402,Pacaas Novas,RO,Guajará-Mirim/RO,Pakaa Nova,279906.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0403,Pacheca,RS,Camaquã/RS,Guaraní,1852.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0404,Padre,AM,Autazes/AM,Múra,797511.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0405,"Paiol, Cajual e Palhal",AM,Manaquiri/AM,Apurinã,114601.09,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0406,Pakurity,SP,Cananéia/SP,Guarani Mbya,5730.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0407,Palmas,PR;SC,Abelardo Luz; Palmas,Kaingang,3800.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0408,Panambi - Lagoa Rica,MS,Douradina e Itaporã/MS,Guarani Kaiowá,12196.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0409,Panambizinho,MS,Dourados/MS,Guarani Kaiowá,1272.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0410,Panará,MT;PA,Guarantã do Norte; Matupá; Altamira,Panará,499740.01,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0411,Pankará da Serra do Arapuá,PE,Carnaubeira da Penha/PE,Pankará,15114.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:delimitada,true,poligono,false,"funai,mpf",2
+TI0412,Pankararé,BA,Glória/BA; Paulo Afonso/BA; Rodelas/BA; Paulo Afonso e Rodelas/BA,Pankararé,29597.33,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0413,Pankararu,PE,Petrolândia/PE; Tacaratu/PE; Jatobá/PE; Taracatu/PE,Pankararú,8377.28,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0414,Paquiçamba,PA,Vitória do Xingu/PA,Yudjá,4384.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0415,Paquiçamba,PA,Anapu e Senador José Porfírio e Vitória do Xingu/PA,Yudjá,15733.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0416,Parabubure,MT,Nova Xavantina/MT; Campinápolis/MT; Água Boa/MT,Xavante,224447.34,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0417,Paracuhuba,AM,Autazes/AM,Múra,927.54,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0418,Parakanã,PA,Novo Repartimento/PA; Itupiranga/PA,Parakanã,351697.41,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0419,Paraná do Arauató,AM,Itacoatiara/AM,Múra,5915.44,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0420,Parana do Boa Boa,AM,Japurá/AM; Santa Isabel do Rio Negro/AM,Makú,240545.85,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0421,Parana do Paricá,AM,Maraã/AM,Kanamarí,7866.32,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0422,Parati-Mirim,RJ,Paraty/RJ; Parati/RJ,Guaraní,79.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0423,Paresi,MT,Tangará da Serra/MT,Paresí,563586.53,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0424,Passo Grande do Rio Forquilha,RS,Cacique Doble e Sananduva/RS; Cacique Doble/RS; Sananduva/RS,Kaingang,1916.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0425,Patauá,AM,Autazes/AM,Múra,615885.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0426,Paukalirajausu,MT,Conquista D´Oeste/MT; Vila Bela da Santíssima Trindade/MT; Nova Lacerda/MT,Nambikwára,8400.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0427,Paumari do Cuniua,AM,Tapauá/AM,Paumarí,42828.05,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0428,Paumari do Lago Manissuã,AM,Tapauá/AM,Paumarí,22970.07,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0429,Paumari do Lago Marahã,AM,Lábrea/AM,Apurinã,118766.89,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0430,Paumari do Lago Paricá,AM,Tapauá/AM,Paumarí,15792.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0431,Paumari do Rio Ituxi,AM,Lábrea/AM,Paumarí,7572.41,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0432,Peguaoty,SP,Miracatu e Sete Barras/SP; Sete Barras/SP,Guarani Mbya,6230.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0433,Peneri/Tacaquiri,AM,Pauini/AM,Apurinã,189870.96,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0434,Pequizal,MT,Nova Lacerda/MT,Nambikwára,9886.82,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0435,Pequizal do Naruvôtu,MT,Gaúcha do Norte/MT; Canarana/MT; Caranara/MT,Naravute,27878.5,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0436,Perigara,MT,Barão de Melgaço/MT,Boróro,10740.41,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0437,Peruíbe,SP,Peruíbe/SP,Guaraní,480.47,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0438,Piaçaguera,SP,Peruíbe/SP,Guarani Nhandeva,2773.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0439,Pilad Rebuá,MS,Miranda/MS,Terena,208.37,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0440,Pimentel Barbosa,MT,Canarana/MT; Ribeirão Cascalheira/MT,Xavante,328966.44,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0441,Pinatuba,AM,Manicoré/AM,Múra,29564.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0442,Pindó Poty (Lami),RS,Porto Alegre/RS,Guaraní,71.88,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0443,Pindoty,SC,Araquari e Balneário Barra do Sul/SC; Araquari/SC; Balneário Barra do Sul/SC,Guarani Mbya,3294.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0444,Pindoty/Araçá-Mirim,SP,Pariquera-Açu/SP; Cananéia/SP; Iguape/SP; Iguape e Pariquera-Açu/SP,Guarani Mbya,1030.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0445,Pinhal,SC,Seara/SC,Kaingang,880.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0446,Pinhalzinho,PR,Tomazina/PR,Guaraní,593372.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0447,Pipipã,PE,Floresta/PE,Aimore,63322.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0448,Pirahã,AM,Humaitá/AM,"Múra,Pirahã",346910.57,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0449,Pirai,SC,Araquari/SC,Guarani Mbya,3017.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0450,Pirajuí,MS,Paranhos/MS,Guarani Nhandeva,2118.23,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0451,Pirakua,MS,Bela Vista/MS; Ponta Porã/MS; Bela Vista/Ponta Porã/MS,Guarani Kaiowá,2384.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0452,Pirineus de Souza,MT,Comodoro/MT,Nambikwára,28212.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0453,Piripkura ( restrição de uso ),MT,Colniza e Rondolândia/MT,Isolados,242500.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0454,Pirititi,RR,Rorainópolis/RR; Roiranópolis/RR,Isolados,40095.0,interditada,em_estudo,funai,funai:em_estudo|mpf:restricao_de_uso,true,poligono,false,"funai,mpf",2
+TI0455,Pitaguary,CE,Pacatuba/CE; Maracanaú/CE; Maracanaú e Pacatuba/CE,Pitaguari,1727.87,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0456,Pium,RR,Alto Alegre/RR,Wapixana,4607.61,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0457,Ponciano,AM,Careiro da Várzea/AM; Autazes/AM,Múra,4329.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0458,Ponta da Serra,RR,Amajari/RR; Boa Vista/RR,Makuxí,15597.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0459,Ponte de Pedra,MT,Campo Novo do Parecis e Diamantino e Nova Maringá/MT; Campo Novo do Parecis/MT; Diamantino/MT; Nova Maringá/MT,Paresí,17000.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0460,Porquinhos,MA,Fernando Falcão/MA; Barra do Corda/MA,Kanela,79520.25,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0461,Porquinhos dos Canela-Apãnjekra,MA,Barra do Corda e Fernando Falcão e Formosa da Serra Negra e Mirador/MA; Barra do Corda/MA; Fernando Falcão/MA; Formosa da Serra Negra e Mirador/MA,Kanela,301000.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:regularizada,true,poligono,false,"funai,mpf",3
+TI0462,Portal do Encantado,MT,Porto Esperidião/MT; Pontes e Lacerda/MT; Vila Bela da Santíssima Trindade/MT; Porto Esperidão/MT,Chiquitáno,43057.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0463,Porto Limoeiro,AM,Santo Antônio do Içá/AM,Tikúna,4587.72,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0464,Porto Lindo,MS,Japorã/MS,Guarani Nhandeva,1648.89,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0465,Porto Praia,AM,Uarini/AM,Tikúna,4769.86,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0466,Potiguara,PB,Rio Tinto/PB; Marcação/PB; Baía da Traição/PB,Potiguara,21238.49,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0467,Potiguara de Monte-Mor,PB,Marcação e Rio Tinto/PB; Marcação/PB; Rio Tinto/PB,Potiguara,7530.6,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:homologada,false,poligono,false,"funai,mpf",2
+TI0468,Potrero Guaçu,MS,Paranhos/MS,Guarani Nhandeva,4025.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0469,Poyanawa,AC,Mâncio Lima/AC,Poyanáwa,24499.09,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0470,Praia do Índio,PA,Itaituba/PA,Mundurukú,31.5,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0471,Praia do Mangue,PA,Itaituba/PA,Mundurukú,31.84,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0472,Prosperidade,AM,Tonantins/AM,Kokama,5572.86,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0473,Queimadas,PR,Ortigueira/PR,Kaingang,3077.76,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0474,Quixaba,BA,Glória/BA,Xucuru - Kariri,28.17,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0475,Raimundão,RR,Alto Alegre/RR,"Makuxí,Wapixana",4276.81,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0476,Rancho Jacaré,MS,Laguna Carapã/MS,Guarani Kaiowá,777.53,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0477,Raposa Serra do Sol,RR,Normandia/RR; Pacaraima/RR; Uiramutã/RR; Paracaíma/RR; Uiramitã/RR,"Taulipáng,Makuxí,Ingarikó,Wapixana",1747464.78,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0478,Recreio/São Félix,AM,Autazes/AM,Múra,251051.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0479,Ribeirão Silveira,SP,São Sebastião/SP; Bertioga/SP; Salesópolis e São Sebastião/SP,Guaraní,8468.93,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0480,Rio Apaporis,AM,Japurá/AM,"Tukano,Makú,Desána,Tuyúca",106960.34,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0481,Rio Areia,PR,Inácio Martins/PR,Guaraní,1352.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0482,Rio Biá,AM,Jutaí/AM; Carauari/AM,Katukina,1185791.71,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0483,Rio Branco,RO,Alta Floresta D´Oeste/RO; São Francisco do Guaporé/RO; Alta Floresta d'Oeste/RO; São Miguel do Guaporé/RO,"Tupaiu,Makuráp",236137.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0484,Rio Branco Itanhaém,SP,São Paulo/SP; São Vicente/SP; Itanhaém/SP; Itanhaém e São Vicente/SP,Guaraní,2856.1,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0485,Rio das Cobras,PR,Nova Laranjeiras/PR; Espigão Alto do Iguaçu/PR,"Guaraní,Kaingang",18681.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0486,Rio Formoso,MT,Tangará da Serra/MT,Paresí,19749.47,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0487,Rio Gregório,AC,Tarauacá/AC,"Katukina,Yawanawá",187125.22,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0488,Rio Guaporé,RO,Guajará-Mirim/RO,Makuráp,115788.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0489,Rio dos Índios,RS,Vicente Dutra/RS,Kaingang,711.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:homologada,true,poligono,false,"funai,mpf",2
+TI0490,Rio Jumas,AM,Careiro/AM,Múra,9462.7,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0491,Rio Manicoré,AM,Manicoré/AM,Múra,19481.87,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0492,Rio Mequens,RO,Alto Alegre dos Parecis/RO; Alto Alegre do Parecis/RO,Sakurabiat,107553.01,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0493,Rio Negro Ocaia,RO,Guajará-Mirim/RO,Pakaa Nova,104063.81,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0494,Rio Negro Ocaia,RO,Guajará-Mirim/RO,Pakaa Nova,235070.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0495,Rio Omerê,RO,Chupinguaia/RO; Corumbiara/RO,"Akuntsú,Kanoé",26177.19,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0496,Rio dos Pardos,SC,Porto União/SC,Xokléng,758.26,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0497,Rio Paru DEste,PA,Monte Alegre/PA; Almeirim/PA; Alenquer/PA,"Wayana,Apalaí",1195785.79,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0498,Rio Pindaré,MA,Bom Jardim/MA; Monção/MA,Tenetehara,15002.91,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0499,Rio Téa,AM,Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,"Tukano,Makú,Piratapuya,Desána,Baré",411865.32,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0500,Rio Urubu,AM,Itacoatiara/AM,Múra,27354.91,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0501,Riozinho,AM,Juruá e Jutaí/AM; Juruá/AM; Jutaí/AM,Kokama e Tikúna,362495.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0502,Riozinho do Alto Envira,AC,Feijó e Santa Rosa do Purus/AC; Feijó/AC; Santa Rosa dos Purus/AC,Isolados,260972.03,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:homologada,false,poligono,false,"funai,mpf",2
+TI0503,Riozinho do Iaco (anteriormente chamada de Manchineri do Seringal Guanabara),AC,Assis Brasil e Sena Madureira/AC,Machineri,199284.56,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0504,Riozinho - RS,RS,Riozinho/RS,Guarani Mbya,24.44,reserva_indigena,regularizada,funai,funai:regularizada|mpf:reserva_em_constituicao,true,poligono,false,"funai,mpf",2
+TI0505,Rodeador,MA,Barra do Corda/MA,Tenetehara,2319.45,dominial,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0506,Roosevelt,MT;RO,Rondolândia; Pimenta Bueno; Espigão D´Oeste; Aripuanã; Espigão d'Oeste,Cinta Larga,230826.3,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0507,Sabanê,MT,Juína/MT,Nambikwára e Sabanê,29998.71,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0508,Sagarana,RO,Guajará-Mirim/RO,Pakaa Nova,18120.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0509,Sai-Cinza,PA,Jacareacanga/PA,Mundurukú,125552.08,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0510,Salto Grande do Jacuí,RS,Salto do Jacuí/RS; Salto do Jucuí/RS,Guaraní,234.96,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0511,Sambaqui,PR,Pontal do Paraná/PR,Guaraní,2795.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:delimitada,true,poligono,false,"funai,mpf",2
+TI0512,Sangradouro/Volta Grande,MT,Poxoréo/MT; Novo São Joaquim/MT; General Carneiro/MT,"Xavante,Boróro",100280.4,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",3
+TI0513,Santa Cruz da Nova Aliança,AM,Tonantins/AM,Kokama,5969.22,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0514,Santa Inez,RR,Amajari/RR,Makuxí,29698.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0515,Santana,MT,Nobres/MT,Bakairí,35470.75,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0516,São Domingos do Jacapari e Estação,AM,Tonantins/AM; Jutaí/AM,Kokama,134781.75,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0517,São Domingos - MT,MT,Luciara/MT; São Félix do Araguaia/MT,Karajá,5704.81,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0518,São Francisco do Canimari,AM,Amaturá/AM,Tikúna,3331.22,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0519,São Jeronimo,PR,São Jerônimo da Serra/PR,Guaraní e Kaingang e Xetá,1339.34,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0520,São Leopoldo,AM,Benjamin Constant/AM,Tikúna,69270.54,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0521,São Marcos - MT,MT,Barra do Garças/MT,Xavante,188478.26,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0522,São Marcos - RR,RR,Boa Vista/RR; Pacaraima/RR,"Makuxí,Wapixana",654110.1,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0523,São Pedro,AM,Autazes/AM,Múra,726.18,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0524,São Pedro do Sepatini,AM,Lábrea/AM,Apurinã,27644.25,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0525,São Sebastião,AM,Tonantins/AM,"Kokama,Kaixana",61058.54,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0526,Sapotal,AM,Tabatinga/AM,Kokama,1264.47,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0527,Sararé,MT,Vila Bela da Santíssima Trindade/MT; Nova Lacerda/MT; Conquista D'Oeste/MT,Nambikwára,67419.52,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0528,Sarauá,PA,Ipixuna do Pará/PA,Amanayé,18610.32,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0529,Sassoró,MS,Tacuru/MS,Guarani Kaiowá,1922.64,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0530,Sawré Bap in (Apompu),PA,Itaituba/PA,Mundurukú,150330.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:delimitada,true,poligono,false,"funai,mpf",2
+TI0531,Sawré Muybu (Pimental),PA,Itaituba/PA; Trairão/PA,Mundurukú,178173.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0532,Sepoti,AM,Humaitá/AM; Manicoré/AM,Tenharim,251348.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0533,Serra do Itatins,SP,Itariri/SP,Guaraní,1212.47,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0534,Serra da Moça,RR,Boa Vista/RR; Alto Alegre/RR,Wapixana,11626.79,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0535,Serra Morena,MT,Juína/MT,Cinta Larga,147836.15,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0536,Serrinha,RS,Três Palmeiras/RS; Ronda Alta/RS; Engenho Velho/RS; Constantina/RS,Kaingang,11752.76,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0537,Seruini/Mariene,AM,Lábrea/AM; Pauini/AM,Apurinã,144971.37,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0538,Sete Cerros,MS,Paranhos/MS,Guarani Kaiowá e Guarani Nhandeva,8584.72,tradicionalmente_ocupada,homologada,funai,funai:homologada,false,poligono,false,funai,1
+TI0539,Sete de Setembro,MT;RO,Rondolândia; Espigão D´Oeste; Cacoal; Espigão d'Oeste,Suruí de Rondônia,248146.93,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0540,Setemã,AM,Novo Aripuanã/AM; Borba/AM,Múra,49772.96,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0541,Sissaíma,AM,Careiro da Várzea/AM,Múra,8780.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0542,Sombrerito,MS,Sete Quedas/MS,Guarani Nhandeva,12608.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0543,Sororó,PA,São Geraldo do Araguaia/PA; São Domingos do Araguaia/PA; Marabá/PA,Suruí do Pará,26257.9,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0544,Sucuba,RR,Alto Alegre/RR,Makuxí,5983.03,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0545,Sucuriy,MS,Maracaju/MS,Guarani Kaiowá,535.1,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0546,Sururuá,AM,São Paulo de Olivença/AM; Benjamin Constant/AM,Kokama,36125.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0547,Taba dos Anacé,CE,Caucaia e São Gonçalo do Amarante/CE,Anacé,543.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0548,Tabalascada,RR,Cantá/RR,Wapixana,13014.74,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0549,Tabocal,AM,Careiro/AM,Múra,906.15,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0550,Tadarimana,MT,Rondonópolis/MT,Boróro,9785.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0551,Taego Ãwa,TO,Formoso do Araguaia/TO,Ava-Canoeiro,28510.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0552,Taihantesu,MT,Nova Lacerda/MT,Wasusu,5362.33,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0553,Takuaraty/Yvykuarusu,MS,Paranhos/MS,Guarani Kaiowá,2609.09,tradicionalmente_ocupada,homologada,funai,funai:homologada,false,poligono,false,funai,1
+TI0554,Takuari,SP,Eldorado/SP,Guaraní,2190.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0555,Tanaru ( restrição de uso ),RO,Chupinguaia/RO; Parecis/RO; Pimenteiras do Oeste/RO; Corumbiara/RO,Isolados,8070.0,interditada,em_estudo,funai,funai:em_estudo,false,poligono,false,funai,1
+TI0556,Tapeba,CE,Caucaia/CE,Tapeba,5294.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0557,Tapirapé/Karajá,MT,Luciara e Santa Terezinha/MT; Luciara/MT; Santa Terezinha/MT,Karajá e Tapirapé,66166.3,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0558,Tapyi/Rio Branquinho,SP,Cananéia/SP,Guarani Mbya,1154.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0559,Taquaperi,MS,Coronel Sapucaia/MS,Guarani Kaiowá,1776.96,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0560,Taquara,MS,Juti/MS,Guarani Kaiowá,9700.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0561,Tarumã,SC,Araquari/SC; Balneário Barra do Sul/SC,Guarani Mbya,2172.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0562,Taunay/Ipegue,MS,Aquidauana/MS,Terena,6461.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0563,Taunay/Ipegue,MS,Aquidauana/MS,Terena,33900.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0564,Tekoá Guavirá,RS,Riozinho/RS,Guaraní,27.9,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0565,Tekoa Gwyra Pepo,SP,Tapiraí/SP,Guarani Mbya,330.06,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0566,Tekohá Añetete,PR,Diamante D´Oeste/PR; Diamante d'Oeste/PR,Guaraní,1774.71,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0567,Tekoha Guasú Guavirá,PR,Guaíra/PR; Altônia/PR; Terra Roxa/PR,Guarani Nhandeva,24028.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0568,Tekoha Itamarã,PR,Diamante D´Oeste/PR; Diamante d'Oeste/PR,"Guarani Nhandeva,Guarani Mbya",242.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0569,Tekoha Jevy (Rio Pequeno),RJ,Paraty/RJ,Guaraní,2370.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0570,Tembé,PA,Tomé-Açu/PA,Tembé,1075.19,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0571,Tenharim do Igarapé Preto,AM,Novo Aripuanã/AM,Tenharim,87413.15,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0572,Tenharim Marmelos,AM,Humaitá/AM; Manicoré/AM,Tenharim,497521.75,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0573,Tenharim Marmelos (Gleba B),AM,Humaitá/AM; Manicoré/AM,Tenharim,474741.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0574,Tenondé Porã,SP,Mongaguá e São Bernardo do Campo e São Paulo e São Vicente/SP; São Bernardo do Campo/SP; São Vicente e Mongaguá/SP,Guaraní,15969.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0575,Terena Gleba Iriri,MT,Matupá/MT,Terena,30588.81,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0576,Tereza Cristina,MT,Santo Antônio do Leverger/MT,Boróro,30060.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0577,Tibagy/Mococa,PR,Ortigueira/PR,Kaingang,859.91,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0578,Tikúna de Feijoal,AM,São Paulo de Olivença/AM; Benjamin Constant/AM,"Kokama,Tikúna",40948.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0579,Tikuna de Santo Antonio,AM,Benjamin Constant/AM,Tikúna,1065.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0580,Tingui Botó,AL,Campo Grande e Feira Grande/AL; Campo Grande/AL; Feira Grande/AL,Tingui-Botó,535.0,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0581,Tirecatinga,MT,Sapezal/MT,Halotesu,130575.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0582,Toldo Chimbangue,SC,Chapecó/SC,Kaingang,988.66,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0583,Toldo Chimbangue II,SC,Chapecó/SC,Kaingang,954.07,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0584,Toldo Imbu,SC,Abelardo Luz/SC,Kaingang,1960.69,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:homologada,false,poligono,false,"funai,mpf",2
+TI0585,Toldo Pinhal,SC,Paial e Seara/SC; Seara/SC,Kaingang,4846.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0586,Torá,AM,Humaitá e Manicoré/AM; Humaitá/AM; Manicoré/AM,Apurinã e Torá,54960.99,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0587,Tremembé de Almofala,CE,Itarema/CE,Tremembé,4900.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0588,Tremembé da Barra do Mundaú,CE,Itapipoca/CE,Tremembé,3511.41,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0589,Tremembé de Queimadas,CE,Acaraú/CE,Tremembé,767.0,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0590,Trincheira,AM,Autazes/AM,Múra,1624.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0591,Trincheira Bacaja,PA,Altamira e Anapu e Senador José Porfírio e São Félix do Xingu/PA; Altamira/PA; Anapu/PA; São Félix do Xingu/PA; Senador José Porfírio/PA,Araweté e Asurini do Xingu,1650939.26,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0592,Trocará,PA,Baião e Tucuruí/PA; Baião/PA; Tucuruí/PA,Asurini do Tocantins,21722.51,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0593,Trocará - Doação,PA,Tucuruí/PA,Asurini do Tocantins,14048.0,dominial,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0594,Trombetas/Mapuera,AM;PA;RR,Caroebe e Faro e Nhamundá e Oriximiná e São João da Baliza e Urucará; Caroebe; Faro Nhamundá; Oriximiná; São João da Baliza; Urucará,Xereu e Tunayana e Karafawyana e Hixkaryána e Wai Wai e Sikiyana e Waimiri Atroari e Katuena e Isolados,3970898.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0595,Truaru,RR,Alto Alegre e Boa Vista/RR; Alto Alegre/RR; Boa Vista/RR,Makuxí e Wapixana,5652.84,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0596,Truká,PE,Cabrobó/PE,Truká,1592.9,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0597,Truká - Ilha da Assunção,PE,Cabrobó/PE,Truká,5769.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0598,Tubarão Latunde,RO,Chupinguaia/RO,Aikanã e Laiana,116613.37,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0599,Tukuna Porto Espiritual,AM,Benjamin Constant/AM,Tikúna,2839.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0600,Tukuna Umariaçu,AM,Tabatinga/AM,Tikúna,4855.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0601,Tumbalalá,BA,Abaré e Curaçá/BA; Abaré/BA; Curaçá/BA,Tumbalalá,44978.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0602,Tumiã,AM,Lábrea/AM,Apurinã,124357.42,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0603,Parque do Tumucumaque,AP;PA,Laranjal do Jari; Almeirim; Alenquer; Oriximiná; Óbidos,"Wayana,Apalaí",3071067.88,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0604,Tupã-Supé,AM,Alvarães e Uarini/AM; Alvarães/AM; Uarini/AM,Tikúna,8589.51,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0605,Tupinambá de Belmonte,BA,Belmonte/BA,Tupinambá,9521.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0606,Tupinambá de Olivença,BA,Buerarema e Ilhéus e Una/BA,Tupinambá,47376.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0607,Tupiniquim,ES,Aracruz/ES,Tupiniquim,14282.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0608,Turé/Mariquita,PA,Tomé-Açu/PA,Tembé,146.98,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0609,Turé/Mariquita II,PA,Tomé-Açu/PA,Tembé,593.56,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0610,Tuwa Apekuokawera,PA,Marabá e São Geraldo do Araguaia/PA,Suruí de Rondônia,11764.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0611,Tuxá de Ibotirama,BA,Ibotirama/BA,Tuxá,2019.71,reserva_indigena,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0612,Tuxá de Inajá,PE,Inajá/PE,Tuxá,140.0,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0613,Tuxá Setsor Bragagá,MG,Buritizeiro/MG,Tuxá,6525.26,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao,false,poligono,false,funai,1
+TI0614,Uaçá,AP,Oiapoque/AP,Karipuna,470164.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0615,Uati-Paraná,AM,Fonte Boa e Japurá e Tonantins/AM; Fonte Boa/AM; Japurá/AM; Tonantins/AM,Tikúna,127199.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:em_estudo,true,poligono,false,"funai,mpf",3
+TI0616,Ubawawe,MT,Santo Antônio do Leste/MT; Novo São Joaquim/MT,Xavante,52234.48,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0617,Uirapuru,MT,Campos de Júlio e Nova Lacerda/MT; Campos de Júlio/MT; Nova Lacerda/MT,Paresí,21680.0,tradicionalmente_ocupada,homologada,funai,funai:homologada|mpf:declarada,true,poligono,false,"funai,mpf",2
+TI0618,Umutina,MT,Barra do Bugres/MT,Umutina,28120.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0619,Uneiuxi,AM,Japurá/AM; Santa Isabel do Rio Negro/AM,"Tukano,Makú",403182.81,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0620,Uneiuxi - Reestudo,AM,Japurá e Santa Isabel do Rio Negro/AM,Makú e Tukano,554730.41,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0621,Uru-Eu-Wau-Wau,RO,Alvorada D´Oeste e Cacaulândia e Campo Novo de Rondônia e Costa Marques e Governador Jorge Teixeira e Guajará-Mirim e Jaru e Mirante da Serra e Monte Negro e Nova Mamoré e Seringueiras e São Miguel do Guaporé/RO; Alvorada d'Oeste/RO; Cacaulândia/RO; Campo Novo de Rondônia/RO; Costa Marques/RO; Governador Jorge Teixeira/RO; Guajará- Mirim/RO; Jaru/RO; Mirante da Serra/RO; Monte Negro/RO; Nova Mamoré/RO; São Miguel do Guaporé/RO; Seringueiras/RO,Uru-Eu-Wau-Wau,1867117.8,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0622,Urubu Branco,MT,Confresa e Luciara e Porto Alegre do Norte/MT; Confresa/MT; Luciara/MT; Porto Alegre do Norte/MT; Santa Terezinha/MT,Tapirapé,167533.33,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0623,Urucu/Juruá,MA,Itaipava do Grajaú/MA,Tenetehara,12697.04,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0624,Utaria Wyhyna/Iròdu Iràna,TO,Pium/TO,Javaé e Karajá,177466.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0625,Utiariti,MT,Campo Novo do Parecis e Sapezal/MT; Campo Novo do Parecis/MT; Sapezal/MT,Paresí,412304.2,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0626,Uty-Xunati,RO,Vilhena/RO,Terena,897.16,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:reserva_em_constituicao,false,poligono,false,"funai,mpf",2
+TI0627,Vale do Guaporé,MT,Comodoro e Nova Lacerda/MT; Comodoro/MT; Nova Lacerda/MT,Nambikwára,242593.0,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0628,Vale do Javari,AM,Atalaia do Norte e Benjamin Constant e Jutaí e São Paulo de Olivença/AM; Atalaia do Norte/AM; Benjamin Constant/AM; Jutaí/AM; São Paulo de Olivença/AM,Kulina Páno e Matsés e Matís,8544482.27,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0629,Valparaíso (RI),AM,Boca do Acre/AM,Apurinã,64093.02,reserva_indigena,reserva_em_constituicao,funai,funai:reserva_em_constituicao|mpf:sem_providencia,true,poligono,false,"funai,mpf",2
+TI0630,Vanuire,SP,Arco-Íris e Tupã/SP; Arco-íris/SP; Tupã/SP,Kaingang,708.93,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0631,Vargem Alegre,BA,Serra do Ramalho/BA,Pankararú,981.08,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0632,Varzinha,RS,Caraá e Maquiné/RS; Caraã/RS; Maquiné/RS,Guarani Mbya,776.28,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0633,Ventarra,RS,Erebango/RS,Kaingang,772.95,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0634,Vera Tupã?i,PR,Campo Mourão/PR,Guaraní,4.84,dominial,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0635,Vista Alegre,AM,Manaquiri/AM; Careiro/AM,Múra,13206.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:delimitada,true,poligono,false,"funai,mpf",2
+TI0636,Votouro,RS,Benjamin Constant do Sul e Faxinalzinho/RS; Benjamin Constant do Sul/RS,Kaingang,3341.1,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0637,Votouro/Kandóia,RS,Benjamin Constant do Sul e Faxinalzinho/RS; Benjamin Constant do Sul/RS; Faxinalzinho/RS,Kaingang,5977.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:delimitada,false,poligono,false,"funai,mpf",2
+TI0638,Vui-Uata-In,AM,Amaturá/AM,Tikúna,121198.6,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0639,Waiãpi,AP,Laranjal do Jari e Mazagão e Pedra Branca do Amapari/AP; Laranjal do Jari/AP; Pedra Branca do Amapari/AP,Waiãpy,607017.24,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0640,Waimiri-Atroari,AM;RR,Novo Airão e Presidente Figueiredo e Rorainópolis e São João da Baliza e Urucará; Novo Airão; Presidente Figueiredo; Rorainópolis; São João da Baliza; Urucará,Waimiri Atroari,2585911.57,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0641,Waimiri-Atroari,AM;RR,Novo Airão e Presidente Figueiredo e Rorainópolis e São Sebastião do Uatumã e Urucará,Waimiri Atroari,0.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0642,WaiWái,RR,Caracaraí e Caroebe e São João da Baliza/RR; Caracaraí/RR; Caroebe/RR; São João da Baliza/RR,Mawayána,405698.01,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0643,Wassu-Cocal,AL,Colônia Leopoldina e Joaquim Gomes e Matriz de Camaragibe e Novo Lino/AL; Colônia Leopoldina/AL; Joaquim Gomes/AL; Matriz de Camaragibe/AL; Novo Lino/AL,Wassú,9098.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0644,Wassu Cocal,AL,Colônia Leopoldina e Joaquim Gomes e Matriz de Camaragibe e Novo Lino/AL,Wassú,2744.66,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0645,Wawi,MT,Querência/MT,Kisêdjê,150329.19,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0646,Wedezé,MT,Cocalinho/MT,Xavante,145881.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0647,Xacriabá,MG,Itacarambi e São João das Missões/MG,Xacriabá,46415.92,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0648,Xacriabá,MG,Cônego Marinho e Itacarambi e São João das Missões/MG,Xacriabá,43357.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada,false,poligono,false,funai,1
+TI0649,Xakriabá Rancharia,MG,Itacarambi e São João das Missões/MG,Xacriabá,6798.38,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0650,Xambioá,TO,Santa Fé do Araguaia/TO,Guaraní e Karajá,3326.35,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0651,Xapecó,SC,Abelardo Luz e Entre Rios/SC; Abelardo Luz/SC; Ipuaçu/SC; Entre Rios/SC,Guaraní e Kaingang,15623.96,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0652,Xapecó (Pinhalzinho-Canhadão),SC,Abelardo Luz/SC,Guaraní e Kaingang,660.0,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0653,Xerente,TO,Tocantínia/TO,Xerente,167542.11,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0654,Xikrin do Rio Catete,PA,Marabá e Parauapebas e Água Azul do Norte/PA; Água Azul do Norte/PA; Marabá/PA; Parauapebas/PA,Kayapó,439150.55,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0655,Parque do Xingu,MT;PA,Feliz Natal; Gaúcha do Norte; Querência; Canarana; São Félix do Araguaia; Nova Ubiratã; Marcelândia; Paranatinga; São Félix do Xingu; Canarana/MT; Feliz Natal/MT; Gaúcha do Norte/MT; Marcelândia/MT; Nova Ubiratã/MT; Paranatinga/MT; Querência/MT; São Félix do Araguaia/MT; São José do Xingu/MT,"Wauja, Trumái, Yawalapití, Mehináku, Aweti, Yudjá, Kisêdjê, Ikpeng, Matipú, Kuikuro, Nahukuá, Tapayuna, Kaiabi, Kamayrurá, Kalapalo",2642003.94,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0656,Xipaya,PA,Altamira/PA,Kuruáya e Xipáya,178723.02,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0657,Xukuru,PE,Pesqueira e Poção/PE,Xucuru,27555.06,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0658,Xukuru de Cimbres,PE,Alagoinha e Pedra e Pesqueira e Venturosa/PE; Alagoinha/PE; Pedra/PE; Pesqueira e Venturosa/PE,Xucuru,1166.18,reserva_indigena,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0659,Xukuru-Kariri,AL,Palmeira dos Índios/AL,Xucuru - Kariri,7020.44,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:declarada,false,poligono,false,"funai,mpf",2
+TI0660,Yanomami,AM;RR,Alto Alegre e Barcelos e Boa Vista e Caracaraí e Iracema e Mucajaí e Santa Isabel do Rio Negro e São Gabriel da Cachoeira; Alto Alegre; Barcelos; Boa Vista; Caracaraí; Mucajaí; Santa Isabel do Rio Negro; São Gabriel da Cachoeira,Yanomámi,9664975.48,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0661,Ygua Porã (Amâncio),SC,Biguaçu/SC,Guaraní,1392.0,tradicionalmente_ocupada,delimitada,funai,funai:delimitada|mpf:em_estudo,true,poligono,false,"funai,mpf",2
+TI0662,Ypoi/Triunfo,MS,Paranhos/MS,Guarani Nhandeva,19756.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:delimitada,true,poligono,false,"funai,mpf",2
+TI0663,Yvy-katu,MS,Japorã/MS,Guarani Nhandeva,9494.16,tradicionalmente_ocupada,declarada,funai,funai:declarada,false,poligono,false,funai,1
+TI0664,Yvyporã Laranjinha,PR,Abatiá e Cornélio Procópio e Ribeirão do Pinhal/PR; Abatiá/PR; Cornélio Procópio/PR; Ribeirão do Pinhal/PR; Santa Amélia/PR,Guarani Nhandeva,1238.0,tradicionalmente_ocupada,declarada,funai,funai:declarada|mpf:regularizada,true,poligono,false,"funai,mpf",2
+TI0665,Zoe,PA,Óbidos/PA,Zo´é,668565.63,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0666,Zoró,MT,Aripuanã/MT,Zoró,355789.55,tradicionalmente_ocupada,regularizada,funai,funai:regularizada|mpf:regularizada,false,poligono,false,"funai,mpf",2
+TI0667,Zuruahã,AM,Tapauá/AM,Zuruahã,239069.74,tradicionalmente_ocupada,regularizada,funai,funai:regularizada,false,poligono,false,funai,1
+TI0668,Colônia,AM,Amaturá/AM,Witota,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0669,Acapuri do Meio,AM,Fonte Boa/AM,Kokama,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0670,Agachi,MS,Miranda/MS; Aquidauana/MS,Kinikinau,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0671,Água Grande,RS,Camaquã/RS,Guarani Mbya,165.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0672,Água Limpa,MS,Rochedo/MS,Terena,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0673,Aldeia Bom Jesus (Kuaray Haxa),PR,Guaraqueçaba/PR,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0674,Aldeia Guajajara,MT,Cláudia/MT,Guajajara,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0675,Aldeia Imburana,CE,Poranga/CE,Tabajara e Calabaças,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0676,Aldeia Indígena de Areal,ES,Linhares/ES,Botocudo,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0677,Aldeia Ita Pará da Serra do Caparaó,ES,Dores do Rio Preto/ES,Guarani,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0678,Aldeia Limão Verde (Terra Indígena Amambai),MS,Amambaí/MS,Guarani Kaiowá,668.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0679,Aldeia Renascer/Ywyty Guaçu,SP,Ubatuba/SP,Guarani Ñandeva,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0680,Aldeia Serra do Couro Dantas/Aldeia do Cachimbó,BA,Ribeirão do Largo/BA,Pataxó Hã-Hã-Hãe,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0681,Aldeia Thá-Fene,BA,Lauro de Freitas/BA,Kariri-Xocó,3.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0682,Aldeia Thery Xavante Auwé Uptabi,GO,Niquelândia/GO,Xavante,0.0,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0683,Aldeinha,MS,Anastácio/MS,Terena,4.0,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0684,Alto Rio Iça,AM,Santo Antonio do Iça/AM,Kokama,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0685,Anacé,CE,Caucaia e São Gonçalo do Amarante/CE,Anacé,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0686,Andaiá,MG,Araxá/MG,Araxá,12.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0687,Aningalzinho,PA,Santarém/PA,Tupaiú,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0688,Apapeguá,MS,Bela Vista/MS; Caracol/MS; Porto/MS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0689,Apinayé II,TO,Tocantinópolis e Nazaré/TO,Apinayé,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0690,Aranã Caboclo,MG,Araçuaí/MG; Coronel Murta/MG,Aranã,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0691,Aranã Índio,MG,Araçuaí/MG; Coronel Murta/MG,Aranã,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0692,Arandu-Mirim,RJ,Parati/RJ,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0693,Arapuá,RR,Alto Alegre/RR,"Macuxi, Wapichana",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0694,Ararà (Baixo Jatapú),AM,Urucará/AM; São Sebastião do Uatumã e Nhamundá/AM,"Hixkaryana, Karara, Farukwoto, Kawarayana, Yowayana",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0695,Araraquara,ES,Aracruz/ES,Tupiniquim,84.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0696,Arauacá,AM,Maraã/AM,Miranha,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0697,Areal,PA,Santa Maria do Pará/PA,Tembé,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0698,Aripuanã (TI),MT,Aripuanã/MT; Juína/MT,Cinta Larga,750649.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0699,Arroio do Conde,RS,Guaiba e Eldorado do Sul/RS,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0700,Ashaninka e Kulina da Colocação Porvir,AC,Santa Rosa do Purus/AC,Ashaninka e Kulina,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0701,Atikum de Cotegipe/de Angical,BA,Cotegipe/BA; Angical/BA,Atikum,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0702,Atikum/Nioaque,MS,Nioaque/MS,Atikum,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0704,Baixo Seruini/Baixo Tumiã,AM,Labrea e Paulini/AM,Apurinã,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0705,Bananal – Santuário dos Pajés,DF,Brasília/DF,"Fulni-ô, Guajajara, Tuxá, Kariri-Xocó, Tapuya (pluriétnica)",32.0,nao_informada,indefinida,,,false,municipio,false,mpf,1
+TI0706,Barreirinha,AM,Tefé/AM,Tikuna,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0707,Boa Vista do Sertão do Pro- Mirim,SP,Ubatuba/SP,Guarani Mbya,5420.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0708,Bom Futuro,AM,Careiro da Várzea/AM,Mura,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0709,Bom Jesus do Tarará,AM,Jutaí/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0710,Borari/Alter do Chão,PA,Santarém/PA,Borari,773470.0,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0711,Borboleta,RS,Campos Borges/RS; Espumoso/RS; Salto do Jacuí/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0712,Caiapé,AM,Manicoré/AM,Munduruku,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0713,Caiapucá,AM,Boca do Acre/AM,Jaminawa,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0714,Caiçara,SE,Porto da Folha/SE,Xocó,4317.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0715,Cajueiro,CE,Poranga/CE,Tabajara e Calabaças,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0716,Camba/Bairro Cristo Redentor,MS,Corumbá/MS,Camba,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0717,Cambirela,SC,Palhoça/SC,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0718,Campo do Meio (Re Kuju),RS,Gentil e Ciriaco/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0719,Canoanã,TO,Formoso do Araguaia/TO,Javaé/Ava Canoeiro,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0720,Capivari (Rio Capivari – Porãi),RS,Capivari do Sul/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0722,Carazinho,RS,Carazinho/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0723,Cariru,AM,Jutaí/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0724,Cassupá/Salamãi,RO,Chupinguaia/RO; Vilhena/RO,Cassupá e Salamãi,,nao_informada,indefinida,,,false,municipio,false,mpf,1
+TI0725,Cerco Grande (M'byá Guarani Kuaray Oguatá),PR,Guaraqueçaba/PR,Guarani Mbya,1390.0,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0726,Chandless,AC,Santa Rosa do Purus e Manoel Urbano/AC,"Sharanawa, Jaminawa e povos em isolamento",,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,uf,false,mpf,1
+TI0727,Chapada do A,ES,Anchieta/ES,Tupiniquim,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0728,Chiquitano,MT,Pontes e Lacerda/MT,Chiquitano,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0729,Cinta Vermelha – Jundiba,MG,Araçuaí/MG,Pankararú e Pataxó,78.0,nao_informada,indefinida,,,false,municipio,false,mpf,1
+TI0730,Comexatiba (Cahy Pequi),BA,Prado/BA,Pataxó,28077.0,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0731,Comunidade Beija-Flor,AM,Rio Preto da Eva/AM,"Yanomami, Tukano, Hiskariana, Sateré Mawé, Dessano",41.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0732,Comunidade São Benedito,AM,Maués/AM,Satere-Mawé,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0733,Coroa Vermelha (Ponta Grande),BA,Porto Seguro/BA; Santa Cruz e Cabrália/BA,Pataxó,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0734,Corveta I e II,SC,Araquari/SC,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0735,Coxilha da Cruz,RS,Barra do Ribeiro/RS,Guarani,202.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0736,D'Zorobabé (Aldeia Mãe),BA,Rodelas/BA,Tuxá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0737,"Djaiko-Aty (Santa Ria II, Jakoaty, Djaikoaty)",SP,Miracatu e Sete Barras/SP,Guarani,1216.0,nao_informada,declarada,mpf,mpf:declarada,false,uf,false,mpf,1
+TI0738,Ebenézer,AM,Maraã/AM,Miranha,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0739,Escrivão,PA,Aveiro/PA,Amanayé,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0740,Estirão,AC,Santa Rosa do Purus/AC,Jaminawa e Kulina,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0741,Estiva,RS,Viamão/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0742,Estrada do Mar (Interlagos),RS,Osorio/RS,Guarani,,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0743,Estrela,RS,Estrela/RS,Kaingang,25.0,nao_informada,reserva_em_constituicao,mpf,mpf:reserva_em_constituicao,false,municipio,false,mpf,1
+TI0744,Eterãirebere,MT,Campinápolis/MT; Novo São Joaquim/MT; Santo Antônio do Leste/MT,Xavante,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0745,Faxinal/São Miguel (Goj Kusa),RS,Água Santa/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0746,Fazenda Alagadiço/Apucaré,MG,Coronel Murta/MG,Aranã e Pankararu,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0747,Fazenda Altamira,BA,Curaçá/BA,Atikum,700.0,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0749,Fazenda Funil/Inajá,PE,Inajá/PE,Tuxá,140.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0750,Fazenda Gameleira,CE,Canindé/CE,Kanindé,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0751,Fazenda Sítio/Tuxá de Banzaê,BA,Quijingue/BA,Tuxá,414.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0753,Fulniô de Serra do Ramalho,BA,Serra do Ramalho/BA,Fulniô,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0754,Garuva,SC,Garuva/SC,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0755,Geru Tucunã,MG,Açucena/MG; Guanhães/MG,Pataxó,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0756,"Guarani Barão de Antonina (Karugwá, Pyhaú)",SP,Barão de Antonina/SP,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0757,Guarani de Itaporanga (Tekoa Porã),SP,Itaporanga/SP,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0758,Guarani do Lami,RS,Porto Alegre/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0759,Guarani de Ocoy,PR,São Miguel do Iguaçu/Santa Helena/PR,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0760,Guarasugwe Riozinho,RO,Pimenteiras do Oeste/RO,Guarasugwe,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0761,Hâm Yixux (Aldeia Verde),MG,Ladainha/MG,Maxakali,552.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0762,Henê Baria Namakia (Kaxinawá Seringal Curralinho),AC,Feijó/AC,Kaxinawá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0763,Hu'uhi,MT,Paranatinga/MT,Xavante,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0764,Ibotirama,BA,Ibotirama/BA,Tuxá,2019.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0765,Igapó Grande,AM,Tikuna/AM,Coari,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,uf,false,mpf,1
+TI0766,Igarapé do Patauá,AM,Tefé/AM,"Kambeba, Mayoruna, Tikuna",,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0767,Igarapé Taboca do Alto Tarauacá (Rio Muru),AC,,Isolados,287.0,nao_informada,restricao_de_uso,mpf,mpf:restricao_de_uso,false,municipio,true,mpf,1
+TI0768,Iguatemipeguá I (Mbaracay e Pyelito),MS,Iguatemi/MS,Guarani Kaiowá,41571.0,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0769,"Iguatemipeguá II (Kurusu Amba, Karaja Yvy, Ka'a jari e Kamakua)",MS,Iguatemi/MS; Amambaí/MS; Aral Moreira/MS; Coronel Sapucaia/MS; Dourados/MS; Paranhos/MS; Tacuru/MS,Guarani Kaiowá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0770,"Iguatemipeguá III (Vaqueriami/Jaguapiré Memby, Jukeri, Mboi Veve, Lampiño e Karaguaty)",MS,Tacuru/MS,Guarani Kaiowá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0771,Ilha do Panamin,AM,Alvarães/AM; Tefé e Maraã/AM,"Kokama, Kambeba, Mura e Tikuna",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0772,"Ilhas da Varge, Caxoí e Cana Brava",PE,Belém do São Francisco/PE,Tuxi,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0773,Inhaa-bé (Lote 43) e Hiwy (Lote 44),AM,Manaus (zona rural)/AM,Satere-Mawé,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,uf,false,mpf,1
+TI0774,Inhacapetum,RS,São Miguel das Missões/RS,Guarani Mbya,236.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0775,Isolados do Igarapé Tapada,AC,,Isolados,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,true,mpf,1
+TI0776,Isoú'pà,MT,Água Boa/MT; Campinápolis/MT; Nova Xavantina/MT,Xavante,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0777,Itapuã,RS,Viamão/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0778,Itariri (Serra do Itatins),SP,Itariri/SP,Guarani Ñandeva,1212.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0779,Itixi Kanimari,AM,Beruri/AM,Apurinã,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0780,Ituna/Itata (interdição),PA,,Isolados,137765.0,nao_informada,restricao_de_uso,mpf,mpf:restricao_de_uso,false,municipio,true,mpf,1
+TI0781,Jacareuba/Katawixi,AM,,Isolados Katawixi,647386.0,nao_informada,restricao_de_uso,mpf,mpf:restricao_de_uso,false,municipio,true,mpf,1
+TI0782,Jaminawa da Colocação São Paulino,AM,Boca do Acre/AM,Jaminawa,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0783,Jaminawa do Rio Caeté,AC,Sena Madureira/AC,Jaminawa,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0785,Jeju,PA,Santa Maria do Pará/PA,Tembé,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0786,Jeripancó (Geripancó),AL,Água Branca/AL; Pariconha/AL,Jeripancó,,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0787,Jurubaxi-Teá (Baixo Rio Negro II),AM,Santa Isabel do Rio Negro/AM,Vários (?),1208155.0,nao_informada,declarada,mpf,mpf:declarada,false,municipio,false,mpf,1
+TI0788,Ka'aguy Mirim (Tekoa Uruity),SP,Miracatu e Sete Barras/SP,Guarani Mbya,1190.0,nao_informada,delimitada,mpf,mpf:delimitada,false,uf,false,mpf,1
+TI0789,Ka'aguy Poty,RS,Estrela Velha/RS,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0790,Kaingang de Pontão Fag-Nor / Aldeia Butiá - Tenh Mág,RS,Pontão/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0791,Kaingang de Vitorino,PR,,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0792,Kaixana de Santo Antonio do Içá,AM,Santo Antonio do Içá/AM,Kaixana,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0793,Kalankó,AL,Água Branca/AL,Kalancó,1810.0,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0794,Kambeba de Fonte Boa,AM,Fonte Boa e São Paulo de Olivença/AM,"Kambeba, Kokama",,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,uf,false,mpf,1
+TI0795,Kanindé de Aratuba (Sítio Fernandes),CE,Aratuba/CE,Kanindé,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0796,Karuazú,AL,Pariconha/AL,Karuazú,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0797,Karuguá (Araça'i),PR,Piraquara/PR,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0799,Kiriri de Caldas (Rio Verde),MG,Caldas/MG,Kiriri,60.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0800,Kógunh Mág/Jagtyg Fykóg,RS,Canela/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0801,Kokama do Baixo Rio Iça,AM,Santo Antonio do Iça e Tonantins/AM,Kokama,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0802,Kokama de São Paulo de Olivença,AM,São Paulo de Olivença/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0803,Kokue Y,MS,Ponta Porã/Antônio João/MS,Guarani Kaiowá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0804,Krenak/Krenak de Sete Salões,MG,Resplendor/MG; Conselheiro Pena/MG; Itueta/MG; Santa Rita do Itueto/MG,Krenak,,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0805,Kulina do Rio Uerê – Matatibem,AM,Carauari/AM,Kulina,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0806,Kuntanawa,AC,Marechal Thaumaturgo/AC,Kuntanawa,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0807,Lago do Barrigudo,AM,Beruri/AM,Apurinã,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0808,Lago Grande (Chiquitano),MT,Porto Esperidião/MT; Pontes e Lacerda e Vila Bela da Santíssima Trindade./MT,Chiquitano,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0809,Lago Grande (Karajá),MT,Santa Terezinha/MT,Karajá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0810,Lago do Soares e Urucurituba,AM,Autazes/AM,Mura,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0811,Lagoa dos Neres/Lagoinha,CE,Novo Oriente/CE,Potiguara,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0812,Lajeado do Bugre,RS,Lajeado do Bugre/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0813,Lomba do Pinheiro,RS,Porto Alegre/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0814,Mamori,AM,Tapauá/AM,"Apurinã, Paumari, Katukina e Deni",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0815,Mamoriá Grande e Igarapé Grande,AM,,Apurinã e isolados,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,true,mpf,1
+TI0816,Manoki (Irantxe),MT,Brasnorte/MT,Manoki,250539.0,nao_informada,declarada,mpf,mpf:declarada,false,municipio,false,mpf,1
+TI0818,Massekury/Kâmapa,AM,Boca do Acre/AM,"Apurinã, Jamamadi",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0819,Massiambu,SC,Palhoça - Enseada de Brito/SC,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0821,Migueleno,RO,São Francisco do Guaporé/RO; Seringueiras/RO,Migueleno,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0822,Mirueira,MG,Guanhães/MG,Pataxó,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0823,Moia Mala (Jaguari),MT,Cocalinho/MT,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0824,Monte Nebo,CE,Cratéus/CE,"Potiguara do Ceará Gavião,",,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0825,Monte Sinai,AM,Tefé/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0826,Morro do Coco,RS,Viamão/RS; Porto Alegre/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,2
+TI0828,Morro Santana,RS,Guaíba/RS,Kaingang,,nao_informada,reserva_em_constituicao,mpf,mpf:reserva_em_constituicao,false,municipio,false,mpf,1
+TI0829,Mukurin (Mucurim),MG,Campanário/MG,Mucurim,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0830,Mundo Novo-Viração (Serra das Matas),CE,Monsenhor Tabosa/CE; Tamboril/CE,"Potiguara,Tabajar",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0831,Mundo Verde (Aldeia Cachoeirinha),MG,Teófilo Otoni/MG,Maxakali,606.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0832,"Ñande Ru Marangatu Ñandevapeguá (Mbocajá,",MS,Antônio João/MS,Guarani Kaiowá,9317.0,nao_informada,homologada,mpf,mpf:homologada,false,municipio,false,mpf,1
+TI0833,Nazaré,PI,Lagoa de São Francisco/PI,Tabajara,160.0,nao_informada,indefinida,,,false,municipio,false,mpf,1
+TI0834,Nazário-Mambira,CE,Crateús/CE,a e Tubiba-Tapuia Tabajara,5892.0,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0835,Neo-Pankararé,BA,Rodelas/BA,Pankararé,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0836,Norotsurã,MT,Água Boa/MT; Campinápolis/MT; Nova Xavantina/MT,Xavante,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0837,Nossa Senhora de Fátima do Catuá,AM,Tefé/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0838,Nossa Senhora de Nazaré do Itaboca e Cajú,AM,Coari/AM,Arara,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0839,Nova Jerusálem,AM,Tefé/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0840,Nova Jerusalém do Caruara,AM,Maraã/AM,Miranha,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0841,Novo Xengu (Chêg'gu),RS,Novo Xingu/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0842,Olho d'Água dos Canuto (Serra das Matas),CE,Monsenhor Tabosa/CE,Tabajara,74.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0843,Pacajá,PA,Portel/PA,Asuriní,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0844,"Pakurity (antiga Jakarey, Acaraú)",SP,Cananeia/SP,Guarani Mbya,5730.0,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0845,Palmital / Ka'aguy Guaxy,PR,União da Vitória/PR,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0846,Pankaiuká/Fazenda Cristo Rei,PE,Jatobá/PE,Pankaiucá,,nao_informada,reserva_em_constituicao,mpf,mpf:reserva_em_constituicao,false,municipio,false,mpf,1
+TI0847,Pankararu Gueyah,BA,Paulo Afonso/BA,Pankararu,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0848,Pankariri,AL,Igreja Nova/AL,Pankariri,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0849,Paracuni,AM,Nova Olinda do Norte/AM; Maués/AM,Munduruku,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0850,Passo Grande,RS,Barra do Ribeiro/RS,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0851,Pataxó Hã Hã Hãe de Bertópolis,MG,Bertópolis/MG,Pataxó Hã-Hã-Hãe,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0852,Petim/Arasaty,RS,Guaíba/RS,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0853,Piripkura (Interdição),MT,,Isolados Tupi Kawahib,242500.0,nao_informada,restricao_de_uso,mpf,mpf:restricao_de_uso,false,municipio,true,mpf,1
+TI0854,Ponta do Arado,RS,Porto Alegre/RS,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0855,Ponta da Formiga,RS,Barra do Ribeiro/RS,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0856,Por Fi Gã,RS,São Leopoldo/RS,Kaingang,8.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0857,"Potrerito, Vitoi Kuê) Nioaque",MS,Nioaque/MS,Terena,3029.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0858,Projeto MAPI,AM,Tefé/AM,Kaixana,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0859,Puruborá,RO,São Francisco do Guaporé/RO; Seringueiras/RO,Puruborá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0860,Renascer,AM,Careiro/AM,Mura,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0861,Reta/Tapera,SC,São Francisco do Sul/SC,Guarani,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0862,Riachão/Luiza do Vale,MG,Rio Pardo de Minas e Serranópolis de Minas/MG,Xakriabá,10.0,nao_informada,regularizada,mpf,mpf:regularizada,false,uf,false,mpf,1
+TI0863,Rio Arraias/BR 080,MT,Marcelândia/MT,Kayabi,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0864,Rio Bonito,SC,Itajaí/SC,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0865,Rio Cautário,RO,Costa Marques/RO,"Kijubim, Djeoromitxi, Canoê, Makurap, Tupari.",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0866,Rio Copeá,AM,Coari/AM,Tikuna e Apurinã,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0867,Rio Cuieiras,AM,Manaus e Novo Airão/AM,"Baniwa, Baré, Kambeba, Karapanã, Kokama, Mura, Sateré-Mawé, Tikuna e Tukano",,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0868,Rio do Meio,SC,Itajaí/SC,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0869,Rio Pequeno,RJ,Parati/RJ,Guarani Mbya,2370.0,nao_informada,delimitada,mpf,mpf:delimitada,false,uf,false,mpf,1
+TI0870,Riozinho da Liberdade,AC,Tarauacá/AC,Varinawa (Katukina),,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0871,Rodelas,BA,Rodelas/BA,Tuxá,4328.0,nao_informada,reserva_em_constituicao,mpf,mpf:reserva_em_constituicao,false,municipio,false,mpf,1
+TI0872,Roro-Walu (Jatobá/Ikpeng),MT,Paranatinga/MT,Ikpeng,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0873,Santa Maria (duplicada com Arena,RS,Santa Maria/RS,,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0874,São Gabriel/São Salvador,AM,Santo Antônio do Içá/AM,Kokama,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0875,São José do Jenipauá,AM,Tefé/AM,Kanamari,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0876,São Miguel do Paraná do Dururuá,AM,Coari/AM,Tikuna,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0877,São Raimundo,AM,Fonte Boa/AM,Kokama,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0878,Sawré Juybu (São Luíz dos Tapajós),PA,Itaituba/PA,Munduruku,25323.0,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0879,Segu,RS,Constantina/RS; Novo XIngu/RS; Sarandi/RS,Kaingang,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0880,Seringal Guanabara/Jaminawa do Guajará (Riozinho Iaco),AC,Assis Brasil/AC; Sena Madureira/AC,Machineri e Jaminawa,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0881,Serra do Periperi,BA,Vitória da Conquista/BA,Mongoió e Imboré,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0882,Serrote dos Campos,PE,Itacuruba/PE,Pankará,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0883,Setsor Bragágá,MG,Buritizeiro/MG,Tuxá,,nao_informada,reserva_em_constituicao,mpf,mpf:reserva_em_constituicao,false,municipio,false,mpf,1
+TI0884,Tabajara,PB,Conde/PB,Tabajara,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0885,Tabajara de Piripiri (Tocaia),PI,Piripiri/PI,Tabajara,155.0,nao_informada,indefinida,,,false,municipio,false,mpf,1
+TI0886,Tabajara de Quiterianópolis,CE,Quiterianópolis/CE,Tabajara,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0887,Takuary Eldorado,SP,Eldorado/SP,Guarani,2190.0,nao_informada,reserva_em_constituicao,mpf,mpf:reserva_em_constituicao,false,municipio,false,mpf,1
+TI0888,Tanaru,RO,,Isolados do Tanaru,8070.0,nao_informada,restricao_de_uso,mpf,mpf:restricao_de_uso,false,municipio,true,mpf,1
+TI0889,Tapayuna,MT,Nova Maringá/MT; São José do Rio Claro/MT,Kajkwakhrattxi / Tapayuna,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0890,Taquara,AM,Carauari/AM,Kanamari,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0891,Taquaritiua,MA,Viana/MA; Mantinha/MA; Penalva/MA,Gamela,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0892,Tekoa Itaoka (Icapara II),SP,Iguape/SP,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0893,Tekoa Itapuã (Icapara I),SP,Iguape/SP,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0894,Tekoa Jejyty (Toca do Bugio),SP,Iguape/SP,Guarani Mbya,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0895,"Tekoha Guasu Guavirá (Marangatu, Araguaju, Jevy, Nhemboete, Y Hovy, Mirim, Guarani, Tatury, Yvyraty Porã e Tajy Poty)",PR,Altônia/PR; Guaíra e Terra Roxa/PR,Guarani,,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0896,Tekoha Vera Tupãi,PR,Campo Mourão/PR,Guarani,,nao_informada,indefinida,,,false,municipio,false,mpf,1
+TI0897,Terena/Santa Rita do Pardo,MS,Santa Rita do Pardo/MS,Terena,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0898,"Timbotuba, Montes Claros, São Benedito e Guariba II e Igarapé Grande (Médio Rio Madeira)",AM,Manicoré/AM,Mura,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0899,Tremembé do Engenho,MA,São José de Ribamar/MA,Tremembé,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0900,Tremembé da Raposa,MA,Raposa/MA,Tremembé,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0901,Truká - Assunção,PE,Cabrobó/PE,Truká,5769.0,nao_informada,declarada,mpf,mpf:declarada,false,municipio,false,mpf,1
+TI0902,Truká – Família de Mozenir Araújo,PE,Cabrobó/PE,Truká,1592.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0903,Truká de Sobradinho,BA,Sobradinho/BA,Truká,350.0,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0904,Truká-Tupã,BA,Paulo Afonso/BA,Truká,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0905,Tucumã,AM,Humaitá/AM,Apurinã,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0906,Tupinambá de Itapebi,BA,Itapebi/BA,Tupinambá do Jequitinhonha,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0907,Tuwa Apekuokawera (antiga Sororó-Gleba Taupekuakau),PA,Marabá/PA; São Geraldo do Araguaia/PA,Aikewar,11764.0,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0908,Tuxi,BA,Abaré/BA,Tuxi,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0911,Vila Real,MA,Barra do Corda/MA,Guajajara,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0912,Wahuri,TO,Sandolandia/TO,Javae e Karajá,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0914,Wedezé / Pimentel Baborsa,MT,Cocalinho/MT,Xavante,145881.0,nao_informada,delimitada,mpf,mpf:delimitada,false,municipio,false,mpf,1
+TI0915,Xakriabá,MG,Itacarambi e São João das Missões/MG,Xakriabá,,nao_informada,regularizada,mpf,mpf:regularizada,false,uf,false,mpf,1
+TI0916,Xakriabá de Côcos,BA,Côcos/BA,Xakriabá,,nao_informada,sem_providencia,mpf,mpf:sem_providencia,false,municipio,false,mpf,1
+TI0917,Xapecó Glebas A e B (Pinhalzinho e Canhadão),SC,Abelardo Luz/SC; Entre Rios/SC; Ipuaçu/SC,Kaingang,,nao_informada,declarada,mpf,mpf:declarada,false,municipio,false,mpf,1
+TI0918,Xokleng Zagaua (Konglui),RS,Riozinho e São Francisco de Paula/RS,Xokleng,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,uf,false,mpf,1
+TI0921,Yanwaka,AP,Oiapoque/AP,???,,nao_informada,em_estudo,mpf,mpf:em_estudo,false,municipio,false,mpf,1
+TI0922,Yvy Katu (Porto Lindo/Fazenda Remanso Guaçu),MS,Japorã/MS,Guarani Ñandeva,9454.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0924,Zuruahã / Zuruwahá,AM,Tapauá/AM,Zuruahã / Suruwaha,239069.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
+TI0925,Zo’é,PA,Óbidos/PA,Zo’é,668565.0,nao_informada,regularizada,mpf,mpf:regularizada,false,municipio,false,mpf,1
