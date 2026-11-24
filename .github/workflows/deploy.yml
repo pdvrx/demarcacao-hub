@@ -1,4 +1,4 @@
-name: Deploy site to GitHub Pages
+name: Deploy site to gh-pages
 
 on:
   push:
@@ -6,33 +6,44 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  contents: write
 
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout main
+        uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'site'
+      - name: Prepare gh-pages branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp -a "$GITHUB_WORKSPACE/site" "$RUNNER_TEMP/site-publish"
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
+            git fetch origin gh-pages
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+          fi
+
+          git rm -rf . >/dev/null 2>&1 || true
+          git clean -fdx >/dev/null 2>&1 || true
+          cp -a "$RUNNER_TEMP/site-publish/." .
+          touch .nojekyll
+
+      - name: Publish gh-pages
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração no site."
+          else
+            git commit -m "Publica site: ${{ github.sha }}"
+            git push origin gh-pages
+          fi
