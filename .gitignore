@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# arquivos brutos são grandes: não versionados (hash e data ficam em data/interim/ingest_meta.json)
+data/raw/**
+!data/raw/**/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+# saída do site é regenerada por `python -m demarcacao export`
+site/data/

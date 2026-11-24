@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite a versão específica (Zenodo/DOI quando publicada)."
+title: "Hub de dados sobre demarcação de terras indígenas no Brasil"
+version: 0.1.0
+authors:
+  - family-names: "PREENCHER"
+    given-names: "PREENCHER"
+# license: preencha (sugestão: código MIT; dados CC BY 4.0, respeitando as licenças das fontes)
