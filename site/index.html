@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Demarcação em Dados</title>
+<meta name="description" content="Mapa e base de dados sobre o procedimento de demarcação de terras indígenas no Brasil: fases, atos jurídicos e histórico, com fonte e data em cada informação.">
+<link rel="stylesheet" href="vendor/maplibre-gl/maplibre-gl.css">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="brand"><b id="brand-t">Demarcação em Dados</b><span id="brand-s">Terras indígenas no Brasil</span></div>
+  <nav class="nav" aria-label="Seções do site">
+    <button data-go="mapa" aria-current="page">Mapa</button>
+    <button data-go="dados">Dados</button>
+    <button data-go="metodologia">Metodologia</button>
+    <button data-go="sobre">Sobre</button>
+  </nav>
+  <span class="ver" id="ver" hidden></span>
+</header>
+
+<!-- ============================== MAPA -->
+<section class="view" id="v-mapa" aria-label="Mapa das terras indígenas">
+  <aside class="side" id="side" aria-label="Busca e filtros">
+    <div class="side-scroll">
+      <div class="stats" id="stats" aria-label="Resumo"></div>
+
+      <div class="search">
+        <label class="sr" for="q">Buscar terra, povo ou município</label>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Buscar terra, povo ou município" autocomplete="off">
+        <button class="x" id="q-x" aria-label="Limpar busca" hidden>✕</button>
+      </div>
+
+      <div>
+        <p class="label">Fase do processo <button id="clear-fases" hidden>limpar</button></p>
+        <div class="chips" id="fase-chips"></div>
+      </div>
+
+      <div>
+        <p class="label"><label for="uf">Estado</label></p>
+        <select id="uf"><option value="">Todos os estados</option></select>
+      </div>
+
+      <div style="display:flex;flex-direction:column;gap:10px">
+        <label class="switch"><input type="checkbox" id="f-poly"><span>Só terras com limite oficial<small>Oculta as de localização aproximada</small></span></label>
+        <label class="switch"><input type="checkbox" id="f-div"><span>Só onde as fontes divergem<small>Fases diferentes entre Funai, MPF etc.</small></span></label>
+      </div>
+      <button class="btn" id="clear-all" hidden>Limpar todos os filtros</button>
+    </div>
+    <div class="list-head"><span id="count"></span><span class="small">ordem alfabética</span></div>
+    <ul class="list" id="list" aria-label="Terras"></ul>
+  </aside>
+
+  <div class="stage">
+    <div id="map" role="application" aria-label="Mapa interativo"></div>
+    <div id="loading"><span>Carregando mapa…</span></div>
+    <button class="fab" id="fab">☰ Filtros e lista</button>
+
+    <div class="maptools">
+      <div class="card key" aria-label="Legenda">
+        <div><span class="sym fill"></span>Limite oficial (polígono)</div>
+        <div><span class="sym ring"></span>Localização aproximada (município)</div>
+        <div><span class="sym big"></span>Localização aproximada (só UF)</div>
+        <div class="mapnote">A cor indica a fase do processo. Pontos aproximados indicam onde a terra está, não onde fica o seu limite.</div>
+      </div>
+      <label class="card toggle-osm keep" id="osm-wrap"><input type="checkbox" id="osm"> Mapa-base detalhado (OpenStreetMap)</label>
+    </div>
+
+    <article class="detail" id="detail" aria-label="Detalhes da terra" aria-live="polite"></article>
+  </div>
+</section>
+
+<!-- ============================== DADOS -->
+<section class="view page" id="v-dados" hidden>
+  <div class="wrap">
+    <h1>Dados abertos</h1>
+    <p class="lead">Tudo o que aparece no mapa pode ser baixado. Dados observados em <span id="d-obs">—</span> (versão <span id="d-ver">—</span>).</p>
+    <div class="cards">
+      <a class="dl" href="data/downloads/terras.csv" download><b>terras.csv</b><span>Uma linha por terra: fase consolidada, fases por fonte, localização, UF, povo, área.</span></a>
+      <a class="dl" href="data/downloads/juridico.csv" download><b>juridico.csv</b><span>Atos, processos na Funai e judiciais, etapa e observações, por fonte.</span></a>
+      <a class="dl" href="data/downloads/eventos.csv" download><b>eventos.csv</b><span>Mudanças observadas a cada atualização (ex.: troca de fase).</span></a>
+      <a class="dl" href="data/downloads/marcos_terra.csv" download><b>marcos_terra.csv</b><span>Atos oficiais por terra, com data e fonte (curadoria).</span></a>
+      <a class="dl" href="data/downloads/marcos_gerais.csv" download><b>marcos_gerais.csv</b><span>Linha do tempo jurídico-política nacional.</span></a>
+      <a class="dl" href="data/terras.geojson" download><b>terras.geojson</b><span>Geometrias simplificadas usadas no mapa (polígonos e pontos aproximados).</span></a>
+    </div>
+    <h2>Como citar</h2>
+    <p>Cite a versão usada. Exemplo:</p>
+    <p class="card" id="d-cite" style="user-select:all"></p>
+    <p class="muted small">Licença: <b>a definir</b> pelos responsáveis do projeto. Os dados derivam de fontes com termos próprios; consulte a seção Metodologia.</p>
+  </div>
+</section>
+
+<!-- ============================== METODOLOGIA -->
+<section class="view page" id="v-metodologia" hidden>
+  <div class="wrap">
+    <h1>Metodologia</h1>
+    <p class="lead">O que cada número significa, de onde vem e quais são os limites desta base.</p>
+
+    <h2>Fases do processo</h2>
+    <p>As seis primeiras fases seguem a ordem do procedimento administrativo de demarcação (Decreto nº 1.775/1996). Cada fonte nomeia as etapas de um jeito; os rótulos são traduzidos para esta escala por regras explícitas, publicadas junto com o código.</p>
+    <div style="overflow:auto"><table class="plain" id="met-fases"></table></div>
+
+    <h2>Localização no mapa</h2>
+    <p><b>Limite oficial</b>: polígono publicado pela Funai. <b>Localização aproximada</b>: terras ainda sem polígono aparecem como um ponto no município (ou, na falta dele, no estado). O ponto <b>não delimita o território reivindicado</b>. Quando a Funai publicar o polígono, a terra passa a ser exibida com ele e a mudança é registrada no histórico.</p>
+
+    <h2>Quando as fontes divergem</h2>
+    <p>Cada fonte tem critérios e datas de atualização próprios. Quando duas fontes indicam fases diferentes, a terra é marcada com “Fontes divergem” e o valor de cada uma fica visível na ficha. A divergência pode refletir defasagem de atualização e não significa, por si só, erro de nenhuma das fontes. A fase exibida segue a fonte de maior prioridade (hoje, a Funai).</p>
+
+    <h2>Histórico</h2>
+    <p>Há dois tipos de data. <b>Ato oficial</b>: a data do decreto, portaria ou decisão, com fonte. <b>Observado pelo hub</b>: a data em que este projeto percebeu uma mudança nos dados; ela não é a data do ato. Datas de atos extraídas do texto das fontes são marcadas como inferidas e devem ser conferidas.</p>
+
+    <h2>Terras sensíveis</h2>
+    <p>Para terras associadas a povos isolados que ainda não têm polígono público, a localização é exibida apenas no nível do estado e os municípios não são listados.</p>
+
+    <h2>Fontes carregadas nesta versão</h2>
+    <div style="overflow:auto"><table class="plain" id="met-fontes"></table></div>
+
+    <h2>Limitações</h2>
+    <ul>
+      <li>A base reflete o que as fontes publicam; atrasos e divergências entre elas são esperados.</li>
+      <li>O cruzamento de nomes entre fontes é automático com revisão humana; pode haver erros residuais.</li>
+      <li>Notícias e contexto histórico por terra ainda não estão incluídos nesta versão.</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ============================== SOBRE -->
+<section class="view page" id="v-sobre" hidden>
+  <div class="wrap">
+    <h1>Sobre</h1>
+    <p class="lead">Um ponto de partida para acompanhar o procedimento de demarcação de terras indígenas no Brasil: onde cada terra está, em que fase se encontra, quais atos e processos a envolvem e como isso muda ao longo do tempo.</p>
+    <h2>Princípios</h2>
+    <ul>
+      <li>Toda informação traz fonte e data.</li>
+      <li>Divergências entre fontes são mostradas, não escondidas.</li>
+      <li>Dados e código abertos, para que qualquer pessoa possa verificar e reutilizar.</li>
+    </ul>
+    <h2>Responsáveis</h2>
+    <p class="muted">Autoria, vínculo institucional e contato: <b>a preencher</b>.</p>
+    <h2>Versão</h2>
+    <p>Versão <b id="s-ver">—</b>. Última observação dos dados em <b id="s-obs">—</b>. Site gerado em <span id="s-gen">—</span>.</p>
+  </div>
+</section>
+
+<script src="vendor/maplibre-gl/maplibre-gl.js"></script>
+<script src="assets/logic.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

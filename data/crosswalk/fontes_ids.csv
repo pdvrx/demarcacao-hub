@@ -1,0 +1,1498 @@
+fonte,chave_fonte,nome_original,ufs,terra_id,status,score,atualizado_em
+funai,101,Acapuri de Cima,AM,TI0001,novo,0.0,2026-11-23
+mpf,acapuri cima|AM,Acapuri de Cima,AM,TI0001,auto,100.0,2026-11-23
+funai,201,Acimã,AM,TI0002,novo,0.0,2026-11-23
+mpf,acima|AM,Acimã,AM,TI0002,auto,100.0,2026-11-23
+funai,601,Aconã,AL,TI0003,novo,0.0,2026-11-23
+mpf,acona|AL,Aconã,AL,TI0003,auto,100.0,2026-11-23
+funai,401,Água Preta/Inari,AM,TI0004,novo,0.0,2026-11-23
+mpf,agua preta inari|AM,Água Preta/Inari,AM,TI0004,auto,100.0,2026-11-23
+funai,501,Águas Belas,BA,TI0005,novo,0.0,2026-11-23
+mpf,aguas belas|BA,Águas Belas,BA,TI0005,auto,100.0,2026-11-23
+funai,72801,Águas Claras,SC,TI0006,novo,0.0,2026-11-23
+mpf,aguas claras|SC,Águas Claras,SC,TI0006,auto,100.0,2026-11-23
+funai,73813,Aldeia Cerroy,MS,TI0007,novo,0.0,2026-11-23
+mpf,aldeia cerro y|MS,Aldeia Cerro'y,MS,TI0007,auto,96.3,2026-11-23
+mpf,aldeia cerroy|MS,Aldeia Cerro'y,MS,TI0007,auto,100.0,2026-11-24
+funai,73806,Aldeia Escola Floresta,MG,TI0008,novo,0.0,2026-11-23
+mpf,aldeia escola floresta|MG,Aldeia Escola Floresta,MG,TI0008,auto,100.0,2026-11-23
+funai,73793,Aldeia Katurama,MG,TI0009,novo,0.0,2026-11-23
+mpf,aldeia katurama|MG,Aldeia Katurama,MG,TI0009,auto,100.0,2026-11-23
+funai,701,Aldeia Kondá,SC,TI0010,novo,0.0,2026-11-23
+mpf,aldeia konda|SC,Aldeia Kondá,SC,TI0010,auto,100.0,2026-11-23
+funai,801,Aldeia Limão Verde,MS,TI0011,novo,0.0,2026-11-23
+funai,73839,Aldeia Pó Mág,RS,TI0012,novo,0.0,2026-11-23
+funai,73841,Aldeia Por Fi Ga,RS,TI0013,novo,0.0,2026-11-23
+funai,901,Aldeia Velha,BA,TI0014,novo,0.0,2026-11-23
+mpf,aldeia velha|BA,Aldeia Velha,BA,TI0014,auto,100.0,2026-11-23
+funai,1001,Alto Rio Guamá,PA,TI0015,novo,0.0,2026-11-23
+mpf,alto rio guama|PA,Alto Rio Guamá,PA,TI0015,auto,100.0,2026-11-23
+funai,1101,Alto Rio Negro,AM,TI0016,novo,0.0,2026-11-23
+mpf,alto rio negro|AM,Alto Rio Negro,AM,TI0016,auto,100.0,2026-11-23
+funai,1201,Alto Rio Purus,AC,TI0017,novo,0.0,2026-11-23
+mpf,alto rio purus|AC,Alto Rio Purus,AC,TI0017,auto,100.0,2026-11-23
+funai,1301,Alto Sepatini,AM,TI0018,novo,0.0,2026-11-23
+mpf,alto sepatini|AM,Alto Sepatini,AM,TI0018,auto,100.0,2026-11-23
+funai,1401,Alto Tarauacá,AC,TI0019,novo,0.0,2026-11-23
+mpf,alto tarauaca|AC,Alto Tarauacá,AC,TI0019,auto,100.0,2026-11-23
+funai,1501,Alto Turiaçu,MA,TI0020,novo,0.0,2026-11-23
+mpf,alto turiacu|MA,Alto Turiaçu,MA,TI0020,auto,100.0,2026-11-23
+funai,1601,Amambai,MS,TI0021,novo,0.0,2026-11-23
+mpf,amambai|MS,Amambaí,MS,TI0021,auto,100.0,2026-11-23
+funai,1701,Amanayé,PA,TI0022,novo,0.0,2026-11-23
+mpf,amanaye|PA,Amanayé,PA,TI0022,auto,100.0,2026-11-23
+funai,72901,Amaral/Tekoá Kuriy,SC,TI0023,novo,0.0,2026-11-23
+mpf,amaral tekoa kuriy|SC,Amaral/Tekoa Kuriy,SC,TI0023,auto,100.0,2026-11-23
+funai,71701,Amba Porã,SP,TI0024,novo,0.0,2026-11-23
+mpf,amba pora|SP,Amba Porã,SP,TI0024,auto,100.0,2026-11-23
+funai,1801,Anambé,PA,TI0025,novo,0.0,2026-11-23
+mpf,anambe|PA,Anambé,PA,TI0025,auto,100.0,2026-11-23
+funai,1901,Ananás,RR,TI0026,novo,0.0,2026-11-23
+mpf,ananas|RR,Ananás,RR,TI0026,auto,100.0,2026-11-23
+funai,51601,Anaro,RR,TI0027,novo,0.0,2026-11-23
+mpf,anaro|RR,Anaro,RR,TI0027,auto,100.0,2026-11-23
+funai,2001,Andirá-Marau,AM;PA,TI0028,novo,0.0,2026-11-23
+mpf,andira marau|AM,Andirá-Marau,AM;PA,TI0028,auto,100.0,2026-11-23
+funai,2101,Aningal,RR,TI0029,novo,0.0,2026-11-23
+mpf,aningal|RR,Aningal,RR,TI0029,auto,100.0,2026-11-23
+funai,2201,Anta,RR,TI0030,novo,0.0,2026-11-23
+mpf,anta|RR,Anta,RR,TI0030,auto,100.0,2026-11-23
+funai,2301,Apiaka/Kayabi,MT,TI0031,novo,0.0,2026-11-23
+mpf,apiaka kayabi|MT,Apiaka/Kayabi,MT,TI0031,auto,100.0,2026-11-23
+funai,68301,Apiaká do Pontal e Isolados,MT,TI0032,novo,0.0,2026-11-23
+mpf,apiaka pontal isolados|MT,Apiaká do Pontal e Isolados,MT,TI0032,auto,100.0,2026-11-23
+funai,2401,Apinayé,TO,TI0033,novo,0.0,2026-11-23
+mpf,apinaye|TO,Apinayé,TO,TI0033,auto,100.0,2026-11-23
+funai,2501,Apipica,AM,TI0034,novo,0.0,2026-11-23
+mpf,apipica|AM,Apipica,AM,TI0034,auto,100.0,2026-11-23
+funai,2601,Apucarana,PR,TI0035,novo,0.0,2026-11-23
+mpf,apucarana|PR,Apucarana,PR,TI0035,auto,100.0,2026-11-23
+funai,51401,Apurinã do Alto Tupana,AM,TI0036,novo,0.0,2026-11-23
+funai,52601,Apurinã do Igarapé Mucuim,AM,TI0037,novo,0.0,2026-11-23
+mpf,apurina igarape mucuim|AM,Apurinã do Igarapé Mucuim,AM,TI0037,auto,100.0,2026-11-23
+funai,2701,Apurinã do Igarapé São João,AM,TI0038,novo,0.0,2026-11-23
+mpf,apurina igarape sao joao|AM,Apurinã do Igarapé São João,AM,TI0038,auto,100.0,2026-11-23
+funai,2801,Apurinã Igarapé Tauamirim,AM,TI0039,novo,0.0,2026-11-23
+mpf,apurina igarape tauamirim|AM,Apurinã Igarapé Tauamirim,AM,TI0039,auto,100.0,2026-11-23
+funai,2901,Apurinã Km 124 BR-317,AM,TI0040,novo,0.0,2026-11-23
+mpf,apurina km 124 br 317|AM,Apurinã Km 124 BR-317,AM,TI0040,auto,100.0,2026-11-23
+funai,73744,Apykai,MS,TI0041,novo,0.0,2026-11-23
+funai,3002,Apyterewa,PA,TI0042,novo,0.0,2026-11-23
+mpf,apyterewa|PA,Apyterewa,PA,TI0042,auto,100.0,2026-11-23
+funai,3101,Araçá,RR,TI0043,novo,0.0,2026-11-23
+mpf,araca|RR,Araçá,RR,TI0043,auto,100.0,2026-11-23
+funai,62101,Aracá-Padauiri (Baixo Rio Negro),AM,TI0044,novo,0.0,2026-11-23
+mpf,araca padauiri baixo rio negro|AM,Aracá-Padauiri (Baixo Rio Negro),AM,TI0044,auto,100.0,2026-11-23
+funai,33501,Parque do Araguaia,TO,TI0045,novo,0.0,2026-11-23
+mpf,araguaia|TO,Parque do Araguaia,TO,TI0045,auto,100.0,2026-11-23
+funai,3201,Arara,PA,TI0046,novo,0.0,2026-11-23
+mpf,arara|PA,Arara,PA,TI0046,auto,100.0,2026-11-23
+funai,73812,Ararà,AM,TI0047,novo,0.0,2026-11-23
+funai,3401,Arara do Igarapé Humaitá,AC,TI0048,novo,0.0,2026-11-23
+mpf,arara igarape humaita|AC,Arara do Igarapé Humaitá,AC,TI0048,auto,100.0,2026-11-23
+funai,51801,Arara do Rio Amônia,AC,TI0049,novo,0.0,2026-11-23
+mpf,arara rio amonia|AC,Arara do Rio Amônia,AC,TI0049,auto,100.0,2026-11-23
+funai,3301,Arara do Rio Branco,MT,TI0050,novo,0.0,2026-11-23
+mpf,arara rio branco|MT,Arara do Rio Branco,MT,TI0050,auto,100.0,2026-11-23
+funai,60001,Arara da Volta Grande do Xingu,PA,TI0051,novo,0.0,2026-11-23
+mpf,arara volta grande xingu|PA,Arara da Volta Grande do Xingu,PA,TI0051,auto,100.0,2026-11-23
+funai,3501,Araribá,SP,TI0052,novo,0.0,2026-11-23
+mpf,arariba|SP,Araribá,SP,TI0052,auto,100.0,2026-11-23
+funai,3601,Arariboia,MA,TI0053,novo,0.0,2026-11-23
+mpf,arariboia|MA,Arariboia,MA,TI0053,auto,100.0,2026-11-23
+funai,3701,Arary,AM,TI0054,novo,0.0,2026-11-23
+mpf,arary|AM,Arary,AM,TI0054,auto,100.0,2026-11-23
+funai,3801,Araweté Igarapé Ipixuna,PA,TI0055,novo,0.0,2026-11-23
+mpf,arawete igarape ipixuna|PA,Araweté Igarapé Ipixuna,PA,TI0055,auto,100.0,2026-11-23
+funai,3901,Areões,MT,TI0056,novo,0.0,2026-11-23
+mpf,areoes|MT,Areões,MT,TI0056,auto,100.0,2026-11-23
+funai,33601,Parque do Aripuanã,MT;RO,TI0057,novo,0.0,2026-11-23
+mpf,aripuana|MT,Parque Indígena Aripuanã,MT;RO,TI0057,auto,100.0,2026-11-23
+funai,4201,Aripuanã,MT,TI0058,novo,0.0,2026-11-23
+funai,4301,Ariramba,AM,TI0059,novo,0.0,2026-11-23
+mpf,ariramba|AM,Ariramba,AM,TI0059,auto,100.0,2026-11-23
+funai,4401,Arroio-Korá,MS,TI0060,novo,0.0,2026-11-23
+mpf,arroio kora|MS,Arroio-Korá,MS,TI0060,auto,100.0,2026-11-23
+funai,4501,Atikum,PE,TI0061,novo,0.0,2026-11-23
+mpf,atikum|PE,Atikum,PE,TI0061,auto,100.0,2026-11-23
+funai,4602,Avá-Canoeiro,GO,TI0062,novo,0.0,2026-11-23
+mpf,ava canoeiro|GO,Avá-Canoeiro,GO,TI0062,auto,100.0,2026-11-23
+mpf,ava canoeiro|GO#2,Avá-Canoeiro,GO,TI0062,auto,100.0,2026-11-23
+funai,73789,Reserva Indígena Avá Canoeiro,GO,TI0063,novo,0.0,2026-11-23
+funai,4701,Avá-Guarani do Ocoí,PR,TI0064,novo,0.0,2026-11-23
+funai,4801,Awa,MA,TI0065,novo,0.0,2026-11-23
+mpf,awa|MA,Awá,MA,TI0065,auto,100.0,2026-11-23
+funai,4901,Bacurizinho,MA,TI0066,novo,0.0,2026-11-23
+funai,4902,Bacurizinho,MA,TI0067,novo,0.0,2026-11-23
+funai,5001,Badjonkore,PA,TI0068,novo,0.0,2026-11-23
+mpf,badjonkore|PA,Badjonkôre,PA,TI0068,auto,100.0,2026-11-23
+funai,5101,Baía dos Guató,MT,TI0069,novo,0.0,2026-11-23
+mpf,baia guato|MT,Baia dos Guató,MT,TI0069,auto,100.0,2026-11-23
+funai,73810,Baixo Marmelos,AM,TI0070,novo,0.0,2026-11-23
+mpf,baixo marmelos|AM,Baixo Marmelos,AM,TI0070,auto,100.0,2026-11-23
+funai,73814,Baixo Rio Negro e Rio Caurés,AM,TI0071,novo,0.0,2026-11-23
+mpf,baixo rio negro rio caures|AM,Baixo Rio Negro e Rio Caurés,AM,TI0071,auto,100.0,2026-11-23
+funai,5201,Bakairi,MT,TI0072,novo,0.0,2026-11-23
+mpf,bakairi|MT,Bakairi,MT,TI0072,auto,100.0,2026-11-23
+funai,5301,Balaio,AM,TI0073,novo,0.0,2026-11-23
+mpf,balaio|AM,Balaio,AM,TI0073,auto,100.0,2026-11-23
+funai,5402,Banawá,AM,TI0074,novo,0.0,2026-11-23
+mpf,banawa|AM,Banawá,AM,TI0074,auto,100.0,2026-11-23
+funai,5501,Barão de Antonina,PR,TI0075,novo,0.0,2026-11-23
+mpf,barao antonina i|PR,Barão de Antonina I,PR,TI0075,auto,93.3,2026-11-23
+funai,5601,Barata Livramento,RR,TI0076,novo,0.0,2026-11-23
+mpf,barata livramento|RR,Barata/ Livramento,RR,TI0076,auto,100.0,2026-11-23
+funai,5701,Barra,BA,TI0077,novo,0.0,2026-11-23
+mpf,barra|BA,Barra,BA,TI0077,auto,100.0,2026-11-23
+funai,5801,Barra Velha,BA,TI0078,novo,0.0,2026-11-23
+funai,5802,Barra Velha do Monte Pascoal,BA,TI0079,novo,0.0,2026-11-23
+funai,73756,Barragem Norte,SC,TI0080,novo,0.0,2026-11-23
+mpf,barragem norte|SC,Barragem Norte,SC,TI0080,auto,100.0,2026-11-23
+funai,5901,Barreira da Missão,AM,TI0081,novo,0.0,2026-11-23
+mpf,barreira missao|AM,Barreira da Missão,AM,TI0081,auto,100.0,2026-11-23
+funai,58801,Barreirinha,PA,TI0082,novo,0.0,2026-11-23
+mpf,barreirinha|PA,Barreirinha,PA,TI0082,auto,100.0,2026-11-23
+funai,52201,Barro Alto,AM,TI0083,novo,0.0,2026-11-23
+mpf,barro alto|AM,Barro Alto,AM,TI0083,auto,100.0,2026-11-23
+funai,52401,Batelão,MT,TI0084,novo,0.0,2026-11-23
+mpf,batelao|MT,Batelão,MT,TI0084,auto,100.0,2026-11-23
+funai,6001,Batovi,MT,TI0085,novo,0.0,2026-11-23
+mpf,batovi|MT,Batovi,MT,TI0085,auto,100.0,2026-11-23
+funai,6101,Baú,PA,TI0086,novo,0.0,2026-11-23
+mpf,bau|PA,Baú,PA,TI0086,auto,100.0,2026-11-23
+funai,6201,Betania,AM,TI0087,novo,0.0,2026-11-23
+mpf,betania|AM,Betania,AM,TI0087,auto,100.0,2026-11-23
+funai,58502,Boa Vista - AM,AM,TI0088,novo,0.0,2026-11-23
+mpf,boa vista am|AM,Boa Vista - AM,AM,TI0088,auto,100.0,2026-11-23
+funai,58601,Boa Vista - PR,PR,TI0089,novo,0.0,2026-11-23
+mpf,boa vista pr|PR,Boa Vista – PR,PR,TI0089,auto,100.0,2026-11-23
+funai,6301,Boa Vista Sertão do Promirim,SP,TI0090,novo,0.0,2026-11-23
+funai,6302,Boa Vista Sertão do Promirim,SP,TI0091,novo,0.0,2026-11-23
+funai,6401,Boca do Acre,AM,TI0092,novo,0.0,2026-11-23
+mpf,boca acre|AM,Boca do Acre,AM,TI0092,auto,100.0,2026-11-23
+funai,6501,Bom Intento,AM,TI0093,novo,0.0,2026-11-23
+mpf,bom intento|AM,Bom Intento,AM,TI0093,auto,100.0,2026-11-23
+funai,6601,Bom Jesus,RR,TI0094,novo,0.0,2026-11-23
+mpf,bom jesus|RR,Bom Jesus,RR,TI0094,auto,100.0,2026-11-23
+funai,6701,Boqueirão,RR,TI0095,novo,0.0,2026-11-23
+mpf,boqueirao|RR,Boqueirão,RR,TI0095,auto,100.0,2026-11-23
+funai,62501,Bragança-Marituba,PA,TI0096,novo,0.0,2026-11-23
+mpf,braganca marituba|PA,Bragança Marituba,PA,TI0096,auto,100.0,2026-11-23
+funai,6901,Brejo do Burgo,BA,TI0097,novo,0.0,2026-11-23
+mpf,brejo burgo|BA,Brejo do Burgo,BA,TI0097,auto,100.0,2026-11-23
+funai,7001,Buriti,MS,TI0098,novo,0.0,2026-11-23
+funai,7002,Buriti,MS,TI0099,novo,0.0,2026-11-23
+funai,7101,Buritizinho,MS,TI0100,novo,0.0,2026-11-23
+mpf,buritizinho|MS,Buritizinho,MS,TI0100,auto,100.0,2026-11-23
+funai,7201,Caarapó,MS,TI0101,novo,0.0,2026-11-23
+mpf,caarapo|MS,Caarapó,MS,TI0101,auto,100.0,2026-11-23
+funai,7301,Cabeceira do Rio Acre,AC,TI0102,novo,0.0,2026-11-23
+mpf,cabeceira rio acre|AC,Cabeceira do Rio Acre,AC,TI0102,auto,100.0,2026-11-23
+funai,7401,Cacau do Tarauaca,AM,TI0103,novo,0.0,2026-11-23
+mpf,cacau tarauaca|AM,Cacau do Tarauacá,AM,TI0103,auto,100.0,2026-11-23
+funai,7501,Cachoeira dos Inácios,SC,TI0104,novo,0.0,2026-11-23
+mpf,cachoeira inacios|SC,Cachoeira dos Inácios,SC,TI0104,auto,100.0,2026-11-23
+funai,7601,Cachoeira Seca,PA,TI0105,novo,0.0,2026-11-23
+mpf,cachoeira seca|PA,Cachoeira Seca,PA,TI0105,auto,100.0,2026-11-23
+funai,7701,Cachoeirinha,MS,TI0106,novo,0.0,2026-11-23
+mpf,cachoeirinha|MS,Cachoeirinha,MS,TI0106,auto,100.0,2026-11-23
+funai,7702,Cachoeirinha,MS,TI0107,novo,0.0,2026-11-23
+funai,7801,Cacique Doble,RS,TI0108,novo,0.0,2026-11-23
+mpf,cacique doble|RS,Cacique Doble,RS,TI0108,auto,100.0,2026-11-23
+funai,58701,Cacique Fontoura,MT,TI0109,novo,0.0,2026-11-23
+mpf,cacique fontoura|MT,Cacique Fontoura,MT,TI0109,auto,100.0,2026-11-23
+funai,7901,Caiçara/Ilha de São Pedro,SE,TI0110,novo,0.0,2026-11-23
+funai,59301,Caieiras Velha II,ES,TI0111,novo,0.0,2026-11-23
+mpf,caieiras velha ii|ES,Caieiras Velha II,ES,TI0111,auto,100.0,2026-11-23
+funai,8101,Caititu,AM,TI0112,novo,0.0,2026-11-23
+mpf,caititu|AM,Caititu,AM,TI0112,auto,100.0,2026-11-23
+funai,8201,Cajueiro,RR,TI0113,novo,0.0,2026-11-23
+mpf,cajueiro|RR,Cajueiro,RR,TI0113,auto,100.0,2026-11-23
+funai,8301,Cajuhiri Atravessado,AM,TI0114,novo,0.0,2026-11-23
+mpf,cajuhiri atravessado|AM,Cajuhiri Atravessado,AM,TI0114,auto,100.0,2026-11-23
+funai,8401,Camadeni,AM,TI0115,novo,0.0,2026-11-23
+mpf,camadeni|AM,Camadeni,AM,TI0115,auto,100.0,2026-11-23
+funai,8501,Camicua,AM,TI0116,novo,0.0,2026-11-23
+mpf,camicua|AM,Camicuã,AM,TI0116,auto,100.0,2026-11-23
+funai,8601,Campinas/Katukina,AC,TI0117,novo,0.0,2026-11-23
+mpf,campinas katukina|AC,Campinas/Katukina,AC,TI0117,auto,100.0,2026-11-23
+funai,72301,Campo Bonito,RS,TI0118,novo,0.0,2026-11-23
+mpf,campo bonito|RS,Campo Bonito,RS,TI0118,auto,100.0,2026-11-23
+funai,8701,Cana Brava/Guajajara,MA,TI0119,novo,0.0,2026-11-23
+mpf,cana brava guajajara|MA,Cana Brava/Guajajara,MA,TI0119,auto,100.0,2026-11-23
+funai,8801,Canauanim,RR,TI0120,novo,0.0,2026-11-23
+mpf,canauanim|RR,Canauanim,RR,TI0120,auto,100.0,2026-11-23
+funai,72701,Canelinha,SC,TI0121,novo,0.0,2026-11-23
+mpf,canelinha|SC,Canelinha,SC,TI0121,auto,100.0,2026-11-23
+funai,8901,Cantagalo,RS,TI0122,novo,0.0,2026-11-23
+mpf,cantagalo|RS,Cantagalo,RS,TI0122,auto,100.0,2026-11-23
+funai,9001,Capivara,AM,TI0123,novo,0.0,2026-11-23
+funai,9101,Capivari,RS,TI0124,novo,0.0,2026-11-23
+mpf,capivari|RS,Capivari,RS,TI0124,auto,100.0,2026-11-23
+funai,9201,Capoto/Jarina,MT,TI0125,novo,0.0,2026-11-23
+mpf,capoto jarina|MT,Capoto/Jarina,MT,TI0125,auto,100.0,2026-11-23
+funai,9301,Caramuru/Paraguassu,BA,TI0126,novo,0.0,2026-11-23
+mpf,caramuru paraguacu|BA,Caramuru-Paraguaçu,BA,TI0126,auto,100.0,2026-11-24
+funai,9401,Carretão I,GO,TI0127,novo,0.0,2026-11-23
+mpf,carretao i|GO,Carretão I,GO,TI0127,auto,100.0,2026-11-23
+funai,9501,Carretão II,GO,TI0128,novo,0.0,2026-11-23
+mpf,carretao ii|GO,Carretão II,GO,TI0128,auto,100.0,2026-11-23
+funai,9601,Carreteiro,RS,TI0129,novo,0.0,2026-11-23
+mpf,carreteiro|RS,Carreteiro,RS,TI0129,auto,100.0,2026-11-23
+funai,9701,Caru,MA,TI0130,novo,0.0,2026-11-23
+mpf,caru|MA,Caru,MA,TI0130,auto,100.0,2026-11-23
+funai,9801,Catipari/Mamoria,AM,TI0131,novo,0.0,2026-11-23
+mpf,catipari mamoria|AM,Catipari/Mamoria,AM,TI0131,auto,100.0,2026-11-23
+funai,60701,Caxixó,MG,TI0132,novo,0.0,2026-11-23
+mpf,kaxixo|MG,Kaxixó,MG,TI0132,auto,100.0,2026-11-24
+funai,67701,Cerco Grande,PR,TI0133,novo,0.0,2026-11-23
+funai,9901,Cerrito,MS,TI0134,novo,0.0,2026-11-23
+mpf,cerrito|MS,Cerrito,MS,TI0134,auto,100.0,2026-11-23
+funai,10001,Chão Preto,MT,TI0135,novo,0.0,2026-11-23
+mpf,chao preto|MT,Chão Preto,MT,TI0135,auto,100.0,2026-11-23
+funai,10101,Coata-Laranjal,AM,TI0136,novo,0.0,2026-11-23
+mpf,coata laranjal|AM,Coatá Laranjal,AM,TI0136,auto,100.0,2026-11-23
+funai,59401,Cobra Grande,PA,TI0137,novo,0.0,2026-11-23
+mpf,cobra grande|PA,Cobra Grande,PA,TI0137,auto,100.0,2026-11-23
+funai,10202,Comboios,ES,TI0138,novo,0.0,2026-11-23
+mpf,comboios|ES,Comboios,ES,TI0138,auto,100.0,2026-11-23
+funai,65101,Comexatibá,BA,TI0139,novo,0.0,2026-11-23
+funai,10301,Coroa Vermelha,BA,TI0140,novo,0.0,2026-11-23
+mpf,coroa vermelha|BA,Coroa Vermelha,BA,TI0140,auto,100.0,2026-11-23
+funai,10401,Córrego João Pereira,CE,TI0141,novo,0.0,2026-11-23
+mpf,corrego joao pereira|CE,Córrego João Pereira,CE,TI0141,auto,100.0,2026-11-23
+funai,73866,Crim Patehi,TO,TI0142,novo,0.0,2026-11-23
+funai,59601,Cué Cué/ Marabitanas,AM,TI0143,novo,0.0,2026-11-23
+mpf,cue cue marabitanas|AM,Cué Cué Marabitanas,AM,TI0143,auto,100.0,2026-11-23
+funai,10601,Cuia,AM,TI0144,novo,0.0,2026-11-23
+mpf,cuia|AM,Cuia,AM,TI0144,auto,100.0,2026-11-23
+funai,10701,Cuiu-Cuiu,AM,TI0145,novo,0.0,2026-11-23
+mpf,cuiu cuiu|AM,Cuiú-Cuiú,AM,TI0145,auto,100.0,2026-11-23
+funai,10801,Cunhã-Sapucaia,AM,TI0146,novo,0.0,2026-11-23
+mpf,cunha sapucaia|AM,Cunhã Sapucaia,AM,TI0146,auto,100.0,2026-11-23
+funai,73816,Curara,AM,TI0147,novo,0.0,2026-11-23
+mpf,curara|AM,Curara,AM,TI0147,auto,100.0,2026-11-23
+funai,73808,Curriã,AM,TI0148,novo,0.0,2026-11-23
+funai,10901,Deni,AM,TI0149,novo,0.0,2026-11-23
+mpf,deni|AM,Deni,AM,TI0149,auto,100.0,2026-11-23
+funai,11001,Diahui,AM,TI0150,novo,0.0,2026-11-23
+mpf,diahui|AM,Diahui,AM,TI0150,auto,100.0,2026-11-23
+funai,71601,Djaiko-Aty,SP,TI0151,novo,0.0,2026-11-23
+funai,11101,Dourados,MS,TI0152,novo,0.0,2026-11-23
+funai,67101,Dourados-Amambaipeguá I,MS,TI0153,novo,0.0,2026-11-23
+funai,11201,Enawenê-Nawê,MT,TI0154,novo,0.0,2026-11-23
+mpf,enawene nawe|MT,Enawenê Nawê,MT;RO,TI0154,auto,100.0,2026-11-23
+funai,11301,Entre Serras,PE,TI0155,novo,0.0,2026-11-23
+mpf,entre serras|PE,Entre Serras,PE,TI0155,auto,100.0,2026-11-23
+funai,11401,Erikpatsá,MT,TI0156,novo,0.0,2026-11-23
+mpf,erikpatsa|MT,Erikpatsá,MT,TI0156,auto,100.0,2026-11-23
+funai,11501,Escondido,MT,TI0157,novo,0.0,2026-11-23
+mpf,escondido|MT,Escondido,MT,TI0157,auto,100.0,2026-11-23
+funai,11601,Espírito Santo,AM,TI0158,novo,0.0,2026-11-23
+mpf,espirito santo|AM,Espírito Santo,AM,TI0158,auto,100.0,2026-11-23
+funai,11801,Estação Parecis,MT,TI0159,novo,0.0,2026-11-23
+mpf,estacao parecis|MT,Estação Parecis,MT,TI0159,auto,100.0,2026-11-23
+funai,11901,Estivadinho,MT,TI0160,novo,0.0,2026-11-23
+mpf,estivadinho|MT,Estivadinho,MT,TI0160,auto,100.0,2026-11-23
+funai,72401,Estrada do Mar,RS,TI0161,novo,0.0,2026-11-23
+funai,12001,Estrela da Paz,AM,TI0162,novo,0.0,2026-11-23
+mpf,estrela paz|AM,Estrela da Paz,AM,TI0162,auto,100.0,2026-11-23
+funai,12101,Évare I,AM,TI0163,novo,0.0,2026-11-23
+mpf,evare i|AM,Évare I,AM,TI0163,auto,100.0,2026-11-23
+funai,12201,Évare II,AM,TI0164,novo,0.0,2026-11-23
+mpf,evare ii|AM,Évare II,AM,TI0164,auto,100.0,2026-11-23
+funai,12301,Faxinal,PR,TI0165,novo,0.0,2026-11-23
+mpf,faxinal|PR,Faxinal,PR,TI0165,auto,100.0,2026-11-23
+funai,12401,Fazenda Bahiana,BA,TI0166,novo,0.0,2026-11-23
+mpf,fazenda bahiana|BA,Fazenda Bahiana,BA,TI0166,auto,100.0,2026-11-23
+funai,73711,Fazenda Boa Vista - MG,MG,TI0167,novo,0.0,2026-11-23
+mpf,fazenda boa vista|MG,Fazenda Boa Vista,MG,TI0167,auto,100.0,2026-11-24
+funai,12501,Fazenda Canto,AL,TI0168,novo,0.0,2026-11-23
+mpf,fazenda canto|AL,Fazenda Canto,AL,TI0168,auto,100.0,2026-11-23
+funai,62201,Fazenda Cristo Rei,PE,TI0169,novo,0.0,2026-11-23
+funai,12701,Fazenda Guarani,MG,TI0170,novo,0.0,2026-11-23
+mpf,fazenda guarani|MG,Fazenda Guarani,MG,TI0170,auto,100.0,2026-11-23
+funai,73717,Fazenda Jenipapeiro,BA,TI0171,novo,0.0,2026-11-23
+mpf,fazenda jenipapeiro|BA,Fazenda Jenipapeiro,BA,TI0171,auto,100.0,2026-11-23
+funai,73769,Fazenda Mabel (Gavião/Akrãtikatêjê),PA,TI0172,novo,0.0,2026-11-23
+mpf,fazenda mabel gaviao akratikateje|PA,Fazenda Mabel (Gavião/Akrãtikatêjê),PA,TI0172,auto,100.0,2026-11-23
+funai,73836,Fazenda Peró,PE,TI0173,novo,0.0,2026-11-23
+funai,69801,Fazenda Remanso,BA,TI0174,novo,0.0,2026-11-23
+mpf,fazenda remanso|BA,Fazenda Remanso,BA,TI0174,auto,100.0,2026-11-23
+funai,73742,Fazenda Sempre Verde,BA,TI0175,novo,0.0,2026-11-23
+mpf,fazenda sempre verde|BA,Fazenda Sempre Verde,BA,TI0175,auto,100.0,2026-11-23
+funai,69901,Fazenda Sítio,BA,TI0176,novo,0.0,2026-11-23
+funai,12801,Figueiras,MT,TI0177,novo,0.0,2026-11-23
+mpf,figueiras|MT,Figueiras,MT,TI0177,auto,100.0,2026-11-23
+funai,12901,Fortaleza do Castanho,AM,TI0178,novo,0.0,2026-11-23
+mpf,fortaleza castanho|AM,Fortaleza do Castanho,AM,TI0178,auto,100.0,2026-11-23
+funai,13001,Fortaleza do Patauá,AM,TI0179,novo,0.0,2026-11-23
+funai,13101,Fulni-ô,PE,TI0180,novo,0.0,2026-11-23
+mpf,fulnio|AL,Fulniô,AL;PE,TI0180,auto,100.0,2026-11-24
+funai,13201,Funil,TO,TI0181,novo,0.0,2026-11-23
+mpf,funil|TO,Funil,TO,TI0181,auto,100.0,2026-11-23
+funai,13301,Galibi,AP,TI0182,novo,0.0,2026-11-23
+mpf,galibi|AP,Galibi,AP,TI0182,auto,100.0,2026-11-23
+funai,13401,Gavião,AM,TI0183,novo,0.0,2026-11-23
+mpf,gaviao|AM,Gavião,AM,TI0183,auto,100.0,2026-11-23
+funai,73815,Gaviãozinho,AM,TI0184,novo,0.0,2026-11-23
+mpf,gaviaozinho|AM,Gaviãozinho,AM,TI0184,auto,100.0,2026-11-23
+funai,13501,Geralda Toco Preto,MA,TI0185,novo,0.0,2026-11-23
+mpf,geralda toco preto|MA,Geralda/Toco Preto,MA,TI0185,auto,100.0,2026-11-23
+funai,19402,Geripancó,AL,TI0186,novo,0.0,2026-11-23
+funai,13601,Governador,MA,TI0187,novo,0.0,2026-11-23
+mpf,governador|MA,Governador,MA,TI0187,auto,100.0,2026-11-23
+funai,13701,Guaimbé,MS,TI0188,novo,0.0,2026-11-23
+mpf,guaimbe|MS,Guaimbé,MS,TI0188,auto,100.0,2026-11-23
+funai,13801,Guajahã,AM,TI0189,novo,0.0,2026-11-23
+mpf,guajaha|AM,Guajahã,AM,TI0189,auto,100.0,2026-11-23
+funai,73785,Guajanaíra,PA,TI0190,novo,0.0,2026-11-23
+mpf,guajanaira|PA,Guajanaíra,PA,TI0190,auto,100.0,2026-11-23
+funai,52801,Guanabara,AM,TI0191,novo,0.0,2026-11-23
+mpf,guanabara|AM,Guanabara,AM,TI0191,auto,100.0,2026-11-23
+funai,14501,Guarani do Aguapeu,SP,TI0192,novo,0.0,2026-11-23
+mpf,guarani aguapeu|SP,Guarani do Aguapeu,SP,TI0192,auto,100.0,2026-11-23
+funai,14301,Guarani de Águas Brancas,RS,TI0193,novo,0.0,2026-11-23
+mpf,guarani aguas brancas|RS,Guarani de Águas Brancas,RS,TI0193,auto,100.0,2026-11-23
+funai,14601,Guarani de Araçai,SC,TI0194,novo,0.0,2026-11-23
+mpf,guarani aracai|SC,Guarani de Araçaí,SC,TI0194,auto,100.0,2026-11-23
+funai,14001,Guarani Araponga,RJ,TI0195,novo,0.0,2026-11-23
+mpf,guarani araponga|RJ,Guarani Araponga,RJ,TI0195,auto,100.0,2026-11-23
+funai,14101,Guarani Barra do Ouro,RS,TI0196,novo,0.0,2026-11-23
+mpf,guarani barra ouro|RS,Guarani Barra do Ouro,RS,TI0196,auto,100.0,2026-11-23
+funai,14201,Guarani da Barragem,SP,TI0197,novo,0.0,2026-11-23
+mpf,guarani barragem|SP,Guarani da Barragem,SP,TI0197,auto,100.0,2026-11-23
+funai,14401,Guarani de Bracui,RJ,TI0198,novo,0.0,2026-11-23
+mpf,guarani bracui|RJ,Guarani de Bracuí,RJ,TI0198,auto,100.0,2026-11-23
+funai,38101,Guarani do Ribeirão Silveira,SP,TI0199,novo,0.0,2026-11-23
+funai,14701,Guarani Votouro,RS,TI0200,novo,0.0,2026-11-23
+mpf,guarani votouro|RS,Guarani Votouro,RS,TI0200,auto,100.0,2026-11-23
+funai,14801,Guarita,RS,TI0201,novo,0.0,2026-11-23
+mpf,guarita|RS,Guarita,RS,TI0201,auto,100.0,2026-11-23
+funai,14901,Guasuti,MS,TI0202,novo,0.0,2026-11-23
+mpf,guasuti|MS,Guasuti,MS,TI0202,auto,100.0,2026-11-23
+funai,15001,Guató,MS,TI0203,novo,0.0,2026-11-23
+mpf,guato|MS,Guató,MS,TI0203,auto,100.0,2026-11-23
+funai,71401,Guaviraty,SP,TI0204,novo,0.0,2026-11-23
+mpf,guaviraty|SP,Guaviraty,SP,TI0204,auto,100.0,2026-11-23
+funai,15101,Guyraroká,MS,TI0205,novo,0.0,2026-11-23
+mpf,guyraroka|MS,Guyraroká,MS,TI0205,auto,100.0,2026-11-23
+funai,65701,Hãm Yîxux,MG,TI0206,novo,0.0,2026-11-23
+funai,50401,Herarekã Xetá,PR,TI0207,novo,0.0,2026-11-23
+mpf,herareka xeta|PR,Herarekã Xetá,PR,TI0207,auto,100.0,2026-11-23
+funai,15201,Hi Merimã,AM,TI0208,novo,0.0,2026-11-23
+mpf,hi merima|AM,Hi Merimã,AM,TI0208,auto,100.0,2026-11-23
+funai,15301,Ibirama,SC,TI0209,novo,0.0,2026-11-23
+funai,15302,Ibirama-La Klãnô,SC,TI0210,novo,0.0,2026-11-23
+mpf,ibirama la klano|SC,Ibirama– La Klãnõ,SC,TI0210,auto,100.0,2026-11-23
+funai,15501,Icatu,SP,TI0211,novo,0.0,2026-11-23
+mpf,icatu|SP,Icatu,SP,TI0211,auto,100.0,2026-11-23
+funai,15601,Igarapé Capana,AM,TI0212,novo,0.0,2026-11-23
+mpf,igarape capana|AM,Igarapé Capanã,AM,TI0212,auto,100.0,2026-11-23
+funai,15701,Igarapé do Caucho,AC,TI0213,novo,0.0,2026-11-23
+mpf,igarape caucho|AC,Igarapé do Caucho,AC,TI0213,auto,100.0,2026-11-23
+funai,15801,Igarapé Grande,AM,TI0214,novo,0.0,2026-11-23
+mpf,igarape grande|AM,Igarapé Grande,AM,TI0214,auto,100.0,2026-11-23
+funai,16101,Igarapé Lage,RO,TI0215,novo,0.0,2026-11-23
+mpf,igarape lage|RO,Igarapé Lage,RO,TI0215,auto,100.0,2026-11-23
+funai,16201,Igarapé Lourdes,RO,TI0216,novo,0.0,2026-11-23
+mpf,igarape lourdes|RO,Igarapé Lourdes,RO,TI0216,auto,100.0,2026-11-23
+funai,16301,Igarapé Ribeirão,RO,TI0217,novo,0.0,2026-11-23
+mpf,igarape ribeirao|RO,Igarapé Ribeirão,RO,TI0217,auto,100.0,2026-11-23
+funai,67601,Igarapé Taboca do Alto Tarauacá,AC,TI0218,novo,0.0,2026-11-23
+funai,73702,Iguatemipegua I,MS,TI0219,novo,0.0,2026-11-23
+funai,16601,Ilha do Camaleão,AM,TI0220,novo,0.0,2026-11-23
+mpf,ilha camaleao|AM,Ilha do Camaleão,AM,TI0220,auto,100.0,2026-11-23
+funai,16501,Ilha da Cotinga,PR,TI0221,novo,0.0,2026-11-23
+mpf,ilha cotinga|PR,Ilha da Cotinga,PR,TI0221,auto,100.0,2026-11-23
+funai,67501,Ilhas da Tapera/São Félix/Porto,PE,TI0222,novo,0.0,2026-11-23
+funai,16803,Imbiriba,BA,TI0223,novo,0.0,2026-11-23
+mpf,imbiriba|BA,Imbiriba,BA,TI0223,auto,100.0,2026-11-23
+funai,16901,Inauini/Teuini,AM,TI0224,novo,0.0,2026-11-23
+mpf,inauini teuini|AM,Inauini/Teuini,AM,TI0224,auto,100.0,2026-11-23
+funai,17001,Inawebohona,TO,TI0225,novo,0.0,2026-11-23
+mpf,inawebohona|TO,Inãwébohona,TO,TI0225,auto,100.0,2026-11-23
+funai,17101,Inhacorá,RS,TI0226,novo,0.0,2026-11-23
+mpf,inhacora|RS,Inhacorá,RS,TI0226,auto,100.0,2026-11-23
+funai,17201,Ipixuna,AM,TI0227,novo,0.0,2026-11-23
+mpf,ipixuna|AM,Ipixuna,AM,TI0227,auto,100.0,2026-11-23
+funai,17301,Irantxe,MT,TI0228,novo,0.0,2026-11-23
+mpf,irantxe|MT,Irantxe,MT,TI0228,auto,100.0,2026-11-23
+funai,17401,Irapuá,RS,TI0229,novo,0.0,2026-11-23
+mpf,irapua|RS,Irapuá,RS,TI0229,auto,100.0,2026-11-23
+funai,17501,Itaitinga,AM,TI0230,novo,0.0,2026-11-23
+mpf,itaitinga|AM,Itaitinga,AM,TI0230,auto,100.0,2026-11-23
+funai,73701,Itãnury Pupykary (antiga Baixo Seruini),AM,TI0231,novo,0.0,2026-11-23
+funai,17601,Itaóca,SP,TI0232,novo,0.0,2026-11-23
+mpf,itaoca|SP,Itaóca,SP,TI0232,auto,100.0,2026-11-23
+funai,45103,Itixi Mitari,AM,TI0233,novo,0.0,2026-11-23
+mpf,itixi mitari|AM,Itixi Mitari,AM,TI0233,auto,100.0,2026-11-23
+funai,72601,Ituna/Itatá (restrição de uso),PA,TI0234,novo,0.0,2026-11-23
+funai,17701,Ivai,PR,TI0235,novo,0.0,2026-11-23
+mpf,ivai|PR,Ivaí,PR,TI0235,auto,100.0,2026-11-23
+funai,17801,Jabuti,RR,TI0236,novo,0.0,2026-11-23
+mpf,jabuti|RR,Jabuti,RR,TI0236,auto,100.0,2026-11-23
+funai,17901,Jacamim,RR,TI0237,novo,0.0,2026-11-23
+mpf,jacamim|RR,Jacamim,RR,TI0237,auto,100.0,2026-11-23
+funai,18001,Jacaré de São Domingos,PB,TI0238,novo,0.0,2026-11-23
+mpf,jacare sao domingos|PB,Jacaré de São Domingos,PB,TI0238,auto,100.0,2026-11-23
+funai,65901,Jacareúba/Katauixi (restrição uso),AM,TI0239,novo,0.0,2026-11-23
+funai,18101,Jaguapiré,MS,TI0240,novo,0.0,2026-11-23
+mpf,jaguapire|MS,Jaguapiré,MS,TI0240,auto,100.0,2026-11-23
+funai,18201,Jaguari,MS,TI0241,novo,0.0,2026-11-23
+mpf,jaguari|MS,Jaguari,MS,TI0241,auto,100.0,2026-11-23
+funai,18301,Jaminaua/Envira,AC,TI0242,novo,0.0,2026-11-23
+mpf,jaminawa envira|AC,Jaminawá/Envira,AC,TI0242,auto,93.3,2026-11-23
+funai,18401,Jaminawa Arara do Rio Bagé,AC,TI0243,novo,0.0,2026-11-23
+mpf,jaminawa arara rio bage|AC,Jaminawa Arara do Rio Bagé,AC,TI0243,auto,100.0,2026-11-23
+funai,18501,Jaminawa do Igarapé Preto,AC,TI0244,novo,0.0,2026-11-23
+mpf,jaminawa igarape preto|AC,Jaminawa do Igarapé Preto,AC,TI0244,auto,100.0,2026-11-23
+funai,18601,Japuira,MT,TI0245,novo,0.0,2026-11-23
+mpf,japuira|MT,Japuira,MT,TI0245,auto,100.0,2026-11-23
+funai,18701,Jaquiri,AM,TI0246,novo,0.0,2026-11-23
+mpf,jaquiri|AM,Jaquiri,AM,TI0246,auto,100.0,2026-11-23
+funai,18801,Jaraguá,SP,TI0247,novo,0.0,2026-11-23
+mpf,jaragua|SP,Jaraguá,SP,TI0247,auto,100.0,2026-11-23
+funai,18802,Jaraguá,SP,TI0248,novo,0.0,2026-11-23
+funai,18901,Jarara,MS,TI0249,novo,0.0,2026-11-23
+mpf,jarara|MS,Jarara,MS,TI0249,auto,100.0,2026-11-23
+funai,19001,Jarawara/Jamamadi/Kanamati,AM,TI0250,novo,0.0,2026-11-23
+mpf,jarawara jamamadi kanamati|AM,Jarawara/Jamamadi/Kanamati,AM,TI0250,auto,100.0,2026-11-23
+funai,19101,Jarudore,MT,TI0251,novo,0.0,2026-11-23
+mpf,jarudore|MT,Jarudore,MT,TI0251,auto,100.0,2026-11-23
+funai,25601,Jatayvari,MS,TI0252,novo,0.0,2026-11-23
+mpf,jatayvary|MS,Jatayvary,MS,TI0252,auto,100.0,2026-11-24
+funai,19201,Jatuarana,AM,TI0253,novo,0.0,2026-11-23
+mpf,jatuarana|AM,Jatuarana,AM,TI0253,auto,100.0,2026-11-23
+funai,19301,Jauary,AM,TI0254,novo,0.0,2026-11-23
+mpf,jauary|AM,Jauary,AM,TI0254,auto,100.0,2026-11-23
+funai,19501,Juininha,MT,TI0255,novo,0.0,2026-11-23
+mpf,juininha|MT,Juininha,MT,TI0255,auto,100.0,2026-11-23
+funai,19601,Juma,AM,TI0256,novo,0.0,2026-11-23
+mpf,juma|AM,Juma,AM,TI0256,auto,100.0,2026-11-23
+funai,19701,Jumina,AP,TI0257,novo,0.0,2026-11-23
+mpf,jumina|AP,Jumina,AP,TI0257,auto,100.0,2026-11-23
+funai,67401,Jurubaxi-téa,AM,TI0258,novo,0.0,2026-11-23
+funai,62001,Juruna do Km 17,PA,TI0259,novo,0.0,2026-11-23
+mpf,juruna km 17|PA,Juruna do Km 17,PA,TI0259,auto,100.0,2026-11-23
+funai,72001,Ka´aguy Hovy,SP,TI0260,novo,0.0,2026-11-23
+mpf,ka aguy hovy|SP,Ka'aguy Hovy,SP,TI0260,auto,100.0,2026-11-23
+mpf,kaaguy hovy|SP,Ka'aguy Hovy,SP,TI0260,auto,100.0,2026-11-24
+funai,71501,Ka´aguy Mirim,SP,TI0261,novo,0.0,2026-11-23
+funai,20001,Kadiwéu,MS,TI0262,novo,0.0,2026-11-23
+mpf,kadiweu|MS,Kadiwéu,MS,TI0262,auto,100.0,2026-11-23
+funai,20101,Kaingang de Iraí,RS,TI0263,novo,0.0,2026-11-23
+mpf,kaingang irai|RS,Kaingang de Iraí,RS,TI0263,auto,100.0,2026-11-23
+funai,20201,Kambiwá,PE,TI0264,novo,0.0,2026-11-23
+mpf,kambiwa|PE,Kambiwá,PE,TI0264,auto,100.0,2026-11-23
+funai,20301,Kampa do Igarapé Primavera,AC,TI0265,novo,0.0,2026-11-23
+mpf,kampa igarape primavera|AC,Kampa do Igarapé Primavera,AC,TI0265,auto,100.0,2026-11-23
+funai,20501,Kampa e Isolados do Rio Envira,AC,TI0266,novo,0.0,2026-11-23
+mpf,kampa isolados rio envira|AC,Kampa e Isolados do Rio Envira,AC,TI0266,auto,100.0,2026-11-23
+funai,20401,Kampa do Rio Amônia,AC,TI0267,novo,0.0,2026-11-23
+mpf,kampa rio amonea|AC,Kampa do Rio Amonea,AC,TI0267,auto,93.8,2026-11-23
+funai,20601,Kanamari do Rio Juruá,AM,TI0268,novo,0.0,2026-11-23
+mpf,kanamari rio jurua|AM,Kanamari do Rio Juruá,AM,TI0268,auto,100.0,2026-11-23
+funai,20701,Kanela,MA,TI0269,novo,0.0,2026-11-23
+funai,73857,Kanela do Araguaia,MT,TI0270,novo,0.0,2026-11-23
+mpf,kanela araguaia|MT,Kanela do Araguaia,MT,TI0270,auto,100.0,2026-11-23
+funai,20702,Kanela Memortumré,MA,TI0271,novo,0.0,2026-11-23
+mpf,kanela memortumre|MA,Kanela/ Memortumré,MA,TI0271,auto,100.0,2026-11-23
+mpf,kanela memortumre|MA#2,Kanela/ Memortumré,MA,TI0271,auto,100.0,2026-11-23
+funai,20801,Kantaruré,BA,TI0272,novo,0.0,2026-11-23
+mpf,kantarure|BA,Kantaruré,BA,TI0272,auto,100.0,2026-11-23
+funai,20901,Kapinawá,PE,TI0273,novo,0.0,2026-11-23
+mpf,kapinawa|PE,Kapinawa,PE,TI0273,auto,100.0,2026-11-23
+funai,64501,Kapôt Nhinore,MT;PA,TI0274,novo,0.0,2026-11-23
+mpf,kapot nhinore|MT,Kapot Nhinore,MT;PA,TI0274,auto,100.0,2026-11-23
+funai,73809,Kapyra Kanakury,AM,TI0275,novo,0.0,2026-11-23
+mpf,kapyra kanakury|AM,Kapyra Kanakury,AM,TI0275,auto,100.0,2026-11-23
+funai,21001,Karajá de Aruanã I,GO,TI0276,novo,0.0,2026-11-23
+mpf,karaja aruana i|GO,Karajá de Aruanã I,GO,TI0276,auto,100.0,2026-11-23
+funai,21101,Karajá de Aruanã II,MT,TI0277,novo,0.0,2026-11-23
+mpf,karaja aruana ii|MT,Karajá de Aruanã II,MT,TI0277,auto,100.0,2026-11-23
+funai,21201,Karajá de Aruanã III,GO,TI0278,novo,0.0,2026-11-23
+mpf,karaja aruana iii|GO,Karajá de Aruanã III,GO,TI0278,auto,100.0,2026-11-23
+funai,21301,Karajá Santana do Araguaia,PA,TI0279,novo,0.0,2026-11-23
+mpf,karaja santana araguaia|PA,Karajá Santana do Araguaia,PA,TI0279,auto,100.0,2026-11-23
+funai,21401,Karapotó,AL,TI0280,novo,0.0,2026-11-23
+mpf,karapoto|AL,Karapotó,AL,TI0280,auto,100.0,2026-11-23
+funai,21501,Kararaô,PA,TI0281,novo,0.0,2026-11-23
+mpf,kararao|PA,Kararaô,PA,TI0281,auto,100.0,2026-11-23
+funai,21601,Karipuna,RO,TI0282,novo,0.0,2026-11-23
+mpf,karipuna|RO,Karipuna,RO,TI0282,auto,100.0,2026-11-23
+funai,73774,Kariri de Serra Grande,PI,TI0283,novo,0.0,2026-11-23
+funai,21701,Kariri-Xocó,AL,TI0284,novo,0.0,2026-11-23
+mpf,kariri xoco|AL,Kariri-Xocó,AL,TI0284,auto,100.0,2026-11-23
+funai,21702,Kariri-Xocó,AL,TI0285,novo,0.0,2026-11-23
+funai,21801,Karitiana,RO,TI0286,novo,0.0,2026-11-23
+mpf,karitiana|RO,Karitiana,RO,TI0286,auto,100.0,2026-11-23
+funai,21901,Katukina/Kaxinawá,AC,TI0287,novo,0.0,2026-11-23
+mpf,katukina kaxinawa|AC,Katukina/Kaxinawá,AC,TI0287,auto,100.0,2026-11-23
+funai,61401,Kawahiva do Rio Pardo,MT,TI0288,novo,0.0,2026-11-23
+mpf,kawahiva rio pardo|MT,Kawahiva do Rio Pardo,MT,TI0288,auto,100.0,2026-11-23
+funai,22001,Kaxarari,AM;RO,TI0289,novo,0.0,2026-11-23
+mpf,kaxarari|AM,Kaxarari,AM;RO,TI0289,auto,100.0,2026-11-23
+funai,22101,Kaxinawá Ashaninka do Rio Breu,AC,TI0290,novo,0.0,2026-11-23
+mpf,kaxinawa ashaninka rio breu|AC,Kaxinawá/Ashaninka do Rio Breu,AC,TI0290,auto,100.0,2026-11-23
+funai,22401,Kaxinawá do Baixo Rio Jordão,AC,TI0291,novo,0.0,2026-11-23
+mpf,kaxinawa baixo rio jordao|AC,Kaxinawá do Baixo Rio Jordão,AC,TI0291,auto,100.0,2026-11-23
+funai,22201,Kaxinawá Colônia Vinte e Sete,AC,TI0292,novo,0.0,2026-11-23
+mpf,kaxinawa colonia vinte sete|AC,Kaxinawá Colônia Vinte e Sete,AC,TI0292,auto,100.0,2026-11-23
+funai,22701,Kaxinawá Nova Olinda,AC,TI0293,novo,0.0,2026-11-23
+mpf,kaxinawa nova olinda|AC,Kaxinawá Nova Olinda,AC,TI0293,auto,100.0,2026-11-23
+funai,22301,Kaxinawá da Praia do Carapanã,AC,TI0294,novo,0.0,2026-11-23
+mpf,kaxinawa praia carapana|AC,Kaxinawá da Praia do Carapanã,AC,TI0294,auto,100.0,2026-11-23
+funai,22501,Kaxinawá do Rio Humaitá,AC,TI0295,novo,0.0,2026-11-23
+mpf,kaxinawa rio humaita|AC,Kaxinawá do Rio Humaitá,AC,TI0295,auto,100.0,2026-11-23
+funai,22601,Kaxinawá do Rio Jordão,AC,TI0296,novo,0.0,2026-11-23
+mpf,kaxinawa rio jordao|AC,Kaxinawá do Rio Jordão,AC,TI0296,auto,100.0,2026-11-23
+funai,22801,Kaxinawá Seringal Independência,AC,TI0297,novo,0.0,2026-11-23
+mpf,kaxinawa seringal independencia|AC,Kaxinawá Seringal Independência,AC,TI0297,auto,100.0,2026-11-23
+funai,68101,Kaxuyana-Tunayana,PA,TI0298,novo,0.0,2026-11-23
+mpf,kaxuyana tunayana|AM,Kaxuyana e Tunayana,AM;PA,TI0298,auto,100.0,2026-11-23
+funai,22902,Kayabi,MT;PA,TI0299,novo,0.0,2026-11-23
+mpf,kayabi|MT,Kayabi,MT;PA,TI0299,auto,100.0,2026-11-23
+funai,23001,Kayapó,PA,TI0300,novo,0.0,2026-11-23
+mpf,kayapo|PA,Kayapó,PA,TI0300,auto,100.0,2026-11-23
+funai,23101,Kiriri,BA,TI0301,novo,0.0,2026-11-23
+mpf,kiriri|BA,Kiriri,BA,TI0301,auto,100.0,2026-11-23
+funai,73799,Kiriri de Caldas,MG,TI0302,novo,0.0,2026-11-23
+funai,23201,Koatinemo,PA,TI0303,novo,0.0,2026-11-23
+mpf,koatinemo|PA,Koatinemo,PA,TI0303,auto,100.0,2026-11-23
+funai,62301,Krahó-Kanela,TO,TI0304,novo,0.0,2026-11-23
+mpf,kraho kanela|TO,Krahó-Kanela,TO,TI0304,auto,100.0,2026-11-23
+funai,23301,Kraolandia,TO,TI0305,novo,0.0,2026-11-23
+mpf,kraolandia|TO,Kraolândia,TO,TI0305,auto,100.0,2026-11-23
+funai,23401,Krenak,MG,TI0306,novo,0.0,2026-11-23
+mpf,krenak|MG,Krenak,MG,TI0306,auto,100.0,2026-11-23
+funai,23402,Krenak de Sete Salões,MG,TI0307,novo,0.0,2026-11-23
+funai,65801,Krenrehé,MT,TI0308,novo,0.0,2026-11-23
+mpf,krenrehe|MT,Krenrehé,MT,TI0308,auto,100.0,2026-11-23
+funai,73718,Krenyê,MA,TI0309,novo,0.0,2026-11-23
+mpf,krenye|MA,Krenyê,MA,TI0309,auto,100.0,2026-11-23
+funai,23501,Krikati,MA,TI0310,novo,0.0,2026-11-23
+mpf,krikati|MA,Krikati,MA,TI0310,auto,100.0,2026-11-23
+funai,23601,Krukutu,SP,TI0311,novo,0.0,2026-11-23
+mpf,krukutu|SP,Krukutu,SP,TI0311,auto,100.0,2026-11-23
+funai,23901,Kulina Igarapé do Pau,AC,TI0312,novo,0.0,2026-11-23
+mpf,kulina igarape pau|AC,Kulina Igarapé do Pau,AC,TI0312,auto,100.0,2026-11-23
+funai,23701,Kulina do Medio Jurua,AC;AM,TI0313,novo,0.0,2026-11-23
+mpf,kulina medio jurua|AC,Kulina do Médio Juruá,AC;AM,TI0313,auto,100.0,2026-11-23
+funai,23801,Kulina do Rio Envira,AC,TI0314,novo,0.0,2026-11-23
+mpf,kulina rio envira|AC,Kulina do Rio Envira,AC,TI0314,auto,100.0,2026-11-23
+funai,73795,Kulina do Rio Ueré,AM,TI0315,novo,0.0,2026-11-23
+funai,24001,Kumaru do Lago Ualá,AM,TI0316,novo,0.0,2026-11-23
+mpf,kumaru lago uala|AM,Kumaru do Lago Ualá,AM,TI0316,auto,100.0,2026-11-23
+funai,38902,Kuruáya,PA,TI0317,novo,0.0,2026-11-23
+mpf,kuruaya|PA,Kuruáya,PA,TI0317,auto,100.0,2026-11-23
+funai,24101,Kwazá do Rio São Pedro,RO,TI0318,novo,0.0,2026-11-23
+mpf,kwaza rio sao pedro|RO,Kwazá do Rio São Pedro,RO,TI0318,auto,100.0,2026-11-23
+funai,24201,Lago Aiapua,AM,TI0319,novo,0.0,2026-11-23
+mpf,lago aiapua|AM,Lago Aiapuá,AM,TI0319,auto,100.0,2026-11-23
+funai,24401,Lago do Beruri,AM,TI0320,novo,0.0,2026-11-23
+mpf,lago beruri|AM,Lago do Beruri,AM,TI0320,auto,100.0,2026-11-23
+funai,24301,Lago Capanã,AM,TI0321,novo,0.0,2026-11-23
+mpf,lago capana|AM,Lago Capanã,AM,TI0321,auto,100.0,2026-11-23
+funai,52701,Lago do Correio,AM,TI0322,novo,0.0,2026-11-23
+mpf,lago correio|AM,Lago do Correio,AM,TI0322,auto,100.0,2026-11-23
+funai,24701,Lago Jauari,AM,TI0323,novo,0.0,2026-11-23
+mpf,lago jauari|AM,Lago Jauari,AM,TI0323,auto,100.0,2026-11-23
+funai,24501,Lago do Limão,AM,TI0324,novo,0.0,2026-11-23
+mpf,lago limao|AM,Lago do Limão,AM,TI0324,auto,100.0,2026-11-23
+funai,27401,Lago do Marinheiro,AM,TI0325,novo,0.0,2026-11-23
+mpf,lago marinheiro|AM,Lago do Marinheiro,AM,TI0325,auto,100.0,2026-11-23
+funai,25001,Lagoa dos Brincos,MT,TI0326,novo,0.0,2026-11-23
+mpf,lagoa brincos|MT,Lagoa dos Brincos,MT,TI0326,auto,100.0,2026-11-23
+funai,24801,Lagoa Comprida,MA,TI0327,novo,0.0,2026-11-23
+mpf,lagoa comprida|MA,Lagoa Comprida,MA,TI0327,auto,100.0,2026-11-23
+funai,24901,Lagoa  Encantada,CE,TI0328,novo,0.0,2026-11-23
+mpf,lagoa encantada|CE,Lagoa Encantada,CE,TI0328,auto,100.0,2026-11-23
+funai,25101,Lalima,MS,TI0329,novo,0.0,2026-11-23
+mpf,lalima|MS,Lalima,MS,TI0329,auto,100.0,2026-11-23
+funai,25301,Laranjinha,PR,TI0330,novo,0.0,2026-11-23
+funai,56801,Las Casas,PA,TI0331,novo,0.0,2026-11-23
+mpf,las casas|PA,Las Casas,PA,TI0331,auto,100.0,2026-11-23
+funai,25401,Lauro Sodré,AM,TI0332,novo,0.0,2026-11-23
+mpf,lauro sodre|AM,Lauro Sodré,AM,TI0332,auto,100.0,2026-11-23
+funai,25501,Ligeiro,RS,TI0333,novo,0.0,2026-11-23
+mpf,ligeiro|RS,Ligeiro,RS,TI0333,auto,100.0,2026-11-23
+funai,25701,Limão Verde,MS,TI0334,novo,0.0,2026-11-23
+mpf,limao verde|MS,Limão Verde,MS,TI0334,auto,100.0,2026-11-23
+funai,25901,Macarrão,AM,TI0335,novo,0.0,2026-11-23
+mpf,macarrao|AM,Macarrão,AM,TI0335,auto,100.0,2026-11-23
+funai,26001,Mãe Maria,PA,TI0336,novo,0.0,2026-11-23
+mpf,mae maria|PA,Mãe Maria,PA,TI0336,auto,100.0,2026-11-23
+funai,26101,Malacacheta,RR,TI0337,novo,0.0,2026-11-23
+mpf,malacacheta|RR,Malacacheta,RR,TI0337,auto,100.0,2026-11-23
+funai,26201,Mamoadate,AC,TI0338,novo,0.0,2026-11-23
+mpf,mamoadate|AC,Mamoadate,AC,TI0338,auto,100.0,2026-11-23
+funai,73875,Mamoriá Grande,AM,TI0339,novo,0.0,2026-11-23
+funai,26301,Mangueira,RR,TI0340,novo,0.0,2026-11-23
+mpf,mangueira|RR,Mangueira,RR,TI0340,auto,100.0,2026-11-23
+funai,26401,Mangueirinha,PR,TI0341,novo,0.0,2026-11-23
+mpf,mangueirinha|PR,Mangueirinha,PR,TI0341,auto,100.0,2026-11-23
+funai,26501,Manoa/Pium,RR,TI0342,novo,0.0,2026-11-23
+mpf,manoa pium|RR,Manoa/Pium,RR,TI0342,auto,100.0,2026-11-23
+funai,17302,Manoki,MT,TI0343,novo,0.0,2026-11-23
+funai,26601,Mapari,AM,TI0344,novo,0.0,2026-11-23
+mpf,mapari|AM,Mapari,AM,TI0344,auto,100.0,2026-11-23
+funai,26701,Maraã Urubaxi,AM,TI0345,novo,0.0,2026-11-23
+mpf,maraa urubaxi|AM,Maraã Urubaxi,AM,TI0345,auto,100.0,2026-11-23
+funai,65401,Maracaxi,PA,TI0346,novo,0.0,2026-11-23
+mpf,marakaxi|PA,Marakaxi,PA,TI0346,auto,100.0,2026-11-24
+funai,26801,Maraitá,AM,TI0347,novo,0.0,2026-11-23
+mpf,maraita|AM,Maraitá,AM,TI0347,auto,100.0,2026-11-23
+funai,26901,Maraiwatsede,MT,TI0348,novo,0.0,2026-11-23
+mpf,maraiwatsede|MT,Maraiwatsede,MT,TI0348,auto,100.0,2026-11-23
+funai,27001,Marajai,AM,TI0349,novo,0.0,2026-11-23
+mpf,marajai|AM,Marajai,AM,TI0349,auto,100.0,2026-11-23
+funai,27101,Maranduba,PA;TO,TI0350,novo,0.0,2026-11-23
+mpf,maranduba|PA,Maranduba,PA;TO,TI0350,auto,100.0,2026-11-23
+funai,27201,Marechal Rondon,MT,TI0351,novo,0.0,2026-11-23
+mpf,marechal rondon|MT,Marechal Rondon,MT,TI0351,auto,100.0,2026-11-23
+funai,55101,Maró,PA,TI0352,novo,0.0,2026-11-23
+mpf,maro|PA,Maró,PA,TI0352,auto,100.0,2026-11-23
+funai,27501,Marrecas,PR,TI0353,novo,0.0,2026-11-23
+mpf,marrecas|PR,Marrecas,PR,TI0353,auto,100.0,2026-11-23
+funai,73878,Mashco do Rio Chandless,AC,TI0354,novo,0.0,2026-11-23
+funai,27601,Massacara,BA,TI0355,novo,0.0,2026-11-23
+mpf,massacara|BA,Massacará,BA,TI0355,auto,100.0,2026-11-23
+funai,27701,Massaco,RO,TI0356,novo,0.0,2026-11-23
+mpf,massaco|RO,Massaco,RO,TI0356,auto,100.0,2026-11-23
+funai,27901,Mata da Cafurna,AL,TI0357,novo,0.0,2026-11-23
+mpf,mata cafurna|AL,Mata da Cafurna,AL,TI0357,auto,100.0,2026-11-23
+funai,28001,Mata Medonha,BA,TI0358,novo,0.0,2026-11-23
+mpf,mata medonha|BA,Mata Medonha,BA,TI0358,auto,100.0,2026-11-23
+funai,28101,Matintin,AM,TI0359,novo,0.0,2026-11-23
+mpf,matintin|AM,Matintin,AM,TI0359,auto,100.0,2026-11-23
+funai,68601,Mato Castelhano,RS,TI0360,novo,0.0,2026-11-23
+funai,53801,Mato Preto,RS,TI0361,novo,0.0,2026-11-23
+mpf,mato preto|RS,Mato Preto,RS,TI0361,auto,100.0,2026-11-23
+funai,28201,Mawetek,AM,TI0362,novo,0.0,2026-11-23
+mpf,mawetek|AM,Mawetek,AM,TI0362,auto,100.0,2026-11-23
+funai,28301,Maxacali,MG,TI0363,novo,0.0,2026-11-23
+mpf,maxakali|MG,Maxakali,MG,TI0363,auto,100.0,2026-11-24
+funai,28401,Mbiguaçu,SC,TI0364,novo,0.0,2026-11-23
+mpf,mbiguacu|SC,Mbiguaçu,SC,TI0364,auto,100.0,2026-11-23
+mpf,mbiguacu|SC#2,Mbiguaçu,SC,TI0364,auto,100.0,2026-11-23
+funai,28501,Médio Rio Negro I,AM,TI0365,novo,0.0,2026-11-23
+mpf,medio rio negro i|AM,Médio Rio Negro I,AM,TI0365,auto,100.0,2026-11-23
+funai,28601,Médio Rio Negro II,AM,TI0366,novo,0.0,2026-11-23
+mpf,medio rio negro ii|AM,Médio Rio Negro II,AM,TI0366,auto,100.0,2026-11-23
+funai,28701,Menkragnoti,MT;PA,TI0367,novo,0.0,2026-11-23
+mpf,menkragnoti|MT,Menkragnoti,MT;PA,TI0367,auto,100.0,2026-11-23
+funai,28801,Menkü,MT,TI0368,novo,0.0,2026-11-23
+mpf,menku|MT,Menkü,MT,TI0368,auto,100.0,2026-11-23
+funai,28901,Meria,AM,TI0369,novo,0.0,2026-11-23
+mpf,meria|AM,Méria,AM,TI0369,auto,100.0,2026-11-23
+funai,29001,Merure,MT,TI0370,novo,0.0,2026-11-23
+mpf,merure|MT,Merure,MT,TI0370,auto,100.0,2026-11-23
+funai,29101,Miguel/Josefa,AM,TI0371,novo,0.0,2026-11-23
+mpf,miguel josefa|AM,Miguel/Josefa,AM,TI0371,auto,100.0,2026-11-23
+funai,29201,Miratu,AM,TI0372,novo,0.0,2026-11-23
+mpf,miratu|AM,Miratu,AM,TI0372,auto,100.0,2026-11-23
+funai,29301,Monte Caseros,RS,TI0373,novo,0.0,2026-11-23
+mpf,monte caseros|RS,Monte Caseros,RS,TI0373,auto,100.0,2026-11-23
+funai,29401,Morro Alto,SC,TI0374,novo,0.0,2026-11-23
+mpf,morro alto|SC,Morro Alto,SC,TI0374,auto,100.0,2026-11-23
+funai,29501,Morro Branco,MA,TI0375,novo,0.0,2026-11-23
+mpf,morro branco|MA,Morro Branco,MA,TI0375,auto,100.0,2026-11-23
+funai,29601,Morro dos Cavalos,SC,TI0376,novo,0.0,2026-11-23
+mpf,morro cavalos|SC,Morro dos Cavalos,SC,TI0376,auto,100.0,2026-11-23
+funai,73001,Morro da Palha,SC,TI0377,novo,0.0,2026-11-23
+mpf,morro palha|SC,Morro da Palha,SC,TI0377,auto,100.0,2026-11-23
+funai,29701,Moskow,RR,TI0378,novo,0.0,2026-11-23
+mpf,moskow|RR,Moskow,RR,TI0378,auto,100.0,2026-11-23
+funai,73709,Muã Mimatxi (Fazenda Modelo Diniz),MG,TI0379,novo,0.0,2026-11-23
+mpf,fazenda modelo diniz mua mimatxi|MG,Fazenda Modelo Diniz (Muã Mimatxi),MG,TI0379,auto,100.0,2026-11-23
+funai,66001,Mundo Verde/Cachoeirinha,MG,TI0380,novo,0.0,2026-11-23
+funai,29801,Munduruku,PA,TI0381,novo,0.0,2026-11-23
+mpf,munduruku|PA,Munduruku,PA,TI0381,auto,100.0,2026-11-23
+funai,58001,Munduruku-Taquara,PA,TI0382,novo,0.0,2026-11-23
+mpf,munduruku taquara|PA,Munduruku Taquara,PA,TI0382,auto,100.0,2026-11-23
+funai,73805,Mura do Médio Madeira,AM,TI0383,novo,0.0,2026-11-23
+funai,30001,Muriru,RR,TI0384,novo,0.0,2026-11-23
+mpf,muriru|RR,Muriru,RR,TI0384,auto,100.0,2026-11-23
+funai,30101,Murutinga/Tracaja,AM,TI0385,novo,0.0,2026-11-23
+mpf,murutinga tracaja|AM,Murutinga/Tracajá,AM,TI0385,auto,100.0,2026-11-23
+funai,30201,Nambikwara,MT,TI0386,novo,0.0,2026-11-23
+mpf,nambikwara|MT,Nambikwara,MT,TI0386,auto,100.0,2026-11-23
+funai,30301,Ñande Ru Marangatu,MS,TI0387,novo,0.0,2026-11-23
+funai,30401,Natal/Felicidade,AM,TI0388,novo,0.0,2026-11-23
+mpf,natal felicidade|AM,Natal/Felicidade,AM,TI0388,auto,100.0,2026-11-23
+funai,56601,Nawa,AC,TI0389,novo,0.0,2026-11-23
+mpf,nawa|AC,Nawá,AC,TI0389,auto,100.0,2026-11-23
+funai,30501,Nhamundá/Mapuera,AM;PA,TI0390,novo,0.0,2026-11-23
+mpf,nhamunda mapuera|AM,Nhamundá/Mapuera,AM;PA,TI0390,auto,100.0,2026-11-23
+funai,30601,Nioaque,MS,TI0391,novo,0.0,2026-11-23
+funai,30701,Nonoai,RS,TI0392,novo,0.0,2026-11-23
+mpf,nonoai|RS,Nonoaí,RS,TI0392,auto,100.0,2026-11-23
+funai,30801,Nonoai/Rio da Várzea,RS,TI0393,novo,0.0,2026-11-23
+mpf,nonoai rio varzea|RS,Nonoai / Rio da Várzea,RS,TI0393,auto,100.0,2026-11-23
+funai,30901,Nossa Senhora de Fátima,MS,TI0394,novo,0.0,2026-11-23
+mpf,nossa senhora fatima|MS,Nossa Senhora de Fátima,MS,TI0394,auto,100.0,2026-11-23
+funai,31001,Nova Esperança do Rio Jandiatuba,AM,TI0395,novo,0.0,2026-11-23
+mpf,nova esperanca rio jandiatuba|AM,Nova Esperança do Rio Jandiatuba,AM,TI0395,auto,100.0,2026-11-23
+funai,31101,Nova Jacundá,PA,TI0396,novo,0.0,2026-11-23
+mpf,nova jacunda|PA,Nova Jacundá,PA,TI0396,auto,100.0,2026-11-23
+funai,31201,Nove de Janeiro,AM,TI0397,novo,0.0,2026-11-23
+mpf,nove janeiro|AM,Nove de Janeiro,AM,TI0397,auto,100.0,2026-11-23
+funai,31301,Nukini,AC,TI0398,novo,0.0,2026-11-23
+mpf,nukini|AC,Nukini,AC,TI0398,auto,100.0,2026-11-23
+funai,31401,Ofayé-Xavante,MS,TI0399,novo,0.0,2026-11-23
+mpf,ofaye xavante|MS,Ofayé-Xavante,MS,TI0399,auto,100.0,2026-11-23
+funai,31402,Ofayé-Xavante,MS,TI0400,novo,0.0,2026-11-23
+funai,31501,Ouro,RR,TI0401,novo,0.0,2026-11-23
+mpf,ouro|RR,Ouro,RR,TI0401,auto,100.0,2026-11-23
+funai,31601,Pacaas Novas,RO,TI0402,novo,0.0,2026-11-23
+mpf,pacaas novas|RO,Pacaas Novas,RO,TI0402,auto,100.0,2026-11-23
+funai,31701,Pacheca,RS,TI0403,novo,0.0,2026-11-23
+mpf,pacheca|RS,Pacheca,RS,TI0403,auto,100.0,2026-11-23
+funai,31901,Padre,AM,TI0404,novo,0.0,2026-11-23
+mpf,padre|AM,Padre,AM,TI0404,auto,100.0,2026-11-23
+funai,52901,"Paiol, Cajual e Palhal",AM,TI0405,novo,0.0,2026-11-23
+funai,71901,Pakurity,SP,TI0406,novo,0.0,2026-11-23
+funai,32002,Palmas,PR;SC,TI0407,novo,0.0,2026-11-23
+mpf,palmas|PR,Palmas,PR;SC,TI0407,auto,100.0,2026-11-23
+funai,64801,Panambi - Lagoa Rica,MS,TI0408,novo,0.0,2026-11-23
+funai,32101,Panambizinho,MS,TI0409,novo,0.0,2026-11-23
+mpf,panambizinho|MS,Panambizinho,MS,TI0409,auto,100.0,2026-11-23
+funai,32201,Panará,MT;PA,TI0410,novo,0.0,2026-11-23
+mpf,panara|MT,Panará,MT;PA,TI0410,auto,100.0,2026-11-23
+funai,71001,Pankará da Serra do Arapuá,PE,TI0411,novo,0.0,2026-11-23
+mpf,pankara serra arapua|PE,Pankará da Serra do Arapuá,PE,TI0411,auto,100.0,2026-11-23
+funai,32301,Pankararé,BA,TI0412,novo,0.0,2026-11-23
+mpf,pankarare|BA,Pankararé,BA,TI0412,auto,100.0,2026-11-23
+funai,32401,Pankararu,PE,TI0413,novo,0.0,2026-11-23
+mpf,pankararu|PE,Pankararu,PE,TI0413,auto,100.0,2026-11-23
+funai,32601,Paquiçamba,PA,TI0414,novo,0.0,2026-11-23
+mpf,paquicamba|PA,Paquiçamba,PA,TI0414,auto,100.0,2026-11-23
+funai,32602,Paquiçamba,PA,TI0415,novo,0.0,2026-11-23
+funai,32701,Parabubure,MT,TI0416,novo,0.0,2026-11-23
+mpf,parabubure|MT,Parabubure,MT,TI0416,auto,100.0,2026-11-23
+funai,32801,Paracuhuba,AM,TI0417,novo,0.0,2026-11-23
+mpf,paracuhuba|AM,Paracuhuba,AM,TI0417,auto,100.0,2026-11-23
+funai,32901,Parakanã,PA,TI0418,novo,0.0,2026-11-23
+mpf,parakana|PA,Parakanã,PA,TI0418,auto,100.0,2026-11-23
+funai,33001,Paraná do Arauató,AM,TI0419,novo,0.0,2026-11-23
+mpf,parana arauato|AM,Paraná do Arauató,AM,TI0419,auto,100.0,2026-11-23
+funai,33101,Parana do Boa Boa,AM,TI0420,novo,0.0,2026-11-23
+mpf,parana boa boa|AM,Parana do Boá-Boá,AM,TI0420,auto,100.0,2026-11-23
+funai,33201,Parana do Paricá,AM,TI0421,novo,0.0,2026-11-23
+mpf,parana parica|AM,Parana do Paricá,AM,TI0421,auto,100.0,2026-11-23
+funai,33301,Parati-Mirim,RJ,TI0422,novo,0.0,2026-11-23
+mpf,parati mirim|RJ,Parati-Mirim,RJ,TI0422,auto,100.0,2026-11-23
+funai,33401,Paresi,MT,TI0423,novo,0.0,2026-11-23
+mpf,paresi|MT,Paresi,MT,TI0423,auto,100.0,2026-11-23
+funai,65301,Passo Grande do Rio Forquilha,RS,TI0424,novo,0.0,2026-11-23
+mpf,passo grande rio forquilha|RS,Passo Grande do Rio Forquilha,RS,TI0424,auto,100.0,2026-11-23
+funai,33901,Patauá,AM,TI0425,novo,0.0,2026-11-23
+mpf,pataua|AM,Patauá,AM,TI0425,auto,100.0,2026-11-23
+funai,34101,Paukalirajausu,MT,TI0426,novo,0.0,2026-11-23
+mpf,paukalirajausu|MT,Paukalirajausu,MT,TI0426,auto,100.0,2026-11-23
+funai,34201,Paumari do Cuniua,AM,TI0427,novo,0.0,2026-11-23
+mpf,paumari cuniua|AM,Paumari do Cuniua,AM,TI0427,auto,100.0,2026-11-23
+funai,34302,Paumari do Lago Manissuã,AM,TI0428,novo,0.0,2026-11-23
+mpf,paumari lago manissua|AM,Paumari do Lago Manissuã,AM,TI0428,auto,100.0,2026-11-23
+funai,34402,Paumari do Lago Marahã,AM,TI0429,novo,0.0,2026-11-23
+funai,34501,Paumari do Lago Paricá,AM,TI0430,novo,0.0,2026-11-23
+mpf,paumari lago parica|AM,Paumari do Lago Paricá,AM,TI0430,auto,100.0,2026-11-23
+funai,34601,Paumari do Rio Ituxi,AM,TI0431,novo,0.0,2026-11-23
+mpf,paumari rio ituxi|AM,Paumari do Rio Ituxi,AM,TI0431,auto,100.0,2026-11-23
+funai,71801,Peguaoty,SP,TI0432,novo,0.0,2026-11-23
+mpf,peguaoty|SP,Peguaoty,SP,TI0432,auto,100.0,2026-11-23
+funai,34701,Peneri/Tacaquiri,AM,TI0433,novo,0.0,2026-11-23
+mpf,peneri tacaquiri|AM,Peneri/Tacaquiri,AM,TI0433,auto,100.0,2026-11-23
+funai,34801,Pequizal,MT,TI0434,novo,0.0,2026-11-23
+mpf,pequizal|MT,Pequizal,MT,TI0434,auto,100.0,2026-11-23
+funai,55201,Pequizal do Naruvôtu,MT,TI0435,novo,0.0,2026-11-23
+mpf,pequizal naruvotu|MT,Pequizal do Naruvôtu,MT,TI0435,auto,100.0,2026-11-23
+funai,34901,Perigara,MT,TI0436,novo,0.0,2026-11-23
+mpf,perigara|MT,Perigara,MT,TI0436,auto,100.0,2026-11-23
+funai,35001,Peruíbe,SP,TI0437,novo,0.0,2026-11-23
+mpf,peruibe|SP,Peruíbe,SP,TI0437,auto,100.0,2026-11-23
+funai,35101,Piaçaguera,SP,TI0438,novo,0.0,2026-11-23
+mpf,piacaguera|SP,Piaçaguera,SP,TI0438,auto,100.0,2026-11-23
+funai,35201,Pilad Rebuá,MS,TI0439,novo,0.0,2026-11-23
+funai,35301,Pimentel Barbosa,MT,TI0440,novo,0.0,2026-11-23
+mpf,pimentel barbosa|MT,Pimentel Barbosa,MT,TI0440,auto,100.0,2026-11-23
+funai,35401,Pinatuba,AM,TI0441,novo,0.0,2026-11-23
+mpf,pinatuba|AM,Pinatuba,AM,TI0441,auto,100.0,2026-11-23
+funai,73703,Pindó Poty (Lami),RS,TI0442,novo,0.0,2026-11-23
+funai,44301,Pindoty,SC,TI0443,novo,0.0,2026-11-23
+mpf,pindoty|SC,Pindoty,SC,TI0443,auto,100.0,2026-11-23
+funai,71201,Pindoty/Araçá-Mirim,SP,TI0444,novo,0.0,2026-11-23
+mpf,pindoty araca mirim|SP,Pindoty/Araça-Mirim,SP,TI0444,auto,100.0,2026-11-23
+funai,35501,Pinhal,SC,TI0445,novo,0.0,2026-11-23
+funai,35601,Pinhalzinho,PR,TI0446,novo,0.0,2026-11-23
+mpf,pinhalzinho|PR,Pinhalzinho,PR,TI0446,auto,100.0,2026-11-23
+funai,62801,Pipipã,PE,TI0447,novo,0.0,2026-11-23
+mpf,pipipa|PE,Pipipã,PE,TI0447,auto,100.0,2026-11-23
+funai,35701,Pirahã,AM,TI0448,novo,0.0,2026-11-23
+mpf,piraha|AM,Pirahã,AM,TI0448,auto,100.0,2026-11-23
+funai,35801,Pirai,SC,TI0449,novo,0.0,2026-11-23
+mpf,pirai|SC,Piraí,SC,TI0449,auto,100.0,2026-11-23
+funai,35901,Pirajuí,MS,TI0450,novo,0.0,2026-11-23
+mpf,pirajui|MS,Pirajuí,MS,TI0450,auto,100.0,2026-11-23
+funai,36001,Pirakua,MS,TI0451,novo,0.0,2026-11-23
+mpf,pirakua|MS,Pirakuá,MS,TI0451,auto,100.0,2026-11-23
+funai,36101,Pirineus de Souza,MT,TI0452,novo,0.0,2026-11-23
+mpf,pirineus souza|MT,Pirineus de Souza,MT,TI0452,auto,100.0,2026-11-23
+funai,66901,Piripkura ( restrição de uso ),MT,TI0453,novo,0.0,2026-11-23
+funai,73708,Pirititi,RR,TI0454,novo,0.0,2026-11-23
+mpf,pirititi|RR,Pirititi,RR,TI0454,auto,100.0,2026-11-23
+funai,36201,Pitaguary,CE,TI0455,novo,0.0,2026-11-23
+mpf,pitaguary|CE,Pitaguary,CE,TI0455,auto,100.0,2026-11-23
+funai,36301,Pium,RR,TI0456,novo,0.0,2026-11-23
+mpf,pium|RR,Pium,RR,TI0456,auto,100.0,2026-11-23
+funai,53201,Ponciano,AM,TI0457,novo,0.0,2026-11-23
+mpf,ponciano|AM,Ponciano,AM,TI0457,auto,100.0,2026-11-23
+funai,36401,Ponta da Serra,RR,TI0458,novo,0.0,2026-11-23
+mpf,ponta serra|RR,Ponta da Serra,RR,TI0458,auto,100.0,2026-11-23
+funai,36501,Ponte de Pedra,MT,TI0459,novo,0.0,2026-11-23
+mpf,ponte pedra|MT,Ponte de Pedra,MT,TI0459,auto,100.0,2026-11-23
+funai,36601,Porquinhos,MA,TI0460,novo,0.0,2026-11-23
+funai,36602,Porquinhos dos Canela-Apãnjekra,MA,TI0461,novo,0.0,2026-11-23
+mpf,porquinhos canela apanjekra|MA,Porquinhos dos Canela Apãnjekra,MA,TI0461,auto,100.0,2026-11-23
+mpf,porquinhos canela apanjekra|MA#2,Porquinhos dos Canela Apãnjekra,MA,TI0461,auto,100.0,2026-11-23
+funai,59001,Portal do Encantado,MT,TI0462,novo,0.0,2026-11-23
+mpf,portal encantado|MT,Portal do Encantado,MT,TI0462,auto,100.0,2026-11-23
+funai,57101,Porto Limoeiro,AM,TI0463,novo,0.0,2026-11-23
+mpf,porto limoeiro|AM,Porto Limoeiro,AM,TI0463,auto,100.0,2026-11-23
+funai,36701,Porto Lindo,MS,TI0464,novo,0.0,2026-11-23
+funai,36801,Porto Praia,AM,TI0465,novo,0.0,2026-11-23
+mpf,porto praia|AM,Porto Praia,AM,TI0465,auto,100.0,2026-11-23
+funai,36901,Potiguara,PB,TI0466,novo,0.0,2026-11-23
+mpf,potiguara|PB,Potiguara,PB,TI0466,auto,100.0,2026-11-23
+funai,37001,Potiguara de Monte-Mor,PB,TI0467,novo,0.0,2026-11-23
+mpf,potiguara monte mor|PB,Potiguara de Monte Mor,PB,TI0467,auto,100.0,2026-11-23
+funai,37101,Potrero Guaçu,MS,TI0468,novo,0.0,2026-11-23
+mpf,potrero guacu|MS,Potrero Guaçu,MS,TI0468,auto,100.0,2026-11-23
+funai,37201,Poyanawa,AC,TI0469,novo,0.0,2026-11-23
+mpf,poyanawa|AC,Poyanawa,AC,TI0469,auto,100.0,2026-11-23
+funai,37301,Praia do Índio,PA,TI0470,novo,0.0,2026-11-23
+mpf,praia indio|PA,Praia do Índio,PA,TI0470,auto,100.0,2026-11-23
+funai,37401,Praia do Mangue,PA,TI0471,novo,0.0,2026-11-23
+mpf,praia mangue|PA,Praia do Mangue,PA,TI0471,auto,100.0,2026-11-23
+funai,53401,Prosperidade,AM,TI0472,novo,0.0,2026-11-23
+mpf,prosperidade|AM,Prosperidade,AM,TI0472,auto,100.0,2026-11-23
+funai,37501,Queimadas,PR,TI0473,novo,0.0,2026-11-23
+mpf,queimadas|PR,Queimadas,PR,TI0473,auto,100.0,2026-11-23
+funai,37601,Quixaba,BA,TI0474,novo,0.0,2026-11-23
+mpf,quixaba|BA,Quixaba,BA,TI0474,auto,100.0,2026-11-23
+funai,37701,Raimundão,RR,TI0475,novo,0.0,2026-11-23
+mpf,raimundao|RR,Raimundão,RR,TI0475,auto,100.0,2026-11-23
+funai,37801,Rancho Jacaré,MS,TI0476,novo,0.0,2026-11-23
+mpf,rancho jacare|MS,Rancho Jacaré,MS,TI0476,auto,100.0,2026-11-23
+funai,37901,Raposa Serra do Sol,RR,TI0477,novo,0.0,2026-11-23
+mpf,raposa serra sol|RR,Raposa Serra do Sol,RR,TI0477,auto,100.0,2026-11-23
+funai,38001,Recreio/São Félix,AM,TI0478,novo,0.0,2026-11-23
+mpf,recreio sao felix|AM,Recreio/São Félix,AM,TI0478,auto,100.0,2026-11-23
+funai,38102,Ribeirão Silveira,SP,TI0479,novo,0.0,2026-11-23
+mpf,ribeirao silveira|SP,Ribeirão Silveira,SP,TI0479,auto,100.0,2026-11-23
+funai,38201,Rio Apaporis,AM,TI0480,novo,0.0,2026-11-23
+mpf,rio apaporis|AM,Rio Apaporis,AM,TI0480,auto,100.0,2026-11-23
+funai,38301,Rio Areia,PR,TI0481,novo,0.0,2026-11-23
+mpf,rio areia|PR,Rio Areia,PR,TI0481,auto,100.0,2026-11-23
+funai,38501,Rio Biá,AM,TI0482,novo,0.0,2026-11-23
+mpf,rio bia|AM,Rio Biá,AM,TI0482,auto,100.0,2026-11-23
+funai,38601,Rio Branco,RO,TI0483,novo,0.0,2026-11-23
+mpf,rio branco|RO,Rio Branco,RO,TI0483,auto,100.0,2026-11-23
+funai,38701,Rio Branco Itanhaém,SP,TI0484,novo,0.0,2026-11-23
+mpf,rio branco itanhaem|SP,Rio Branco Itanhaém,SP,TI0484,auto,100.0,2026-11-23
+funai,39001,Rio das Cobras,PR,TI0485,novo,0.0,2026-11-23
+mpf,rio cobras|PR,Rio das Cobras,PR,TI0485,auto,100.0,2026-11-23
+funai,39301,Rio Formoso,MT,TI0486,novo,0.0,2026-11-23
+mpf,rio formoso|MT,Rio Formoso,MT,TI0486,auto,100.0,2026-11-23
+funai,39402,Rio Gregório,AC,TI0487,novo,0.0,2026-11-23
+mpf,rio gregorio|AC,Rio Gregório,AC,TI0487,auto,100.0,2026-11-23
+funai,39501,Rio Guaporé,RO,TI0488,novo,0.0,2026-11-23
+mpf,rio guapore|RO,Rio Guaporé,RO,TI0488,auto,100.0,2026-11-23
+funai,39101,Rio dos Índios,RS,TI0489,novo,0.0,2026-11-23
+mpf,rio indios|RS,Rio dos Índios,RS,TI0489,auto,100.0,2026-11-23
+funai,39601,Rio Jumas,AM,TI0490,novo,0.0,2026-11-23
+mpf,rio jumas|AM,Rio Jumas,AM,TI0490,auto,100.0,2026-11-23
+funai,39701,Rio Manicoré,AM,TI0491,novo,0.0,2026-11-23
+mpf,rio manicore|AM,Rio Manicoré,AM,TI0491,auto,100.0,2026-11-23
+funai,39801,Rio Mequens,RO,TI0492,novo,0.0,2026-11-23
+mpf,rio mequens|RO,Rio Mequens,RO,TI0492,auto,100.0,2026-11-23
+funai,40001,Rio Negro Ocaia,RO,TI0493,novo,0.0,2026-11-23
+mpf,rio negro ocaia|RO,Rio Negro de Ocaia,RO,TI0493,auto,100.0,2026-11-23
+funai,40002,Rio Negro Ocaia,RO,TI0494,novo,0.0,2026-11-23
+funai,40101,Rio Omerê,RO,TI0495,novo,0.0,2026-11-23
+mpf,rio omere|RO,Rio Omerê,RO,TI0495,auto,100.0,2026-11-23
+funai,39201,Rio dos Pardos,SC,TI0496,novo,0.0,2026-11-23
+mpf,rio pardos|SC,Rio dos Pardos,SC,TI0496,auto,100.0,2026-11-23
+funai,40201,Rio Paru DEste,PA,TI0497,novo,0.0,2026-11-23
+mpf,rio paru d este|PA,Rio Paru D'Este,PA,TI0497,auto,96.6,2026-11-23
+mpf,rio paru deste|PA,Rio Paru D'Este,PA,TI0497,auto,100.0,2026-11-24
+funai,40301,Rio Pindaré,MA,TI0498,novo,0.0,2026-11-23
+mpf,rio pindare|MA,Rio Pindaré,MA,TI0498,auto,100.0,2026-11-23
+funai,40401,Rio Téa,AM,TI0499,novo,0.0,2026-11-23
+mpf,rio tea|AM,Rio Téa,AM,TI0499,auto,100.0,2026-11-23
+funai,40501,Rio Urubu,AM,TI0500,novo,0.0,2026-11-23
+mpf,rio urubu|AM,Rio Urubu,AM,TI0500,auto,100.0,2026-11-23
+funai,53501,Riozinho,AM,TI0501,novo,0.0,2026-11-23
+mpf,riozinho|AM,Riozinho,AM,TI0501,auto,100.0,2026-11-23
+funai,51301,Riozinho do Alto Envira,AC,TI0502,novo,0.0,2026-11-23
+mpf,riozinho alto envira|AC,Riozinho do Alto Envira,AC,TI0502,auto,100.0,2026-11-23
+funai,62701,Riozinho do Iaco (anteriormente chamada de Manchineri do Seringal Guanabara),AC,TI0503,novo,0.0,2026-11-23
+funai,72501,Riozinho - RS,RS,TI0504,novo,0.0,2026-11-23
+mpf,riozinho rs|RS,Riozinho – RS,RS,TI0504,auto,100.0,2026-11-23
+funai,40601,Rodeador,MA,TI0505,novo,0.0,2026-11-23
+mpf,rodeador|MA,Rodeador,MA,TI0505,auto,100.0,2026-11-23
+funai,40701,Roosevelt,MT;RO,TI0506,novo,0.0,2026-11-23
+mpf,roosevelt|MT,Roosevelt,MT;RO,TI0506,auto,100.0,2026-11-23
+funai,73865,Sabanê,MT,TI0507,novo,0.0,2026-11-23
+funai,40801,Sagarana,RO,TI0508,novo,0.0,2026-11-23
+mpf,sagarana|RO,Sagarana,RO,TI0508,auto,100.0,2026-11-23
+funai,40901,Sai-Cinza,PA,TI0509,novo,0.0,2026-11-23
+mpf,sai cinza|PA,Sai-Cinza,PA,TI0509,auto,100.0,2026-11-23
+funai,41001,Salto Grande do Jacuí,RS,TI0510,novo,0.0,2026-11-23
+mpf,salto grande jacui|RS,Salto Grande do Jacuí,RS,TI0510,auto,100.0,2026-11-23
+funai,67801,Sambaqui,PR,TI0511,novo,0.0,2026-11-23
+mpf,sambaqui|PR,Sambaqui,PR,TI0511,auto,100.0,2026-11-23
+funai,41101,Sangradouro/Volta Grande,MT,TI0512,novo,0.0,2026-11-23
+mpf,sangradouro volta grande|MT,Sangradouro/Volta Grande,MT,TI0512,auto,100.0,2026-11-23
+mpf,sangradouro volta grande|MT#2,Sangradouro/Volta Grande,MT,TI0512,auto,100.0,2026-11-23
+funai,53601,Santa Cruz da Nova Aliança,AM,TI0513,novo,0.0,2026-11-23
+mpf,santa cruz nova alianca|AM,Santa Cruz da Nova Aliança,AM,TI0513,auto,100.0,2026-11-23
+funai,41201,Santa Inez,RR,TI0514,novo,0.0,2026-11-23
+mpf,santa inez|RR,Santa Inez,RR,TI0514,auto,100.0,2026-11-23
+funai,41301,Santana,MT,TI0515,novo,0.0,2026-11-23
+mpf,santana|MT,Santana,MT,TI0515,auto,100.0,2026-11-23
+funai,58201,São Domingos do Jacapari e Estação,AM,TI0516,novo,0.0,2026-11-23
+mpf,sao domingos jacapari estacao|AM,São Domingos do Jacapari e Estação,AM,TI0516,auto,100.0,2026-11-23
+funai,58301,São Domingos - MT,MT,TI0517,novo,0.0,2026-11-23
+mpf,sao domingos mt|MT,São Domingos - MT,MT,TI0517,auto,100.0,2026-11-23
+funai,41501,São Francisco do Canimari,AM,TI0518,novo,0.0,2026-11-23
+mpf,sao francisco canimari|AM,São Francisco do Canimari,AM,TI0518,auto,100.0,2026-11-23
+funai,41601,São Jeronimo,PR,TI0519,novo,0.0,2026-11-23
+mpf,sao jeronimo|PR,São Jeronimo,PR,TI0519,auto,100.0,2026-11-23
+funai,41701,São Leopoldo,AM,TI0520,novo,0.0,2026-11-23
+mpf,sao leopoldo|AM,São Leopoldo,AM,TI0520,auto,100.0,2026-11-23
+funai,58101,São Marcos - MT,MT,TI0521,novo,0.0,2026-11-23
+mpf,sao marcos mt|MT,São Marcos - MT,MT,TI0521,auto,100.0,2026-11-23
+funai,58401,São Marcos - RR,RR,TI0522,novo,0.0,2026-11-23
+mpf,sao marcos rr|RR,São Marcos - RR,RR,TI0522,auto,100.0,2026-11-23
+funai,41801,São Pedro,AM,TI0523,novo,0.0,2026-11-23
+mpf,sao pedro|AM,São Pedro,AM,TI0523,auto,100.0,2026-11-23
+funai,41901,São Pedro do Sepatini,AM,TI0524,novo,0.0,2026-11-23
+mpf,sao pedro sepatini|AM,São Pedro do Sepatini,AM,TI0524,auto,100.0,2026-11-23
+funai,42001,São Sebastião,AM,TI0525,novo,0.0,2026-11-23
+mpf,sao sebastiao|AM,São Sebastião,AM,TI0525,auto,100.0,2026-11-23
+funai,51501,Sapotal,AM,TI0526,novo,0.0,2026-11-23
+mpf,sapotal|AM,Sapotal,AM,TI0526,auto,100.0,2026-11-23
+funai,42101,Sararé,MT,TI0527,novo,0.0,2026-11-23
+mpf,sarare|MT,Sararé,MT,TI0527,auto,100.0,2026-11-23
+funai,58901,Sarauá,PA,TI0528,novo,0.0,2026-11-23
+mpf,saraua|PA,Sarauá,PA,TI0528,auto,100.0,2026-11-23
+funai,42201,Sassoró,MS,TI0529,novo,0.0,2026-11-23
+mpf,sassoro|MS,Sassoró,MS,TI0529,auto,100.0,2026-11-23
+funai,73727,Sawré Bap in (Apompu),PA,TI0530,novo,0.0,2026-11-23
+mpf,sawre bap in apompu|PA,Sawré Bap’in (Apompu),PA,TI0530,auto,100.0,2026-11-23
+mpf,sawre bapin apompu|PA,Sawré Bap’in (Apompu),PA,TI0530,auto,100.0,2026-11-24
+funai,56701,Sawré Muybu (Pimental),PA,TI0531,novo,0.0,2026-11-23
+mpf,sawre muybu pimental|PA,Sawré Muybu (Pimental),PA,TI0531,auto,100.0,2026-11-23
+funai,42301,Sepoti,AM,TI0532,novo,0.0,2026-11-23
+mpf,sepoti|AM,Sepoti,AM,TI0532,auto,100.0,2026-11-23
+funai,42501,Serra do Itatins,SP,TI0533,novo,0.0,2026-11-23
+funai,42401,Serra da Moça,RR,TI0534,novo,0.0,2026-11-23
+mpf,serra moca|RR,Serra da Moça,RR,TI0534,auto,100.0,2026-11-23
+funai,42601,Serra Morena,MT,TI0535,novo,0.0,2026-11-23
+mpf,serra morena|MT,Serra Morena,MT,TI0535,auto,100.0,2026-11-23
+funai,42701,Serrinha,RS,TI0536,novo,0.0,2026-11-23
+mpf,serrinha|RS,Serrinha,RS,TI0536,auto,100.0,2026-11-23
+funai,42801,Seruini/Mariene,AM,TI0537,novo,0.0,2026-11-23
+mpf,seruini mariene|AM,Seruini/Mariene,AM,TI0537,auto,100.0,2026-11-23
+funai,42901,Sete Cerros,MS,TI0538,novo,0.0,2026-11-23
+funai,43001,Sete de Setembro,MT;RO,TI0539,novo,0.0,2026-11-23
+mpf,sete setembro|MT,Sete de Setembro,MT;RO,TI0539,auto,100.0,2026-11-23
+funai,43101,Setemã,AM,TI0540,novo,0.0,2026-11-23
+mpf,setema|AM,Setemã,AM,TI0540,auto,100.0,2026-11-23
+funai,69001,Sissaíma,AM,TI0541,novo,0.0,2026-11-23
+mpf,sissaima|AM,Sissaíma,AM,TI0541,auto,100.0,2026-11-23
+funai,55001,Sombrerito,MS,TI0542,novo,0.0,2026-11-23
+mpf,sombrerito|MS,Sombrerito,MS,TI0542,auto,100.0,2026-11-23
+funai,43201,Sororó,PA,TI0543,novo,0.0,2026-11-23
+mpf,sororo|PA,Sororó,PA,TI0543,auto,100.0,2026-11-23
+funai,43301,Sucuba,RR,TI0544,novo,0.0,2026-11-23
+mpf,sucuba|RR,Sucuba,RR,TI0544,auto,100.0,2026-11-23
+funai,43401,Sucuriy,MS,TI0545,novo,0.0,2026-11-23
+mpf,sucuriy|MS,Sucuriy,MS,TI0545,auto,100.0,2026-11-23
+funai,53901,Sururuá,AM,TI0546,novo,0.0,2026-11-23
+mpf,sururua|AM,Sururuá,AM,TI0546,auto,100.0,2026-11-23
+funai,73714,Taba dos Anacé,CE,TI0547,novo,0.0,2026-11-23
+mpf,taba anaces|CE,Taba dos Anacés,CE,TI0547,auto,95.2,2026-11-23
+funai,43501,Tabalascada,RR,TI0548,novo,0.0,2026-11-23
+mpf,tabalascada|RR,Tabalascada,RR,TI0548,auto,100.0,2026-11-23
+funai,43601,Tabocal,AM,TI0549,novo,0.0,2026-11-23
+mpf,tabocal|AM,Tabocal,AM,TI0549,auto,100.0,2026-11-23
+funai,43701,Tadarimana,MT,TI0550,novo,0.0,2026-11-23
+mpf,tadarimana|MT,Tadarimana,MT,TI0550,auto,100.0,2026-11-23
+funai,73301,Taego Ãwa,TO,TI0551,novo,0.0,2026-11-23
+mpf,taego awa|TO,Taego Ãwa,TO,TI0551,auto,100.0,2026-11-23
+funai,43801,Taihantesu,MT,TI0552,novo,0.0,2026-11-23
+mpf,taihantesu|MT,Taihantesu,MT,TI0552,auto,100.0,2026-11-23
+funai,43901,Takuaraty/Yvykuarusu,MS,TI0553,novo,0.0,2026-11-23
+funai,73720,Takuari,SP,TI0554,novo,0.0,2026-11-23
+funai,66301,Tanaru ( restrição de uso ),RO,TI0555,novo,0.0,2026-11-23
+funai,54601,Tapeba,CE,TI0556,novo,0.0,2026-11-23
+mpf,tapeba|CE,Tapeba,CE,TI0556,auto,100.0,2026-11-23
+funai,44001,Tapirapé/Karajá,MT,TI0557,novo,0.0,2026-11-23
+mpf,tapirape karaja|MT,Tapirapé/Karajá,MT,TI0557,auto,100.0,2026-11-23
+funai,71301,Tapyi/Rio Branquinho,SP,TI0558,novo,0.0,2026-11-23
+mpf,tapyi rio branquinho|SP,Tapyi (Rio Branquinho),SP,TI0558,auto,100.0,2026-11-23
+funai,44101,Taquaperi,MS,TI0559,novo,0.0,2026-11-23
+mpf,taquaperi|MS,Taquaperi,MS,TI0559,auto,100.0,2026-11-23
+funai,44201,Taquara,MS,TI0560,novo,0.0,2026-11-23
+mpf,taquara|MS,Taquara,MS,TI0560,auto,100.0,2026-11-23
+funai,59101,Tarumã,SC,TI0561,novo,0.0,2026-11-23
+mpf,taruma|SC,Tarumã,SC,TI0561,auto,100.0,2026-11-23
+funai,44401,Taunay/Ipegue,MS,TI0562,novo,0.0,2026-11-23
+mpf,taunay ipegue|MS,Taunay/Ipegue,MS,TI0562,auto,100.0,2026-11-23
+funai,44402,Taunay/Ipegue,MS,TI0563,novo,0.0,2026-11-23
+funai,73807,Tekoá Guavirá,RS,TI0564,novo,0.0,2026-11-23
+funai,73755,Tekoa Gwyra Pepo,SP,TI0565,novo,0.0,2026-11-23
+mpf,tekoa guyra pepo|SP,Tekoa Guyra Pepo,SP,TI0565,auto,93.8,2026-11-23
+funai,44501,Tekohá Añetete,PR,TI0566,novo,0.0,2026-11-23
+mpf,tekoha anetete|PR,Tekoha Añetete,PR,TI0566,auto,100.0,2026-11-23
+funai,70101,Tekoha Guasú Guavirá,PR,TI0567,novo,0.0,2026-11-23
+funai,65601,Tekoha Itamarã,PR,TI0568,novo,0.0,2026-11-23
+mpf,tekoha itamara|PR,Tekoha Itamarã,PR,TI0568,auto,100.0,2026-11-23
+funai,66101,Tekoha Jevy (Rio Pequeno),RJ,TI0569,novo,0.0,2026-11-23
+funai,44601,Tembé,PA,TI0570,novo,0.0,2026-11-23
+mpf,tembe|PA,Tembé,PA,TI0570,auto,100.0,2026-11-23
+funai,44701,Tenharim do Igarapé Preto,AM,TI0571,novo,0.0,2026-11-23
+mpf,tenharim igarape preto|AM,Tenharim do Igarapé Preto,AM,TI0571,auto,100.0,2026-11-23
+funai,44801,Tenharim Marmelos,AM,TI0572,novo,0.0,2026-11-23
+mpf,tenharim marmelos|AM,Tenharim Marmelos,AM,TI0572,auto,100.0,2026-11-23
+funai,62901,Tenharim Marmelos (Gleba B),AM,TI0573,novo,0.0,2026-11-23
+mpf,tenharim marmelos gleba b|AM,Tenharim Marmelos (Gleba B),AM,TI0573,auto,100.0,2026-11-23
+funai,23602,Tenondé Porã,SP,TI0574,novo,0.0,2026-11-23
+mpf,tenonde pora|SP,Tenondé Porã,SP,TI0574,auto,100.0,2026-11-23
+funai,44901,Terena Gleba Iriri,MT,TI0575,novo,0.0,2026-11-23
+mpf,terena gleba iriri|MT,Terena Gleba Iriri,MT,TI0575,auto,100.0,2026-11-23
+funai,45001,Tereza Cristina,MT,TI0576,novo,0.0,2026-11-23
+mpf,teresa cristina|MT,Teresa Cristina,MT,TI0576,auto,93.3,2026-11-23
+funai,45201,Tibagy/Mococa,PR,TI0577,novo,0.0,2026-11-23
+mpf,tibagy mococa|PR,Tibagy/Mococa,PR,TI0577,auto,100.0,2026-11-23
+funai,45301,Tikúna de Feijoal,AM,TI0578,novo,0.0,2026-11-23
+mpf,tikuna feijoal|AM,Tikuna de Feijoal,AM,TI0578,auto,100.0,2026-11-23
+funai,46801,Tikuna de Santo Antonio,AM,TI0579,novo,0.0,2026-11-23
+mpf,tikuna santo antonio|AM,Tikuna de Santo Antonio,AM,TI0579,auto,100.0,2026-11-23
+funai,45402,Tingui Botó,AL,TI0580,novo,0.0,2026-11-23
+mpf,tingui boto|AL,Tingui-Botó,AL,TI0580,auto,100.0,2026-11-23
+funai,45501,Tirecatinga,MT,TI0581,novo,0.0,2026-11-23
+mpf,tirecatinga|MT,Tirecatinga,MT,TI0581,auto,100.0,2026-11-23
+funai,45601,Toldo Chimbangue,SC,TI0582,novo,0.0,2026-11-23
+mpf,toldo chimbangue|SC,Toldo Chimbangue,SC,TI0582,auto,100.0,2026-11-23
+funai,45701,Toldo Chimbangue II,SC,TI0583,novo,0.0,2026-11-23
+mpf,toldo chimbangue ii|SC,Toldo Chimbangue II,SC,TI0583,auto,100.0,2026-11-23
+funai,45801,Toldo Imbu,SC,TI0584,novo,0.0,2026-11-23
+mpf,toldo imbu|SC,Toldo Imbu,SC,TI0584,auto,100.0,2026-11-23
+funai,35502,Toldo Pinhal,SC,TI0585,novo,0.0,2026-11-23
+mpf,toldo pinhal|SC,Toldo Pinhal,SC,TI0585,auto,100.0,2026-11-23
+funai,45901,Torá,AM,TI0586,novo,0.0,2026-11-23
+mpf,tora|AM,Torá,AM,TI0586,auto,100.0,2026-11-23
+funai,46001,Tremembé de Almofala,CE,TI0587,novo,0.0,2026-11-23
+mpf,tremembe almofala|CE,Tremembé de Almofala,CE,TI0587,auto,100.0,2026-11-23
+funai,70601,Tremembé da Barra do Mundaú,CE,TI0588,novo,0.0,2026-11-23
+mpf,tremembe barra mandau|CE,Tremembé da Barra do Mandaú,CE,TI0588,auto,95.2,2026-11-23
+funai,64601,Tremembé de Queimadas,CE,TI0589,novo,0.0,2026-11-23
+mpf,tremembe queimadas|CE,Tremembé de Queimadas,CE,TI0589,auto,100.0,2026-11-23
+funai,46101,Trincheira,AM,TI0590,novo,0.0,2026-11-23
+mpf,trincheira|AM,Trincheira,AM,TI0590,auto,100.0,2026-11-23
+funai,46201,Trincheira Bacaja,PA,TI0591,novo,0.0,2026-11-23
+mpf,trincheira bacaja|PA,Trincheira Bacaja,PA,TI0591,auto,100.0,2026-11-23
+funai,46301,Trocará,PA,TI0592,novo,0.0,2026-11-23
+mpf,trocara|PA,Trocará,PA,TI0592,auto,100.0,2026-11-23
+funai,46302,Trocará - Doação,PA,TI0593,novo,0.0,2026-11-23
+funai,46401,Trombetas/Mapuera,AM;PA;RR,TI0594,novo,0.0,2026-11-23
+mpf,trombetas mapuera|AM,Trombetas Mapuera,AM;PA;RR,TI0594,auto,100.0,2026-11-23
+funai,46501,Truaru,RR,TI0595,novo,0.0,2026-11-23
+mpf,truaru|RR,Truaru,RR,TI0595,auto,100.0,2026-11-23
+funai,46601,Truká,PE,TI0596,novo,0.0,2026-11-23
+funai,46602,Truká - Ilha da Assunção,PE,TI0597,novo,0.0,2026-11-23
+funai,46701,Tubarão Latunde,RO,TI0598,novo,0.0,2026-11-23
+mpf,tubarao latunde|RO,Tubarão Latunde,RO,TI0598,auto,100.0,2026-11-23
+funai,46901,Tukuna Porto Espiritual,AM,TI0599,novo,0.0,2026-11-23
+mpf,tikuna porto espiritual|AM,Tikuna Porto Espiritual,AM,TI0599,auto,95.7,2026-11-23
+funai,47001,Tukuna Umariaçu,AM,TI0600,novo,0.0,2026-11-23
+mpf,tukuna umariacu|AM,Tukuna Umariaçu,AM,TI0600,auto,100.0,2026-11-23
+funai,59201,Tumbalalá,BA,TI0601,novo,0.0,2026-11-23
+mpf,tumbalala|BA,Tumbalalá,BA,TI0601,auto,100.0,2026-11-23
+funai,47101,Tumiã,AM,TI0602,novo,0.0,2026-11-23
+mpf,tumia|AM,Tumiã,AM,TI0602,auto,100.0,2026-11-23
+funai,33701,Parque do Tumucumaque,AP;PA,TI0603,novo,0.0,2026-11-23
+mpf,tumucumaque|AP,Parque do Tumucumaque,AP;PA,TI0603,auto,100.0,2026-11-23
+funai,47201,Tupã-Supé,AM,TI0604,novo,0.0,2026-11-23
+mpf,tupa supe|AM,Tupã Supé,AM,TI0604,auto,100.0,2026-11-23
+funai,68901,Tupinambá de Belmonte,BA,TI0605,novo,0.0,2026-11-23
+mpf,tupinamba belmonte|BA,Tupinambá de Belmonte,BA,TI0605,auto,100.0,2026-11-23
+funai,55501,Tupinambá de Olivença,BA,TI0606,novo,0.0,2026-11-23
+funai,8003,Tupiniquim,ES,TI0607,novo,0.0,2026-11-23
+mpf,tupiniquim|ES,Tupiniquim,ES,TI0607,auto,100.0,2026-11-23
+funai,47301,Turé/Mariquita,PA,TI0608,novo,0.0,2026-11-23
+mpf,ture mariquita|PA,Turé/Mariquita,PA,TI0608,auto,100.0,2026-11-23
+funai,47401,Turé/Mariquita II,PA,TI0609,novo,0.0,2026-11-23
+mpf,ture mariquita ii|PA,Turé/Mariquita II,PA,TI0609,auto,100.0,2026-11-23
+funai,63901,Tuwa Apekuokawera,PA,TI0610,novo,0.0,2026-11-23
+funai,15401,Tuxá de Ibotirama,BA,TI0611,novo,0.0,2026-11-23
+funai,12601,Tuxá de Inajá,PE,TI0612,novo,0.0,2026-11-23
+funai,73798,Tuxá Setsor Bragagá,MG,TI0613,novo,0.0,2026-11-23
+funai,47601,Uaçá,AP,TI0614,novo,0.0,2026-11-23
+mpf,uaca|AP,Uaça,AP,TI0614,auto,100.0,2026-11-23
+funai,47701,Uati-Paraná,AM,TI0615,novo,0.0,2026-11-23
+mpf,auati parana|AM,Auati-Paraná,AM,TI0615,auto,95.2,2026-11-24
+mpf,uati parana|AM,Uati-Paraná,AM,TI0615,auto,100.0,2026-11-23
+funai,47801,Ubawawe,MT,TI0616,novo,0.0,2026-11-23
+mpf,ubawawe|MT,Ubawawe,MT,TI0616,auto,100.0,2026-11-23
+funai,47901,Uirapuru,MT,TI0617,novo,0.0,2026-11-23
+mpf,uirapuru|MT,Uirapuru,MT,TI0617,auto,100.0,2026-11-23
+funai,48001,Umutina,MT,TI0618,novo,0.0,2026-11-23
+mpf,umutina|MT,Umutina,MT,TI0618,auto,100.0,2026-11-23
+funai,48101,Uneiuxi,AM,TI0619,novo,0.0,2026-11-23
+mpf,uneiuxi|AM,Uneiuxi,AM,TI0619,auto,100.0,2026-11-23
+funai,48102,Uneiuxi - Reestudo,AM,TI0620,novo,0.0,2026-11-23
+funai,48201,Uru-Eu-Wau-Wau,RO,TI0621,novo,0.0,2026-11-23
+mpf,uru eu wau wau|RO,Uru-Eu-Wau-Wau,RO,TI0621,auto,100.0,2026-11-23
+funai,48301,Urubu Branco,MT,TI0622,novo,0.0,2026-11-23
+mpf,urubu branco|MT,Urubu Branco,MT,TI0622,auto,100.0,2026-11-23
+funai,48401,Urucu/Juruá,MA,TI0623,novo,0.0,2026-11-23
+mpf,urucu jurua|MA,Urucu/Juruá,MA,TI0623,auto,100.0,2026-11-23
+funai,62401,Utaria Wyhyna/Iròdu Iràna,TO,TI0624,novo,0.0,2026-11-23
+mpf,utaria wyhyna irodu irana|TO,Utaria Wyhyna/Irodu Irana,TO,TI0624,auto,100.0,2026-11-23
+funai,48501,Utiariti,MT,TI0625,novo,0.0,2026-11-23
+mpf,utiariti|MT,Utiariti,MT,TI0625,auto,100.0,2026-11-23
+funai,73745,Uty-Xunati,RO,TI0626,novo,0.0,2026-11-23
+mpf,uty xunaty|RO,Uty-Xunaty,RO,TI0626,auto,100.0,2026-11-24
+funai,48601,Vale do Guaporé,MT,TI0627,novo,0.0,2026-11-23
+mpf,vale guapore|MT,Vale do Guaporé,MT,TI0627,auto,100.0,2026-11-23
+funai,48701,Vale do Javari,AM,TI0628,novo,0.0,2026-11-23
+mpf,vale javari|AM,Vale do Javari,AM,TI0628,auto,100.0,2026-11-23
+funai,73856,Valparaíso (RI),AM,TI0629,novo,0.0,2026-11-23
+mpf,valparaiso|AM,Valparaíso,AM,TI0629,auto,100.0,2026-11-24
+funai,48801,Vanuire,SP,TI0630,novo,0.0,2026-11-23
+mpf,vanuire|SP,Vanuire,SP,TI0630,auto,100.0,2026-11-23
+funai,48901,Vargem Alegre,BA,TI0631,novo,0.0,2026-11-23
+mpf,vargem alegre|BA,Vargem Alegre,BA,TI0631,auto,100.0,2026-11-23
+funai,49001,Varzinha,RS,TI0632,novo,0.0,2026-11-23
+mpf,varzinha|RS,Varzinha,RS,TI0632,auto,100.0,2026-11-23
+funai,49101,Ventarra,RS,TI0633,novo,0.0,2026-11-23
+mpf,ventarra|RS,Ventarra,RS,TI0633,auto,100.0,2026-11-23
+funai,73796,Vera Tupã?i,PR,TI0634,novo,0.0,2026-11-23
+funai,54101,Vista Alegre,AM,TI0635,novo,0.0,2026-11-23
+mpf,vista alegre|AM,Vista Alegre,AM,TI0635,auto,100.0,2026-11-23
+funai,49201,Votouro,RS,TI0636,novo,0.0,2026-11-23
+mpf,votouro|RS,Votouro,RS,TI0636,auto,100.0,2026-11-23
+funai,54001,Votouro/Kandóia,RS,TI0637,novo,0.0,2026-11-23
+mpf,votouro kandoia|RS,Votouro/Kandoia,RS,TI0637,auto,100.0,2026-11-23
+funai,49301,Vui-Uata-In,AM,TI0638,novo,0.0,2026-11-23
+mpf,vui uata in|AM,Vui-Uata-In,AM,TI0638,auto,100.0,2026-11-23
+funai,49401,Waiãpi,AP,TI0639,novo,0.0,2026-11-23
+mpf,waiapi|AP,Waiãpi,AP,TI0639,auto,100.0,2026-11-23
+funai,49501,Waimiri-Atroari,AM;RR,TI0640,novo,0.0,2026-11-23
+mpf,waimiri atroari|AM,Waimiri-Atroari,AM;RR,TI0640,auto,100.0,2026-11-23
+funai,73724,Waimiri-Atroari,AM;RR,TI0641,novo,0.0,2026-11-23
+funai,49601,WaiWái,RR,TI0642,novo,0.0,2026-11-23
+mpf,wai wai|RR,Wai-Wai,RR,TI0642,auto,100.0,2026-11-24
+funai,49701,Wassu-Cocal,AL,TI0643,novo,0.0,2026-11-23
+mpf,wassu cocal|AL,Wassu Cocal,AL,TI0643,auto,100.0,2026-11-23
+funai,73770,Wassu Cocal,AL,TI0644,novo,0.0,2026-11-23
+funai,49801,Wawi,MT,TI0645,novo,0.0,2026-11-23
+mpf,wawi|MT,Wawi,MT,TI0645,auto,100.0,2026-11-23
+funai,73601,Wedezé,MT,TI0646,novo,0.0,2026-11-23
+funai,49901,Xacriabá,MG,TI0647,novo,0.0,2026-11-23
+funai,49902,Xacriabá,MG,TI0648,novo,0.0,2026-11-23
+funai,50001,Xakriabá Rancharia,MG,TI0649,novo,0.0,2026-11-23
+mpf,xakriaba rancharia|MG,Xakriabá Rancharia,MG,TI0649,auto,100.0,2026-11-23
+funai,50101,Xambioá,TO,TI0650,novo,0.0,2026-11-23
+mpf,xambioa|TO,Xambioá,TO,TI0650,auto,100.0,2026-11-23
+funai,50201,Xapecó,SC,TI0651,novo,0.0,2026-11-23
+mpf,xapeco|SC,Xapecó,SC,TI0651,auto,100.0,2026-11-23
+funai,64901,Xapecó (Pinhalzinho-Canhadão),SC,TI0652,novo,0.0,2026-11-23
+funai,50301,Xerente,TO,TI0653,novo,0.0,2026-11-23
+mpf,xerente|TO,Xerente,TO,TI0653,auto,100.0,2026-11-23
+funai,50501,Xikrin do Rio Catete,PA,TI0654,novo,0.0,2026-11-23
+mpf,xikrin rio catete|PA,Xikrin do Rio Catete,PA,TI0654,auto,100.0,2026-11-23
+funai,33801,Parque do Xingu,MT;PA,TI0655,novo,0.0,2026-11-23
+mpf,xingu|MT,Parque do Xingu,MT,TI0655,auto,100.0,2026-11-23
+funai,50601,Xipaya,PA,TI0656,novo,0.0,2026-11-23
+mpf,xipaya|PA,Xipaya,PA,TI0656,auto,100.0,2026-11-23
+funai,50801,Xukuru,PE,TI0657,novo,0.0,2026-11-23
+mpf,xucuru|PE,Xucuru,PE,TI0657,auto,100.0,2026-11-24
+funai,70201,Xukuru de Cimbres,PE,TI0658,novo,0.0,2026-11-23
+mpf,xucuru cimbres|PE,Xucuru de Cimbres,PE,TI0658,auto,100.0,2026-11-24
+funai,50701,Xukuru-Kariri,AL,TI0659,novo,0.0,2026-11-23
+mpf,xukuru kariri|AL,Xukuru-Kariri,AL,TI0659,auto,100.0,2026-11-23
+funai,50901,Yanomami,AM;RR,TI0660,novo,0.0,2026-11-23
+mpf,yanomami|AM,Yanomami,AM;RR,TI0660,auto,100.0,2026-11-23
+funai,73713,Ygua Porã (Amâncio),SC,TI0661,novo,0.0,2026-11-23
+mpf,ygua pora amancio|SC,Ygua Porã (Amâncio),SC,TI0661,auto,100.0,2026-11-23
+funai,73722,Ypoi/Triunfo,MS,TI0662,novo,0.0,2026-11-23
+mpf,ypoi triunfo|MS,Ypoí/Triunfo,MS,TI0662,auto,100.0,2026-11-23
+funai,36702,Yvy-katu,MS,TI0663,novo,0.0,2026-11-23
+funai,64001,Yvyporã Laranjinha,PR,TI0664,novo,0.0,2026-11-23
+mpf,yvypora laranjinha|PR,Yvyporã Laranjinha,PR,TI0664,auto,100.0,2026-11-23
+funai,51001,Zoe,PA,TI0665,novo,0.0,2026-11-23
+funai,51101,Zoró,MT,TI0666,novo,0.0,2026-11-23
+mpf,zoro|MT,Zoró,MT,TI0666,auto,100.0,2026-11-23
+funai,51201,Zuruahã,AM,TI0667,novo,0.0,2026-11-23
+mpf,|AM,Colônia,AM,TI0668,novo,0.0,2026-11-23
+mpf,acapuri meio|AM,Acapuri do Meio,AM,TI0669,novo,75.0,2026-11-23
+mpf,agachi|MS,Agachi,MS,TI0670,novo,61.5,2026-11-23
+mpf,agua grande|RS,Água Grande,RS,TI0671,novo,56.2,2026-11-23
+mpf,agua limpa|MS,Água Limpa,MS,TI0672,novo,62.5,2026-11-23
+mpf,aldeia bom jesus kuaray haxa|PR,Aldeia Bom Jesus (Kuaray Haxa),PR,TI0673,novo,42.9,2026-11-23
+mpf,aldeia guajajara|MT,Aldeia Guajajara,MT,TI0674,novo,53.8,2026-11-23
+mpf,aldeia imburana|CE,Aldeia Imburana,CE,TI0675,novo,40.0,2026-11-23
+mpf,aldeia indigena areal|ES,Aldeia Indígena de Areal,ES,TI0676,novo,52.6,2026-11-23
+mpf,aldeia ita para serra caparao|ES,Aldeia Ita Pará da Serra do Caparaó,ES,TI0677,novo,56.0,2026-11-23
+mpf,aldeia limao verde terra indigena amambai|MS,Aldeia Limão Verde (Terra Indígena Amambai),MS,TI0678,novo,61.0,2026-11-23
+mpf,aldeia renascer ywyty guacu|SP,Aldeia Renascer/Ywyty Guaçu,SP,TI0679,novo,38.9,2026-11-23
+mpf,aldeia serra couro dantas aldeia cachimbo|BA,Aldeia Serra do Couro Dantas/Aldeia do Cachimbó,BA,TI0680,novo,37.7,2026-11-23
+mpf,aldeia tha fene|BA,Aldeia Thá-Fene,BA,TI0681,novo,74.1,2026-11-23
+mpf,aldeia thery xavante auwe uptabi|GO,Aldeia Thery Xavante Auwé Uptabi,GO,TI0682,novo,34.0,2026-11-23
+mpf,aldeinha|MS,Aldeinha,MS,TI0683,novo,60.0,2026-11-23
+mpf,alto rio ica|AM,Alto Rio Iça,AM,TI0684,novo,72.7,2026-11-23
+mpf,anace|CE,Anacé,CE,TI0685,novo,66.7,2026-11-23
+mpf,andaia|MG,Andaiá,MG,TI0686,novo,47.6,2026-11-23
+mpf,aningalzinho|PA,Aningalzinho,PA,TI0687,novo,43.5,2026-11-23
+mpf,apapegua|MS,Apapeguá,MS,TI0688,novo,53.3,2026-11-23
+mpf,apinaye ii|TO,Apinayé II,TO,TI0689,novo,82.4,2026-11-23
+mpf,arana caboclo|MG,Aranã Caboclo,MG,TI0690,novo,47.6,2026-11-23
+mpf,arana indio|MG,Aranã Índio,MG,TI0691,novo,58.3,2026-11-23
+mpf,arandu mirim|RJ,Arandu-Mirim,RJ,TI0692,novo,50.0,2026-11-23
+mpf,arapua|RR,Arapuá,RR,TI0693,novo,72.7,2026-11-23
+mpf,arara baixo jatapu|AM,Ararà (Baixo Jatapú),AM,TI0694,novo,58.3,2026-11-23
+mpf,araraquara|ES,Araraquara,ES,TI0695,novo,35.9,2026-11-23
+mpf,arauaca|AM,Arauacá,AM,TI0696,novo,66.7,2026-11-23
+mpf,areal|PA,Areal,PA,TI0697,novo,60.0,2026-11-23
+mpf,aripuana ti|MT,Aripuanã (TI),MT,TI0698,novo,84.2,2026-11-23
+mpf,arroio conde|RS,Arroio do Conde,RS,TI0699,novo,56.0,2026-11-23
+mpf,ashaninka kulina colocacao porvir|AC,Ashaninka e Kulina da Colocação Porvir,AC,TI0700,novo,60.0,2026-11-23
+mpf,atikum cotegipe angical|BA,Atikum de Cotegipe/de Angical,BA,TI0701,novo,40.6,2026-11-23
+mpf,atikum nioaque|MS,Atikum/Nioaque,MS,TI0702,novo,66.7,2026-11-23
+mpf,baixo seruini baixo tumia|AM,Baixo Seruini/Baixo Tumiã,AM,TI0704,novo,54.5,2026-11-23
+mpf,bananal santuario pajes|DF,Bananal – Santuário dos Pajés,DF,TI0705,novo,0.0,2026-11-23
+mpf,barreirinha|AM,Barreirinha,AM,TI0706,novo,69.2,2026-11-23
+mpf,boa vista sertao pro mirim|SP,Boa Vista do Sertão do Pro- Mirim,SP,TI0707,novo,86.3,2026-11-23
+mpf,bom futuro|AM,Bom Futuro,AM,TI0708,novo,57.1,2026-11-23
+mpf,bom jesus tarara|AM,Bom Jesus do Tarará,AM,TI0709,novo,53.8,2026-11-23
+mpf,borari alter chao|PA,Borari/Alter do Chão,PA,TI0710,novo,53.8,2026-11-23
+mpf,borboleta|RS,Borboleta,RS,TI0711,novo,42.1,2026-11-23
+mpf,caiape|AM,Caiapé,AM,TI0712,novo,61.5,2026-11-23
+mpf,caiapuca|AM,Caiapucá,AM,TI0713,novo,71.4,2026-11-23
+mpf,caicara|SE,Caiçara,SE,TI0714,novo,48.3,2026-11-23
+mpf,cajueiro|CE,Cajueiro,CE,TI0715,novo,35.7,2026-11-23
+mpf,camba bairro cristo redentor|MS,Camba/Bairro Cristo Redentor,MS,TI0716,novo,46.2,2026-11-23
+mpf,cambirela|SC,Cambirela,SC,TI0717,novo,55.6,2026-11-23
+mpf,campo meio re kuju|RS,Campo do Meio (Re Kuju),RS,TI0718,novo,45.2,2026-11-23
+mpf,canoana|TO,Canoanã,TO,TI0719,novo,58.8,2026-11-23
+mpf,capivari rio capivari porai|RS,Capivari (Rio Capivari – Porãi),RS,TI0720,novo,46.5,2026-11-23
+mpf,carazinho|RS,Carazinho,RS,TI0722,novo,70.6,2026-11-23
+mpf,cariru|AM,Cariru,AM,TI0723,novo,61.5,2026-11-23
+mpf,cassupa salamai|RO,Cassupá/Salamãi,RO,TI0724,novo,44.4,2026-11-23
+mpf,cerco grande m bya guarani kuaray oguata|PR,Cerco Grande (M'byá Guarani Kuaray Oguatá),PR,TI0725,novo,46.2,2026-11-23
+mpf,cerco grande mbya guarani kuaray oguata|PR,Cerco Grande (M'byá Guarani Kuaray Oguatá),PR,TI0725,auto,100.0,2026-11-24
+mpf,chandless|AC,Chandless,AC,TI0726,novo,62.1,2026-11-23
+mpf,chapada a|ES,Chapada do A,ES,TI0727,novo,42.1,2026-11-23
+mpf,chiquitano|MT,Chiquitano,MT,TI0728,novo,46.2,2026-11-23
+mpf,cinta vermelha jundiba|MG,Cinta Vermelha – Jundiba,MG,TI0729,novo,56.5,2026-11-23
+mpf,comexatiba cahy pequi|BA,Comexatiba (Cahy Pequi),BA,TI0730,novo,64.5,2026-11-23
+mpf,comunidade beija flor|AM,Comunidade Beija-Flor,AM,TI0731,novo,54.1,2026-11-23
+mpf,comunidade sao benedito|AM,Comunidade São Benedito,AM,TI0732,novo,72.7,2026-11-23
+mpf,coroa vermelha ponta grande|BA,Coroa Vermelha (Ponta Grande),BA,TI0733,novo,68.3,2026-11-23
+mpf,corveta i ii|SC,Corveta I e II,SC,TI0734,novo,48.3,2026-11-23
+mpf,coxilha cruz|RS,Coxilha da Cruz,RS,TI0735,novo,50.0,2026-11-23
+mpf,d zorobabe aldeia mae|BA,D'Zorobabé (Aldeia Mãe),BA,TI0736,novo,55.6,2026-11-23
+mpf,dzorobabe aldeia mae|BA,D'Zorobabé (Aldeia Mãe),BA,TI0736,auto,100.0,2026-11-24
+mpf,djaiko aty santa ria ii jakoaty djaikoaty|SP,"Djaiko-Aty (Santa Ria II, Jakoaty, Djaikoaty)",SP,TI0737,novo,41.8,2026-11-23
+mpf,ebenezer|AM,Ebenézer,AM,TI0738,novo,43.5,2026-11-23
+mpf,escrivao|PA,Escrivão,PA,TI0739,novo,47.1,2026-11-23
+mpf,estirao|AC,Estirão,AC,TI0740,novo,42.1,2026-11-23
+mpf,estiva|RS,Estiva,RS,TI0741,novo,47.1,2026-11-23
+mpf,estrada mar interlagos|RS,Estrada do Mar (Interlagos),RS,TI0742,novo,66.7,2026-11-23
+mpf,estrela|RS,Estrela,RS,TI0743,novo,61.5,2026-11-23
+mpf,eterairebere|MT,Eterãirebere,MT,TI0744,novo,48.0,2026-11-23
+mpf,faxinal sao miguel goj kusa|RS,Faxinal/São Miguel (Goj Kusa),RS,TI0745,novo,44.4,2026-11-23
+mpf,fazenda alagadico apucare|MG,Fazenda Alagadiço/Apucaré,MG,TI0746,novo,50.0,2026-11-23
+mpf,fazenda altamira|BA,Fazenda Altamira,BA,TI0747,novo,71.0,2026-11-23
+mpf,fazenda funil inaja|PE,Fazenda Funil/Inajá,PE,TI0749,novo,51.6,2026-11-23
+mpf,fazenda gameleira|CE,Fazenda Gameleira,CE,TI0750,novo,44.4,2026-11-23
+mpf,fazenda sitio tuxa banzae|BA,Fazenda Sítio/Tuxá de Banzaê,BA,TI0751,novo,68.4,2026-11-23
+mpf,fulnio serra ramalho|BA,Fulniô de Serra do Ramalho,BA,TI0753,novo,47.1,2026-11-23
+mpf,garuva|SC,Garuva,SC,TI0754,novo,66.7,2026-11-23
+mpf,geru tucuna|MG,Geru Tucunã,MG,TI0755,novo,46.7,2026-11-23
+mpf,guarani barao antonina karugwa pyhau|SP,"Guarani Barão de Antonina (Karugwá, Pyhaú)",SP,TI0756,novo,46.2,2026-11-23
+mpf,guarani itaporanga tekoa pora|SP,Guarani de Itaporanga (Tekoa Porã),SP,TI0757,novo,57.8,2026-11-23
+mpf,guarani lami|RS,Guarani do Lami,RS,TI0758,novo,63.2,2026-11-23
+mpf,guarani ocoy|PR,Guarani de Ocoy,PR,TI0759,novo,78.6,2026-11-23
+mpf,guarasugwe riozinho|RO,Guarasugwe Riozinho,RO,TI0760,novo,60.0,2026-11-23
+mpf,ham yixux aldeia verde|MG,Hâm Yixux (Aldeia Verde),MG,TI0761,novo,58.1,2026-11-23
+mpf,hene baria namakia kaxinawa seringal curralinho|AC,Henê Baria Namakia (Kaxinawá Seringal Curralinho),AC,TI0762,novo,59.0,2026-11-23
+mpf,hu uhi|MT,Hu'uhi,MT,TI0763,novo,46.2,2026-11-23
+mpf,huuhi|MT,Hu'uhi,MT,TI0763,auto,100.0,2026-11-24
+mpf,ibotirama|BA,Ibotirama,BA,TI0764,novo,78.3,2026-11-23
+mpf,igapo grande|AM,Igapó Grande,AM,TI0765,novo,84.6,2026-11-23
+mpf,igarape pataua|AM,Igarapé do Patauá,AM,TI0766,novo,66.7,2026-11-23
+mpf,igarape taboca alto tarauaca rio muru|AC,Igarapé Taboca do Alto Tarauacá (Rio Muru),AC,TI0767,novo,86.2,2026-11-23
+mpf,iguatemipegua i mbaracay pyelito|MS,Iguatemipeguá I (Mbaracay e Pyelito),MS,TI0768,novo,63.8,2026-11-23
+mpf,iguatemipegua ii kurusu amba karaja yvy ka a jari kamakua|MS,"Iguatemipeguá II (Kurusu Amba, Karaja Yvy, Ka'a jari e Kamakua)",MS,TI0769,novo,49.4,2026-11-23
+mpf,iguatemipegua ii kurusu amba karaja yvy kaa jari kamakua|MS,"Iguatemipeguá II (Kurusu Amba, Karaja Yvy, Ka'a jari e Kamakua)",MS,TI0769,auto,100.0,2026-11-24
+mpf,iguatemipegua iii vaqueriami jaguapire memby jukeri mboi veve lampino karaguaty|MS,"Iguatemipeguá III (Vaqueriami/Jaguapiré Memby, Jukeri, Mboi Veve, Lampiño e Karaguaty)",MS,TI0770,novo,51.5,2026-11-23
+mpf,ilha panamin|AM,Ilha do Panamin,AM,TI0771,novo,53.8,2026-11-23
+mpf,ilhas varge caxoi cana brava|PE,"Ilhas da Varge, Caxoí e Cana Brava",PE,TI0772,novo,51.1,2026-11-23
+mpf,inhaa be lote 43 hiwy lote 44|AM,Inhaa-bé (Lote 43) e Hiwy (Lote 44),AM,TI0773,novo,40.0,2026-11-23
+mpf,inhacapetum|RS,Inhacapetum,RS,TI0774,novo,63.2,2026-11-23
+mpf,isolados igarape tapada|AC,Isolados do Igarapé Tapada,AC,TI0775,novo,66.7,2026-11-23
+mpf,isou pa|MT,Isoú'pà,MT,TI0776,novo,47.6,2026-11-23
+mpf,isoupa|MT,Isoú'pà,MT,TI0776,auto,100.0,2026-11-24
+mpf,itapua|RS,Itapuã,RS,TI0777,novo,83.3,2026-11-23
+mpf,itariri serra itatins|SP,Itariri (Serra do Itatins),SP,TI0778,novo,76.5,2026-11-23
+mpf,itixi kanimari|AM,Itixi Kanimari,AM,TI0779,novo,76.9,2026-11-23
+mpf,ituna itata interdicao|PA,Ituna/Itata (interdição),PA,TI0780,novo,54.5,2026-11-23
+mpf,jacareuba katawixi|AM,Jacareuba/Katawixi,AM,TI0781,novo,68.0,2026-11-23
+mpf,jaminawa colocacao sao paulino|AM,Jaminawa da Colocação São Paulino,AM,TI0782,novo,57.6,2026-11-23
+mpf,jaminawa rio caete|AC,Jaminawa do Rio Caeté,AC,TI0783,novo,73.2,2026-11-23
+mpf,jeju|PA,Jeju,PA,TI0785,novo,28.6,2026-11-23
+mpf,jeripanco geripanco|AL,Jeripancó (Geripancó),AL,TI0786,novo,64.3,2026-11-23
+mpf,jurubaxi tea baixo rio negro ii|AM,Jurubaxi-Teá (Baixo Rio Negro II),AM,TI0787,novo,66.7,2026-11-23
+mpf,ka aguy mirim tekoa uruity|SP,Ka'aguy Mirim (Tekoa Uruity),SP,TI0788,novo,66.7,2026-11-23
+mpf,kaaguy mirim tekoa uruity|SP,Ka'aguy Mirim (Tekoa Uruity),SP,TI0788,auto,100.0,2026-11-24
+mpf,ka aguy poty|RS,Ka'aguy Poty,RS,TI0789,novo,51.9,2026-11-23
+mpf,kaaguy poty|RS,Ka'aguy Poty,RS,TI0789,auto,100.0,2026-11-24
+mpf,kaingang pontao fag nor aldeia butia tenh mag|RS,Kaingang de Pontão Fag-Nor / Aldeia Butiá - Tenh Mág,RS,TI0790,novo,45.9,2026-11-23
+mpf,kaingang vitorino|PR,Kaingang de Vitorino,PR,TI0791,novo,53.8,2026-11-23
+mpf,kaixana santo antonio ica|AM,Kaixana de Santo Antonio do Içá,AM,TI0792,novo,57.8,2026-11-23
+mpf,kalanko|AL,Kalankó,AL,TI0793,novo,53.3,2026-11-23
+mpf,kambeba fonte boa|AM,Kambeba de Fonte Boa,AM,TI0794,novo,51.6,2026-11-23
+mpf,kaninde aratuba sitio fernandes|CE,Kanindé de Aratuba (Sítio Fernandes),CE,TI0795,novo,34.8,2026-11-23
+mpf,karuazu|AL,Karuazú,AL,TI0796,novo,53.3,2026-11-23
+mpf,karugua araca i|PR,Karuguá (Araça'i),PR,TI0797,novo,47.3,2026-11-23
+mpf,karugua aracai|PR,Karuguá (Araça'i),PR,TI0797,auto,100.0,2026-11-24
+mpf,kiriri caldas rio verde|MG,Kiriri de Caldas (Rio Verde),MG,TI0799,novo,72.2,2026-11-23
+mpf,kogunh mag jagtyg fykog|RS,Kógunh Mág/Jagtyg Fykóg,RS,TI0800,novo,36.0,2026-11-23
+mpf,kokama baixo rio ica|AM,Kokama do Baixo Rio Iça,AM,TI0801,novo,62.5,2026-11-23
+mpf,kokama sao paulo olivenca|AM,Kokama de São Paulo de Olivença,AM,TI0802,novo,61.8,2026-11-23
+mpf,kokue y|MS,Kokue Y,MS,TI0803,novo,53.3,2026-11-23
+mpf,krenak krenak sete saloes|MG,Krenak/Krenak de Sete Salões,MG,TI0804,novo,83.7,2026-11-23
+mpf,kulina rio uere matatibem|AM,Kulina do Rio Uerê – Matatibem,AM,TI0805,novo,75.0,2026-11-23
+mpf,kuntanawa|AC,Kuntanawa,AC,TI0806,novo,61.5,2026-11-23
+mpf,lago barrigudo|AM,Lago do Barrigudo,AM,TI0807,novo,72.0,2026-11-23
+mpf,lago grande chiquitano|MT,Lago Grande (Chiquitano),MT,TI0808,novo,62.5,2026-11-23
+mpf,lago grande karaja|MT,Lago Grande (Karajá),MT,TI0809,novo,61.9,2026-11-23
+mpf,lago soares urucurituba|AM,Lago do Soares e Urucurituba,AM,TI0810,novo,52.4,2026-11-23
+mpf,lagoa neres lagoinha|CE,Lagoa dos Neres/Lagoinha,CE,TI0811,novo,45.7,2026-11-23
+mpf,lajeado bugre|RS,Lajeado do Bugre,RS,TI0812,novo,45.5,2026-11-23
+mpf,lomba pinheiro|RS,Lomba do Pinheiro,RS,TI0813,novo,57.1,2026-11-23
+mpf,mamori|AM,Mamori,AM,TI0814,novo,66.7,2026-11-23
+mpf,mamoria grande igarape grande|AM,Mamoriá Grande e Igarapé Grande,AM,TI0815,novo,65.1,2026-11-23
+mpf,manoki irantxe|MT,Manoki (Irantxe),MT,TI0816,novo,66.7,2026-11-23
+mpf,massekury kamapa|AM,Massekury/Kâmapa,AM,TI0818,novo,48.5,2026-11-23
+mpf,massiambu|SC,Massiambu,SC,TI0819,novo,47.1,2026-11-23
+mpf,migueleno|RO,Migueleno,RO,TI0821,novo,50.0,2026-11-23
+mpf,mirueira|MG,Mirueira,MG,TI0822,novo,42.9,2026-11-23
+mpf,moia mala jaguari|MT,Moia Mala (Jaguari),MT,TI0823,novo,56.2,2026-11-23
+mpf,monte nebo|CE,Monte Nebo,CE,TI0824,novo,44.4,2026-11-23
+mpf,monte sinai|AM,Monte Sinai,AM,TI0825,novo,61.5,2026-11-23
+mpf,morro coco|RS,Morro do Coco,RS,TI0826,novo,47.1,2026-11-23
+mpf,morro osso|RS,Morro do Osso,RS,TI0826,auto,94.1,2026-11-24
+mpf,morro santana|RS,Morro Santana,RS,TI0828,novo,60.9,2026-11-23
+mpf,mukurin mucurim|MG,Mukurin (Mucurim),MG,TI0829,novo,42.4,2026-11-23
+mpf,mundo novo viracao serra matas|CE,Mundo Novo-Viração (Serra das Matas),CE,TI0830,novo,40.0,2026-11-23
+mpf,mundo verde aldeia cachoeirinha|MG,Mundo Verde (Aldeia Cachoeirinha),MG,TI0831,novo,87.3,2026-11-23
+mpf,nande ru marangatu nandevapegua mbocaja|MS,"Ñande Ru Marangatu Ñandevapeguá (Mbocajá,",MS,TI0832,novo,63.2,2026-11-23
+mpf,nazare|PI,Nazaré,PI,TI0833,novo,32.0,2026-11-23
+mpf,nazario mambira|CE,Nazário-Mambira,CE,TI0834,novo,46.7,2026-11-23
+mpf,neo pankarare|BA,Neo-Pankararé,BA,TI0835,novo,81.8,2026-11-23
+mpf,norotsura|MT,Norotsurã,MT,TI0836,novo,50.0,2026-11-23
+mpf,nossa senhora fatima catua|AM,Nossa Senhora de Fátima do Catuá,AM,TI0837,novo,51.0,2026-11-23
+mpf,nossa senhora nazare itaboca caju|AM,Nossa Senhora de Nazaré do Itaboca e Cajú,AM,TI0838,novo,71.2,2026-11-23
+mpf,nova jerusalem|AM,Nova Jerusálem,AM,TI0839,novo,53.8,2026-11-23
+mpf,nova jerusalem caruara|AM,Nova Jerusalém do Caruara,AM,TI0840,novo,77.8,2026-11-23
+mpf,novo xengu cheg gu|RS,Novo Xengu (Chêg'gu),RS,TI0841,novo,38.9,2026-11-23
+mpf,novo xengu cheggu|RS,Novo Xengu (Chêg'gu),RS,TI0841,auto,100.0,2026-11-24
+mpf,olho d agua canuto serra matas|CE,Olho d'Água dos Canuto (Serra das Matas),CE,TI0842,novo,46.7,2026-11-23
+mpf,olho dagua canuto serra matas|CE,Olho d'Água dos Canuto (Serra das Matas),CE,TI0842,auto,100.0,2026-11-24
+mpf,pacaja|PA,Pacajá,PA,TI0843,novo,66.7,2026-11-23
+mpf,pakurity antiga jakarey acarau|SP,"Pakurity (antiga Jakarey, Acaraú)",SP,TI0844,novo,50.0,2026-11-23
+mpf,palmital ka aguy guaxy|PR,Palmital / Ka'aguy Guaxy,PR,TI0845,novo,47.6,2026-11-23
+mpf,palmital kaaguy guaxy|PR,Palmital / Ka'aguy Guaxy,PR,TI0845,auto,100.0,2026-11-24
+mpf,pankaiuka fazenda cristo rei|PE,Pankaiuká/Fazenda Cristo Rei,PE,TI0846,novo,78.3,2026-11-23
+mpf,pankararu gueyah|BA,Pankararu Gueyah,BA,TI0847,novo,69.0,2026-11-23
+mpf,pankariri|AL,Pankariri,AL,TI0848,novo,60.0,2026-11-23
+mpf,paracuni|AM,Paracuni,AM,TI0849,novo,66.7,2026-11-23
+mpf,passo grande|RS,Passo Grande,RS,TI0850,novo,66.7,2026-11-23
+mpf,pataxo ha ha hae bertopolis|MG,Pataxó Hã Hã Hãe de Bertópolis,MG,TI0851,novo,40.9,2026-11-23
+mpf,petim arasaty|RS,Petim/Arasaty,RS,TI0852,novo,52.2,2026-11-23
+mpf,piripkura interdicao|MT,Piripkura (Interdição),MT,TI0853,novo,45.7,2026-11-23
+mpf,ponta arado|RS,Ponta do Arado,RS,TI0854,novo,58.3,2026-11-23
+mpf,ponta formiga|RS,Ponta da Formiga,RS,TI0855,novo,66.7,2026-11-23
+mpf,por fi ga|RS,Por Fi Gã,RS,TI0856,novo,72.0,2026-11-23
+mpf,potrerito vitoi kue nioaque|MS,"Potrerito, Vitoi Kuê) Nioaque",MS,TI0857,novo,55.0,2026-11-23
+mpf,projeto mapi|AM,Projeto MAPI,AM,TI0858,novo,55.2,2026-11-23
+mpf,purubora|RO,Puruborá,RO,TI0859,novo,43.5,2026-11-23
+mpf,renascer|AM,Renascer,AM,TI0860,novo,55.6,2026-11-23
+mpf,reta tapera|SC,Reta/Tapera,SC,TI0861,novo,48.0,2026-11-23
+mpf,riachao luiza vale|MG,Riachão/Luiza do Vale,MG,TI0862,novo,49.0,2026-11-23
+mpf,rio arraias br 080|MT,Rio Arraias/BR 080,MT,TI0863,novo,64.7,2026-11-23
+mpf,rio bonito|SC,Rio Bonito,SC,TI0864,novo,50.0,2026-11-23
+mpf,rio cautario|RO,Rio Cautário,RO,TI0865,novo,60.9,2026-11-23
+mpf,rio copea|AM,Rio Copeá,AM,TI0866,novo,66.7,2026-11-23
+mpf,rio cuieiras|AM,Rio Cuieiras,AM,TI0867,novo,66.7,2026-11-23
+mpf,rio meio|SC,Rio do Meio,SC,TI0868,novo,66.7,2026-11-23
+mpf,rio pequeno|RJ,Rio Pequeno,RJ,TI0869,novo,64.7,2026-11-23
+mpf,riozinho liberdade|AC,Riozinho da Liberdade,AC,TI0870,novo,68.4,2026-11-23
+mpf,rodelas|BA,Rodelas,BA,TI0871,novo,47.6,2026-11-23
+mpf,roro walu jatoba ikpeng|MT,Roro-Walu (Jatobá/Ikpeng),MT,TI0872,novo,51.3,2026-11-23
+mpf,santa maria duplicada com arena|RS,Santa Maria (duplicada com Arena,RS,TI0873,novo,48.3,2026-11-23
+mpf,sao gabriel sao salvador|AM,São Gabriel/São Salvador,AM,TI0874,novo,54.2,2026-11-23
+mpf,sao jose jenipaua|AM,São José do Jenipauá,AM,TI0875,novo,53.7,2026-11-23
+mpf,sao miguel parana dururua|AM,São Miguel do Paraná do Dururuá,AM,TI0876,novo,57.1,2026-11-23
+mpf,sao raimundo|AM,São Raimundo,AM,TI0877,novo,61.5,2026-11-23
+mpf,sawre juybu sao luiz tapajos|PA,Sawré Juybu (São Luíz dos Tapajós),PA,TI0878,novo,54.2,2026-11-23
+mpf,segu|RS,Segu,RS,TI0879,novo,36.4,2026-11-23
+mpf,seringal guanabara jaminawa guajara riozinho iaco|AC,Seringal Guanabara/Jaminawa do Guajará (Riozinho Iaco),AC,TI0880,novo,70.2,2026-11-23
+mpf,serra periperi|BA,Serra do Periperi,BA,TI0881,novo,47.1,2026-11-23
+mpf,serrote campos|PE,Serrote dos Campos,PE,TI0882,novo,41.2,2026-11-23
+mpf,setsor bragaga|MG,Setsor Bragágá,MG,TI0883,novo,84.8,2026-11-23
+mpf,tabajara|PB,Tabajara,PB,TI0884,novo,47.1,2026-11-23
+mpf,tabajara piripiri tocaia|PI,Tabajara de Piripiri (Tocaia),PI,TI0885,novo,32.6,2026-11-23
+mpf,tabajara quiterianopolis|CE,Tabajara de Quiterianópolis,CE,TI0886,novo,45.7,2026-11-23
+mpf,takuary eldorado|SP,Takuary Eldorado,SP,TI0887,novo,52.2,2026-11-23
+mpf,tanaru|RO,Tanaru,RO,TI0888,novo,53.3,2026-11-23
+mpf,tapayuna|MT,Tapayuna,MT,TI0889,novo,62.5,2026-11-23
+mpf,taquara|AM,Taquara,AM,TI0890,novo,66.7,2026-11-23
+mpf,taquaritiua|MA,Taquaritiua,MA,TI0891,novo,60.0,2026-11-23
+mpf,tekoa itaoka icapara ii|SP,Tekoa Itaoka (Icapara II),SP,TI0892,novo,61.5,2026-11-23
+mpf,tekoa itapua icapara i|SP,Tekoa Itapuã (Icapara I),SP,TI0893,novo,80.0,2026-11-23
+mpf,tekoa jejyty toca bugio|SP,Tekoa Jejyty (Toca do Bugio),SP,TI0894,novo,46.2,2026-11-23
+mpf,tekoha guasu guavira marangatu araguaju jevy nhemboete y hovy mirim guarani tatury yvyraty pora tajy poty|PR,"Tekoha Guasu Guavirá (Marangatu, Araguaju, Jevy, Nhemboete, Y Hovy, Mirim, Guarani, Tatury, Yvyraty Porã e Tajy Poty)",PR,TI0895,novo,34.5,2026-11-23
+mpf,tekoha vera tupai|PR,Tekoha Vera Tupãi,PR,TI0896,novo,71.4,2026-11-23
+mpf,terena santa rita pardo|MS,Terena/Santa Rita do Pardo,MS,TI0897,novo,48.8,2026-11-23
+mpf,timbotuba montes claros sao benedito guariba ii igarape grande medio rio madeira|AM,"Timbotuba, Montes Claros, São Benedito e Guariba II e Igarapé Grande (Médio Rio Madeira)",AM,TI0898,novo,47.7,2026-11-23
+mpf,tremembe engenho|MA,Tremembé do Engenho,MA,TI0899,novo,42.4,2026-11-23
+mpf,tremembe raposa|MA,Tremembé da Raposa,MA,TI0900,novo,64.5,2026-11-23
+mpf,truka assuncao|PE,Truká - Assunção,PE,TI0901,novo,84.8,2026-11-23
+mpf,truka familia mozenir araujo|PE,Truká – Família de Mozenir Araújo,PE,TI0902,novo,55.3,2026-11-23
+mpf,truka sobradinho|BA,Truká de Sobradinho,BA,TI0903,novo,46.7,2026-11-23
+mpf,truka tupa|BA,Truká-Tupã,BA,TI0904,novo,58.3,2026-11-23
+mpf,tucuma|AM,Tucumã,AM,TI0905,novo,72.7,2026-11-23
+mpf,tupinamba itapebi|BA,Tupinambá de Itapebi,BA,TI0906,novo,68.6,2026-11-23
+mpf,tuwa apekuokawera antiga sororo gleba taupekuakau|PA,Tuwa Apekuokawera (antiga Sororó-Gleba Taupekuakau),PA,TI0907,novo,51.5,2026-11-23
+mpf,tuxi|BA,Tuxi,BA,TI0908,novo,36.4,2026-11-23
+mpf,vila real|MA,Vila Real,MA,TI0911,novo,47.6,2026-11-23
+mpf,wahuri|TO,Wahuri,TO,TI0912,novo,42.9,2026-11-23
+mpf,wedeze pimentel baborsa|MT,Wedezé / Pimentel Baborsa,MT,TI0914,novo,76.9,2026-11-23
+mpf,xakriaba|MG,Xakriabá,MG,TI0915,novo,87.5,2026-11-23
+mpf,xakriaba cocos|BA,Xakriabá de Côcos,BA,TI0916,novo,58.3,2026-11-23
+mpf,xapeco glebas a b pinhalzinho canhadao|SC,Xapecó Glebas A e B (Pinhalzinho e Canhadão),SC,TI0917,novo,83.1,2026-11-23
+mpf,xokleng zagaua konglui|RS,Xokleng Zagaua (Konglui),RS,TI0918,novo,41.0,2026-11-23
+mpf,yanwaka|AP,Yanwaka,AP,TI0921,novo,46.2,2026-11-23
+mpf,yvy katu porto lindo fazenda remanso guacu|MS,Yvy Katu (Porto Lindo/Fazenda Remanso Guaçu),MS,TI0922,novo,43.6,2026-11-23
+mpf,zo|PA,Zo’é,PA,TI0923,novo,80.0,2026-11-23
+mpf,zuruaha zuruwaha|AM,Zuruahã / Zuruwahá,AM,TI0924,novo,60.9,2026-11-23
+mpf,zoe|PA,Zo’é,PA,TI0925,novo,100.0,2026-11-24

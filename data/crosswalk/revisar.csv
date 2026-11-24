@@ -1,0 +1,23 @@
+﻿decisao;fonte;chave_fonte;nome_original;ufs;municipios;area_ha;terra_id_atual;candidato_id;candidato_nome;candidato_fontes;candidato_municipios;candidato_area_ha;score;obs
+;mpf;aripuana ti|MT;Aripuanã (TI);MT;"Aripuanã/MT; Juína/MT";750649.0;TI0698;TI0058;Aripuanã;funai;"Aripuanã/MT; Juína/MT";750649.27;100.0;empate entre candidatas
+;mpf;aripuana ti|MT;Aripuanã (TI);MT;"Aripuanã/MT; Juína/MT";750649.0;TI0698;TI0057;Parque do Aripuanã;funai,mpf;"Juína; Vilhena";1603245.98;100.0;empate entre candidatas
+;mpf;boa vista sertao pro mirim|SP;Boa Vista do Sertão do Pro- Mirim;SP;Ubatuba/SP;5420.0;TI0707;TI0090;Boa Vista Sertão do Promirim;funai;Ubatuba/SP;906.39;100.0;empate entre candidatas
+;mpf;boa vista sertao pro mirim|SP;Boa Vista do Sertão do Pro- Mirim;SP;Ubatuba/SP;5420.0;TI0707;TI0091;Boa Vista Sertão do Promirim;funai;Ubatuba/SP;5420.0;100.0;empate entre candidatas
+;mpf;zo|PA;Zo’é;PA;;;TI0923;TI0665;Zoe;funai;Óbidos/PA;668565.63;100.0;empate entre candidatas
+;mpf;zo|PA;Zo’é;PA;;;TI0923;TI0925;Zo’é;mpf;Óbidos/PA;668565.0;100.0;empate entre candidatas
+;mpf;xakriaba|MG;Xakriabá;MG;Itacarambi e São João das Missões/MG;;TI0915;TI0647;Xacriabá;funai;Itacarambi e São João das Missões/MG;46415.92;100.0;empate entre candidatas
+;mpf;zoe|PA;Zo’é;PA;Óbidos/PA;668565.0;TI0925;TI0665;Zoe;funai;Óbidos/PA;668565.63;100.0;empate entre candidatas
+;mpf;xakriaba|MG;Xakriabá;MG;Itacarambi e São João das Missões/MG;;TI0915;TI0648;Xacriabá;funai;Cônego Marinho e Itacarambi e São João das Missões/MG;43357.0;100.0;empate entre candidatas
+;mpf;guarani ocoy|PR;Guarani de Ocoy;PR;São Miguel do Iguaçu/Santa Helena/PR;;TI0759;TI0064;Avá-Guarani do Ocoí;funai;São Miguel do Iguaçu/PR;231887.0;88.0;
+;mpf;mundo verde aldeia cachoeirinha|MG;Mundo Verde (Aldeia Cachoeirinha);MG;Teófilo Otoni/MG;606.0;TI0831;TI0380;Mundo Verde/Cachoeirinha;funai;Teófilo Otoni/MG;606.19;88.0;
+;mpf;igarape taboca alto tarauaca rio muru|AC;Igarapé Taboca do Alto Tarauacá (Rio Muru);AC;Jordão/AC;287.0;TI0767;TI0218;Igarapé Taboca do Alto Tarauacá;funai;Jordão/AC;287.0;87.7;
+;mpf;apinaye ii|TO;Apinayé II;TO;Tocantinópolis e Nazaré/TO;;TI0689;TI0033;Apinayé;funai,mpf;Cachoeirinha e Itaguatins e Maurilândia do Tocantins e São Bento do Tocantins e Tocantinópolis/TO;141904.21;87.5;
+;mpf;tekoa itaoka icapara ii|SP;Tekoa Itaoka (Icapara II);SP;Iguape/SP;;TI0892;TI0893;Tekoa Itapuã (Icapara I);mpf;Iguape/SP;;87.2;
+;mpf;setsor bragaga|MG;Setsor Bragágá;MG;Buritizeiro/MG;;TI0883;TI0613;Tuxá Setsor Bragagá;funai;Buritizeiro/MG;6525.26;86.7;
+;mpf;xapeco glebas a b pinhalzinho canhadao|SC;Xapecó Glebas A e B (Pinhalzinho e Canhadão);SC;"Abelardo Luz/SC; Entre Rios/SC; Ipuaçu/SC";;TI0917;TI0652;Xapecó (Pinhalzinho-Canhadão);funai;Abelardo Luz/SC;660.0;86.2;
+;mpf;neo pankarare|BA;Neo-Pankararé;BA;Rodelas/BA;;TI0835;TI0412;Pankararé;funai,mpf;"Glória/BA; Paulo Afonso/BA; Rodelas/BA";29597.33;85.7;
+;mpf;truka assuncao|PE;Truká - Assunção;PE;Cabrobó/PE;5769.0;TI0901;TI0597;Truká - Ilha da Assunção;funai;Cabrobó/PE;5769.0;85.7;
+;mpf;igapo grande|AM;Igapó Grande;AM;Tikuna/AM;;TI0765;TI0214;Igarapé Grande;funai,mpf;Alvarães/AM;1539.68;84.6;
+;mpf;krenak krenak sete saloes|MG;Krenak/Krenak de Sete Salões;MG;"Resplendor/MG; Conselheiro Pena/MG; Itueta/MG; Santa Rita do Itueto/MG";;TI0804;TI0307;Krenak de Sete Salões;funai;"Santa Rita do Itueto/MG; Resplendor/MG; Conselheiro Pena/MG; Itueta/MG";16959.92;84.2;
+;mpf;itapua|RS;Itapuã;RS;Viamão/RS;;TI0777;TI0229;Irapuá;funai,mpf;Caçapava do Sul/RS;222.0;83.3;
+;mpf;ibotirama|BA;Ibotirama;BA;Ibotirama/BA;2019.0;TI0764;TI0611;Tuxá de Ibotirama;funai;Ibotirama/BA;2019.71;81.8;

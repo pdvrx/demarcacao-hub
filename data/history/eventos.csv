@@ -1,0 +1,65 @@
+data_observacao,terra_id,nome,tipo,campo,valor_anterior,valor_novo
+2026-11-24,TI0007,Aldeia Cerroy,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0010,Aldeia Kondá,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0022,Amanayé,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0023,Amaral/Tekoá Kuriy,mudanca,divergencia_fase,false,true
+2026-11-24,TI0023,Amaral/Tekoá Kuriy,mudanca,fase,regularizada,reserva_em_constituicao
+2026-11-24,TI0063,Reserva Indígena Avá Canoeiro,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0142,Crim Patehi,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0169,Fazenda Cristo Rei,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0171,Fazenda Jenipapeiro,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0172,Fazenda Mabel (Gavião/Akrãtikatêjê),mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0180,Fulni-ô,mudanca,divergencia_fase,false,true
+2026-11-24,TI0180,Fulni-ô,mudanca,ufs,PE,AL;PE
+2026-11-24,TI0190,Guajanaíra,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0222,Ilhas da Tapera/São Félix/Porto,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0259,Juruna do Km 17,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0270,Kanela do Araguaia,mudanca,divergencia_fase,false,true
+2026-11-24,TI0270,Kanela do Araguaia,mudanca,fase,sem_providencia,reserva_em_constituicao
+2026-11-24,TI0283,Kariri de Serra Grande,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0297,Kaxinawá Seringal Independência,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0302,Kiriri de Caldas,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0377,Morro da Palha,mudanca,divergencia_fase,false,true
+2026-11-24,TI0377,Morro da Palha,mudanca,fase,regularizada,reserva_em_constituicao
+2026-11-24,TI0454,Pirititi,mudanca,divergencia_fase,false,true
+2026-11-24,TI0470,Praia do Índio,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0471,Praia do Mangue,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0474,Quixaba,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0504,Riozinho - RS,mudanca,divergencia_fase,false,true
+2026-11-24,TI0507,Sabanê,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0547,Taba dos Anacé,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0554,Takuari,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0609,Turé/Mariquita II,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0612,Tuxá de Inajá,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0613,Tuxá Setsor Bragagá,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0615,Uati-Paraná,mudanca,divergencia_fase,false,true
+2026-11-24,TI0626,Uty-Xunati,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0629,Valparaíso (RI),mudanca,divergencia_fase,false,true
+2026-11-24,TI0629,Valparaíso (RI),mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0703,Auati-Paraná,fundida_em,,TI0703,TI0615
+2026-11-24,TI0721,Caramuru-Paraguaçu,fundida_em,,TI0721,TI0126
+2026-11-24,TI0743,Estrela,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0748,Fazenda Boa Vista,fundida_em,,TI0748,TI0167
+2026-11-24,TI0752,Fulniô,fundida_em,,TI0752,TI0180
+2026-11-24,TI0767,Igarapé Taboca do Alto Tarauacá (Rio Muru),mudanca,fase,indefinida,restricao_de_uso
+2026-11-24,TI0780,Ituna/Itata (interdição),mudanca,fase,indefinida,restricao_de_uso
+2026-11-24,TI0781,Jacareuba/Katawixi,mudanca,fase,indefinida,restricao_de_uso
+2026-11-24,TI0784,Jatayvary,fundida_em,,TI0784,TI0252
+2026-11-24,TI0798,Kaxixó,fundida_em,,TI0798,TI0132
+2026-11-24,TI0817,Marakaxi,fundida_em,,TI0817,TI0346
+2026-11-24,TI0820,Maxakali,fundida_em,,TI0820,TI0363
+2026-11-24,TI0827,Morro do Osso,fundida_em,,TI0827,TI0826
+2026-11-24,TI0828,Morro Santana,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0846,Pankaiuká/Fazenda Cristo Rei,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0853,Piripkura (Interdição),mudanca,fase,indefinida,restricao_de_uso
+2026-11-24,TI0871,Rodelas,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0883,Setsor Bragágá,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0887,Takuary Eldorado,mudanca,fase,indefinida,reserva_em_constituicao
+2026-11-24,TI0888,Tanaru,mudanca,fase,indefinida,restricao_de_uso
+2026-11-24,TI0909,Uty-Xunaty,fundida_em,,TI0909,TI0626
+2026-11-24,TI0910,Valparaíso,fundida_em,,TI0910,TI0629
+2026-11-24,TI0913,Wai-Wai,fundida_em,,TI0913,TI0642
+2026-11-24,TI0919,Xucuru,fundida_em,,TI0919,TI0657
+2026-11-24,TI0920,Xucuru de Cimbres,fundida_em,,TI0920,TI0658
+2026-11-24,TI0923,Zo’é,removida_da_base,,regularizada,
+2026-11-24,TI0925,Zo’é,nova_terra,,,regularizada

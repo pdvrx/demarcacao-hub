@@ -1,0 +1,23 @@
+# Mapeamento dos rótulos de cada fonte para as fases canônicas.
+# Regras avaliadas EM ORDEM sobre o rótulo sem acento e minúsculo; vale a primeira que casar ("contém").
+# fase vazia ("") = reconhecido, mas deliberadamente NÃO mapeado (aparece no relatório de fases não mapeadas).
+# Fases canônicas: sem_providencia, em_estudo, delimitada, declarada, homologada, regularizada
+# Categorias especiais (fora da sequência): reserva_em_constituicao, restricao_de_uso
+regras_fase:
+  - ["encaminhada ri", reserva_em_constituicao]
+  - ["restricao", restricao_de_uso]
+  - ["nao regularizada", ""]
+  - ["registrad", regularizada]
+  - ["regularizad", regularizada]
+  - ["homologad", homologada]
+  - ["declarad", declarada]
+  - ["delimitad", delimitada]
+  - ["identificada", delimitada]
+  - ["em identificacao", em_estudo]
+  - ["em estudo", em_estudo]
+  - ["identificacao", em_estudo]
+  - ["estudo", em_estudo]
+  - ["sem nenhuma providencia", sem_providencia]
+  - ["sem providencia", sem_providencia]
+  - ["reivindicad", sem_providencia]
+  - ["a identificar", sem_providencia]

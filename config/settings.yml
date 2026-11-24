@@ -1,0 +1,14 @@
+prioridade_fontes: [funai, isa, mpf, cimi]   # qual fonte "vence" em nome, área, fase...
+match:
+  limiar_auto: 93        # similaridade de nome (0-100) para vincular sozinho
+  limiar_revisar: 80     # abaixo do auto e acima disso: vai para data/crosswalk/revisar.csv
+sensivel:
+  palavras_chave: [isolad]   # nomes/povos que contenham isso são tratados como sensíveis
+  somente_sem_poligono: true  # se a Funai já publica o polígono, ele é público: só degrada o que NÃO tem polígono
+  politica: degradar_para_uf # no site, só localização por UF (VALIDAR com a Funai/orientação antes de publicar)
+export:
+  titulo: "Demarcação em Dados"          # nome exibido no site (troque à vontade)
+  subtitulo: "Terras indígenas no Brasil: fases, atos e histórico"
+  versao: "0.1.0"
+  simplificar_graus: 0.001   # ~100 m; reduz o tamanho do GeoJSON do site
+  precisao_coord: 0.00001

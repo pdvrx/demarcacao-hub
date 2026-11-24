@@ -1,0 +1,49 @@
+terra_id,nome,ufs,fases_por_fonte
+TI0014,Aldeia Velha,BA,funai:regularizada|mpf:homologada
+TI0023,Amaral/Tekoá Kuriy,SC,funai:reserva_em_constituicao|mpf:regularizada
+TI0035,Apucarana,PR,funai:regularizada|mpf:em_estudo
+TI0044,Aracá-Padauiri (Baixo Rio Negro),AM,funai:delimitada|mpf:em_estudo
+TI0070,Baixo Marmelos,AM,funai:delimitada|mpf:em_estudo
+TI0071,Baixo Rio Negro e Rio Caurés,AM,funai:delimitada|mpf:em_estudo
+TI0077,Barra,BA,funai:regularizada|mpf:homologada
+TI0106,Cachoeirinha,MS,funai:regularizada|mpf:em_estudo
+TI0109,Cacique Fontoura,MT,funai:regularizada|mpf:homologada
+TI0147,Curara,AM,funai:delimitada|mpf:em_estudo
+TI0159,Estação Parecis,MT,funai:homologada|mpf:declarada
+TI0180,Fulni-ô,AL;PE,funai:regularizada|mpf:em_estudo
+TI0184,Gaviãozinho,AM,funai:delimitada|mpf:em_estudo
+TI0210,Ibirama-La Klãnô,SC,funai:declarada|mpf:regularizada
+TI0260,Ka´aguy Hovy,SP,funai:declarada|mpf:delimitada
+TI0270,Kanela do Araguaia,MT,funai:reserva_em_constituicao|mpf:sem_providencia
+TI0271,Kanela Memortumré,MA,funai:delimitada|mpf:regularizada
+TI0275,Kapyra Kanakury,AM,funai:delimitada|mpf:em_estudo
+TI0298,Kaxuyana-Tunayana,AM;PA,funai:homologada|mpf:declarada
+TI0299,Kayabi,MT;PA,funai:regularizada|mpf:homologada
+TI0304,Krahó-Kanela,TO,funai:regularizada|mpf:em_estudo
+TI0328,Lagoa  Encantada,CE,funai:homologada|mpf:declarada
+TI0361,Mato Preto,RS,funai:delimitada|mpf:declarada
+TI0376,Morro dos Cavalos,SC,funai:regularizada|mpf:homologada
+TI0377,Morro da Palha,SC,funai:reserva_em_constituicao|mpf:regularizada
+TI0389,Nawa,AC,funai:delimitada|mpf:em_estudo
+TI0392,Nonoai,RS,funai:declarada|mpf:regularizada
+TI0411,Pankará da Serra do Arapuá,PE,funai:declarada|mpf:delimitada
+TI0438,Piaçaguera,SP,funai:regularizada|mpf:homologada
+TI0454,Pirititi,RR,funai:em_estudo|mpf:restricao_de_uso
+TI0455,Pitaguary,CE,funai:homologada|mpf:declarada
+TI0461,Porquinhos dos Canela-Apãnjekra,MA,funai:delimitada|mpf:regularizada
+TI0479,Ribeirão Silveira,SP,funai:declarada|mpf:regularizada
+TI0489,Rio dos Índios,RS,funai:regularizada|mpf:homologada
+TI0504,Riozinho - RS,RS,funai:regularizada|mpf:reserva_em_constituicao
+TI0511,Sambaqui,PR,funai:declarada|mpf:delimitada
+TI0530,Sawré Bap in (Apompu),PA,funai:declarada|mpf:delimitada
+TI0576,Tereza Cristina,MT,funai:regularizada|mpf:em_estudo
+TI0585,Toldo Pinhal,SC,funai:declarada|mpf:regularizada
+TI0589,Tremembé de Queimadas,CE,funai:homologada|mpf:declarada
+TI0615,Uati-Paraná,AM,funai:regularizada|mpf:em_estudo
+TI0617,Uirapuru,MT,funai:homologada|mpf:declarada
+TI0629,Valparaíso (RI),AM,funai:reserva_em_constituicao|mpf:sem_providencia
+TI0635,Vista Alegre,AM,funai:declarada|mpf:delimitada
+TI0643,Wassu-Cocal,AL,funai:delimitada|mpf:regularizada
+TI0661,Ygua Porã (Amâncio),SC,funai:delimitada|mpf:em_estudo
+TI0662,Ypoi/Triunfo,MS,funai:declarada|mpf:delimitada
+TI0664,Yvyporã Laranjinha,PR,funai:declarada|mpf:regularizada

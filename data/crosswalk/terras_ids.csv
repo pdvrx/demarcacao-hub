@@ -1,0 +1,912 @@
+terra_id,nome_canonico,criado_em
+TI0001,Acapuri de Cima,2026-11-23
+TI0002,Acimã,2026-11-23
+TI0003,Aconã,2026-11-23
+TI0004,Água Preta/Inari,2026-11-23
+TI0005,Águas Belas,2026-11-23
+TI0006,Águas Claras,2026-11-23
+TI0007,Aldeia Cerroy,2026-11-23
+TI0008,Aldeia Escola Floresta,2026-11-23
+TI0009,Aldeia Katurama,2026-11-23
+TI0010,Aldeia Kondá,2026-11-23
+TI0011,Aldeia Limão Verde,2026-11-23
+TI0012,Aldeia Pó Mág,2026-11-23
+TI0013,Aldeia Por Fi Ga,2026-11-23
+TI0014,Aldeia Velha,2026-11-23
+TI0015,Alto Rio Guamá,2026-11-23
+TI0016,Alto Rio Negro,2026-11-23
+TI0017,Alto Rio Purus,2026-11-23
+TI0018,Alto Sepatini,2026-11-23
+TI0019,Alto Tarauacá,2026-11-23
+TI0020,Alto Turiaçu,2026-11-23
+TI0021,Amambai,2026-11-23
+TI0022,Amanayé,2026-11-23
+TI0023,Amaral/Tekoá Kuriy,2026-11-23
+TI0024,Amba Porã,2026-11-23
+TI0025,Anambé,2026-11-23
+TI0026,Ananás,2026-11-23
+TI0027,Anaro,2026-11-23
+TI0028,Andirá-Marau,2026-11-23
+TI0029,Aningal,2026-11-23
+TI0030,Anta,2026-11-23
+TI0031,Apiaka/Kayabi,2026-11-23
+TI0032,Apiaká do Pontal e Isolados,2026-11-23
+TI0033,Apinayé,2026-11-23
+TI0034,Apipica,2026-11-23
+TI0035,Apucarana,2026-11-23
+TI0036,Apurinã do Alto Tupana,2026-11-23
+TI0037,Apurinã do Igarapé Mucuim,2026-11-23
+TI0038,Apurinã do Igarapé São João,2026-11-23
+TI0039,Apurinã Igarapé Tauamirim,2026-11-23
+TI0040,Apurinã Km 124 BR-317,2026-11-23
+TI0041,Apykai,2026-11-23
+TI0042,Apyterewa,2026-11-23
+TI0043,Araçá,2026-11-23
+TI0044,Aracá-Padauiri (Baixo Rio Negro),2026-11-23
+TI0045,Parque do Araguaia,2026-11-23
+TI0046,Arara,2026-11-23
+TI0047,Ararà,2026-11-23
+TI0048,Arara do Igarapé Humaitá,2026-11-23
+TI0049,Arara do Rio Amônia,2026-11-23
+TI0050,Arara do Rio Branco,2026-11-23
+TI0051,Arara da Volta Grande do Xingu,2026-11-23
+TI0052,Araribá,2026-11-23
+TI0053,Arariboia,2026-11-23
+TI0054,Arary,2026-11-23
+TI0055,Araweté Igarapé Ipixuna,2026-11-23
+TI0056,Areões,2026-11-23
+TI0057,Parque do Aripuanã,2026-11-23
+TI0058,Aripuanã,2026-11-23
+TI0059,Ariramba,2026-11-23
+TI0060,Arroio-Korá,2026-11-23
+TI0061,Atikum,2026-11-23
+TI0062,Avá-Canoeiro,2026-11-23
+TI0063,Reserva Indígena Avá Canoeiro,2026-11-23
+TI0064,Avá-Guarani do Ocoí,2026-11-23
+TI0065,Awa,2026-11-23
+TI0066,Bacurizinho,2026-11-23
+TI0067,Bacurizinho,2026-11-23
+TI0068,Badjonkore,2026-11-23
+TI0069,Baía dos Guató,2026-11-23
+TI0070,Baixo Marmelos,2026-11-23
+TI0071,Baixo Rio Negro e Rio Caurés,2026-11-23
+TI0072,Bakairi,2026-11-23
+TI0073,Balaio,2026-11-23
+TI0074,Banawá,2026-11-23
+TI0075,Barão de Antonina,2026-11-23
+TI0076,Barata Livramento,2026-11-23
+TI0077,Barra,2026-11-23
+TI0078,Barra Velha,2026-11-23
+TI0079,Barra Velha do Monte Pascoal,2026-11-23
+TI0080,Barragem Norte,2026-11-23
+TI0081,Barreira da Missão,2026-11-23
+TI0082,Barreirinha,2026-11-23
+TI0083,Barro Alto,2026-11-23
+TI0084,Batelão,2026-11-23
+TI0085,Batovi,2026-11-23
+TI0086,Baú,2026-11-23
+TI0087,Betania,2026-11-23
+TI0088,Boa Vista - AM,2026-11-23
+TI0089,Boa Vista - PR,2026-11-23
+TI0090,Boa Vista Sertão do Promirim,2026-11-23
+TI0091,Boa Vista Sertão do Promirim,2026-11-23
+TI0092,Boca do Acre,2026-11-23
+TI0093,Bom Intento,2026-11-23
+TI0094,Bom Jesus,2026-11-23
+TI0095,Boqueirão,2026-11-23
+TI0096,Bragança-Marituba,2026-11-23
+TI0097,Brejo do Burgo,2026-11-23
+TI0098,Buriti,2026-11-23
+TI0099,Buriti,2026-11-23
+TI0100,Buritizinho,2026-11-23
+TI0101,Caarapó,2026-11-23
+TI0102,Cabeceira do Rio Acre,2026-11-23
+TI0103,Cacau do Tarauaca,2026-11-23
+TI0104,Cachoeira dos Inácios,2026-11-23
+TI0105,Cachoeira Seca,2026-11-23
+TI0106,Cachoeirinha,2026-11-23
+TI0107,Cachoeirinha,2026-11-23
+TI0108,Cacique Doble,2026-11-23
+TI0109,Cacique Fontoura,2026-11-23
+TI0110,Caiçara/Ilha de São Pedro,2026-11-23
+TI0111,Caieiras Velha II,2026-11-23
+TI0112,Caititu,2026-11-23
+TI0113,Cajueiro,2026-11-23
+TI0114,Cajuhiri Atravessado,2026-11-23
+TI0115,Camadeni,2026-11-23
+TI0116,Camicua,2026-11-23
+TI0117,Campinas/Katukina,2026-11-23
+TI0118,Campo Bonito,2026-11-23
+TI0119,Cana Brava/Guajajara,2026-11-23
+TI0120,Canauanim,2026-11-23
+TI0121,Canelinha,2026-11-23
+TI0122,Cantagalo,2026-11-23
+TI0123,Capivara,2026-11-23
+TI0124,Capivari,2026-11-23
+TI0125,Capoto/Jarina,2026-11-23
+TI0126,Caramuru/Paraguassu,2026-11-23
+TI0127,Carretão I,2026-11-23
+TI0128,Carretão II,2026-11-23
+TI0129,Carreteiro,2026-11-23
+TI0130,Caru,2026-11-23
+TI0131,Catipari/Mamoria,2026-11-23
+TI0132,Caxixó,2026-11-23
+TI0133,Cerco Grande,2026-11-23
+TI0134,Cerrito,2026-11-23
+TI0135,Chão Preto,2026-11-23
+TI0136,Coata-Laranjal,2026-11-23
+TI0137,Cobra Grande,2026-11-23
+TI0138,Comboios,2026-11-23
+TI0139,Comexatibá,2026-11-23
+TI0140,Coroa Vermelha,2026-11-23
+TI0141,Córrego João Pereira,2026-11-23
+TI0142,Crim Patehi,2026-11-23
+TI0143,Cué Cué/ Marabitanas,2026-11-23
+TI0144,Cuia,2026-11-23
+TI0145,Cuiu-Cuiu,2026-11-23
+TI0146,Cunhã-Sapucaia,2026-11-23
+TI0147,Curara,2026-11-23
+TI0148,Curriã,2026-11-23
+TI0149,Deni,2026-11-23
+TI0150,Diahui,2026-11-23
+TI0151,Djaiko-Aty,2026-11-23
+TI0152,Dourados,2026-11-23
+TI0153,Dourados-Amambaipeguá I,2026-11-23
+TI0154,Enawenê-Nawê,2026-11-23
+TI0155,Entre Serras,2026-11-23
+TI0156,Erikpatsá,2026-11-23
+TI0157,Escondido,2026-11-23
+TI0158,Espírito Santo,2026-11-23
+TI0159,Estação Parecis,2026-11-23
+TI0160,Estivadinho,2026-11-23
+TI0161,Estrada do Mar,2026-11-23
+TI0162,Estrela da Paz,2026-11-23
+TI0163,Évare I,2026-11-23
+TI0164,Évare II,2026-11-23
+TI0165,Faxinal,2026-11-23
+TI0166,Fazenda Bahiana,2026-11-23
+TI0167,Fazenda Boa Vista - MG,2026-11-23
+TI0168,Fazenda Canto,2026-11-23
+TI0169,Fazenda Cristo Rei,2026-11-23
+TI0170,Fazenda Guarani,2026-11-23
+TI0171,Fazenda Jenipapeiro,2026-11-23
+TI0172,Fazenda Mabel (Gavião/Akrãtikatêjê),2026-11-23
+TI0173,Fazenda Peró,2026-11-23
+TI0174,Fazenda Remanso,2026-11-23
+TI0175,Fazenda Sempre Verde,2026-11-23
+TI0176,Fazenda Sítio,2026-11-23
+TI0177,Figueiras,2026-11-23
+TI0178,Fortaleza do Castanho,2026-11-23
+TI0179,Fortaleza do Patauá,2026-11-23
+TI0180,Fulni-ô,2026-11-23
+TI0181,Funil,2026-11-23
+TI0182,Galibi,2026-11-23
+TI0183,Gavião,2026-11-23
+TI0184,Gaviãozinho,2026-11-23
+TI0185,Geralda Toco Preto,2026-11-23
+TI0186,Geripancó,2026-11-23
+TI0187,Governador,2026-11-23
+TI0188,Guaimbé,2026-11-23
+TI0189,Guajahã,2026-11-23
+TI0190,Guajanaíra,2026-11-23
+TI0191,Guanabara,2026-11-23
+TI0192,Guarani do Aguapeu,2026-11-23
+TI0193,Guarani de Águas Brancas,2026-11-23
+TI0194,Guarani de Araçai,2026-11-23
+TI0195,Guarani Araponga,2026-11-23
+TI0196,Guarani Barra do Ouro,2026-11-23
+TI0197,Guarani da Barragem,2026-11-23
+TI0198,Guarani de Bracui,2026-11-23
+TI0199,Guarani do Ribeirão Silveira,2026-11-23
+TI0200,Guarani Votouro,2026-11-23
+TI0201,Guarita,2026-11-23
+TI0202,Guasuti,2026-11-23
+TI0203,Guató,2026-11-23
+TI0204,Guaviraty,2026-11-23
+TI0205,Guyraroká,2026-11-23
+TI0206,Hãm Yîxux,2026-11-23
+TI0207,Herarekã Xetá,2026-11-23
+TI0208,Hi Merimã,2026-11-23
+TI0209,Ibirama,2026-11-23
+TI0210,Ibirama-La Klãnô,2026-11-23
+TI0211,Icatu,2026-11-23
+TI0212,Igarapé Capana,2026-11-23
+TI0213,Igarapé do Caucho,2026-11-23
+TI0214,Igarapé Grande,2026-11-23
+TI0215,Igarapé Lage,2026-11-23
+TI0216,Igarapé Lourdes,2026-11-23
+TI0217,Igarapé Ribeirão,2026-11-23
+TI0218,Igarapé Taboca do Alto Tarauacá,2026-11-23
+TI0219,Iguatemipegua I,2026-11-23
+TI0220,Ilha do Camaleão,2026-11-23
+TI0221,Ilha da Cotinga,2026-11-23
+TI0222,Ilhas da Tapera/São Félix/Porto,2026-11-23
+TI0223,Imbiriba,2026-11-23
+TI0224,Inauini/Teuini,2026-11-23
+TI0225,Inawebohona,2026-11-23
+TI0226,Inhacorá,2026-11-23
+TI0227,Ipixuna,2026-11-23
+TI0228,Irantxe,2026-11-23
+TI0229,Irapuá,2026-11-23
+TI0230,Itaitinga,2026-11-23
+TI0231,Itãnury Pupykary (antiga Baixo Seruini),2026-11-23
+TI0232,Itaóca,2026-11-23
+TI0233,Itixi Mitari,2026-11-23
+TI0234,Ituna/Itatá (restrição de uso),2026-11-23
+TI0235,Ivai,2026-11-23
+TI0236,Jabuti,2026-11-23
+TI0237,Jacamim,2026-11-23
+TI0238,Jacaré de São Domingos,2026-11-23
+TI0239,Jacareúba/Katauixi (restrição uso),2026-11-23
+TI0240,Jaguapiré,2026-11-23
+TI0241,Jaguari,2026-11-23
+TI0242,Jaminaua/Envira,2026-11-23
+TI0243,Jaminawa Arara do Rio Bagé,2026-11-23
+TI0244,Jaminawa do Igarapé Preto,2026-11-23
+TI0245,Japuira,2026-11-23
+TI0246,Jaquiri,2026-11-23
+TI0247,Jaraguá,2026-11-23
+TI0248,Jaraguá,2026-11-23
+TI0249,Jarara,2026-11-23
+TI0250,Jarawara/Jamamadi/Kanamati,2026-11-23
+TI0251,Jarudore,2026-11-23
+TI0252,Jatayvari,2026-11-23
+TI0253,Jatuarana,2026-11-23
+TI0254,Jauary,2026-11-23
+TI0255,Juininha,2026-11-23
+TI0256,Juma,2026-11-23
+TI0257,Jumina,2026-11-23
+TI0258,Jurubaxi-téa,2026-11-23
+TI0259,Juruna do Km 17,2026-11-23
+TI0260,Ka´aguy Hovy,2026-11-23
+TI0261,Ka´aguy Mirim,2026-11-23
+TI0262,Kadiwéu,2026-11-23
+TI0263,Kaingang de Iraí,2026-11-23
+TI0264,Kambiwá,2026-11-23
+TI0265,Kampa do Igarapé Primavera,2026-11-23
+TI0266,Kampa e Isolados do Rio Envira,2026-11-23
+TI0267,Kampa do Rio Amônia,2026-11-23
+TI0268,Kanamari do Rio Juruá,2026-11-23
+TI0269,Kanela,2026-11-23
+TI0270,Kanela do Araguaia,2026-11-23
+TI0271,Kanela Memortumré,2026-11-23
+TI0272,Kantaruré,2026-11-23
+TI0273,Kapinawá,2026-11-23
+TI0274,Kapôt Nhinore,2026-11-23
+TI0275,Kapyra Kanakury,2026-11-23
+TI0276,Karajá de Aruanã I,2026-11-23
+TI0277,Karajá de Aruanã II,2026-11-23
+TI0278,Karajá de Aruanã III,2026-11-23
+TI0279,Karajá Santana do Araguaia,2026-11-23
+TI0280,Karapotó,2026-11-23
+TI0281,Kararaô,2026-11-23
+TI0282,Karipuna,2026-11-23
+TI0283,Kariri de Serra Grande,2026-11-23
+TI0284,Kariri-Xocó,2026-11-23
+TI0285,Kariri-Xocó,2026-11-23
+TI0286,Karitiana,2026-11-23
+TI0287,Katukina/Kaxinawá,2026-11-23
+TI0288,Kawahiva do Rio Pardo,2026-11-23
+TI0289,Kaxarari,2026-11-23
+TI0290,Kaxinawá Ashaninka do Rio Breu,2026-11-23
+TI0291,Kaxinawá do Baixo Rio Jordão,2026-11-23
+TI0292,Kaxinawá Colônia Vinte e Sete,2026-11-23
+TI0293,Kaxinawá Nova Olinda,2026-11-23
+TI0294,Kaxinawá da Praia do Carapanã,2026-11-23
+TI0295,Kaxinawá do Rio Humaitá,2026-11-23
+TI0296,Kaxinawá do Rio Jordão,2026-11-23
+TI0297,Kaxinawá Seringal Independência,2026-11-23
+TI0298,Kaxuyana-Tunayana,2026-11-23
+TI0299,Kayabi,2026-11-23
+TI0300,Kayapó,2026-11-23
+TI0301,Kiriri,2026-11-23
+TI0302,Kiriri de Caldas,2026-11-23
+TI0303,Koatinemo,2026-11-23
+TI0304,Krahó-Kanela,2026-11-23
+TI0305,Kraolandia,2026-11-23
+TI0306,Krenak,2026-11-23
+TI0307,Krenak de Sete Salões,2026-11-23
+TI0308,Krenrehé,2026-11-23
+TI0309,Krenyê,2026-11-23
+TI0310,Krikati,2026-11-23
+TI0311,Krukutu,2026-11-23
+TI0312,Kulina Igarapé do Pau,2026-11-23
+TI0313,Kulina do Medio Jurua,2026-11-23
+TI0314,Kulina do Rio Envira,2026-11-23
+TI0315,Kulina do Rio Ueré,2026-11-23
+TI0316,Kumaru do Lago Ualá,2026-11-23
+TI0317,Kuruáya,2026-11-23
+TI0318,Kwazá do Rio São Pedro,2026-11-23
+TI0319,Lago Aiapua,2026-11-23
+TI0320,Lago do Beruri,2026-11-23
+TI0321,Lago Capanã,2026-11-23
+TI0322,Lago do Correio,2026-11-23
+TI0323,Lago Jauari,2026-11-23
+TI0324,Lago do Limão,2026-11-23
+TI0325,Lago do Marinheiro,2026-11-23
+TI0326,Lagoa dos Brincos,2026-11-23
+TI0327,Lagoa Comprida,2026-11-23
+TI0328,Lagoa  Encantada,2026-11-23
+TI0329,Lalima,2026-11-23
+TI0330,Laranjinha,2026-11-23
+TI0331,Las Casas,2026-11-23
+TI0332,Lauro Sodré,2026-11-23
+TI0333,Ligeiro,2026-11-23
+TI0334,Limão Verde,2026-11-23
+TI0335,Macarrão,2026-11-23
+TI0336,Mãe Maria,2026-11-23
+TI0337,Malacacheta,2026-11-23
+TI0338,Mamoadate,2026-11-23
+TI0339,Mamoriá Grande,2026-11-23
+TI0340,Mangueira,2026-11-23
+TI0341,Mangueirinha,2026-11-23
+TI0342,Manoa/Pium,2026-11-23
+TI0343,Manoki,2026-11-23
+TI0344,Mapari,2026-11-23
+TI0345,Maraã Urubaxi,2026-11-23
+TI0346,Maracaxi,2026-11-23
+TI0347,Maraitá,2026-11-23
+TI0348,Maraiwatsede,2026-11-23
+TI0349,Marajai,2026-11-23
+TI0350,Maranduba,2026-11-23
+TI0351,Marechal Rondon,2026-11-23
+TI0352,Maró,2026-11-23
+TI0353,Marrecas,2026-11-23
+TI0354,Mashco do Rio Chandless,2026-11-23
+TI0355,Massacara,2026-11-23
+TI0356,Massaco,2026-11-23
+TI0357,Mata da Cafurna,2026-11-23
+TI0358,Mata Medonha,2026-11-23
+TI0359,Matintin,2026-11-23
+TI0360,Mato Castelhano,2026-11-23
+TI0361,Mato Preto,2026-11-23
+TI0362,Mawetek,2026-11-23
+TI0363,Maxacali,2026-11-23
+TI0364,Mbiguaçu,2026-11-23
+TI0365,Médio Rio Negro I,2026-11-23
+TI0366,Médio Rio Negro II,2026-11-23
+TI0367,Menkragnoti,2026-11-23
+TI0368,Menkü,2026-11-23
+TI0369,Meria,2026-11-23
+TI0370,Merure,2026-11-23
+TI0371,Miguel/Josefa,2026-11-23
+TI0372,Miratu,2026-11-23
+TI0373,Monte Caseros,2026-11-23
+TI0374,Morro Alto,2026-11-23
+TI0375,Morro Branco,2026-11-23
+TI0376,Morro dos Cavalos,2026-11-23
+TI0377,Morro da Palha,2026-11-23
+TI0378,Moskow,2026-11-23
+TI0379,Muã Mimatxi (Fazenda Modelo Diniz),2026-11-23
+TI0380,Mundo Verde/Cachoeirinha,2026-11-23
+TI0381,Munduruku,2026-11-23
+TI0382,Munduruku-Taquara,2026-11-23
+TI0383,Mura do Médio Madeira,2026-11-23
+TI0384,Muriru,2026-11-23
+TI0385,Murutinga/Tracaja,2026-11-23
+TI0386,Nambikwara,2026-11-23
+TI0387,Ñande Ru Marangatu,2026-11-23
+TI0388,Natal/Felicidade,2026-11-23
+TI0389,Nawa,2026-11-23
+TI0390,Nhamundá/Mapuera,2026-11-23
+TI0391,Nioaque,2026-11-23
+TI0392,Nonoai,2026-11-23
+TI0393,Nonoai/Rio da Várzea,2026-11-23
+TI0394,Nossa Senhora de Fátima,2026-11-23
+TI0395,Nova Esperança do Rio Jandiatuba,2026-11-23
+TI0396,Nova Jacundá,2026-11-23
+TI0397,Nove de Janeiro,2026-11-23
+TI0398,Nukini,2026-11-23
+TI0399,Ofayé-Xavante,2026-11-23
+TI0400,Ofayé-Xavante,2026-11-23
+TI0401,Ouro,2026-11-23
+TI0402,Pacaas Novas,2026-11-23
+TI0403,Pacheca,2026-11-23
+TI0404,Padre,2026-11-23
+TI0405,"Paiol, Cajual e Palhal",2026-11-23
+TI0406,Pakurity,2026-11-23
+TI0407,Palmas,2026-11-23
+TI0408,Panambi - Lagoa Rica,2026-11-23
+TI0409,Panambizinho,2026-11-23
+TI0410,Panará,2026-11-23
+TI0411,Pankará da Serra do Arapuá,2026-11-23
+TI0412,Pankararé,2026-11-23
+TI0413,Pankararu,2026-11-23
+TI0414,Paquiçamba,2026-11-23
+TI0415,Paquiçamba,2026-11-23
+TI0416,Parabubure,2026-11-23
+TI0417,Paracuhuba,2026-11-23
+TI0418,Parakanã,2026-11-23
+TI0419,Paraná do Arauató,2026-11-23
+TI0420,Parana do Boa Boa,2026-11-23
+TI0421,Parana do Paricá,2026-11-23
+TI0422,Parati-Mirim,2026-11-23
+TI0423,Paresi,2026-11-23
+TI0424,Passo Grande do Rio Forquilha,2026-11-23
+TI0425,Patauá,2026-11-23
+TI0426,Paukalirajausu,2026-11-23
+TI0427,Paumari do Cuniua,2026-11-23
+TI0428,Paumari do Lago Manissuã,2026-11-23
+TI0429,Paumari do Lago Marahã,2026-11-23
+TI0430,Paumari do Lago Paricá,2026-11-23
+TI0431,Paumari do Rio Ituxi,2026-11-23
+TI0432,Peguaoty,2026-11-23
+TI0433,Peneri/Tacaquiri,2026-11-23
+TI0434,Pequizal,2026-11-23
+TI0435,Pequizal do Naruvôtu,2026-11-23
+TI0436,Perigara,2026-11-23
+TI0437,Peruíbe,2026-11-23
+TI0438,Piaçaguera,2026-11-23
+TI0439,Pilad Rebuá,2026-11-23
+TI0440,Pimentel Barbosa,2026-11-23
+TI0441,Pinatuba,2026-11-23
+TI0442,Pindó Poty (Lami),2026-11-23
+TI0443,Pindoty,2026-11-23
+TI0444,Pindoty/Araçá-Mirim,2026-11-23
+TI0445,Pinhal,2026-11-23
+TI0446,Pinhalzinho,2026-11-23
+TI0447,Pipipã,2026-11-23
+TI0448,Pirahã,2026-11-23
+TI0449,Pirai,2026-11-23
+TI0450,Pirajuí,2026-11-23
+TI0451,Pirakua,2026-11-23
+TI0452,Pirineus de Souza,2026-11-23
+TI0453,Piripkura ( restrição de uso ),2026-11-23
+TI0454,Pirititi,2026-11-23
+TI0455,Pitaguary,2026-11-23
+TI0456,Pium,2026-11-23
+TI0457,Ponciano,2026-11-23
+TI0458,Ponta da Serra,2026-11-23
+TI0459,Ponte de Pedra,2026-11-23
+TI0460,Porquinhos,2026-11-23
+TI0461,Porquinhos dos Canela-Apãnjekra,2026-11-23
+TI0462,Portal do Encantado,2026-11-23
+TI0463,Porto Limoeiro,2026-11-23
+TI0464,Porto Lindo,2026-11-23
+TI0465,Porto Praia,2026-11-23
+TI0466,Potiguara,2026-11-23
+TI0467,Potiguara de Monte-Mor,2026-11-23
+TI0468,Potrero Guaçu,2026-11-23
+TI0469,Poyanawa,2026-11-23
+TI0470,Praia do Índio,2026-11-23
+TI0471,Praia do Mangue,2026-11-23
+TI0472,Prosperidade,2026-11-23
+TI0473,Queimadas,2026-11-23
+TI0474,Quixaba,2026-11-23
+TI0475,Raimundão,2026-11-23
+TI0476,Rancho Jacaré,2026-11-23
+TI0477,Raposa Serra do Sol,2026-11-23
+TI0478,Recreio/São Félix,2026-11-23
+TI0479,Ribeirão Silveira,2026-11-23
+TI0480,Rio Apaporis,2026-11-23
+TI0481,Rio Areia,2026-11-23
+TI0482,Rio Biá,2026-11-23
+TI0483,Rio Branco,2026-11-23
+TI0484,Rio Branco Itanhaém,2026-11-23
+TI0485,Rio das Cobras,2026-11-23
+TI0486,Rio Formoso,2026-11-23
+TI0487,Rio Gregório,2026-11-23
+TI0488,Rio Guaporé,2026-11-23
+TI0489,Rio dos Índios,2026-11-23
+TI0490,Rio Jumas,2026-11-23
+TI0491,Rio Manicoré,2026-11-23
+TI0492,Rio Mequens,2026-11-23
+TI0493,Rio Negro Ocaia,2026-11-23
+TI0494,Rio Negro Ocaia,2026-11-23
+TI0495,Rio Omerê,2026-11-23
+TI0496,Rio dos Pardos,2026-11-23
+TI0497,Rio Paru DEste,2026-11-23
+TI0498,Rio Pindaré,2026-11-23
+TI0499,Rio Téa,2026-11-23
+TI0500,Rio Urubu,2026-11-23
+TI0501,Riozinho,2026-11-23
+TI0502,Riozinho do Alto Envira,2026-11-23
+TI0503,Riozinho do Iaco (anteriormente chamada de Manchineri do Seringal Guanabara),2026-11-23
+TI0504,Riozinho - RS,2026-11-23
+TI0505,Rodeador,2026-11-23
+TI0506,Roosevelt,2026-11-23
+TI0507,Sabanê,2026-11-23
+TI0508,Sagarana,2026-11-23
+TI0509,Sai-Cinza,2026-11-23
+TI0510,Salto Grande do Jacuí,2026-11-23
+TI0511,Sambaqui,2026-11-23
+TI0512,Sangradouro/Volta Grande,2026-11-23
+TI0513,Santa Cruz da Nova Aliança,2026-11-23
+TI0514,Santa Inez,2026-11-23
+TI0515,Santana,2026-11-23
+TI0516,São Domingos do Jacapari e Estação,2026-11-23
+TI0517,São Domingos - MT,2026-11-23
+TI0518,São Francisco do Canimari,2026-11-23
+TI0519,São Jeronimo,2026-11-23
+TI0520,São Leopoldo,2026-11-23
+TI0521,São Marcos - MT,2026-11-23
+TI0522,São Marcos - RR,2026-11-23
+TI0523,São Pedro,2026-11-23
+TI0524,São Pedro do Sepatini,2026-11-23
+TI0525,São Sebastião,2026-11-23
+TI0526,Sapotal,2026-11-23
+TI0527,Sararé,2026-11-23
+TI0528,Sarauá,2026-11-23
+TI0529,Sassoró,2026-11-23
+TI0530,Sawré Bap in (Apompu),2026-11-23
+TI0531,Sawré Muybu (Pimental),2026-11-23
+TI0532,Sepoti,2026-11-23
+TI0533,Serra do Itatins,2026-11-23
+TI0534,Serra da Moça,2026-11-23
+TI0535,Serra Morena,2026-11-23
+TI0536,Serrinha,2026-11-23
+TI0537,Seruini/Mariene,2026-11-23
+TI0538,Sete Cerros,2026-11-23
+TI0539,Sete de Setembro,2026-11-23
+TI0540,Setemã,2026-11-23
+TI0541,Sissaíma,2026-11-23
+TI0542,Sombrerito,2026-11-23
+TI0543,Sororó,2026-11-23
+TI0544,Sucuba,2026-11-23
+TI0545,Sucuriy,2026-11-23
+TI0546,Sururuá,2026-11-23
+TI0547,Taba dos Anacé,2026-11-23
+TI0548,Tabalascada,2026-11-23
+TI0549,Tabocal,2026-11-23
+TI0550,Tadarimana,2026-11-23
+TI0551,Taego Ãwa,2026-11-23
+TI0552,Taihantesu,2026-11-23
+TI0553,Takuaraty/Yvykuarusu,2026-11-23
+TI0554,Takuari,2026-11-23
+TI0555,Tanaru ( restrição de uso ),2026-11-23
+TI0556,Tapeba,2026-11-23
+TI0557,Tapirapé/Karajá,2026-11-23
+TI0558,Tapyi/Rio Branquinho,2026-11-23
+TI0559,Taquaperi,2026-11-23
+TI0560,Taquara,2026-11-23
+TI0561,Tarumã,2026-11-23
+TI0562,Taunay/Ipegue,2026-11-23
+TI0563,Taunay/Ipegue,2026-11-23
+TI0564,Tekoá Guavirá,2026-11-23
+TI0565,Tekoa Gwyra Pepo,2026-11-23
+TI0566,Tekohá Añetete,2026-11-23
+TI0567,Tekoha Guasú Guavirá,2026-11-23
+TI0568,Tekoha Itamarã,2026-11-23
+TI0569,Tekoha Jevy (Rio Pequeno),2026-11-23
+TI0570,Tembé,2026-11-23
+TI0571,Tenharim do Igarapé Preto,2026-11-23
+TI0572,Tenharim Marmelos,2026-11-23
+TI0573,Tenharim Marmelos (Gleba B),2026-11-23
+TI0574,Tenondé Porã,2026-11-23
+TI0575,Terena Gleba Iriri,2026-11-23
+TI0576,Tereza Cristina,2026-11-23
+TI0577,Tibagy/Mococa,2026-11-23
+TI0578,Tikúna de Feijoal,2026-11-23
+TI0579,Tikuna de Santo Antonio,2026-11-23
+TI0580,Tingui Botó,2026-11-23
+TI0581,Tirecatinga,2026-11-23
+TI0582,Toldo Chimbangue,2026-11-23
+TI0583,Toldo Chimbangue II,2026-11-23
+TI0584,Toldo Imbu,2026-11-23
+TI0585,Toldo Pinhal,2026-11-23
+TI0586,Torá,2026-11-23
+TI0587,Tremembé de Almofala,2026-11-23
+TI0588,Tremembé da Barra do Mundaú,2026-11-23
+TI0589,Tremembé de Queimadas,2026-11-23
+TI0590,Trincheira,2026-11-23
+TI0591,Trincheira Bacaja,2026-11-23
+TI0592,Trocará,2026-11-23
+TI0593,Trocará - Doação,2026-11-23
+TI0594,Trombetas/Mapuera,2026-11-23
+TI0595,Truaru,2026-11-23
+TI0596,Truká,2026-11-23
+TI0597,Truká - Ilha da Assunção,2026-11-23
+TI0598,Tubarão Latunde,2026-11-23
+TI0599,Tukuna Porto Espiritual,2026-11-23
+TI0600,Tukuna Umariaçu,2026-11-23
+TI0601,Tumbalalá,2026-11-23
+TI0602,Tumiã,2026-11-23
+TI0603,Parque do Tumucumaque,2026-11-23
+TI0604,Tupã-Supé,2026-11-23
+TI0605,Tupinambá de Belmonte,2026-11-23
+TI0606,Tupinambá de Olivença,2026-11-23
+TI0607,Tupiniquim,2026-11-23
+TI0608,Turé/Mariquita,2026-11-23
+TI0609,Turé/Mariquita II,2026-11-23
+TI0610,Tuwa Apekuokawera,2026-11-23
+TI0611,Tuxá de Ibotirama,2026-11-23
+TI0612,Tuxá de Inajá,2026-11-23
+TI0613,Tuxá Setsor Bragagá,2026-11-23
+TI0614,Uaçá,2026-11-23
+TI0615,Uati-Paraná,2026-11-23
+TI0616,Ubawawe,2026-11-23
+TI0617,Uirapuru,2026-11-23
+TI0618,Umutina,2026-11-23
+TI0619,Uneiuxi,2026-11-23
+TI0620,Uneiuxi - Reestudo,2026-11-23
+TI0621,Uru-Eu-Wau-Wau,2026-11-23
+TI0622,Urubu Branco,2026-11-23
+TI0623,Urucu/Juruá,2026-11-23
+TI0624,Utaria Wyhyna/Iròdu Iràna,2026-11-23
+TI0625,Utiariti,2026-11-23
+TI0626,Uty-Xunati,2026-11-23
+TI0627,Vale do Guaporé,2026-11-23
+TI0628,Vale do Javari,2026-11-23
+TI0629,Valparaíso (RI),2026-11-23
+TI0630,Vanuire,2026-11-23
+TI0631,Vargem Alegre,2026-11-23
+TI0632,Varzinha,2026-11-23
+TI0633,Ventarra,2026-11-23
+TI0634,Vera Tupã?i,2026-11-23
+TI0635,Vista Alegre,2026-11-23
+TI0636,Votouro,2026-11-23
+TI0637,Votouro/Kandóia,2026-11-23
+TI0638,Vui-Uata-In,2026-11-23
+TI0639,Waiãpi,2026-11-23
+TI0640,Waimiri-Atroari,2026-11-23
+TI0641,Waimiri-Atroari,2026-11-23
+TI0642,WaiWái,2026-11-23
+TI0643,Wassu-Cocal,2026-11-23
+TI0644,Wassu Cocal,2026-11-23
+TI0645,Wawi,2026-11-23
+TI0646,Wedezé,2026-11-23
+TI0647,Xacriabá,2026-11-23
+TI0648,Xacriabá,2026-11-23
+TI0649,Xakriabá Rancharia,2026-11-23
+TI0650,Xambioá,2026-11-23
+TI0651,Xapecó,2026-11-23
+TI0652,Xapecó (Pinhalzinho-Canhadão),2026-11-23
+TI0653,Xerente,2026-11-23
+TI0654,Xikrin do Rio Catete,2026-11-23
+TI0655,Parque do Xingu,2026-11-23
+TI0656,Xipaya,2026-11-23
+TI0657,Xukuru,2026-11-23
+TI0658,Xukuru de Cimbres,2026-11-23
+TI0659,Xukuru-Kariri,2026-11-23
+TI0660,Yanomami,2026-11-23
+TI0661,Ygua Porã (Amâncio),2026-11-23
+TI0662,Ypoi/Triunfo,2026-11-23
+TI0663,Yvy-katu,2026-11-23
+TI0664,Yvyporã Laranjinha,2026-11-23
+TI0665,Zoe,2026-11-23
+TI0666,Zoró,2026-11-23
+TI0667,Zuruahã,2026-11-23
+TI0668,Colônia,2026-11-23
+TI0669,Acapuri do Meio,2026-11-23
+TI0670,Agachi,2026-11-23
+TI0671,Água Grande,2026-11-23
+TI0672,Água Limpa,2026-11-23
+TI0673,Aldeia Bom Jesus (Kuaray Haxa),2026-11-23
+TI0674,Aldeia Guajajara,2026-11-23
+TI0675,Aldeia Imburana,2026-11-23
+TI0676,Aldeia Indígena de Areal,2026-11-23
+TI0677,Aldeia Ita Pará da Serra do Caparaó,2026-11-23
+TI0678,Aldeia Limão Verde (Terra Indígena Amambai),2026-11-23
+TI0679,Aldeia Renascer/Ywyty Guaçu,2026-11-23
+TI0680,Aldeia Serra do Couro Dantas/Aldeia do Cachimbó,2026-11-23
+TI0681,Aldeia Thá-Fene,2026-11-23
+TI0682,Aldeia Thery Xavante Auwé Uptabi,2026-11-23
+TI0683,Aldeinha,2026-11-23
+TI0684,Alto Rio Iça,2026-11-23
+TI0685,Anacé,2026-11-23
+TI0686,Andaiá,2026-11-23
+TI0687,Aningalzinho,2026-11-23
+TI0688,Apapeguá,2026-11-23
+TI0689,Apinayé II,2026-11-23
+TI0690,Aranã Caboclo,2026-11-23
+TI0691,Aranã Índio,2026-11-23
+TI0692,Arandu-Mirim,2026-11-23
+TI0693,Arapuá,2026-11-23
+TI0694,Ararà (Baixo Jatapú),2026-11-23
+TI0695,Araraquara,2026-11-23
+TI0696,Arauacá,2026-11-23
+TI0697,Areal,2026-11-23
+TI0698,Aripuanã (TI),2026-11-23
+TI0699,Arroio do Conde,2026-11-23
+TI0700,Ashaninka e Kulina da Colocação Porvir,2026-11-23
+TI0701,Atikum de Cotegipe/de Angical,2026-11-23
+TI0702,Atikum/Nioaque,2026-11-23
+TI0704,Baixo Seruini/Baixo Tumiã,2026-11-23
+TI0705,Bananal – Santuário dos Pajés,2026-11-23
+TI0706,Barreirinha,2026-11-23
+TI0707,Boa Vista do Sertão do Pro- Mirim,2026-11-23
+TI0708,Bom Futuro,2026-11-23
+TI0709,Bom Jesus do Tarará,2026-11-23
+TI0710,Borari/Alter do Chão,2026-11-23
+TI0711,Borboleta,2026-11-23
+TI0712,Caiapé,2026-11-23
+TI0713,Caiapucá,2026-11-23
+TI0714,Caiçara,2026-11-23
+TI0715,Cajueiro,2026-11-23
+TI0716,Camba/Bairro Cristo Redentor,2026-11-23
+TI0717,Cambirela,2026-11-23
+TI0718,Campo do Meio (Re Kuju),2026-11-23
+TI0719,Canoanã,2026-11-23
+TI0720,Capivari (Rio Capivari – Porãi),2026-11-23
+TI0722,Carazinho,2026-11-23
+TI0723,Cariru,2026-11-23
+TI0724,Cassupá/Salamãi,2026-11-23
+TI0725,Cerco Grande (M'byá Guarani Kuaray Oguatá),2026-11-23
+TI0726,Chandless,2026-11-23
+TI0727,Chapada do A,2026-11-23
+TI0728,Chiquitano,2026-11-23
+TI0729,Cinta Vermelha – Jundiba,2026-11-23
+TI0730,Comexatiba (Cahy Pequi),2026-11-23
+TI0731,Comunidade Beija-Flor,2026-11-23
+TI0732,Comunidade São Benedito,2026-11-23
+TI0733,Coroa Vermelha (Ponta Grande),2026-11-23
+TI0734,Corveta I e II,2026-11-23
+TI0735,Coxilha da Cruz,2026-11-23
+TI0736,D'Zorobabé (Aldeia Mãe),2026-11-23
+TI0737,"Djaiko-Aty (Santa Ria II, Jakoaty, Djaikoaty)",2026-11-23
+TI0738,Ebenézer,2026-11-23
+TI0739,Escrivão,2026-11-23
+TI0740,Estirão,2026-11-23
+TI0741,Estiva,2026-11-23
+TI0742,Estrada do Mar (Interlagos),2026-11-23
+TI0743,Estrela,2026-11-23
+TI0744,Eterãirebere,2026-11-23
+TI0745,Faxinal/São Miguel (Goj Kusa),2026-11-23
+TI0746,Fazenda Alagadiço/Apucaré,2026-11-23
+TI0747,Fazenda Altamira,2026-11-23
+TI0749,Fazenda Funil/Inajá,2026-11-23
+TI0750,Fazenda Gameleira,2026-11-23
+TI0751,Fazenda Sítio/Tuxá de Banzaê,2026-11-23
+TI0753,Fulniô de Serra do Ramalho,2026-11-23
+TI0754,Garuva,2026-11-23
+TI0755,Geru Tucunã,2026-11-23
+TI0756,"Guarani Barão de Antonina (Karugwá, Pyhaú)",2026-11-23
+TI0757,Guarani de Itaporanga (Tekoa Porã),2026-11-23
+TI0758,Guarani do Lami,2026-11-23
+TI0759,Guarani de Ocoy,2026-11-23
+TI0760,Guarasugwe Riozinho,2026-11-23
+TI0761,Hâm Yixux (Aldeia Verde),2026-11-23
+TI0762,Henê Baria Namakia (Kaxinawá Seringal Curralinho),2026-11-23
+TI0763,Hu'uhi,2026-11-23
+TI0764,Ibotirama,2026-11-23
+TI0765,Igapó Grande,2026-11-23
+TI0766,Igarapé do Patauá,2026-11-23
+TI0767,Igarapé Taboca do Alto Tarauacá (Rio Muru),2026-11-23
+TI0768,Iguatemipeguá I (Mbaracay e Pyelito),2026-11-23
+TI0769,"Iguatemipeguá II (Kurusu Amba, Karaja Yvy, Ka'a jari e Kamakua)",2026-11-23
+TI0770,"Iguatemipeguá III (Vaqueriami/Jaguapiré Memby, Jukeri, Mboi Veve, Lampiño e Karaguaty)",2026-11-23
+TI0771,Ilha do Panamin,2026-11-23
+TI0772,"Ilhas da Varge, Caxoí e Cana Brava",2026-11-23
+TI0773,Inhaa-bé (Lote 43) e Hiwy (Lote 44),2026-11-23
+TI0774,Inhacapetum,2026-11-23
+TI0775,Isolados do Igarapé Tapada,2026-11-23
+TI0776,Isoú'pà,2026-11-23
+TI0777,Itapuã,2026-11-23
+TI0778,Itariri (Serra do Itatins),2026-11-23
+TI0779,Itixi Kanimari,2026-11-23
+TI0780,Ituna/Itata (interdição),2026-11-23
+TI0781,Jacareuba/Katawixi,2026-11-23
+TI0782,Jaminawa da Colocação São Paulino,2026-11-23
+TI0783,Jaminawa do Rio Caeté,2026-11-23
+TI0785,Jeju,2026-11-23
+TI0786,Jeripancó (Geripancó),2026-11-23
+TI0787,Jurubaxi-Teá (Baixo Rio Negro II),2026-11-23
+TI0788,Ka'aguy Mirim (Tekoa Uruity),2026-11-23
+TI0789,Ka'aguy Poty,2026-11-23
+TI0790,Kaingang de Pontão Fag-Nor / Aldeia Butiá - Tenh Mág,2026-11-23
+TI0791,Kaingang de Vitorino,2026-11-23
+TI0792,Kaixana de Santo Antonio do Içá,2026-11-23
+TI0793,Kalankó,2026-11-23
+TI0794,Kambeba de Fonte Boa,2026-11-23
+TI0795,Kanindé de Aratuba (Sítio Fernandes),2026-11-23
+TI0796,Karuazú,2026-11-23
+TI0797,Karuguá (Araça'i),2026-11-23
+TI0799,Kiriri de Caldas (Rio Verde),2026-11-23
+TI0800,Kógunh Mág/Jagtyg Fykóg,2026-11-23
+TI0801,Kokama do Baixo Rio Iça,2026-11-23
+TI0802,Kokama de São Paulo de Olivença,2026-11-23
+TI0803,Kokue Y,2026-11-23
+TI0804,Krenak/Krenak de Sete Salões,2026-11-23
+TI0805,Kulina do Rio Uerê – Matatibem,2026-11-23
+TI0806,Kuntanawa,2026-11-23
+TI0807,Lago do Barrigudo,2026-11-23
+TI0808,Lago Grande (Chiquitano),2026-11-23
+TI0809,Lago Grande (Karajá),2026-11-23
+TI0810,Lago do Soares e Urucurituba,2026-11-23
+TI0811,Lagoa dos Neres/Lagoinha,2026-11-23
+TI0812,Lajeado do Bugre,2026-11-23
+TI0813,Lomba do Pinheiro,2026-11-23
+TI0814,Mamori,2026-11-23
+TI0815,Mamoriá Grande e Igarapé Grande,2026-11-23
+TI0816,Manoki (Irantxe),2026-11-23
+TI0818,Massekury/Kâmapa,2026-11-23
+TI0819,Massiambu,2026-11-23
+TI0821,Migueleno,2026-11-23
+TI0822,Mirueira,2026-11-23
+TI0823,Moia Mala (Jaguari),2026-11-23
+TI0824,Monte Nebo,2026-11-23
+TI0825,Monte Sinai,2026-11-23
+TI0826,Morro do Coco,2026-11-23
+TI0828,Morro Santana,2026-11-23
+TI0829,Mukurin (Mucurim),2026-11-23
+TI0830,Mundo Novo-Viração (Serra das Matas),2026-11-23
+TI0831,Mundo Verde (Aldeia Cachoeirinha),2026-11-23
+TI0832,"Ñande Ru Marangatu Ñandevapeguá (Mbocajá,",2026-11-23
+TI0833,Nazaré,2026-11-23
+TI0834,Nazário-Mambira,2026-11-23
+TI0835,Neo-Pankararé,2026-11-23
+TI0836,Norotsurã,2026-11-23
+TI0837,Nossa Senhora de Fátima do Catuá,2026-11-23
+TI0838,Nossa Senhora de Nazaré do Itaboca e Cajú,2026-11-23
+TI0839,Nova Jerusálem,2026-11-23
+TI0840,Nova Jerusalém do Caruara,2026-11-23
+TI0841,Novo Xengu (Chêg'gu),2026-11-23
+TI0842,Olho d'Água dos Canuto (Serra das Matas),2026-11-23
+TI0843,Pacajá,2026-11-23
+TI0844,"Pakurity (antiga Jakarey, Acaraú)",2026-11-23
+TI0845,Palmital / Ka'aguy Guaxy,2026-11-23
+TI0846,Pankaiuká/Fazenda Cristo Rei,2026-11-23
+TI0847,Pankararu Gueyah,2026-11-23
+TI0848,Pankariri,2026-11-23
+TI0849,Paracuni,2026-11-23
+TI0850,Passo Grande,2026-11-23
+TI0851,Pataxó Hã Hã Hãe de Bertópolis,2026-11-23
+TI0852,Petim/Arasaty,2026-11-23
+TI0853,Piripkura (Interdição),2026-11-23
+TI0854,Ponta do Arado,2026-11-23
+TI0855,Ponta da Formiga,2026-11-23
+TI0856,Por Fi Gã,2026-11-23
+TI0857,"Potrerito, Vitoi Kuê) Nioaque",2026-11-23
+TI0858,Projeto MAPI,2026-11-23
+TI0859,Puruborá,2026-11-23
+TI0860,Renascer,2026-11-23
+TI0861,Reta/Tapera,2026-11-23
+TI0862,Riachão/Luiza do Vale,2026-11-23
+TI0863,Rio Arraias/BR 080,2026-11-23
+TI0864,Rio Bonito,2026-11-23
+TI0865,Rio Cautário,2026-11-23
+TI0866,Rio Copeá,2026-11-23
+TI0867,Rio Cuieiras,2026-11-23
+TI0868,Rio do Meio,2026-11-23
+TI0869,Rio Pequeno,2026-11-23
+TI0870,Riozinho da Liberdade,2026-11-23
+TI0871,Rodelas,2026-11-23
+TI0872,Roro-Walu (Jatobá/Ikpeng),2026-11-23
+TI0873,Santa Maria (duplicada com Arena,2026-11-23
+TI0874,São Gabriel/São Salvador,2026-11-23
+TI0875,São José do Jenipauá,2026-11-23
+TI0876,São Miguel do Paraná do Dururuá,2026-11-23
+TI0877,São Raimundo,2026-11-23
+TI0878,Sawré Juybu (São Luíz dos Tapajós),2026-11-23
+TI0879,Segu,2026-11-23
+TI0880,Seringal Guanabara/Jaminawa do Guajará (Riozinho Iaco),2026-11-23
+TI0881,Serra do Periperi,2026-11-23
+TI0882,Serrote dos Campos,2026-11-23
+TI0883,Setsor Bragágá,2026-11-23
+TI0884,Tabajara,2026-11-23
+TI0885,Tabajara de Piripiri (Tocaia),2026-11-23
+TI0886,Tabajara de Quiterianópolis,2026-11-23
+TI0887,Takuary Eldorado,2026-11-23
+TI0888,Tanaru,2026-11-23
+TI0889,Tapayuna,2026-11-23
+TI0890,Taquara,2026-11-23
+TI0891,Taquaritiua,2026-11-23
+TI0892,Tekoa Itaoka (Icapara II),2026-11-23
+TI0893,Tekoa Itapuã (Icapara I),2026-11-23
+TI0894,Tekoa Jejyty (Toca do Bugio),2026-11-23
+TI0895,"Tekoha Guasu Guavirá (Marangatu, Araguaju, Jevy, Nhemboete, Y Hovy, Mirim, Guarani, Tatury, Yvyraty Porã e Tajy Poty)",2026-11-23
+TI0896,Tekoha Vera Tupãi,2026-11-23
+TI0897,Terena/Santa Rita do Pardo,2026-11-23
+TI0898,"Timbotuba, Montes Claros, São Benedito e Guariba II e Igarapé Grande (Médio Rio Madeira)",2026-11-23
+TI0899,Tremembé do Engenho,2026-11-23
+TI0900,Tremembé da Raposa,2026-11-23
+TI0901,Truká - Assunção,2026-11-23
+TI0902,Truká – Família de Mozenir Araújo,2026-11-23
+TI0903,Truká de Sobradinho,2026-11-23
+TI0904,Truká-Tupã,2026-11-23
+TI0905,Tucumã,2026-11-23
+TI0906,Tupinambá de Itapebi,2026-11-23
+TI0907,Tuwa Apekuokawera (antiga Sororó-Gleba Taupekuakau),2026-11-23
+TI0908,Tuxi,2026-11-23
+TI0911,Vila Real,2026-11-23
+TI0912,Wahuri,2026-11-23
+TI0914,Wedezé / Pimentel Baborsa,2026-11-23
+TI0915,Xakriabá,2026-11-23
+TI0916,Xakriabá de Côcos,2026-11-23
+TI0917,Xapecó Glebas A e B (Pinhalzinho e Canhadão),2026-11-23
+TI0918,Xokleng Zagaua (Konglui),2026-11-23
+TI0921,Yanwaka,2026-11-23
+TI0922,Yvy Katu (Porto Lindo/Fazenda Remanso Guaçu),2026-11-23
+TI0923,Zo’é,2026-11-23
+TI0924,Zuruahã / Zuruwahá,2026-11-23
+TI0925,Zo’é,2026-11-24

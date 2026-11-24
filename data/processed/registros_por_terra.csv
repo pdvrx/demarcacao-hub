@@ -1,0 +1,1482 @@
+terra_id,fonte,chave_fonte,nome_original,fase_origem,fase,ufs,municipios,area_ha
+TI0001,funai,101,Acapuri de Cima,Regularizada,regularizada,AM,Fonte Boa/AM,18393.94
+TI0001,mpf,acapuri cima|AM,Acapuri de Cima,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Fonte Boa/AM,19885.04
+TI0002,funai,201,Acimã,Regularizada,regularizada,AM,Lábrea/AM,40686.03
+TI0002,mpf,acima|AM,Acimã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,40686.0
+TI0003,funai,601,Aconã,Regularizada,regularizada,AL,Traipu/AL,267.79
+TI0003,mpf,acona|AL,Aconã,Regularizada,regularizada,AL,Traipu/AL,268.0
+TI0004,funai,401,Água Preta/Inari,Regularizada,regularizada,AM,Pauini/AM,139763.67
+TI0004,mpf,agua preta inari|AM,Água Preta/Inari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Pauini/AM,139764.0
+TI0005,funai,501,Águas Belas,Regularizada,regularizada,BA,Prado/BA,1189.06
+TI0005,mpf,aguas belas|BA,Águas Belas,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Prado/BA,1189.0
+TI0006,funai,72801,Águas Claras,Regularizada,regularizada,SC,Major Gercino/SC,165.42
+TI0006,mpf,aguas claras|SC,Águas Claras,Regularizada,regularizada,SC,Major Gercino/SC,165.0
+TI0007,funai,73813,Aldeia Cerroy,Encaminhada RI,reserva_em_constituicao,MS,Guia Lopes da Laguna e Jardim e Maracaju/MS,30.54
+TI0007,mpf,aldeia cerroy|MS,Aldeia Cerro'y,Encaminhada RI,reserva_em_constituicao,MS,Guia Lopes da Laguna/MS; Jardim/MS; Maracaju/MS,
+TI0008,funai,73806,Aldeia Escola Floresta,Regularizada,regularizada,MG,Teófilo Otoni/MG,121.0
+TI0008,mpf,aldeia escola floresta|MG,Aldeia Escola Floresta,Regularizada,regularizada,MG,Teófilo Otoni/MG,121.0
+TI0009,funai,73793,Aldeia Katurama,Regularizada,regularizada,MG,São Joaquim de Bicas/MG,346124.0
+TI0009,mpf,aldeia katurama|MG,Aldeia Katurama,Regularizada,regularizada,MG,São Joaquim de Bicas/MG,346.0
+TI0010,funai,701,Aldeia Kondá,Encaminhada RI,reserva_em_constituicao,SC,Chapecó/SC,2300.0
+TI0010,mpf,aldeia konda|SC,Aldeia Kondá,Encaminhada RI,reserva_em_constituicao,SC,Chapecó/SC,2300.0
+TI0011,funai,801,Aldeia Limão Verde,Regularizada,regularizada,MS,Amambai/MS,668.08
+TI0012,funai,73839,Aldeia Pó Mág,Regularizada,regularizada,RS,Tabaí/RS,11.75
+TI0013,funai,73841,Aldeia Por Fi Ga,Regularizada,regularizada,RS,São Leopoldo/RS,10.68
+TI0014,funai,901,Aldeia Velha,Regularizada,regularizada,BA,Porto Seguro/BA,1997.55
+TI0014,mpf,aldeia velha|BA,Aldeia Velha,Homologada,homologada,BA,Porto Seguro/BA,1997.0
+TI0015,funai,1001,Alto Rio Guamá,Regularizada,regularizada,PA,Garrafão do Norte e Nova Esperança do Piriá e Paragominas e Santa Luzia do Pará/PA,279897.7
+TI0015,mpf,alto rio guama|PA,Alto Rio Guamá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Garrafão do Norte/PA; Nova Esperança do Piriá/PA; Paragominas/PA; Santa Luzia do Pará/PA,279898.0
+TI0016,funai,1101,Alto Rio Negro,Regularizada,regularizada,AM,Japurá e São Gabriel da Cachoeira/AM,7999381.17
+TI0016,mpf,alto rio negro|AM,Alto Rio Negro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Japurá/AM; São Gabriel da Cachoeira/AM,7999381.0
+TI0017,funai,1201,Alto Rio Purus,Regularizada,regularizada,AC,Manoel Urbano e Santa Rosa do Purus/AC,263129.81
+TI0017,mpf,alto rio purus|AC,Alto Rio Purus,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Manoel Urbano/AC; Santa Rosa do Purus/AC,263130.0
+TI0018,funai,1301,Alto Sepatini,Regularizada,regularizada,AM,Lábrea/AM,26095.7
+TI0018,mpf,alto sepatini|AM,Alto Sepatini,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,26096.0
+TI0019,funai,1401,Alto Tarauacá,Regularizada,regularizada,AC,Feijó e Jordão/AC,142619.11
+TI0019,mpf,alto tarauaca|AC,Alto Tarauacá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Jordão/AC; Feijó/AC,142619.0
+TI0020,funai,1501,Alto Turiaçu,Regularizada,regularizada,MA,Araguanã e Centro Novo do Maranhão e Centro do Guilherme e Maranhãozinho e Santa Luzia do Paruá e Zé Doca/MA,530524.74
+TI0020,mpf,alto turiacu|MA,Alto Turiaçu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Araguanã/MA; Centro do Guilherme/MA; Centro Novo do Maranhão/MA; Maranhãozinho/MA; Santa Luzia do Paruá/MA; Zé Doca/MA,530525.0
+TI0021,funai,1601,Amambai,Regularizada,regularizada,MS,Amambai/MS,2429.55
+TI0021,mpf,amambai|MS,Amambaí,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Amambaí/MS,2429.0
+TI0022,funai,1701,Amanayé,Encaminhada RI,reserva_em_constituicao,PA,Goianésia do Pará/PA,162856.81
+TI0022,mpf,amanaye|PA,Amanayé,Encaminhada RI,reserva_em_constituicao,PA,Goianésia do Pará/PA,162856.0
+TI0023,funai,72901,Amaral/Tekoá Kuriy,Encaminhada RI,reserva_em_constituicao,SC,Biguaçu/SC,501.36
+TI0023,mpf,amaral tekoa kuriy|SC,Amaral/Tekoa Kuriy,Regularizada,regularizada,SC,Biguaçu/SC,501.0
+TI0024,funai,71701,Amba Porã,Declarada,declarada,SP,Miracatu/SP,7204.0
+TI0024,mpf,amba pora|SP,Amba Porã,Declarada,declarada,SP,Miracatu e Sete Barras/SP,7204.0
+TI0025,funai,1801,Anambé,Regularizada,regularizada,PA,Moju/PA,7882.83
+TI0025,mpf,anambe|PA,Anambé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Moju/PA,7883.0
+TI0026,funai,1901,Ananás,Regularizada,regularizada,RR,Amajari/RR,1769.42
+TI0026,mpf,ananas|RR,Ananás,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Amajari/RR,1769.0
+TI0027,funai,51601,Anaro,Regularizada,regularizada,RR,Amajari/RR,30473.95
+TI0027,mpf,anaro|RR,Anaro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Amajari/RR,30473.0
+TI0028,funai,2001,Andirá-Marau,Regularizada,regularizada,AM;PA,Parintins; Maués; Barreirinha; Aveiro; Itaituba,788528.38
+TI0028,mpf,andira marau|AM,Andirá-Marau,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM;PA,Aveiro; Barreirinha; Itaituba; Maués; Parintins,788528.0
+TI0029,funai,2101,Aningal,Regularizada,regularizada,RR,Amajari/RR,7627.04
+TI0029,mpf,aningal|RR,Aningal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Amajari/RR,7627.0
+TI0030,funai,2201,Anta,Regularizada,regularizada,RR,Alto Alegre/RR,3173.82
+TI0030,mpf,anta|RR,Anta,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,3174.0
+TI0031,funai,2301,Apiaka/Kayabi,Regularizada,regularizada,MT,Juara/MT,109245.38
+TI0031,mpf,apiaka kayabi|MT,Apiaka/Kayabi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Juara/MT,109245.0
+TI0032,funai,68301,Apiaká do Pontal e Isolados,Declarada,declarada,MT,Apiacás/MT,982324.0
+TI0032,mpf,apiaka pontal isolados|MT,Apiaká do Pontal e Isolados,Declarada,declarada,MT,Apiacás/MT,982324.0
+TI0033,funai,2401,Apinayé,Regularizada,regularizada,TO,Cachoeirinha e Itaguatins e Maurilândia do Tocantins e São Bento do Tocantins e Tocantinópolis/TO,141904.21
+TI0033,mpf,apinaye|TO,Apinayé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Cachoeirinha/TO; Maurilândia do Tocantins/TO; São Bento do Tocantins/TO; Tocantinópolis/TO,141904.0
+TI0034,funai,2501,Apipica,Regularizada,regularizada,AM,Careiro da Várzea/AM,652.76
+TI0034,mpf,apipica|AM,Apipica,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tapauá/AM,652.0
+TI0035,funai,2601,Apucarana,Regularizada,regularizada,PR,Londrina/PR,5574.94
+TI0035,mpf,apucarana|PR,Apucarana,Reestudo,em_estudo,PR,Tamarana/PR,5575.0
+TI0036,funai,51401,Apurinã do Alto Tupana,Delimitada,delimitada,AM,Beruri e Borba e Manaquiri/AM,251388.91
+TI0037,funai,52601,Apurinã do Igarapé Mucuim,Regularizada,regularizada,AM,Lábrea/AM,73350.61
+TI0037,mpf,apurina igarape mucuim|AM,Apurinã do Igarapé Mucuim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Careiro da Várzea/AM,73350.0
+TI0038,funai,2701,Apurinã do Igarapé São João,Regularizada,regularizada,AM,Tapauá/AM,18232.42
+TI0038,mpf,apurina igarape sao joao|AM,Apurinã do Igarapé São João,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,18232.0
+TI0039,funai,2801,Apurinã Igarapé Tauamirim,Regularizada,regularizada,AM,Tapauá/AM,96456.51
+TI0039,mpf,apurina igarape tauamirim|AM,Apurinã Igarapé Tauamirim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tapauá/AM,96457.0
+TI0040,funai,2901,Apurinã Km 124 BR-317,Regularizada,regularizada,AM,Boca do Acre e Lábrea/AM,42197.61
+TI0040,mpf,apurina km 124 br 317|AM,Apurinã Km 124 BR-317,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Boca do Acre/AM; Lábrea/AM,42198.0
+TI0041,funai,73744,Apykai,Delimitada,delimitada,MS,Dourados/MS,1058.16
+TI0042,funai,3002,Apyterewa,Regularizada,regularizada,PA,São Félix do Xingu/PA,773470.03
+TI0042,mpf,apyterewa|PA,Apyterewa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,São Félix do Xingu/PA,773470.0
+TI0043,funai,3101,Araçá,Regularizada,regularizada,RR,Amajari/RR,50018.3
+TI0043,mpf,araca|RR,Araçá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Amajari/RR,50018.0
+TI0044,funai,62101,Aracá-Padauiri (Baixo Rio Negro),Delimitada,delimitada,AM,Barcelos/AM,3388299.23
+TI0044,mpf,araca padauiri baixo rio negro|AM,Aracá-Padauiri (Baixo Rio Negro),Em estudo,em_estudo,AM,Barcelos/AM; Santa Isabel do Rio Negro/AM,
+TI0045,funai,33501,Parque do Araguaia,Regularizada,regularizada,TO,Formoso do Araguaia/TO; Lagoa da Confusão/TO; Pium/TO,1358499.48
+TI0045,mpf,araguaia|TO,Parque do Araguaia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Formoso do Araguaia/TO; Lagoa da Confusão/TO; Pium/TO,1358499.0
+TI0046,funai,3201,Arara,Regularizada,regularizada,PA,Medicilândia/PA; Brasil Novo/PA; Altamira/PA; Uruará/PA,274010.02
+TI0046,mpf,arara|PA,Arara,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA; Brasil Novo/PA; Medicilândia/PA; Uruará/PA,274010.0
+TI0047,funai,73812,Ararà,Delimitada,delimitada,AM,Nhamundá e São Sebastião do Uatumã e Urucará/AM,0.0
+TI0048,funai,3401,Arara do Igarapé Humaitá,Regularizada,regularizada,AC,Tarauacá/AC; Porto Walter/AC,87571.7
+TI0048,mpf,arara igarape humaita|AC,Arara do Igarapé Humaitá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Porto Walter/AC; Tarauacá/AC,87571.0
+TI0049,funai,51801,Arara do Rio Amônia,Regularizada,regularizada,AC,Marechal Thaumaturgo/AC,20534.22
+TI0049,mpf,arara rio amonia|AC,Arara do Rio Amônia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Marechal Thaumaturgo/AC,20764.0
+TI0050,funai,3301,Arara do Rio Branco,Regularizada,regularizada,MT,Aripuanã/MT; Colniza/MT,114842.47
+TI0050,mpf,arara rio branco|MT,Arara do Rio Branco,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Aripuanã/MT,114842.0
+TI0051,funai,60001,Arara da Volta Grande do Xingu,Regularizada,regularizada,PA,Senador José Porfírio/PA,25524.59
+TI0051,mpf,arara volta grande xingu|PA,Arara da Volta Grande do Xingu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Senador José Porfírio/PA,25500.0
+TI0052,funai,3501,Araribá,Regularizada,regularizada,SP,Avaí/SP,1930.34
+TI0052,mpf,arariba|SP,Araribá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Avaí/SP,1930.0
+TI0053,funai,3601,Arariboia,Regularizada,regularizada,MA,Arame/MA; Buriticupu/MA; Amarante do Maranhão/MA; Bom Jesus das Selvas/MA; Santa Luzia/MA; Grajaú/MA,413288.05
+TI0053,mpf,arariboia|MA,Arariboia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Amarante do Maranhão/MA; Arame/MA; Bom Jesus das Selvas/MA; Buriticupu/MA; Grajaú/MA; Santa Luzia/MA,413288.0
+TI0054,funai,3701,Arary,Regularizada,regularizada,AM,Novo Aripuanã/AM; Borba/AM,40548.57
+TI0054,mpf,arary|AM,Arary,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Boca do Acre e Lábrea/AM,40750.0
+TI0055,funai,3801,Araweté Igarapé Ipixuna,Regularizada,regularizada,PA,Altamira/PA; São Félix do Xingu/PA; Senador José Porfírio/PA,940900.8
+TI0055,mpf,arawete igarape ipixuna|PA,Araweté Igarapé Ipixuna,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA; São Félix do Xingu/PA; Senador José Porfírio/PA,940901.0
+TI0056,funai,3901,Areões,Regularizada,regularizada,MT,Água Boa/MT,218515.0
+TI0056,mpf,areoes|MT,Areões,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Água Boa/MT,218515.0
+TI0057,funai,33601,Parque do Aripuanã,Regularizada,regularizada,MT;RO,Juína; Vilhena,1603245.98
+TI0057,mpf,aripuana|MT,Parque Indígena Aripuanã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT;RO,Juína; Vilhena,1603245.0
+TI0058,funai,4201,Aripuanã,Regularizada,regularizada,MT,Aripuanã/MT; Juína/MT,750649.27
+TI0059,funai,4301,Ariramba,Regularizada,regularizada,AM,Manicoré/AM,10357.53
+TI0059,mpf,ariramba|AM,Ariramba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manicoré/AM,10358.0
+TI0060,funai,4401,Arroio-Korá,Homologada,homologada,MS,Paranhos/MS,7175.77
+TI0060,mpf,arroio kora|MS,Arroio-Korá,Homologada,homologada,MS,Paranhos/MS,7175.0
+TI0061,funai,4501,Atikum,Regularizada,regularizada,PE,Salgueiro/PE; Mirandiba/PE; Carnaubeira da Penha/PE; Belém do São Francisco/PE,16290.19
+TI0061,mpf,atikum|PE,Atikum,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Belém de São Francisco/PE; Carnaubeira da Penha/PE; Mirandiba/PE; Salgueiro/PE,16290.0
+TI0062,funai,4602,Avá-Canoeiro,Regularizada,regularizada,GO,Minaçu/GO; Colinas do Sul/GO,31427.29
+TI0062,mpf,ava canoeiro|GO,Avá-Canoeiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,GO,Colinas do Sul/GO; Minaçu/GO,31427.0
+TI0062,mpf,ava canoeiro|GO#2,Avá-Canoeiro,Encaminhada RI,reserva_em_constituicao,GO,Colinas do Sul/GO; Minaçu/GO,
+TI0063,funai,73789,Reserva Indígena Avá Canoeiro,Encaminhada RI,reserva_em_constituicao,GO,Colinas do Sul/GO; Minaçu/GO,0.0
+TI0064,funai,4701,Avá-Guarani do Ocoí,Regularizada,regularizada,PR,São Miguel do Iguaçu/PR,231887.0
+TI0065,funai,4801,Awa,Regularizada,regularizada,MA,Governador Newton Bello/MA; Centro Novo do Maranhão/MA; Zé Doca/MA; São João do Carú/MA,116582.92
+TI0065,mpf,awa|MA,Awá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Centro Novo do Maranhão/MA; Governador Newton Bello/MA; São João do Carú/MA; Zé Doca/MA,116582.0
+TI0066,funai,4901,Bacurizinho,Regularizada,regularizada,MA,Grajaú/MA,82432.49
+TI0067,funai,4902,Bacurizinho,Declarada,declarada,MA,Grajaú/MA,134040.0
+TI0068,funai,5001,Badjonkore,Regularizada,regularizada,PA,Cumaru do Norte/PA; São Félix do Xingu/PA,221981.64
+TI0068,mpf,badjonkore|PA,Badjonkôre,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Cumaru do Norte/PA; São Felix do Xingu/PA,221981.0
+TI0069,funai,5101,Baía dos Guató,Homologada,homologada,MT,Barão de Melgaço e Poconé/MT,19216.96
+TI0069,mpf,baia guato|MT,Baia dos Guató,Homologada,homologada,MT,Barão de Melgaço/MT; Poconé/MT,19164.0
+TI0070,funai,73810,Baixo Marmelos,Delimitada,delimitada,AM,Humaitá e Manicoré/AM,263263.0
+TI0070,mpf,baixo marmelos|AM,Baixo Marmelos,Em estudo,em_estudo,AM,Humaitá e Manicoré/AM,
+TI0071,funai,73814,Baixo Rio Negro e Rio Caurés,Delimitada,delimitada,AM,Barcelos/AM,777.12
+TI0071,mpf,baixo rio negro rio caures|AM,Baixo Rio Negro e Rio Caurés,Em estudo,em_estudo,AM,Barcelos/AM,
+TI0072,funai,5201,Bakairi,Regularizada,regularizada,MT,Planalto da Serra/MT; Paranatinga/MT,61405.46
+TI0072,mpf,bakairi|MT,Bakairi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Paranatinga/MT; Planalto da Serra/MT,61405.0
+TI0073,funai,5301,Balaio,Regularizada,regularizada,AM,São Gabriel da Cachoeira/AM,257281.46
+TI0073,mpf,balaio|AM,Balaio,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,São Gabriel da Cachoeira/AM,257281.0
+TI0074,funai,5402,Banawá,Regularizada,regularizada,AM,Tapauá/AM; Canutama/AM; Lábrea/AM,192659.67
+TI0074,mpf,banawa|AM,Banawá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Canutama/AM; Lábrea/AM; Tapauá/AM,195700.0
+TI0075,funai,5501,Barão de Antonina,Regularizada,regularizada,PR,São Jerônimo da Serra/PR,3750.72
+TI0075,mpf,barao antonina i|PR,Barão de Antonina I,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,São Jerônimo da Serra/PR,3751.0
+TI0076,funai,5601,Barata Livramento,Regularizada,regularizada,RR,Alto Alegre/RR,12883.27
+TI0076,mpf,barata livramento|RR,Barata/ Livramento,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,12883.0
+TI0077,funai,5701,Barra,Regularizada,regularizada,BA,Muquém de São Francisco/BA,62.3
+TI0077,mpf,barra|BA,Barra,Reservada Homologada -,homologada,BA,Muquém de São Francisco/BA,62.0
+TI0078,funai,5801,Barra Velha,Regularizada,regularizada,BA,Porto Seguro/BA,8627.46
+TI0079,funai,5802,Barra Velha do Monte Pascoal,Delimitada,delimitada,BA,Porto Seguro/BA,52748.0
+TI0080,funai,73756,Barragem Norte,Regularizada,regularizada,SC,José Boiteux/SC,860.73
+TI0080,mpf,barragem norte|SC,Barragem Norte,Regularizada,regularizada,SC,José Boiteux/SC,860.0
+TI0081,funai,5901,Barreira da Missão,Regularizada,regularizada,AM,Tefé/AM,1772.42
+TI0081,mpf,barreira missao|AM,Barreira da Missão,Regularizada,regularizada,AM,Tefé/AM,1772.0
+TI0082,funai,58801,Barreirinha,Regularizada,regularizada,PA,Paragominas/PA,2373.8
+TI0082,mpf,barreirinha|PA,Barreirinha,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Paragominas/PA,2374.0
+TI0083,funai,52201,Barro Alto,Regularizada,regularizada,AM,Tonantins/AM,1937.17
+TI0083,mpf,barro alto|AM,Barro Alto,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tonantins/AM,1937.0
+TI0084,funai,52401,Batelão,Declarada,declarada,MT,Nova Canaã do Norte/MT; Juara/MT; Tabaporã/MT,117050.0
+TI0084,mpf,batelao|MT,Batelão,Declarada,declarada,MT,Juara/MT; Nova Canaã do Norte/MT; Tabaporã/MT,117050.0
+TI0085,funai,6001,Batovi,Regularizada,regularizada,MT,Gaúcha do Norte/MT,5158.98
+TI0085,mpf,batovi|MT,Batovi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Gaúcha do Norte/MT,5159.0
+TI0086,funai,6101,Baú,Regularizada,regularizada,PA,Altamira/PA,1540930.16
+TI0086,mpf,bau|PA,Baú,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA,1540930.0
+TI0087,funai,6201,Betania,Regularizada,regularizada,AM,Tonantins/AM; Santo Antônio do Içá/AM; Amaturá/AM,122769.03
+TI0087,mpf,betania|AM,Betania,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Amaturá/AM; Santo Antônio do Içá/AM; Tonantins/AM,122769.0
+TI0088,funai,58502,Boa Vista - AM,Regularizada,regularizada,AM,Careiro da Várzea/AM,337.36
+TI0088,mpf,boa vista am|AM,Boa Vista - AM,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Careiro da Várzea/AM,337.0
+TI0089,funai,58601,Boa Vista - PR,Declarada,declarada,PR,Laranjeiras do Sul/PR,7336.33
+TI0089,mpf,boa vista pr|PR,Boa Vista – PR,Declarada,declarada,PR,Laranjeiras do Sul/PR,1344.0
+TI0090,funai,6301,Boa Vista Sertão do Promirim,Regularizada,regularizada,SP,Ubatuba/SP,906.39
+TI0091,funai,6302,Boa Vista Sertão do Promirim,Delimitada,delimitada,SP,Ubatuba/SP,5420.0
+TI0092,funai,6401,Boca do Acre,Regularizada,regularizada,AM,Boca do Acre/AM; Lábrea/AM,26240.42
+TI0092,mpf,boca acre|AM,Boca do Acre,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Boca do Acre/AM; Lábrea/AM,26240.0
+TI0093,funai,6501,Bom Intento,Regularizada,regularizada,AM,Benjamin Constant/AM,1613.04
+TI0093,mpf,bom intento|AM,Bom Intento,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Benjamin Constant/AM,1613.0
+TI0094,funai,6601,Bom Jesus,Regularizada,regularizada,RR,Bonfim/RR,859.13
+TI0094,mpf,bom jesus|RR,Bom Jesus,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Bonfim/RR,859.0
+TI0095,funai,6701,Boqueirão,Regularizada,regularizada,RR,Alto Alegre/RR,16354.08
+TI0095,mpf,boqueirao|RR,Boqueirão,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,16354.0
+TI0096,funai,62501,Bragança-Marituba,Declarada,declarada,PA,Belterra/PA,13515.0
+TI0096,mpf,braganca marituba|PA,Bragança Marituba,Declarada,declarada,PA,Belterra/PA,773470.0
+TI0097,funai,6901,Brejo do Burgo,Regularizada,regularizada,BA,Glória/BA; Paulo Afonso/BA; Rodelas/BA,17924.85
+TI0097,mpf,brejo burgo|BA,Brejo do Burgo,e/ou na SPU Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Glória/BA; Paulo Afonso e Rodelas/BA,17925.0
+TI0098,funai,7001,Buriti,Regularizada,regularizada,MS,Sidrolândia/MS; Dois Irmãos do Buriti/MS,2090.17
+TI0099,funai,7002,Buriti,Declarada,declarada,MS,Dois Irmãos do Buriti e Sidrolândia/MS,17200.0
+TI0100,funai,7101,Buritizinho,Regularizada,regularizada,MS,Sidrolândia/MS,9.74
+TI0100,mpf,buritizinho|MS,Buritizinho,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Sidrolândia/MS,10.0
+TI0101,funai,7201,Caarapó,Regularizada,regularizada,MS,Caarapó/MS,3594.42
+TI0101,mpf,caarapo|MS,Caarapó,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Caarapó/MS,3594.0
+TI0102,funai,7301,Cabeceira do Rio Acre,Regularizada,regularizada,AC,Sena Madureira/AC; Assis Brasil/AC,78512.58
+TI0102,mpf,cabeceira rio acre|AC,Cabeceira do Rio Acre,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Assis Brasil/AC; Sena Madureira/AC,78513.0
+TI0103,funai,7401,Cacau do Tarauaca,Regularizada,regularizada,AM,Envira/AM,28367.29
+TI0103,mpf,cacau tarauaca|AM,Cacau do Tarauacá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Envira/AM,28367.0
+TI0104,funai,7501,Cachoeira dos Inácios,Regularizada,regularizada,SC,Imaruí/SC,80.0
+TI0104,mpf,cachoeira inacios|SC,Cachoeira dos Inácios,Regularizada,regularizada,SC,Imaruí/SC,80.0
+TI0105,funai,7601,Cachoeira Seca,Regularizada,regularizada,PA,Altamira/PA; Uruará/PA; Placas/PA,733688.25
+TI0105,mpf,cachoeira seca|PA,Cachoeira Seca,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA; Placas/PA; Uruará/PA,734027.0
+TI0106,funai,7701,Cachoeirinha,Regularizada,regularizada,MS,Miranda/MS,2658.16
+TI0106,mpf,cachoeirinha|MS,Cachoeirinha,Reestudo,em_estudo,MS,Miranda/MS,36288.0
+TI0107,funai,7702,Cachoeirinha,Declarada,declarada,MS,Miranda/MS,36288.0
+TI0108,funai,7801,Cacique Doble,Regularizada,regularizada,RS,Cacique Doble/RS; São José do Ouro/RS,4426.28
+TI0108,mpf,cacique doble|RS,Cacique Doble,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Cacique Doble/RS; São José do Ouro/RS,4426.0
+TI0109,funai,58701,Cacique Fontoura,Regularizada,regularizada,MT,Luciara/MT; São Félix do Araguaia/MT,32304.72
+TI0109,mpf,cacique fontoura|MT,Cacique Fontoura,Homologada,homologada,MT,Luciara/MT; São Felix do Araguaia/MT,32304634915.0
+TI0110,funai,7901,Caiçara/Ilha de São Pedro,Regularizada,regularizada,SE,Porto da Folha/SE,4316.78
+TI0111,funai,59301,Caieiras Velha II,Regularizada,regularizada,ES,Aracruz/ES,57.39
+TI0111,mpf,caieiras velha ii|ES,Caieiras Velha II,Homologada - Registrada em Cartório e/ou na SPU,regularizada,ES,Aracruz/ES,57.0
+TI0112,funai,8101,Caititu,Regularizada,regularizada,AM,Lábrea/AM,308062.62
+TI0112,mpf,caititu|AM,Caititu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,308063.0
+TI0113,funai,8201,Cajueiro,Regularizada,regularizada,RR,Amajari/RR,4303.85
+TI0113,mpf,cajueiro|RR,Cajueiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Amajari/RR,4304.0
+TI0114,funai,8301,Cajuhiri Atravessado,Regularizada,regularizada,AM,Coari/AM,12455.72
+TI0114,mpf,cajuhiri atravessado|AM,Cajuhiri Atravessado,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Coari/AM,12500.0
+TI0115,funai,8401,Camadeni,Regularizada,regularizada,AM,Pauini/AM,150930.55
+TI0115,mpf,camadeni|AM,Camadeni,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Pauini/AM,150931.0
+TI0116,funai,8501,Camicua,Regularizada,regularizada,AM,Boca do Acre/AM,58519.6
+TI0116,mpf,camicua|AM,Camicuã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Boca do Acre/AM,58520.0
+TI0117,funai,8601,Campinas/Katukina,Regularizada,regularizada,AC,Cruzeiro do Sul/AC,32623.64
+TI0117,mpf,campinas katukina|AC,Campinas/Katukina,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Cruzeiro do Sul/AC; Tarauacá/AC,32624.0
+TI0118,funai,72301,Campo Bonito,Regularizada,regularizada,RS,Torres/RS,76.39
+TI0118,mpf,campo bonito|RS,Campo Bonito,Regularizada,regularizada,RS,Torres/RS,76.0
+TI0119,funai,8701,Cana Brava/Guajajara,Regularizada,regularizada,MA,Jenipapo dos Vieiras/MA; Barra do Corda/MA; Barão de Grajaú/MA,137329.54
+TI0119,mpf,cana brava guajajara|MA,Cana Brava/Guajajara,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Barra do Corda/MA; Grajaú/MA; Jenipapo dos Vieiras/MA,137330.0
+TI0120,funai,8801,Canauanim,Regularizada,regularizada,RR,Cantá/RR,11182.44
+TI0120,mpf,canauanim|RR,Canauanim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Cantá/RR,11182.0
+TI0121,funai,72701,Canelinha,Regularizada,regularizada,SC,Canelinha/SC,207.76
+TI0121,mpf,canelinha|SC,Canelinha,Regularizada,regularizada,SC,Canelinha/SC,208.0
+TI0122,funai,8901,Cantagalo,Regularizada,regularizada,RS,Porto Alegre/RS; Viamão/RS,283.68
+TI0122,mpf,cantagalo|RS,Cantagalo,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Porto Alegre/RS; Viamão/RS,283.0
+TI0123,funai,9001,Capivara,Delimitada,delimitada,AM,Autazes/AM,27496.0
+TI0124,funai,9101,Capivari,Regularizada,regularizada,RS,Palmares do Sul/RS,43.32
+TI0124,mpf,capivari|RS,Capivari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Palmares do Sul/RS,43.0
+TI0125,funai,9201,Capoto/Jarina,Regularizada,regularizada,MT,São José do Xingu/MT; Santa Cruz do Xingu/MT; Peixoto de Azevedo/MT,634915.23
+TI0125,mpf,capoto jarina|MT,Capoto/Jarina,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Peixoto de Azevedo/MT; São José do Xingu/MT,
+TI0126,funai,9301,Caramuru/Paraguassu,Regularizada,regularizada,BA,Pau Brasil/BA; Itaju do Colônia/BA; Camacan/BA,54105.0
+TI0126,mpf,caramuru paraguacu|BA,Caramuru-Paraguaçu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Camacan/BA; Itaju do Colônia/BA; Pau Brasil/BA,54105.0
+TI0127,funai,9401,Carretão I,Regularizada,regularizada,GO,Rubiataba/GO; Nova América/GO,1666.45
+TI0127,mpf,carretao i|GO,Carretão I,Homologada - Registrada em Cartório e/ou na SPU,regularizada,GO,Nova América/GO; Rubiataba/GO,1666.0
+TI0128,funai,9501,Carretão II,Regularizada,regularizada,GO,Nova América/GO,77.5
+TI0128,mpf,carretao ii|GO,Carretão II,Homologada - Registrada em Cartório e/ou na SPU,regularizada,GO,Nova América/GO,77.0
+TI0129,funai,9601,Carreteiro,Regularizada,regularizada,RS,Água Santa/RS,602.98
+TI0129,mpf,carreteiro|RS,Carreteiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Água Santa/RS,602.0
+TI0130,funai,9701,Caru,Regularizada,regularizada,MA,Bom Jardim/MA,172667.38
+TI0130,mpf,caru|MA,Caru,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Bom Jardim/MA; São João do Carú/MA,172667.0
+TI0131,funai,9801,Catipari/Mamoria,Regularizada,regularizada,AM,Pauini/AM,115044.35
+TI0131,mpf,catipari mamoria|AM,Catipari/Mamoria,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Pauini/AM,115044.0
+TI0132,funai,60701,Caxixó,Delimitada,delimitada,MG,Martinho Campos e Pompéu/MG,5411.0
+TI0132,mpf,kaxixo|MG,Kaxixó,Delimitada,delimitada,MG,Martinho Campos e Pompeu/MG,8415.0
+TI0133,funai,67701,Cerco Grande,Delimitada,delimitada,PR,Guaraqueçaba/PR,1390.0
+TI0134,funai,9901,Cerrito,Regularizada,regularizada,MS,Eldorado/MS,1950.98
+TI0134,mpf,cerrito|MS,Cerrito,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Eldorado/MS,1950.0
+TI0135,funai,10001,Chão Preto,Regularizada,regularizada,MT,Campinápolis/MT,12741.85
+TI0135,mpf,chao preto|MT,Chão Preto,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Campinápolis/MT,12742.0
+TI0136,funai,10101,Coata-Laranjal,Regularizada,regularizada,AM,Borba/AM,1153210.11
+TI0136,mpf,coata laranjal|AM,Coatá Laranjal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Borba/AM,1153210.0
+TI0137,funai,59401,Cobra Grande,Declarada,declarada,PA,Santarém/PA,8906.0
+TI0137,mpf,cobra grande|PA,Cobra Grande,Declarada,declarada,PA,Santarém/PA,8906.0
+TI0138,funai,10202,Comboios,Regularizada,regularizada,ES,Aracruz/ES,3872.14
+TI0138,mpf,comboios|ES,Comboios,Homologada - Registrada em Cartório e/ou na SPU,regularizada,ES,Aracruz/ES,3872.0
+TI0139,funai,65101,Comexatibá,Declarada,declarada,BA,Prado/BA,28077.0
+TI0140,funai,10301,Coroa Vermelha,Regularizada,regularizada,BA,Santa Cruz Cabrália/BA; Porto Seguro/BA,1493.99
+TI0140,mpf,coroa vermelha|BA,Coroa Vermelha,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Porto Seguro/BA; Santa Cruz e Cabrália/BA,1493.0
+TI0141,funai,10401,Córrego João Pereira,Regularizada,regularizada,CE,Itarema/CE; Acaraú/CE,3162.39
+TI0141,mpf,corrego joao pereira|CE,Córrego João Pereira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,CE,Acaraú e Itarema/CE,3162.0
+TI0142,funai,73866,Crim Patehi,Encaminhada RI,reserva_em_constituicao,TO,Lagoa da Confusão/TO,757.93
+TI0143,funai,59601,Cué Cué/ Marabitanas,Declarada,declarada,AM,São Gabriel da Cachoeira/AM,808645.0
+TI0143,mpf,cue cue marabitanas|AM,Cué Cué Marabitanas,Declarada,declarada,AM,São Gabriel da Cachoeira/AM,808465.0
+TI0144,funai,10601,Cuia,Regularizada,regularizada,AM,Autazes/AM,1322.39
+TI0144,mpf,cuia|AM,Cuia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,1322.0
+TI0145,funai,10701,Cuiu-Cuiu,Regularizada,regularizada,AM,Maraã/AM,36450.98
+TI0145,mpf,cuiu cuiu|AM,Cuiú-Cuiú,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Maraã/AM,36450.0
+TI0146,funai,10801,Cunhã-Sapucaia,Regularizada,regularizada,AM,Borba/AM; Autazes/AM,471450.54
+TI0146,mpf,cunha sapucaia|AM,Cunhã Sapucaia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM; Borba/AM,471450.0
+TI0147,funai,73816,Curara,Delimitada,delimitada,AM,Manicoré e Novo Aripuanã/AM,872691.0
+TI0147,mpf,curara|AM,Curara,Em estudo,em_estudo,AM,Manicoré/AM,
+TI0148,funai,73808,Curriã,Delimitada,delimitada,AM,Lábrea/AM,59282.0
+TI0149,funai,10901,Deni,Regularizada,regularizada,AM,Tapauá/AM; Lábrea/AM; Itamarati/AM; Pauini/AM,1531303.5
+TI0149,mpf,deni|AM,Deni,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Itamarati/AM; Lábrea/AM; Pauini/AM; Tapauá/AM,1531303.0
+TI0150,funai,11001,Diahui,Regularizada,regularizada,AM,Humaitá/AM,47354.6
+TI0150,mpf,diahui|AM,Diahui,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM,47354.0
+TI0151,funai,71601,Djaiko-Aty,Declarada,declarada,SP,Miracatu/SP,1216.0
+TI0152,funai,11101,Dourados,Regularizada,regularizada,MS,Dourados/MS,3474.6
+TI0153,funai,67101,Dourados-Amambaipeguá I,Delimitada,delimitada,MS,Amambai e Dourados e Naviraí/MS,55600.0
+TI0154,funai,11201,Enawenê-Nawê,Regularizada,regularizada,MT,Comodoro/MT; Sapezal/MT; Juína/MT,742088.68
+TI0154,mpf,enawene nawe|MT,Enawenê Nawê,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT;RO,Comodoro; Juína; Brasnorte e Vilhena,742088.0
+TI0155,funai,11301,Entre Serras,Regularizada,regularizada,PE,Petrolândia/PE; Tacaratu/PE; Jatobá/PE,7550.09
+TI0155,mpf,entre serras|PE,Entre Serras,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Jatobá/PE; Petrolândia/PE; Tacaratu/PE,7550.0
+TI0156,funai,11401,Erikpatsá,Regularizada,regularizada,MT,Brasnorte/MT,79934.8
+TI0156,mpf,erikpatsa|MT,Erikpatsá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Brasnorte/MT,79935.0
+TI0157,funai,11501,Escondido,Regularizada,regularizada,MT,Cotriguaçu/MT,168938.47
+TI0157,mpf,escondido|MT,Escondido,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Cotriguaçu/MT,168938.0
+TI0158,funai,11601,Espírito Santo,Regularizada,regularizada,AM,Jutaí/AM,33849.09
+TI0158,mpf,espirito santo|AM,Espírito Santo,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Jutaí/AM,33849.0
+TI0159,funai,11801,Estação Parecis,Homologada,homologada,MT,Diamantino/MT,2170.0
+TI0159,mpf,estacao parecis|MT,Estação Parecis,Declarada,declarada,MT,Diamantino/MT,2170.0
+TI0160,funai,11901,Estivadinho,Regularizada,regularizada,MT,Tangará da Serra/MT,2031.94
+TI0160,mpf,estivadinho|MT,Estivadinho,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Tangará da Serra/MT,2032.0
+TI0161,funai,72401,Estrada do Mar,Regularizada,regularizada,RS,Osório/RS,45.0
+TI0162,funai,12001,Estrela da Paz,Regularizada,regularizada,AM,Jutaí/AM,12876.49
+TI0162,mpf,estrela paz|AM,Estrela da Paz,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Jutaí/AM,12876.0
+TI0163,funai,12101,Évare I,Regularizada,regularizada,AM,Santo Antônio do Içá/AM; São Paulo de Olivença/AM; Tabatinga/AM,548177.6
+TI0163,mpf,evare i|AM,Évare I,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santo Antônio do Içá/AM; São Paulo de Olivença/AM; Tabatinga/AM,548178.0
+TI0164,funai,12201,Évare II,Regularizada,regularizada,AM,São Paulo de Olivença/AM,176205.72
+TI0164,mpf,evare ii|AM,Évare II,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,São Paulo de Olivença/AM,176206.0
+TI0165,funai,12301,Faxinal,Regularizada,regularizada,PR,Cândido de Abreu/PR,2043.89
+TI0165,mpf,faxinal|PR,Faxinal,Regularizada,regularizada,PR,Cândido de Abreu/PR,2043.0
+TI0166,funai,12401,Fazenda Bahiana,Regularizada,regularizada,BA,Camamu/BA,304.56
+TI0166,mpf,fazenda bahiana|BA,Fazenda Bahiana,Regularizada,regularizada,BA,Camamu/BA,308.0
+TI0167,funai,73711,Fazenda Boa Vista - MG,Regularizada,regularizada,MG,Caldas/MG,101.0
+TI0167,mpf,fazenda boa vista|MG,Fazenda Boa Vista,Regularizada,regularizada,MG,Poços de Caldas/MG,101.0
+TI0168,funai,12501,Fazenda Canto,Regularizada,regularizada,AL,Palmeira dos Índios/AL,276.55
+TI0168,mpf,fazenda canto|AL,Fazenda Canto,Regularizada,regularizada,AL,Palmeira dos Índios/AL,276.0
+TI0169,funai,62201,Fazenda Cristo Rei,Encaminhada RI,reserva_em_constituicao,PE,Jatobá/PE,0.0
+TI0170,funai,12701,Fazenda Guarani,Regularizada,regularizada,MG,Senhora do Porto/MG; Carmésia/MG,3269.71
+TI0170,mpf,fazenda guarani|MG,Fazenda Guarani,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MG,Carmésia/MG; Senhora do Porto/MG,3269.0
+TI0171,funai,73717,Fazenda Jenipapeiro,Encaminhada RI,reserva_em_constituicao,BA,Santa Rita de Cássia/BA,1505.13
+TI0171,mpf,fazenda jenipapeiro|BA,Fazenda Jenipapeiro,Encaminhada RI,reserva_em_constituicao,BA,Santa Rita de Cássia/BA,1505.0
+TI0172,funai,73769,Fazenda Mabel (Gavião/Akrãtikatêjê),Encaminhada RI,reserva_em_constituicao,PA,Bom Jesus do Tocantins e Marabá/PA,3600.03
+TI0172,mpf,fazenda mabel gaviao akratikateje|PA,Fazenda Mabel (Gavião/Akrãtikatêjê),Encaminhada RI,reserva_em_constituicao,PA,Bom Jesus do Tocantins/PA; Marabá/PA,
+TI0173,funai,73836,Fazenda Peró,Regularizada,regularizada,PE,Águas Belas/PE,7195.0
+TI0174,funai,69801,Fazenda Remanso,Regularizada,regularizada,BA,Muquém de São Francisco/BA,336.95
+TI0174,mpf,fazenda remanso|BA,Fazenda Remanso,Regularizada,regularizada,BA,Muquém de São Francisco/BA,328.0
+TI0175,funai,73742,Fazenda Sempre Verde,Regularizada,regularizada,BA,Muquém de São Francisco/BA,1000.0
+TI0175,mpf,fazenda sempre verde|BA,Fazenda Sempre Verde,Regularizada,regularizada,BA,Muquém de São Francisco/BA,1000.0
+TI0176,funai,69901,Fazenda Sítio,Regularizada,regularizada,BA,Quijingue/BA,409.88
+TI0177,funai,12801,Figueiras,Regularizada,regularizada,MT,Barra do Bugres/MT; Tangará da Serra/MT,9858.93
+TI0177,mpf,figueiras|MT,Figueiras,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Barra do Bugres/MT; Tangará da Serra/MT,9859.0
+TI0178,funai,12901,Fortaleza do Castanho,Regularizada,regularizada,AM,Manaquiri/AM,2756.16
+TI0178,mpf,fortaleza castanho|AM,Fortaleza do Castanho,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manaquiri/AM,2756.0
+TI0179,funai,13001,Fortaleza do Patauá,Regularizada,regularizada,AM,Manacapuru/AM,743.58
+TI0180,funai,13101,Fulni-ô,Regularizada,regularizada,PE,Itaíba/PE; Águas Belas/PE,11505.71
+TI0180,mpf,fulnio|AL,Fulniô,Reestudo,em_estudo,AL;PE,Águas Belas; Itaíba,11506.0
+TI0181,funai,13201,Funil,Regularizada,regularizada,TO,Tocantínia/TO,15703.8
+TI0181,mpf,funil|TO,Funil,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Tocantínia/TO,15704.0
+TI0182,funai,13301,Galibi,Regularizada,regularizada,AP,Oiapoque/AP,6689.19
+TI0182,mpf,galibi|AP,Galibi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AP,Oiapoque/AP,6689.0
+TI0183,funai,13401,Gavião,Regularizada,regularizada,AM,Careiro da Várzea/AM,8611.85
+TI0183,mpf,gaviao|AM,Gavião,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Careiro da Várzea/AM,8612.0
+TI0184,funai,73815,Gaviãozinho,Delimitada,delimitada,AM,Itamarati/AM,206701.79
+TI0184,mpf,gaviaozinho|AM,Gaviãozinho,Em estudo,em_estudo,AM,Itamarati/AM,
+TI0185,funai,13501,Geralda Toco Preto,Regularizada,regularizada,MA,Arame/MA; Itaipava do Grajaú/MA,18506.21
+TI0185,mpf,geralda toco preto|MA,Geralda/Toco Preto,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Arame/MA; Itaipava do Grajaú/MA,18506.0
+TI0186,funai,19402,Geripancó,Regularizada,regularizada,AL,Pariconha/AL,200.0
+TI0187,funai,13601,Governador,Regularizada,regularizada,MA,Amarante do Maranhão/MA,41643.76
+TI0187,mpf,governador|MA,Governador,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Amarante do Maranhão/MA,41643.76
+TI0188,funai,13701,Guaimbé,Regularizada,regularizada,MS,Laguna Carapã/MS,716.93
+TI0188,mpf,guaimbe|MS,Guaimbé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Laguna Carapã/MS,717.0
+TI0189,funai,13801,Guajahã,Regularizada,regularizada,AM,Pauini/AM,5036.84
+TI0189,mpf,guajaha|AM,Guajahã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Pauini/AM,5037.0
+TI0190,funai,73785,Guajanaíra,Encaminhada RI,reserva_em_constituicao,PA,Itupiranga/PA,1368.08
+TI0190,mpf,guajanaira|PA,Guajanaíra,Encaminhada RI,reserva_em_constituicao,PA,Itupiranga/PA,1368.0
+TI0191,funai,52801,Guanabara,Declarada,declarada,AM,Benjamin Constant/AM,15600.0
+TI0191,mpf,guanabara|AM,Guanabara,Declarada,declarada,AM,Benjamin Constant/AM,15600.0
+TI0192,funai,14501,Guarani do Aguapeu,Regularizada,regularizada,SP,Mongaguá/SP,4372.26
+TI0192,mpf,guarani aguapeu|SP,Guarani do Aguapeu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Mongaguá/SP,4372.0
+TI0193,funai,14301,Guarani de Águas Brancas,Declarada,declarada,RS,Arambaré/RS,230.0
+TI0193,mpf,guarani aguas brancas|RS,Guarani de Águas Brancas,Declarada,declarada,RS,Arambaré/RS,230.0
+TI0194,funai,14601,Guarani de Araçai,Declarada,declarada,SC,Cunha Porã e Saudades/SC,2721.0
+TI0194,mpf,guarani aracai|SC,Guarani de Araçaí,Declarada,declarada,SC,Cunha Porã/SC; Saudades/SC,2721.0
+TI0195,funai,14001,Guarani Araponga,Regularizada,regularizada,RJ,Paraty/RJ,213.2
+TI0195,mpf,guarani araponga|RJ,Guarani Araponga,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RJ,Parati/RJ,213.0
+TI0196,funai,14101,Guarani Barra do Ouro,Regularizada,regularizada,RS,Caraá/RS; Riozinho/RS; Maquiné/RS,2268.6
+TI0196,mpf,guarani barra ouro|RS,Guarani Barra do Ouro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Caraã/RS; Maquiné/RS; Riozinho/RS,2266.0
+TI0197,funai,14201,Guarani da Barragem,Regularizada,regularizada,SP,São Paulo/SP,26.3
+TI0197,mpf,guarani barragem|SP,Guarani da Barragem,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,São Paulo/SP,26.0
+TI0198,funai,14401,Guarani de Bracui,Regularizada,regularizada,RJ,Angra dos Reis/RJ,2127.87
+TI0198,mpf,guarani bracui|RJ,Guarani de Bracuí,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RJ,Angra dos Reis/RJ,2127.0
+TI0199,funai,38101,Guarani do Ribeirão Silveira,Regularizada,regularizada,SP,São Sebastião/SP; Santos/SP,948.4
+TI0200,funai,14701,Guarani Votouro,Regularizada,regularizada,RS,Benjamin Constant do Sul/RS,717377.0
+TI0200,mpf,guarani votouro|RS,Guarani Votouro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Benjamin Constant do Sul/RS,717.0
+TI0201,funai,14801,Guarita,Regularizada,regularizada,RS,Tenente Portela/RS; Redentora/RS; Erval Seco/RS,23406.87
+TI0201,mpf,guarita|RS,Guarita,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Erval Seco/RS; Redentora/RS; Tenente Portela/RS,23406.0
+TI0202,funai,14901,Guasuti,Regularizada,regularizada,MS,Aral Moreira/MS,958.8
+TI0202,mpf,guasuti|MS,Guasuti,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Aral Moreira/MS,930.0
+TI0203,funai,15001,Guató,Regularizada,regularizada,MS,Corumbá/MS,10984.79
+TI0203,mpf,guato|MS,Guató,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Corumbá/MS,10984.0
+TI0204,funai,71401,Guaviraty,Declarada,declarada,SP,Cananéia e Iguape/SP,1248.0
+TI0204,mpf,guaviraty|SP,Guaviraty,Declarada,declarada,SP,Iguape e Cananéia/SP,1248.0
+TI0205,funai,15101,Guyraroká,Declarada,declarada,MS,Caarapó/MS,11440.0
+TI0205,mpf,guyraroka|MS,Guyraroká,Declarada,declarada,MS,Caarapó/MS,11440.0
+TI0206,funai,65701,Hãm Yîxux,Regularizada,regularizada,MG,Ladainha/MG,522.72
+TI0207,funai,50401,Herarekã Xetá,Delimitada,delimitada,PR,Ivaté/PR,2686.0
+TI0207,mpf,herareka xeta|PR,Herarekã Xetá,Delimitada,delimitada,PR,Ivaté/PR; Umuarama/PR,2686.0
+TI0208,funai,15201,Hi Merimã,Regularizada,regularizada,AM,Tapauá/AM; Lábrea/AM,677840.32
+TI0208,mpf,hi merima|AM,Hi Merimã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM; Tapauá/AM,677840.0
+TI0209,funai,15301,Ibirama,Regularizada,regularizada,SC,Doutor Pedrinho/SC; Vitor Meireles/SC; José Boiteux/SC; Itaiópolis/SC,14084.89
+TI0210,funai,15302,Ibirama-La Klãnô,Declarada,declarada,SC,Doutor Pedrinho e Itaiópolis e José Boiteux e Rio Negrinho e Vitor Meireles/SC,37108.0
+TI0210,mpf,ibirama la klano|SC,Ibirama– La Klãnõ,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Doutor Pedrinho/SC; Itaiópolis/SC; José Boiteux/SC; Vitor Meireles/SC,37108.0
+TI0211,funai,15501,Icatu,Regularizada,regularizada,SP,Braúna/SP,300.96
+TI0211,mpf,icatu|SP,Icatu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Braúna/SP,301.0
+TI0212,funai,15601,Igarapé Capana,Regularizada,regularizada,AM,Boca do Acre/AM,122555.66
+TI0212,mpf,igarape capana|AM,Igarapé Capanã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Boca do Acre/AM,122556.0
+TI0213,funai,15701,Igarapé do Caucho,Regularizada,regularizada,AC,Feijó e Tarauacá/AC,12317.89
+TI0213,mpf,igarape caucho|AC,Igarapé do Caucho,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC; Tarauacá/AC,12318.0
+TI0214,funai,15801,Igarapé Grande,Regularizada,regularizada,AM,Alvarães/AM,1539.68
+TI0214,mpf,igarape grande|AM,Igarapé Grande,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Alvarães/AM,1539.0
+TI0215,funai,16101,Igarapé Lage,Regularizada,regularizada,RO,Guajará-Mirim/RO; Nova Mamoré/RO,107321.18
+TI0215,mpf,igarape lage|RO,Igarapé Lage,Homologada - Registrada em Cartório e/ou na SPU Homologada -,regularizada,RO,Guajará-Mirim e Nova Mamoré/RO,107321.0
+TI0216,funai,16201,Igarapé Lourdes,Regularizada,regularizada,RO,Ji-Paraná/RO,185533.58
+TI0216,mpf,igarape lourdes|RO,Igarapé Lourdes,Registrada em Cartório,regularizada,RO,Ji-Paraná/RO,185533.58
+TI0217,funai,16301,Igarapé Ribeirão,Regularizada,regularizada,RO,Nova Mamoré/RO,47863.32
+TI0217,mpf,igarape ribeirao|RO,Igarapé Ribeirão,e/ou na SPU Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Guajará-Mirim e Nova Mamoré/RO,47863.0
+TI0218,funai,67601,Igarapé Taboca do Alto Tarauacá,Em Estudo,em_estudo,AC,Jordão/AC,287.0
+TI0219,funai,73702,Iguatemipegua I,Delimitada,delimitada,MS,Iguatemi/MS,41571.0
+TI0220,funai,16601,Ilha do Camaleão,Regularizada,regularizada,AM,Anamã/AM,236.78
+TI0220,mpf,ilha camaleao|AM,Ilha do Camaleão,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Anamã/AM,237.0
+TI0221,funai,16501,Ilha da Cotinga,Regularizada,regularizada,PR,Paranaguá/PR,1701.2
+TI0221,mpf,ilha cotinga|PR,Ilha da Cotinga,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Paranaguá/PR,1701.0
+TI0222,funai,67501,Ilhas da Tapera/São Félix/Porto,Encaminhada RI,reserva_em_constituicao,PE,Orocó/PE,0.0
+TI0223,funai,16803,Imbiriba,Regularizada,regularizada,BA,Porto Seguro/BA,408.34
+TI0223,mpf,imbiriba|BA,Imbiriba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Porto Seguro/BA,397.0
+TI0224,funai,16901,Inauini/Teuini,Regularizada,regularizada,AM,Boca do Acre/AM; Pauini/AM,468996.3
+TI0224,mpf,inauini teuini|AM,Inauini/Teuini,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Boca do Acre/AM; Pauini/AM,468996.0
+TI0225,funai,17001,Inawebohona,Regularizada,regularizada,TO,Lagoa da Confusão/TO; Pium/TO,377113.57
+TI0225,mpf,inawebohona|TO,Inãwébohona,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Lagoa da Confusão/TO; Pium/TO,377144.0
+TI0226,funai,17101,Inhacorá,Regularizada,regularizada,RS,São Valério do Sul/RS,2843.38
+TI0226,mpf,inhacora|RS,Inhacorá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,São Valério do Sul/RS,2843.0
+TI0227,funai,17201,Ipixuna,Regularizada,regularizada,AM,Humaitá/AM,215362.11
+TI0227,mpf,ipixuna|AM,Ipixuna,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM,215362.0
+TI0228,funai,17301,Irantxe,Regularizada,regularizada,MT,Brasnorte/MT,45555.95
+TI0228,mpf,irantxe|MT,Irantxe,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Brasnorte/MT,
+TI0229,funai,17401,Irapuá,Declarada,declarada,RS,Caçapava do Sul/RS,222.0
+TI0229,mpf,irapua|RS,Irapuá,Declarada,declarada,RS,Caçapava do Sul/RS,222.0
+TI0230,funai,17501,Itaitinga,Regularizada,regularizada,AM,Autazes/AM,135.88
+TI0230,mpf,itaitinga|AM,Itaitinga,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,135.0
+TI0231,funai,73701,Itãnury Pupykary (antiga Baixo Seruini),Delimitada,delimitada,AM,Lábrea e Pauini/AM,176335.0
+TI0232,funai,17601,Itaóca,Declarada,declarada,SP,Mongaguá/SP,533.0
+TI0232,mpf,itaoca|SP,Itaóca,Declarada,declarada,SP,Mongaguá/SP,533.0
+TI0233,funai,45103,Itixi Mitari,Regularizada,regularizada,AM,Tapauá/AM; Anori/AM; Beruri/AM,182134.77
+TI0233,mpf,itixi mitari|AM,Itixi Mitari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Anori/AM; Beruri/AM; Tapauá/AM,182134.0
+TI0234,funai,72601,Ituna/Itatá (restrição de uso),Em Estudo,em_estudo,PA,Altamira e Anapu e Senador José Porfírio/PA,142402.0
+TI0235,funai,17701,Ivai,Regularizada,regularizada,PR,Manoel Ribas e Pitanga/PR,7306.35
+TI0235,mpf,ivai|PR,Ivaí,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Manoel Ribas/PR; Pitanga/PR,7306.0
+TI0236,funai,17801,Jabuti,Regularizada,regularizada,RR,Bonfim/RR,14210.7
+TI0236,mpf,jabuti|RR,Jabuti,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Bonfim/RR,14211.0
+TI0237,funai,17901,Jacamim,Regularizada,regularizada,RR,Bonfim/RR; Caracaraí/RR,193493.57
+TI0237,mpf,jacamim|RR,Jacamim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Bonfim/RR; Caracaraí/RR,193380.0
+TI0238,funai,18001,Jacaré de São Domingos,Regularizada,regularizada,PB,Rio Tinto/PB; Marcação/PB,5032.24
+TI0238,mpf,jacare sao domingos|PB,Jacaré de São Domingos,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PB,Marcação/PB; Rio Tinto/PB,5032.0
+TI0239,funai,65901,Jacareúba/Katauixi (restrição uso),Em Estudo,em_estudo,AM,Canutama/AM; Lábrea/AM,647386.0
+TI0240,funai,18101,Jaguapiré,Regularizada,regularizada,MS,Tacuru/MS,2342.02
+TI0240,mpf,jaguapire|MS,Jaguapiré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Tacuru/MS,2342.0
+TI0241,funai,18201,Jaguari,Regularizada,regularizada,MS,Amambai/MS,404.71
+TI0241,mpf,jaguari|MS,Jaguari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Amambaí/MS,405.0
+TI0242,funai,18301,Jaminaua/Envira,Regularizada,regularizada,AC,Feijó/AC,80618.18
+TI0242,mpf,jaminawa envira|AC,Jaminawá/Envira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC,80618.0
+TI0243,funai,18401,Jaminawa Arara do Rio Bagé,Regularizada,regularizada,AC,Marechal Thaumaturgo/AC; Jordão/AC,28926.11
+TI0243,mpf,jaminawa arara rio bage|AC,Jaminawa Arara do Rio Bagé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Jordão/AC; Marechal Thaumaturgo/AC; Tarauacá/AC,28926.11
+TI0244,funai,18501,Jaminawa do Igarapé Preto,Regularizada,regularizada,AC,Cruzeiro do Sul/AC,25651.62
+TI0244,mpf,jaminawa igarape preto|AC,Jaminawa do Igarapé Preto,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Rodrigues Alves/AC,25652.0
+TI0245,funai,18601,Japuira,Regularizada,regularizada,MT,Juara/MT,152509.88
+TI0245,mpf,japuira|MT,Japuira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Juara/MT,152510.0
+TI0246,funai,18701,Jaquiri,Regularizada,regularizada,AM,Uarini/AM,1819.98
+TI0246,mpf,jaquiri|AM,Jaquiri,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Uarini/AM,1820.0
+TI0247,funai,18801,Jaraguá,Regularizada,regularizada,SP,São Paulo/SP; Osasco/SP,1.76
+TI0247,mpf,jaragua|SP,Jaraguá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,São Paulo/Osasco/SP,532.0
+TI0248,funai,18802,Jaraguá,Declarada,declarada,SP,Osasco e São Paulo/SP,532.0
+TI0249,funai,18901,Jarara,Homologada,homologada,MS,Juti/MS,479.07
+TI0249,mpf,jarara|MS,Jarara,Homologada,homologada,MS,Juti/MS,479.0
+TI0250,funai,19001,Jarawara/Jamamadi/Kanamati,Regularizada,regularizada,AM,Lábrea e Tapauá/AM,390233.05
+TI0250,mpf,jarawara jamamadi kanamati|AM,Jarawara/Jamamadi/Kanamati,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM; Tapauá/AM,390233.0
+TI0251,funai,19101,Jarudore,Regularizada,regularizada,MT,Poxoréo/MT,4706.0
+TI0251,mpf,jarudore|MT,Jarudore,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Poxoréo/MT,4706.0
+TI0252,funai,25601,Jatayvari,Declarada,declarada,MS,Ponta Porã/MS,8800.0
+TI0252,mpf,jatayvary|MS,Jatayvary,Declarada,declarada,MS,Ponta Porã/MS,8800.0
+TI0253,funai,19201,Jatuarana,Regularizada,regularizada,AM,Manacapuru/AM,5251.8
+TI0253,mpf,jatuarana|AM,Jatuarana,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manacapuru/AM,5252.0
+TI0254,funai,19301,Jauary,Delimitada,delimitada,AM,Autazes/AM,24831.0
+TI0254,mpf,jauary|AM,Jauary,Delimitada,delimitada,AM,Autazes/AM,24831.0
+TI0255,funai,19501,Juininha,Regularizada,regularizada,MT,Conquista D´Oeste/MT,70537.52
+TI0255,mpf,juininha|MT,Juininha,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Conquista D'Oeste/MT,70538.0
+TI0256,funai,19601,Juma,Regularizada,regularizada,AM,Canutama/AM,38351.15
+TI0256,mpf,juma|AM,Juma,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Canutama/AM; Lábrea/AM,38351.0
+TI0257,funai,19701,Jumina,Regularizada,regularizada,AP,Oiapoque/AP,41601.27
+TI0257,mpf,jumina|AP,Jumina,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AP,Oiapoque/AP,41601.0
+TI0258,funai,67401,Jurubaxi-téa,Declarada,declarada,AM,Barcelos e Santa Isabel do Rio Negro/AM,1208155.0
+TI0259,funai,62001,Juruna do Km 17,Encaminhada RI,reserva_em_constituicao,PA,Vitória do Xingu/PA,2292.0
+TI0259,mpf,juruna km 17|PA,Juruna do Km 17,Encaminhada RI,reserva_em_constituicao,PA,Vitória do Xingu/PA,
+TI0260,funai,72001,Ka´aguy Hovy,Declarada,declarada,SP,Iguape/SP,1950.0
+TI0260,mpf,kaaguy hovy|SP,Ka'aguy Hovy,Delimitada,delimitada,SP,Iguape/SP,1950.0
+TI0261,funai,71501,Ka´aguy Mirim,Declarada,declarada,SP,Miracatu e Pedro de Toledo/SP,1190.0
+TI0262,funai,20001,Kadiwéu,Regularizada,regularizada,MS,Porto Murtinho/MS; Corumbá/MS,538535.78
+TI0262,mpf,kadiweu|MS,Kadiwéu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Corumbá/MS; Porto Murtinho/MS,538536.0
+TI0263,funai,20101,Kaingang de Iraí,Regularizada,regularizada,RS,Iraí/RS,279.8
+TI0263,mpf,kaingang irai|RS,Kaingang de Iraí,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Iraí/RS,280.0
+TI0264,funai,20201,Kambiwá,Regularizada,regularizada,PE,Inajá/PE; Ibimirim/PE; Floresta/PE,31495.31
+TI0264,mpf,kambiwa|PE,Kambiwá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Floresta/PE; Ibimirim/PE; Inajá/PE,31495.0
+TI0265,funai,20301,Kampa do Igarapé Primavera,Regularizada,regularizada,AC,Tarauacá/AC,21987.23
+TI0265,mpf,kampa igarape primavera|AC,Kampa do Igarapé Primavera,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Tarauacá/AC,21987.0
+TI0266,funai,20501,Kampa e Isolados do Rio Envira,Regularizada,regularizada,AC,Jordão/AC; Feijó/AC,232795.04
+TI0266,mpf,kampa isolados rio envira|AC,Kampa e Isolados do Rio Envira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC; Jordão/AC,232795.0
+TI0267,funai,20401,Kampa do Rio Amônia,Regularizada,regularizada,AC,Marechal Thaumaturgo/AC,87205.4
+TI0267,mpf,kampa rio amonea|AC,Kampa do Rio Amonea,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Marechal Thaumaturgo/AC,87205.0
+TI0268,funai,20601,Kanamari do Rio Juruá,Regularizada,regularizada,AM,Itamarati/AM; Pauini/AM; Eirunepé/AM,596433.64
+TI0268,mpf,kanamari rio jurua|AM,Kanamari do Rio Juruá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Eirunepé/AM; Itamarati/AM; Pauini/AM,596434.0
+TI0269,funai,20701,Kanela,Regularizada,regularizada,MA,Fernando Falcão/MA; Barra do Corda/MA,125212.16
+TI0270,funai,73857,Kanela do Araguaia,Encaminhada RI,reserva_em_constituicao,MT,Luciara e São Félix do Araguaia/MT,136026.77
+TI0270,mpf,kanela araguaia|MT,Kanela do Araguaia,Reivindicada,sem_providencia,MT,Confresa/MT; Luciara/MT; Porto Alegre do Norte/MT; Santa Terezinha/MT,
+TI0271,funai,20702,Kanela Memortumré,Delimitada,delimitada,MA,Barra do Corda e Fernando Falcão/MA,100221.0
+TI0271,mpf,kanela memortumre|MA,Kanela/ Memortumré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Barra do Corda/MA; Fernando Falcão/MA,100221.0
+TI0271,mpf,kanela memortumre|MA#2,Kanela/ Memortumré,Delimitada,delimitada,MA,Barra do Corda/MA; Fernando Falcão/MA,
+TI0272,funai,20801,Kantaruré,Regularizada,regularizada,BA,Glória/BA,1811.87
+TI0272,mpf,kantarure|BA,Kantaruré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Glória/BA,1811.0
+TI0273,funai,20901,Kapinawá,Regularizada,regularizada,PE,Buíque/PE,12403.09
+TI0273,mpf,kapinawa|PE,Kapinawa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Buíque/PE,12403.0
+TI0274,funai,64501,Kapôt Nhinore,Delimitada,delimitada,MT;PA,Santa Cruz do Xingu e São Félix do Xingu e Vila Rica,362243.0
+TI0274,mpf,kapot nhinore|MT,Kapot Nhinore,Delimitada,delimitada,MT;PA,Santa Cruz do Xingu; São Félix do Xingu; Vila Rica,362243.0
+TI0275,funai,73809,Kapyra Kanakury,Delimitada,delimitada,AM,Pauini/AM,567606.0
+TI0275,mpf,kapyra kanakury|AM,Kapyra Kanakury,Em estudo,em_estudo,AM,Pauini/AM,
+TI0276,funai,21001,Karajá de Aruanã I,Regularizada,regularizada,GO,Aruanã/GO,14.26
+TI0276,mpf,karaja aruana i|GO,Karajá de Aruanã I,Homologada - Registrada em Cartório e/ou na SPU,regularizada,GO,Aruanã/GO,14.0
+TI0277,funai,21101,Karajá de Aruanã II,Regularizada,regularizada,MT,Cocalinho/MT,893.27
+TI0277,mpf,karaja aruana ii|MT,Karajá de Aruanã II,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Cocalinho/MT,893.0
+TI0278,funai,21201,Karajá de Aruanã III,Regularizada,regularizada,GO,Aruanã/GO,705.17
+TI0278,mpf,karaja aruana iii|GO,Karajá de Aruanã III,Homologada - Registrada em Cartório e/ou na SPU,regularizada,GO,Aruanã/GO,705.0
+TI0279,funai,21301,Karajá Santana do Araguaia,Regularizada,regularizada,PA,Santa Maria das Barreiras/PA,1485.61
+TI0279,mpf,karaja santana araguaia|PA,Karajá Santana do Araguaia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Santa Maria das Barreiras/PA,1485.0
+TI0280,funai,21401,Karapotó,Regularizada,regularizada,AL,São Sebastião/AL,1242.52
+TI0280,mpf,karapoto|AL,Karapotó,Regularizada,regularizada,AL,São Sebastião/AL,1810.0
+TI0281,funai,21501,Kararaô,Regularizada,regularizada,PA,Altamira/PA,330837.54
+TI0281,mpf,kararao|PA,Kararaô,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA,330838.0
+TI0282,funai,21601,Karipuna,Regularizada,regularizada,RO,Porto Velho/RO; Nova Mamoré/RO,152929.86
+TI0282,mpf,karipuna|RO,Karipuna,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Nova Mamoré/RO; Porto Velho/RO,152930.0
+TI0283,funai,73774,Kariri de Serra Grande,Encaminhada RI,reserva_em_constituicao,PI,Queimada Nova/PI,2114.68
+TI0284,funai,21701,Kariri-Xocó,Regularizada,regularizada,AL,São Brás/AL; Porto Real do Colégio/AL,699358.0
+TI0284,mpf,kariri xoco|AL,Kariri-Xocó,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AL,Porto Real do Colégio/AL; São Brás/AL,4694.0
+TI0285,funai,21702,Kariri-Xocó,Homologada,homologada,AL,São Brás/AL; Porto Real do Colégio/AL,4694.88
+TI0286,funai,21801,Karitiana,Regularizada,regularizada,RO,Porto Velho/RO,89682.14
+TI0286,mpf,karitiana|RO,Karitiana,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Porto Velho/RO,89682.0
+TI0287,funai,21901,Katukina/Kaxinawá,Regularizada,regularizada,AC,Feijó/AC,23474.04
+TI0287,mpf,katukina kaxinawa|AC,Katukina/Kaxinawá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC; Envira/AC,23474.0
+TI0288,funai,61401,Kawahiva do Rio Pardo,Declarada,declarada,MT,Colniza/MT,411844.0
+TI0288,mpf,kawahiva rio pardo|MT,Kawahiva do Rio Pardo,Declarada,declarada,MT,Colniza/MT,411848.0
+TI0289,funai,22001,Kaxarari,Regularizada,regularizada,AM;RO,Lábrea; Porto Velho,145889.98
+TI0289,mpf,kaxarari|AM,Kaxarari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM;RO,Lábrea; Porto Velho,145889.98
+TI0290,funai,22101,Kaxinawá Ashaninka do Rio Breu,Regularizada,regularizada,AC,Marechal Thaumaturgo/AC; Jordão/AC,31277.86
+TI0290,mpf,kaxinawa ashaninka rio breu|AC,Kaxinawá/Ashaninka do Rio Breu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Jordão/AC; Marechal Thaumaturgo/AC,31278.0
+TI0291,funai,22401,Kaxinawá do Baixo Rio Jordão,Regularizada,regularizada,AC,Jordão/AC,8726.5
+TI0291,mpf,kaxinawa baixo rio jordao|AC,Kaxinawá do Baixo Rio Jordão,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Jordão/AC,8726.0
+TI0292,funai,22201,Kaxinawá Colônia Vinte e Sete,Regularizada,regularizada,AC,Tarauacá/AC,105.17
+TI0292,mpf,kaxinawa colonia vinte sete|AC,Kaxinawá Colônia Vinte e Sete,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Tarauacá/AC,105.0
+TI0293,funai,22701,Kaxinawá Nova Olinda,Regularizada,regularizada,AC,Feijó/AC,27533.4
+TI0293,mpf,kaxinawa nova olinda|AC,Kaxinawá Nova Olinda,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC,27533.0
+TI0294,funai,22301,Kaxinawá da Praia do Carapanã,Regularizada,regularizada,AC,Tarauacá/AC,60698.72
+TI0294,mpf,kaxinawa praia carapana|AC,Kaxinawá da Praia do Carapanã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Tarauacá/AC,60699.0
+TI0295,funai,22501,Kaxinawá do Rio Humaitá,Regularizada,regularizada,AC,Feijó/AC,127383.56
+TI0295,mpf,kaxinawa rio humaita|AC,Kaxinawá do Rio Humaitá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC,127384.0
+TI0296,funai,22601,Kaxinawá do Rio Jordão,Regularizada,regularizada,AC,Jordão/AC,87293.8
+TI0296,mpf,kaxinawa rio jordao|AC,Kaxinawá do Rio Jordão,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Jordão/AC,87294.0
+TI0297,funai,22801,Kaxinawá Seringal Independência,Encaminhada RI,reserva_em_constituicao,AC,Jordão/AC,11584.13
+TI0297,mpf,kaxinawa seringal independencia|AC,Kaxinawá Seringal Independência,Encaminhada RI,reserva_em_constituicao,AC,Jordão/AC,14750.0
+TI0298,funai,68101,Kaxuyana-Tunayana,Homologada,homologada,PA,Oriximiná/PA,2184120.0
+TI0298,mpf,kaxuyana tunayana|AM,Kaxuyana e Tunayana,Declarada,declarada,AM;PA,Oriximiná; Faro e Nhamundá,2184120.0
+TI0299,funai,22902,Kayabi,Regularizada,regularizada,MT;PA,Apiacás; Jacareacanga,1053257.68
+TI0299,mpf,kayabi|MT,Kayabi,Homologada (sub judice),homologada,MT;PA,Jacareacanga,1053000.0
+TI0300,funai,23001,Kayapó,Regularizada,regularizada,PA,Bannach/PA; Cumaru do Norte/PA; São Félix do Xingu/PA; Ourilândia do Norte/PA,3284004.97
+TI0300,mpf,kayapo|PA,Kayapó,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Bannach/PA; Cumaru do Norte/PA; Ourilândia do Norte/PA; São Félix do Xingu/PA,3284005.0
+TI0301,funai,23101,Kiriri,Regularizada,regularizada,BA,Ribeira do Pombal/BA; Quijingue/BA; Tucano/BA; Banzaê/BA,12299.87
+TI0301,mpf,kiriri|BA,Kiriri,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Banzaê/BA; Quijingue/BA; Ribeira do Pombal/BA; Tucano/BA,12299.0
+TI0302,funai,73799,Kiriri de Caldas,Encaminhada RI,reserva_em_constituicao,MG,Caldas/MG,38.89
+TI0303,funai,23201,Koatinemo,Regularizada,regularizada,PA,Altamira/PA; Senador José Porfírio/PA,387834.25
+TI0303,mpf,koatinemo|PA,Koatinemo,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA; Senador José Porfírio/PA,387834.0
+TI0304,funai,62301,Krahó-Kanela,Regularizada,regularizada,TO,Lagoa da Confusão/TO,7612.77
+TI0304,mpf,kraho kanela|TO,Krahó-Kanela,Reestudo,em_estudo,TO,Lagoa da Confusão/TO,7722.0
+TI0305,funai,23301,Kraolandia,Regularizada,regularizada,TO,Goiatins/TO; Itacajá/TO,302533.4
+TI0305,mpf,kraolandia|TO,Kraolândia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Goiatins e Itacajá/TO,
+TI0306,funai,23401,Krenak,Regularizada,regularizada,MG,Resplendor/MG,4039.82
+TI0306,mpf,krenak|MG,Krenak,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MG,Resplendor/MG; Conselheiro Pena/MG; Itueta/MG; Santa Rita do Itueto/MG,
+TI0307,funai,23402,Krenak de Sete Salões,Delimitada,delimitada,MG,Santa Rita do Itueto/MG; Resplendor/MG; Conselheiro Pena/MG; Itueta/MG,16959.92
+TI0308,funai,65801,Krenrehé,Regularizada,regularizada,MT,Luciara/MT; Canabrava do Norte/MT,5973.72
+TI0308,mpf,krenrehe|MT,Krenrehé,Regularizada,regularizada,MT,Luciara/MT,6400.0
+TI0309,funai,73718,Krenyê,Regularizada,regularizada,MA,Vitorino Freire/MA; Barra do Corda/MA,8035.68
+TI0309,mpf,krenye|MA,Krenyê,Regularizada,regularizada,MA,Barra do Corda/MA,8035.0
+TI0310,funai,23501,Krikati,Regularizada,regularizada,MA,Montes Altos/MA; Amarante do Maranhão/MA; Lajeado Novo/MA; Sítio Novo/MA,144775.79
+TI0310,mpf,krikati|MA,Krikati,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Amarante do Maranhão/MA; Lajeado/MA; Montes Altos/MA; Sítio Nova/MA,144775.0
+TI0311,funai,23601,Krukutu,Regularizada,regularizada,SP,São Paulo/SP,25.88
+TI0311,mpf,krukutu|SP,Krukutu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,São Paulo/SP,25.88
+TI0312,funai,23901,Kulina Igarapé do Pau,Regularizada,regularizada,AC,Feijó/AC,45590.94
+TI0312,mpf,kulina igarape pau|AC,Kulina Igarapé do Pau,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC,45591.0
+TI0313,funai,23701,Kulina do Medio Jurua,Regularizada,regularizada,AC;AM,Envira; Ipixuna; Eirunepé; Tarauacá,730143.0
+TI0313,mpf,kulina medio jurua|AC,Kulina do Médio Juruá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC;AM,Eirunepé; Envira; Ipixuna; Tarauacá,730143.0
+TI0314,funai,23801,Kulina do Rio Envira,Regularizada,regularizada,AC,Feijó/AC,84364.61
+TI0314,mpf,kulina rio envira|AC,Kulina do Rio Envira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Feijó/AC,84365.0
+TI0315,funai,73795,Kulina do Rio Ueré,Delimitada,delimitada,AM,Carauari/AM,274526.72
+TI0316,funai,24001,Kumaru do Lago Ualá,Regularizada,regularizada,AM,Juruá/AM,80035.88
+TI0316,mpf,kumaru lago uala|AM,Kumaru do Lago Ualá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Juruá/AM,80035.0
+TI0317,funai,38902,Kuruáya,Regularizada,regularizada,PA,Altamira/PA,166784.25
+TI0317,mpf,kuruaya|PA,Kuruáya,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA,166784.0
+TI0318,funai,24101,Kwazá do Rio São Pedro,Regularizada,regularizada,RO,Parecis/RO,16799.88
+TI0318,mpf,kwaza rio sao pedro|RO,Kwazá do Rio São Pedro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Parecis/RO,16799.0
+TI0319,funai,24201,Lago Aiapua,Regularizada,regularizada,AM,Anori/AM; Beruri/AM,24866.09
+TI0319,mpf,lago aiapua|AM,Lago Aiapuá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Anori/AM; Beruri/AM,24866.0
+TI0320,funai,24401,Lago do Beruri,Regularizada,regularizada,AM,Beruri/AM,4080.37
+TI0320,mpf,lago beruri|AM,Lago do Beruri,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Beruri/AM,4080.0
+TI0321,funai,24301,Lago Capanã,Regularizada,regularizada,AM,Manicoré/AM,6321.6
+TI0321,mpf,lago capana|AM,Lago Capanã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manicoré/AM,6322.0
+TI0322,funai,52701,Lago do Correio,Regularizada,regularizada,AM,Santo Antônio do Içá/AM,13209.78
+TI0322,mpf,lago correio|AM,Lago do Correio,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santo Antônio do Içá/AM,13209.0
+TI0323,funai,24701,Lago Jauari,Regularizada,regularizada,AM,Manicoré/AM,12023.08
+TI0323,mpf,lago jauari|AM,Lago Jauari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manicoré/AM,12023.0
+TI0324,funai,24501,Lago do Limão,Declarada,declarada,AM,Borba/AM,8210.0
+TI0324,mpf,lago limao|AM,Lago do Limão,Declarada,declarada,AM,Borba/AM,8210.0
+TI0325,funai,27401,Lago do Marinheiro,Regularizada,regularizada,AM,Careiro/AM,3586.29
+TI0325,mpf,lago marinheiro|AM,Lago do Marinheiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Careiro da Várzea/AM,3586.0
+TI0326,funai,25001,Lagoa dos Brincos,Regularizada,regularizada,MT,Comodoro/MT,1845.06
+TI0326,mpf,lagoa brincos|MT,Lagoa dos Brincos,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Comodoro/MT,1845.0
+TI0327,funai,24801,Lagoa Comprida,Regularizada,regularizada,MA,Jenipapo dos Vieiras/MA; Itaipava do Grajaú/MA,13198.27
+TI0327,mpf,lagoa comprida|MA,Lagoa Comprida,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Itaipava do Grajaú/MA; Jenipapo dos Vieiras/MA,13198.0
+TI0328,funai,24901,Lagoa  Encantada,Homologada,homologada,CE,Aquiraz/CE,1731.0
+TI0328,mpf,lagoa encantada|CE,Lagoa Encantada,Declarada,declarada,CE,Aquiraz/CE,1731.0
+TI0329,funai,25101,Lalima,Regularizada,regularizada,MS,Miranda/MS,3000.21
+TI0329,mpf,lalima|MS,Lalima,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Miranda/MS,3000.0
+TI0330,funai,25301,Laranjinha,Regularizada,regularizada,PR,Santa Amélia/PR; Abatiá/PR,284.24
+TI0331,funai,56801,Las Casas,Regularizada,regularizada,PA,Redenção/PA; Pau D´Arco/PA; Floresta do Araguaia/PA,21344.7
+TI0331,mpf,las casas|PA,Las Casas,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Floresta do Araguaia/PA; Pau d'Arco/PA; Redenção/PA,21344.0
+TI0332,funai,25401,Lauro Sodré,Regularizada,regularizada,AM,Benjamin Constant/AM,9478.62
+TI0332,mpf,lauro sodre|AM,Lauro Sodré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Benjamin Constant/AM,9478.0
+TI0333,funai,25501,Ligeiro,Regularizada,regularizada,RS,Charrua/RS,4565.8
+TI0333,mpf,ligeiro|RS,Ligeiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Charrua/RS,4565.0
+TI0334,funai,25701,Limão Verde,Regularizada,regularizada,MS,Aquidauana/MS,5377.28
+TI0334,mpf,limao verde|MS,Limão Verde,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Aquidauana/MS,5377.0
+TI0335,funai,25901,Macarrão,Regularizada,regularizada,AM,Jutaí/AM,44267.91
+TI0335,mpf,macarrao|AM,Macarrão,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Jutaí/AM,44268.0
+TI0336,funai,26001,Mãe Maria,Regularizada,regularizada,PA,Bom Jesus do Tocantins/PA,62488.45
+TI0336,mpf,mae maria|PA,Mãe Maria,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Bom Jesus do Tocantins/PA,62488.0
+TI0337,funai,26101,Malacacheta,Regularizada,regularizada,RR,Cantá/RR,28631.83
+TI0337,mpf,malacacheta|RR,Malacacheta,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Cantá/RR,28632.0
+TI0338,funai,26201,Mamoadate,Regularizada,regularizada,AC,Sena Madureira/AC; Assis Brasil/AC,313646.87
+TI0338,mpf,mamoadate|AC,Mamoadate,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Assis Brasil/AC; Sena Madureira/AC,313647.0
+TI0339,funai,73875,Mamoriá Grande,Em Estudo,em_estudo,AM,Lábrea e Tapauá/AM,343.0
+TI0340,funai,26301,Mangueira,Regularizada,regularizada,RR,Alto Alegre/RR,4063.74
+TI0340,mpf,mangueira|RR,Mangueira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,4064.0
+TI0341,funai,26401,Mangueirinha,Regularizada,regularizada,PR,Mangueirinha/PR; Coronel Vivida/PR; Chopinzinho/PR,16375.76
+TI0341,mpf,mangueirinha|PR,Mangueirinha,Regularizada,regularizada,PR,Chopinzinho/PR; Coronel Vivida/PR; Mangueirinha/PR,16375.0
+TI0342,funai,26501,Manoa/Pium,Regularizada,regularizada,RR,Bonfim/RR,43336.73
+TI0342,mpf,manoa pium|RR,Manoa/Pium,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Bonfim/RR,43337.0
+TI0343,funai,17302,Manoki,Homologada,homologada,MT,Brasnorte/MT,250539.83
+TI0344,funai,26601,Mapari,Regularizada,regularizada,AM,Fonte Boa/AM; Japurá/AM; Tonantins/AM,157246.23
+TI0344,mpf,mapari|AM,Mapari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Fonte Boa/AM; Tonantins/AM; Japurá/AM,157416.0
+TI0345,funai,26701,Maraã Urubaxi,Regularizada,regularizada,AM,Maraã/AM; Santa Isabel do Rio Negro/AM,94405.07
+TI0345,mpf,maraa urubaxi|AM,Maraã Urubaxi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Maraã/AM; Santa Isabel do Rio Negro/AM,94405.0
+TI0346,funai,65401,Maracaxi,Declarada,declarada,PA,Aurora do Pará/PA,720.0
+TI0346,mpf,marakaxi|PA,Marakaxi,Declarada,declarada,PA,Aurora do Pará/PA,720.0
+TI0347,funai,26801,Maraitá,Regularizada,regularizada,AM,Amaturá/AM,53038.06
+TI0347,mpf,maraita|AM,Maraitá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Amaturá/AM,53038.0
+TI0348,funai,26901,Maraiwatsede,Regularizada,regularizada,MT,São Félix do Araguaia/MT; Bom Jesus do Araguaia/MT; Alto Boa Vista/MT,165241.23
+TI0348,mpf,maraiwatsede|MT,Maraiwatsede,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Alto Boa Vista/MT; Bom Jesus do Araguaia/MT; São Félix do Araguaia/MT,165241.0
+TI0349,funai,27001,Marajai,Regularizada,regularizada,AM,Alvarães/AM,1196.35
+TI0349,mpf,marajai|AM,Marajai,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Alvarães/AM,1196.0
+TI0350,funai,27101,Maranduba,Regularizada,regularizada,PA;TO,Araguacema; Santa Maria das Barreiras,375.15
+TI0350,mpf,maranduba|PA,Maranduba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA;TO,Araguacema; Santa Maria das Barreiras,375.0
+TI0351,funai,27201,Marechal Rondon,Regularizada,regularizada,MT,Paranatinga/MT,98500.0
+TI0351,mpf,marechal rondon|MT,Marechal Rondon,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Paranatinga/MT,98500.0
+TI0352,funai,55101,Maró,Declarada,declarada,PA,Santarém/PA,42373.0
+TI0352,mpf,maro|PA,Maró,Declarada,declarada,PA,Santarém/PA,42373.0
+TI0353,funai,27501,Marrecas,Regularizada,regularizada,PR,Guarapuava e Turvo/PR,16838.57
+TI0353,mpf,marrecas|PR,Marrecas,Regularizada,regularizada,PR,Guarapuava/PR; Turvo/PR,16839.0
+TI0354,funai,73878,Mashco do Rio Chandless,Em Estudo,em_estudo,AC,Manoel Urbano e Santa Rosa do Purus e Sena Madureira/AC,421.0
+TI0355,funai,27601,Massacara,Regularizada,regularizada,BA,Euclides da Cunha/BA,8020.08
+TI0355,mpf,massacara|BA,Massacará,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Euclides da Cunha/BA,8020.0
+TI0356,funai,27701,Massaco,Regularizada,regularizada,RO,Alta Floresta D´Oeste/RO; São Francisco do Guaporé/RO,421895.08
+TI0356,mpf,massaco|RO,Massaco,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Alta Floresta d'Oeste/RO; São Francisco do Guaporé/RO,421895.0
+TI0357,funai,27901,Mata da Cafurna,Regularizada,regularizada,AL,Palmeira dos Índios/AL,117.6
+TI0357,mpf,mata cafurna|AL,Mata da Cafurna,Regularizada,regularizada,AL,Palmeira dos Índios/AL,117.0
+TI0358,funai,28001,Mata Medonha,Regularizada,regularizada,BA,Santa Cruz Cabrália/BA,549.62
+TI0358,mpf,mata medonha|BA,Mata Medonha,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Santa Cruz Cabrália/BA,549.0
+TI0359,funai,28101,Matintin,Regularizada,regularizada,AM,Tonantins/AM; Santo Antônio do Içá/AM,21760.7
+TI0359,mpf,matintin|AM,Matintin,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santo Antônio do Içá/AM; Tonantins/AM,21760.0
+TI0360,funai,68601,Mato Castelhano,Delimitada,delimitada,RS,Mato Castelhano/RS,3567.0
+TI0361,funai,53801,Mato Preto,Delimitada,delimitada,RS,Erebango e Erechim e Getúlio Vargas/RS,4230.0
+TI0361,mpf,mato preto|RS,Mato Preto,Declarada,declarada,RS,Erebango/RS; Erechim/RS; Getúlio Vargas/RS,4230.0
+TI0362,funai,28201,Mawetek,Regularizada,regularizada,AM,Jutaí/AM; Eirunepé/AM,115492.88
+TI0362,mpf,mawetek|AM,Mawetek,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Eirunepé/AM; Jutaí/AM,115493.0
+TI0363,funai,28301,Maxacali,Regularizada,regularizada,MG,Santa Helena de Minas/MG; Bertópolis/MG,5305.67
+TI0363,mpf,maxakali|MG,Maxakali,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MG,Bertópolis e Santa Helena de Minas/MG,5305.0
+TI0364,funai,28401,Mbiguaçu,Regularizada,regularizada,SC,Biguaçu/SC,59.2
+TI0364,mpf,mbiguacu|SC,Mbiguaçu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Biguaçu/SC,59.0
+TI0364,mpf,mbiguacu|SC#2,Mbiguaçu,Em Estudo,em_estudo,SC,Biguaçu/SC,
+TI0365,funai,28501,Médio Rio Negro I,Regularizada,regularizada,AM,Japurá/AM; Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,1776139.0
+TI0365,mpf,medio rio negro i|AM,Médio Rio Negro I,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Japurá/AM; Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,1776139.0
+TI0366,funai,28601,Médio Rio Negro II,Regularizada,regularizada,AM,Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,316194.99
+TI0366,mpf,medio rio negro ii|AM,Médio Rio Negro II,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,316195.0
+TI0367,funai,28701,Menkragnoti,Regularizada,regularizada,MT;PA,Matupá; Peixoto de Azevedo; Altamira; São Félix do Xingu,4914254.82
+TI0367,mpf,menkragnoti|MT,Menkragnoti,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT;PA,Altamira; Matupá; Peixoto de Azevedo; São Félix do Xingu,4914255.0
+TI0368,funai,28801,Menkü,Regularizada,regularizada,MT,Brasnorte/MT,47094.86
+TI0368,mpf,menku|MT,Menkü,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Brasnorte/MT,47094.0
+TI0369,funai,28901,Meria,Regularizada,regularizada,AM,Alvarães/AM,585.49
+TI0369,mpf,meria|AM,Méria,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Alvarães/AM,585.0
+TI0370,funai,29001,Merure,Regularizada,regularizada,MT,Barra do Garças/MT; General Carneiro/MT,82301.14
+TI0370,mpf,merure|MT,Merure,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Barra do Garças/MT; General Carneiro/MT,82301.0
+TI0371,funai,29101,Miguel/Josefa,Regularizada,regularizada,AM,Autazes/AM,1628.81
+TI0371,mpf,miguel josefa|AM,Miguel/Josefa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,1629.0
+TI0372,funai,29201,Miratu,Regularizada,regularizada,AM,Uarini/AM,13198.79
+TI0372,mpf,miratu|AM,Miratu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Uarini/AM,13199.0
+TI0373,funai,29301,Monte Caseros,Regularizada,regularizada,RS,Muliterno/RS; Ibiraiaras/RS,1112.41
+TI0373,mpf,monte caseros|RS,Monte Caseros,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Ibiraiaras/RS; Muliterno/RS,1112.0
+TI0374,funai,29401,Morro Alto,Declarada,declarada,SC,São Francisco do Sul/SC,893.0
+TI0374,mpf,morro alto|SC,Morro Alto,Declarada,declarada,SC,São Francisco do Sul/SC,893.0
+TI0375,funai,29501,Morro Branco,Regularizada,regularizada,MA,Grajaú/MA,48.98
+TI0375,mpf,morro branco|MA,Morro Branco,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Grajaú/MA,49.0
+TI0376,funai,29601,Morro dos Cavalos,Regularizada,regularizada,SC,Palhoça/SC,1983.49
+TI0376,mpf,morro cavalos|SC,Morro dos Cavalos,Homologada,homologada,SC,Palhoça/SC,2000.0
+TI0377,funai,73001,Morro da Palha,Encaminhada RI,reserva_em_constituicao,SC,Biguaçu/SC,240.33
+TI0377,mpf,morro palha|SC,Morro da Palha,Regularizada,regularizada,SC,Biguaçu/SC,240.0
+TI0378,funai,29701,Moskow,Regularizada,regularizada,RR,Bonfim/RR,14213.0
+TI0378,mpf,moskow|RR,Moskow,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Bonfim/RR,14212.0
+TI0379,funai,73709,Muã Mimatxi (Fazenda Modelo Diniz),Regularizada,regularizada,MG,Itapecerica/MG,0.0
+TI0379,mpf,fazenda modelo diniz mua mimatxi|MG,Fazenda Modelo Diniz (Muã Mimatxi),Regularizada,regularizada,MG,Itapecerica/MG,
+TI0380,funai,66001,Mundo Verde/Cachoeirinha,Regularizada,regularizada,MG,Teófilo Otoni/MG,606.19
+TI0381,funai,29801,Munduruku,Regularizada,regularizada,PA,Jacareacanga/PA,2381795.78
+TI0381,mpf,munduruku|PA,Munduruku,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Jacareanga/PA,2381800.0
+TI0382,funai,58001,Munduruku-Taquara,Declarada,declarada,PA,Belterra/PA,25323.0
+TI0382,mpf,munduruku taquara|PA,Munduruku Taquara,Declarada,declarada,PA,Belterra/PA,25323.0
+TI0383,funai,73805,Mura do Médio Madeira,Delimitada,delimitada,AM,Humaitá e Manicoré/AM,0.0
+TI0384,funai,30001,Muriru,Regularizada,regularizada,RR,Bonfim/RR; Cantá/RR,5555.94
+TI0384,mpf,muriru|RR,Muriru,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Bonfim/RR; Cantá/RR,5555.0
+TI0385,funai,30101,Murutinga/Tracaja,Declarada,declarada,AM,Autazes/AM,13286.0
+TI0385,mpf,murutinga tracaja|AM,Murutinga/Tracajá,Declarada,declarada,AM,Autazes/AM,13286.0
+TI0386,funai,30201,Nambikwara,Regularizada,regularizada,MT,Comodoro/MT,1011961.49
+TI0386,mpf,nambikwara|MT,Nambikwara,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Comodoro/MT,1011961.0
+TI0387,funai,30301,Ñande Ru Marangatu,Homologada,homologada,MS,Antônio João/MS,9317.22
+TI0388,funai,30401,Natal/Felicidade,Regularizada,regularizada,AM,Autazes/AM,313.34
+TI0388,mpf,natal felicidade|AM,Natal/Felicidade,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,313.0
+TI0389,funai,56601,Nawa,Delimitada,delimitada,AC,Mâncio Lima e Rodrigues Alves/AC,65159.27
+TI0389,mpf,nawa|AC,Nawá,Em estudo,em_estudo,AC,Mâncio Lima/AC,
+TI0390,funai,30501,Nhamundá/Mapuera,Regularizada,regularizada,AM;PA,Nhamundá; Urucará; Oriximiná; Faro,1049520.0
+TI0390,mpf,nhamunda mapuera|AM,Nhamundá/Mapuera,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM;PA,Faro; Nhamundá; Oriximiná; Urucará,1049520.0
+TI0391,funai,30601,Nioaque,Regularizada,regularizada,MS,Nioaque/MS,3029.35
+TI0392,funai,30701,Nonoai,Declarada,declarada,RS,Rio dos Índios/RS; Planalto/RS; Nonoai/RS; Gramado dos Loureiros/RS,19830.0
+TI0392,mpf,nonoai|RS,Nonoaí,Regularizada,regularizada,RS,Gramado dos Loureiros/RS; Nonoai/RS; Planalto/RS; Rio dos Indios/RS,19830.0
+TI0393,funai,30801,Nonoai/Rio da Várzea,Regularizada,regularizada,RS,Trindade do Sul/RS; Planalto/RS; Nonoai/RS; Liberato Salzano/RS; Gramado dos Loureiros/RS,16415.44
+TI0393,mpf,nonoai rio varzea|RS,Nonoai / Rio da Várzea,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Gramado dos Loureiros/RS; Liberato Salzano/RS; Nonoai/RS; Planalto/RS; Trindade do Sul/RS,16415.0
+TI0394,funai,30901,Nossa Senhora de Fátima,Regularizada,regularizada,MS,Miranda/MS,88888.0
+TI0394,mpf,nossa senhora fatima|MS,Nossa Senhora de Fátima,Regularizada,regularizada,MS,Miranda/MS,89.0
+TI0395,funai,31001,Nova Esperança do Rio Jandiatuba,Regularizada,regularizada,AM,São Paulo de Olivença/AM; Amaturá/AM,20003.93
+TI0395,mpf,nova esperanca rio jandiatuba|AM,Nova Esperança do Rio Jandiatuba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Amaturá/AM; São Paulo de Olivença/AM,20003.0
+TI0396,funai,31101,Nova Jacundá,Regularizada,regularizada,PA,Rondon do Pará/PA,424614.0
+TI0396,mpf,nova jacunda|PA,Nova Jacundá,Regularizada,regularizada,PA,Rondon do Pará/PA,425.0
+TI0397,funai,31201,Nove de Janeiro,Regularizada,regularizada,AM,Humaitá/AM,228777.1
+TI0397,mpf,nove janeiro|AM,Nove de Janeiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM,228777.0
+TI0398,funai,31301,Nukini,Regularizada,regularizada,AC,Mâncio Lima/AC,27263.52
+TI0398,mpf,nukini|AC,Nukini,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Mâncio Lima/AC,27263.0
+TI0399,funai,31401,Ofayé-Xavante,Declarada,declarada,MS,Brasilândia/MS,1937.62
+TI0399,mpf,ofaye xavante|MS,Ofayé-Xavante,Declarada,declarada,MS,Brasilândia/MS,1937.0
+TI0400,funai,31402,Ofayé-Xavante,Regularizada,regularizada,MS,Brasilândia/MS,484.0
+TI0401,funai,31501,Ouro,Regularizada,regularizada,RR,Boa Vista/RR,13572.97
+TI0401,mpf,ouro|RR,Ouro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Boa Vista/RR,13572.0
+TI0402,funai,31601,Pacaas Novas,Regularizada,regularizada,RO,Guajará-Mirim/RO,279906.38
+TI0402,mpf,pacaas novas|RO,Pacaas Novas,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Guajará-Mirim/RO,279906.0
+TI0403,funai,31701,Pacheca,Regularizada,regularizada,RS,Camaquã/RS,1852.2
+TI0403,mpf,pacheca|RS,Pacheca,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Camaquã/RS,1852.0
+TI0404,funai,31901,Padre,Regularizada,regularizada,AM,Autazes/AM,797511.0
+TI0404,mpf,padre|AM,Padre,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,797.0
+TI0405,funai,52901,"Paiol, Cajual e Palhal",Delimitada,delimitada,AM,Manaquiri/AM,114601.09
+TI0406,funai,71901,Pakurity,Declarada,declarada,SP,Cananéia/SP,5730.0
+TI0407,funai,32002,Palmas,Regularizada,regularizada,PR;SC,Abelardo Luz; Palmas,3800.88
+TI0407,mpf,palmas|PR,Palmas,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR;SC,Abelardo Luz; Palmas,3800.0
+TI0408,funai,64801,Panambi - Lagoa Rica,Delimitada,delimitada,MS,Douradina e Itaporã/MS,12196.0
+TI0409,funai,32101,Panambizinho,Regularizada,regularizada,MS,Dourados/MS,1272.8
+TI0409,mpf,panambizinho|MS,Panambizinho,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Dourados/MS,1272.0
+TI0410,funai,32201,Panará,Regularizada,regularizada,MT;PA,Guarantã do Norte; Matupá; Altamira,499740.01
+TI0410,mpf,panara|MT,Panará,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT;PA,Altamira; Guarantã do Norte; Matupá,499740.0
+TI0411,funai,71001,Pankará da Serra do Arapuá,Declarada,declarada,PE,Carnaubeira da Penha/PE,15114.0
+TI0411,mpf,pankara serra arapua|PE,Pankará da Serra do Arapuá,Delimitada,delimitada,PE,Carnaubeira da Penha/PE,15114.0
+TI0412,funai,32301,Pankararé,Regularizada,regularizada,BA,Glória/BA; Paulo Afonso/BA; Rodelas/BA,29597.33
+TI0412,mpf,pankarare|BA,Pankararé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,BA,Glória/BA; Paulo Afonso e Rodelas/BA,29597.0
+TI0413,funai,32401,Pankararu,Regularizada,regularizada,PE,Petrolândia/PE; Tacaratu/PE,8377.28
+TI0413,mpf,pankararu|PE,Pankararu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Jatobá/PE; Petrolândia/PE; Taracatu/PE,8377.0
+TI0414,funai,32601,Paquiçamba,Regularizada,regularizada,PA,Vitória do Xingu/PA,4384.27
+TI0414,mpf,paquicamba|PA,Paquiçamba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Vitória do Xingu/PA,4348.27
+TI0415,funai,32602,Paquiçamba,Declarada,declarada,PA,Anapu e Senador José Porfírio e Vitória do Xingu/PA,15733.0
+TI0416,funai,32701,Parabubure,Regularizada,regularizada,MT,Nova Xavantina/MT; Campinápolis/MT; Água Boa/MT,224447.34
+TI0416,mpf,parabubure|MT,Parabubure,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Água Boa/MT; Campinápolis/MT; Nova Xavantina/MT,224447.0
+TI0417,funai,32801,Paracuhuba,Regularizada,regularizada,AM,Autazes/AM,927.54
+TI0417,mpf,paracuhuba|AM,Paracuhuba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,928.0
+TI0418,funai,32901,Parakanã,Regularizada,regularizada,PA,Novo Repartimento/PA; Itupiranga/PA,351697.41
+TI0418,mpf,parakana|PA,Parakanã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Itupiranga/PA; Novo Repartimento/PA,351697.0
+TI0419,funai,33001,Paraná do Arauató,Regularizada,regularizada,AM,Itacoatiara/AM,5915.44
+TI0419,mpf,parana arauato|AM,Paraná do Arauató,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Itacoatiara/AM,5915.0
+TI0420,funai,33101,Parana do Boa Boa,Regularizada,regularizada,AM,Japurá/AM; Santa Isabel do Rio Negro/AM,240545.85
+TI0420,mpf,parana boa boa|AM,Parana do Boá-Boá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Japurá/AM; Santa Isabel do Rio Negro/AM,240546.0
+TI0421,funai,33201,Parana do Paricá,Regularizada,regularizada,AM,Maraã/AM,7866.32
+TI0421,mpf,parana parica|AM,Parana do Paricá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Maraã/AM,7866.0
+TI0422,funai,33301,Parati-Mirim,Regularizada,regularizada,RJ,Paraty/RJ,79.2
+TI0422,mpf,parati mirim|RJ,Parati-Mirim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RJ,Parati/RJ,79.0
+TI0423,funai,33401,Paresi,Regularizada,regularizada,MT,Tangará da Serra/MT,563586.53
+TI0423,mpf,paresi|MT,Paresi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Tangará da Serra/MT,563587.0
+TI0424,funai,65301,Passo Grande do Rio Forquilha,Declarada,declarada,RS,Cacique Doble e Sananduva/RS,1916.0
+TI0424,mpf,passo grande rio forquilha|RS,Passo Grande do Rio Forquilha,Declarada,declarada,RS,Cacique Doble/RS; Sananduva/RS,1916.0
+TI0425,funai,33901,Patauá,Regularizada,regularizada,AM,Autazes/AM,615885.0
+TI0425,mpf,pataua|AM,Patauá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,615.0
+TI0426,funai,34101,Paukalirajausu,Delimitada,delimitada,MT,Conquista D´Oeste/MT; Vila Bela da Santíssima Trindade/MT; Nova Lacerda/MT,8400.0
+TI0426,mpf,paukalirajausu|MT,Paukalirajausu,Delimitada,delimitada,MT,Nova Lacerda/MT; Vila Bela da Santíssima Trindade/MT,8400.0
+TI0427,funai,34201,Paumari do Cuniua,Regularizada,regularizada,AM,Tapauá/AM,42828.05
+TI0427,mpf,paumari cuniua|AM,Paumari do Cuniua,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tapauá/AM,42828.0
+TI0428,funai,34302,Paumari do Lago Manissuã,Regularizada,regularizada,AM,Tapauá/AM,22970.07
+TI0428,mpf,paumari lago manissua|AM,Paumari do Lago Manissuã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tapauá/AM,22970.0
+TI0429,funai,34402,Paumari do Lago Marahã,Regularizada,regularizada,AM,Lábrea/AM,118766.89
+TI0430,funai,34501,Paumari do Lago Paricá,Regularizada,regularizada,AM,Tapauá/AM,15792.11
+TI0430,mpf,paumari lago parica|AM,Paumari do Lago Paricá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tapauá/AM,15792.0
+TI0431,funai,34601,Paumari do Rio Ituxi,Regularizada,regularizada,AM,Lábrea/AM,7572.41
+TI0431,mpf,paumari rio ituxi|AM,Paumari do Rio Ituxi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,7572.0
+TI0432,funai,71801,Peguaoty,Declarada,declarada,SP,Miracatu e Sete Barras/SP,6230.0
+TI0432,mpf,peguaoty|SP,Peguaoty,Declarada,declarada,SP,Sete Barras/SP,6230.0
+TI0433,funai,34701,Peneri/Tacaquiri,Regularizada,regularizada,AM,Pauini/AM,189870.96
+TI0433,mpf,peneri tacaquiri|AM,Peneri/Tacaquiri,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Pauini/AM,189871.0
+TI0434,funai,34801,Pequizal,Regularizada,regularizada,MT,Nova Lacerda/MT,9886.82
+TI0434,mpf,pequizal|MT,Pequizal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Nova Lacerda/MT,9887.0
+TI0435,funai,55201,Pequizal do Naruvôtu,Regularizada,regularizada,MT,Gaúcha do Norte/MT; Canarana/MT,27878.5
+TI0435,mpf,pequizal naruvotu|MT,Pequizal do Naruvôtu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Caranara/MT; Gaúcha do Norte/MT,27980.0
+TI0436,funai,34901,Perigara,Regularizada,regularizada,MT,Barão de Melgaço/MT,10740.41
+TI0436,mpf,perigara|MT,Perigara,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Barão de Melgaço/MT,10740.0
+TI0437,funai,35001,Peruíbe,Regularizada,regularizada,SP,Peruíbe/SP,480.47
+TI0437,mpf,peruibe|SP,Peruíbe,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Peruíbe/SP,480.0
+TI0438,funai,35101,Piaçaguera,Regularizada,regularizada,SP,Peruíbe/SP,2773.8
+TI0438,mpf,piacaguera|SP,Piaçaguera,Homologada,homologada,SP,Peruíbe/SP,3000.0
+TI0439,funai,35201,Pilad Rebuá,Regularizada,regularizada,MS,Miranda/MS,208.37
+TI0440,funai,35301,Pimentel Barbosa,Regularizada,regularizada,MT,Canarana/MT; Ribeirão Cascalheira/MT,328966.44
+TI0440,mpf,pimentel barbosa|MT,Pimentel Barbosa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Canarana/MT; Ribeirão Cascalheira/MT,328966.0
+TI0441,funai,35401,Pinatuba,Regularizada,regularizada,AM,Manicoré/AM,29564.94
+TI0441,mpf,pinatuba|AM,Pinatuba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manicoré/AM,29565.0
+TI0442,funai,73703,Pindó Poty (Lami),Delimitada,delimitada,RS,Porto Alegre/RS,71.88
+TI0443,funai,44301,Pindoty,Declarada,declarada,SC,Araquari e Balneário Barra do Sul/SC,3294.0
+TI0443,mpf,pindoty|SC,Pindoty,Declarada,declarada,SC,Araquari/SC; Balneário Barra do Sul/SC,3294.0
+TI0444,funai,71201,Pindoty/Araçá-Mirim,Declarada,declarada,SP,Pariquera-Açu/SP; Cananéia/SP; Iguape/SP,1030.0
+TI0444,mpf,pindoty araca mirim|SP,Pindoty/Araça-Mirim,Declarada,declarada,SP,Cananéia/SP; Iguape e Pariquera-Açu/SP,1030.0
+TI0445,funai,35501,Pinhal,Regularizada,regularizada,SC,Seara/SC,880.08
+TI0446,funai,35601,Pinhalzinho,Regularizada,regularizada,PR,Tomazina/PR,593372.0
+TI0446,mpf,pinhalzinho|PR,Pinhalzinho,Regularizada,regularizada,PR,Tomazina/PR,593.0
+TI0447,funai,62801,Pipipã,Delimitada,delimitada,PE,Floresta/PE,63322.0
+TI0447,mpf,pipipa|PE,Pipipã,Delimitada,delimitada,PE,Floresta/PE,63322.0
+TI0448,funai,35701,Pirahã,Regularizada,regularizada,AM,Humaitá/AM,346910.57
+TI0448,mpf,piraha|AM,Pirahã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM,346911.0
+TI0449,funai,35801,Pirai,Declarada,declarada,SC,Araquari/SC,3017.0
+TI0449,mpf,pirai|SC,Piraí,Declarada,declarada,SC,Araquari/SC,3017.0
+TI0450,funai,35901,Pirajuí,Regularizada,regularizada,MS,Paranhos/MS,2118.23
+TI0450,mpf,pirajui|MS,Pirajuí,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Paranhos/MS,2118.0
+TI0451,funai,36001,Pirakua,Regularizada,regularizada,MS,Bela Vista/MS; Ponta Porã/MS,2384.06
+TI0451,mpf,pirakua|MS,Pirakuá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Bela Vista/Ponta Porã/MS,3284.0
+TI0452,funai,36101,Pirineus de Souza,Regularizada,regularizada,MT,Comodoro/MT,28212.27
+TI0452,mpf,pirineus souza|MT,Pirineus de Souza,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Comodoro/MT,28212.0
+TI0453,funai,66901,Piripkura ( restrição de uso ),Em Estudo,em_estudo,MT,Colniza e Rondolândia/MT,242500.0
+TI0454,funai,73708,Pirititi,Em Estudo,em_estudo,RR,Rorainópolis/RR,40095.0
+TI0454,mpf,pirititi|RR,Pirititi,Com restrição de ingresso,restricao_de_uso,RR,Roiranópolis/RR,40095.0
+TI0455,funai,36201,Pitaguary,Homologada,homologada,CE,Pacatuba/CE; Maracanaú/CE,1727.87
+TI0455,mpf,pitaguary|CE,Pitaguary,Declarada,declarada,CE,Maracanaú e Pacatuba/CE,1735.0
+TI0456,funai,36301,Pium,Regularizada,regularizada,RR,Alto Alegre/RR,4607.61
+TI0456,mpf,pium|RR,Pium,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,4608.0
+TI0457,funai,53201,Ponciano,Declarada,declarada,AM,Careiro da Várzea/AM,4329.0
+TI0457,mpf,ponciano|AM,Ponciano,Declarada,declarada,AM,Autazes/AM; Careiro da Várzea/AM,4329.0
+TI0458,funai,36401,Ponta da Serra,Regularizada,regularizada,RR,Amajari/RR,15597.06
+TI0458,mpf,ponta serra|RR,Ponta da Serra,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Boa Vista/RR,15597.0
+TI0459,funai,36501,Ponte de Pedra,Declarada,declarada,MT,Campo Novo do Parecis e Diamantino e Nova Maringá/MT,17000.0
+TI0459,mpf,ponte pedra|MT,Ponte de Pedra,Declarada,declarada,MT,Campo Novo do Parecis/MT; Diamantino/MT; Nova Maringá/MT,17000.0
+TI0460,funai,36601,Porquinhos,Regularizada,regularizada,MA,Fernando Falcão/MA; Barra do Corda/MA,79520.25
+TI0461,funai,36602,Porquinhos dos Canela-Apãnjekra,Delimitada,delimitada,MA,Barra do Corda e Fernando Falcão e Formosa da Serra Negra e Mirador/MA,301000.0
+TI0461,mpf,porquinhos canela apanjekra|MA,Porquinhos dos Canela Apãnjekra,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Barra do Corda/MA; Fernando Falcão/MA; Formosa da Serra Negra e Mirador/MA,
+TI0461,mpf,porquinhos canela apanjekra|MA#2,Porquinhos dos Canela Apãnjekra,Delimitada,delimitada,MA,Barra do Corda/MA; Fernando Falcão/MA; Formosa da Serra Negra e Mirador/MA,
+TI0462,funai,59001,Portal do Encantado,Declarada,declarada,MT,Porto Esperidião/MT; Pontes e Lacerda/MT; Vila Bela da Santíssima Trindade/MT,43057.0
+TI0462,mpf,portal encantado|MT,Portal do Encantado,Declarada,declarada,MT,Pontes e Lacerda/MT; Porto Esperidão/MT; Vila Bela da Santíssima Trindade/MT,43057.0
+TI0463,funai,57101,Porto Limoeiro,Regularizada,regularizada,AM,Santo Antônio do Içá/AM,4587.72
+TI0463,mpf,porto limoeiro|AM,Porto Limoeiro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santo Antônio do Içá/AM,4587.0
+TI0464,funai,36701,Porto Lindo,Regularizada,regularizada,MS,Japorã/MS,1648.89
+TI0465,funai,36801,Porto Praia,Regularizada,regularizada,AM,Uarini/AM,4769.86
+TI0465,mpf,porto praia|AM,Porto Praia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Uarini/AM,4769.0
+TI0466,funai,36901,Potiguara,Regularizada,regularizada,PB,Rio Tinto/PB; Marcação/PB; Baía da Traição/PB,21238.49
+TI0466,mpf,potiguara|PB,Potiguara,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PB,Baía da Traição/PB; Marcação/PB; Rio Tinto/PB,21238.0
+TI0467,funai,37001,Potiguara de Monte-Mor,Homologada,homologada,PB,Marcação e Rio Tinto/PB,7530.6
+TI0467,mpf,potiguara monte mor|PB,Potiguara de Monte Mor,Homologada,homologada,PB,Marcação/PB; Rio Tinto/PB,7530.0
+TI0468,funai,37101,Potrero Guaçu,Declarada,declarada,MS,Paranhos/MS,4025.0
+TI0468,mpf,potrero guacu|MS,Potrero Guaçu,Declarada,declarada,MS,Paranhos/MS,4025.0
+TI0469,funai,37201,Poyanawa,Regularizada,regularizada,AC,Mâncio Lima/AC,24499.09
+TI0469,mpf,poyanawa|AC,Poyanawa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Mâncio Lima/AC,24499.0
+TI0470,funai,37301,Praia do Índio,Encaminhada RI,reserva_em_constituicao,PA,Itaituba/PA,31.5
+TI0470,mpf,praia indio|PA,Praia do Índio,Encaminhada RI,reserva_em_constituicao,PA,Itaituba/PA,28.0
+TI0471,funai,37401,Praia do Mangue,Encaminhada RI,reserva_em_constituicao,PA,Itaituba/PA,31.84
+TI0471,mpf,praia mangue|PA,Praia do Mangue,Encaminhada RI,reserva_em_constituicao,PA,Itaituba/PA,32.0
+TI0472,funai,53401,Prosperidade,Regularizada,regularizada,AM,Tonantins/AM,5572.86
+TI0472,mpf,prosperidade|AM,Prosperidade,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tonantins/AM,5572.0
+TI0473,funai,37501,Queimadas,Regularizada,regularizada,PR,Ortigueira/PR,3077.76
+TI0473,mpf,queimadas|PR,Queimadas,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Ortigueira/PR,3077.0
+TI0474,funai,37601,Quixaba,Encaminhada RI,reserva_em_constituicao,BA,Glória/BA,28.17
+TI0474,mpf,quixaba|BA,Quixaba,Encaminhada RI,reserva_em_constituicao,BA,Glória/BA,39.0
+TI0475,funai,37701,Raimundão,Regularizada,regularizada,RR,Alto Alegre/RR,4276.81
+TI0475,mpf,raimundao|RR,Raimundão,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,4277.0
+TI0476,funai,37801,Rancho Jacaré,Regularizada,regularizada,MS,Laguna Carapã/MS,777.53
+TI0476,mpf,rancho jacare|MS,Rancho Jacaré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Laguna Carapã/MS,778.0
+TI0477,funai,37901,Raposa Serra do Sol,Regularizada,regularizada,RR,Normandia/RR; Pacaraima/RR; Uiramutã/RR,1747464.78
+TI0477,mpf,raposa serra sol|RR,Raposa Serra do Sol,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Normandia/RR; Paracaíma/RR; Uiramitã/RR,1747464.0
+TI0478,funai,38001,Recreio/São Félix,Regularizada,regularizada,AM,Autazes/AM,251051.0
+TI0478,mpf,recreio sao felix|AM,Recreio/São Félix,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,251.0
+TI0479,funai,38102,Ribeirão Silveira,Declarada,declarada,SP,São Sebastião/SP; Bertioga/SP,8468.93
+TI0479,mpf,ribeirao silveira|SP,Ribeirão Silveira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Bertioga/SP; Salesópolis e São Sebastião/SP,8468.0
+TI0480,funai,38201,Rio Apaporis,Regularizada,regularizada,AM,Japurá/AM,106960.34
+TI0480,mpf,rio apaporis|AM,Rio Apaporis,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Japurá/AM,106960.0
+TI0481,funai,38301,Rio Areia,Regularizada,regularizada,PR,Inácio Martins/PR,1352.38
+TI0481,mpf,rio areia|PR,Rio Areia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Inácio Martins/PR,1352.0
+TI0482,funai,38501,Rio Biá,Regularizada,regularizada,AM,Jutaí/AM; Carauari/AM,1185791.71
+TI0482,mpf,rio bia|AM,Rio Biá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Carauari/AM; Jutaí/AM,1185792.0
+TI0483,funai,38601,Rio Branco,Regularizada,regularizada,RO,Alta Floresta D´Oeste/RO; São Francisco do Guaporé/RO,236137.11
+TI0483,mpf,rio branco|RO,Rio Branco,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Alta Floresta d'Oeste/RO; São Francisco do Guaporé/RO; São Miguel do Guaporé/RO,236137.0
+TI0484,funai,38701,Rio Branco Itanhaém,Regularizada,regularizada,SP,São Paulo/SP; São Vicente/SP; Itanhaém/SP,2856.1
+TI0484,mpf,rio branco itanhaem|SP,Rio Branco Itanhaém,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Itanhaém e São Vicente/SP,2856.0
+TI0485,funai,39001,Rio das Cobras,Regularizada,regularizada,PR,Nova Laranjeiras/PR; Espigão Alto do Iguaçu/PR,18681.98
+TI0485,mpf,rio cobras|PR,Rio das Cobras,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Espigão Alto do Iguaçu/PR; Nova Laranjeiras/PR,18682.0
+TI0486,funai,39301,Rio Formoso,Regularizada,regularizada,MT,Tangará da Serra/MT,19749.47
+TI0486,mpf,rio formoso|MT,Rio Formoso,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Tangará da Serra/MT,19749.47
+TI0487,funai,39402,Rio Gregório,Regularizada,regularizada,AC,Tarauacá/AC,187125.22
+TI0487,mpf,rio gregorio|AC,Rio Gregório,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AC,Tarauacá/AC,187125.0
+TI0488,funai,39501,Rio Guaporé,Regularizada,regularizada,RO,Guajará-Mirim/RO,115788.08
+TI0488,mpf,rio guapore|RO,Rio Guaporé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Guajará-Mirim/RO,115788.0
+TI0489,funai,39101,Rio dos Índios,Regularizada,regularizada,RS,Vicente Dutra/RS,711.7
+TI0489,mpf,rio indios|RS,Rio dos Índios,Homologada,homologada,RS,Vicente Dutra/RS,715.0
+TI0490,funai,39601,Rio Jumas,Regularizada,regularizada,AM,Careiro/AM,9462.7
+TI0490,mpf,rio jumas|AM,Rio Jumas,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Careiro/AM,9462.0
+TI0491,funai,39701,Rio Manicoré,Regularizada,regularizada,AM,Manicoré/AM,19481.87
+TI0491,mpf,rio manicore|AM,Rio Manicoré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Manicoré/AM,19481.0
+TI0492,funai,39801,Rio Mequens,Regularizada,regularizada,RO,Alto Alegre dos Parecis/RO,107553.01
+TI0492,mpf,rio mequens|RO,Rio Mequens,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Alto Alegre do Parecis/RO,107553.0
+TI0493,funai,40001,Rio Negro Ocaia,Regularizada,regularizada,RO,Guajará-Mirim/RO,104063.81
+TI0493,mpf,rio negro ocaia|RO,Rio Negro de Ocaia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Guajará-Mirim/RO,235070.0
+TI0494,funai,40002,Rio Negro Ocaia,Declarada,declarada,RO,Guajará-Mirim/RO,235070.0
+TI0495,funai,40101,Rio Omerê,Regularizada,regularizada,RO,Chupinguaia/RO; Corumbiara/RO,26177.19
+TI0495,mpf,rio omere|RO,Rio Omerê,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Chupinguaia/RO; Corumbiara/RO,26177.0
+TI0496,funai,39201,Rio dos Pardos,Regularizada,regularizada,SC,Porto União/SC,758.26
+TI0496,mpf,rio pardos|SC,Rio dos Pardos,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Porto União/SC,758.0
+TI0497,funai,40201,Rio Paru DEste,Regularizada,regularizada,PA,Monte Alegre/PA; Almeirim/PA; Alenquer/PA,1195785.79
+TI0497,mpf,rio paru deste|PA,Rio Paru D'Este,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Alenquer/PA; Almeirim/PA; Monte Alegre/PA,1195786.0
+TI0498,funai,40301,Rio Pindaré,Regularizada,regularizada,MA,Bom Jardim/MA; Monção/MA,15002.91
+TI0498,mpf,rio pindare|MA,Rio Pindaré,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Bom Jardim/MA,15002.0
+TI0499,funai,40401,Rio Téa,Regularizada,regularizada,AM,Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,411865.32
+TI0499,mpf,rio tea|AM,Rio Téa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santa Isabel do Rio Negro/AM; São Gabriel da Cachoeira/AM,411865.0
+TI0500,funai,40501,Rio Urubu,Regularizada,regularizada,AM,Itacoatiara/AM,27354.91
+TI0500,mpf,rio urubu|AM,Rio Urubu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Itacoatiara/AM,27354.0
+TI0501,funai,53501,Riozinho,Declarada,declarada,AM,Juruá e Jutaí/AM,362495.0
+TI0501,mpf,riozinho|AM,Riozinho,Declarada,declarada,AM,Juruá/AM; Jutaí/AM,362495.0
+TI0502,funai,51301,Riozinho do Alto Envira,Homologada,homologada,AC,Feijó e Santa Rosa do Purus/AC,260972.03
+TI0502,mpf,riozinho alto envira|AC,Riozinho do Alto Envira,Homologada,homologada,AC,Feijó/AC; Santa Rosa dos Purus/AC,260970.0
+TI0503,funai,62701,Riozinho do Iaco (anteriormente chamada de Manchineri do Seringal Guanabara),Delimitada,delimitada,AC,Assis Brasil e Sena Madureira/AC,199284.56
+TI0504,funai,72501,Riozinho - RS,Regularizada,regularizada,RS,Riozinho/RS,24.44
+TI0504,mpf,riozinho rs|RS,Riozinho – RS,Encaminhada RI,reserva_em_constituicao,RS,Riozinho/RS,24.0
+TI0505,funai,40601,Rodeador,Regularizada,regularizada,MA,Barra do Corda/MA,2319.45
+TI0505,mpf,rodeador|MA,Rodeador,Regularizada,regularizada,MA,Barra do Corda/MA,2319.0
+TI0506,funai,40701,Roosevelt,Regularizada,regularizada,MT;RO,Rondolândia; Pimenta Bueno; Espigão D´Oeste,230826.3
+TI0506,mpf,roosevelt|MT,Roosevelt,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT;RO,Aripuanã; Espigão d'Oeste; Pimenta Bueno,230826.0
+TI0507,funai,73865,Sabanê,Encaminhada RI,reserva_em_constituicao,MT,Juína/MT,29998.71
+TI0508,funai,40801,Sagarana,Regularizada,regularizada,RO,Guajará-Mirim/RO,18120.06
+TI0508,mpf,sagarana|RO,Sagarana,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Guajará-Mirim/RO,18120.0
+TI0509,funai,40901,Sai-Cinza,Regularizada,regularizada,PA,Jacareacanga/PA,125552.08
+TI0509,mpf,sai cinza|PA,Sai-Cinza,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Jacareacanga/PA,125552.0
+TI0510,funai,41001,Salto Grande do Jacuí,Regularizada,regularizada,RS,Salto do Jacuí/RS,234.96
+TI0510,mpf,salto grande jacui|RS,Salto Grande do Jacuí,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Salto do Jucuí/RS,234.0
+TI0511,funai,67801,Sambaqui,Declarada,declarada,PR,Pontal do Paraná/PR,2795.0
+TI0511,mpf,sambaqui|PR,Sambaqui,Delimitada,delimitada,PR,Pontal do Paraná/PR,2795.0
+TI0512,funai,41101,Sangradouro/Volta Grande,Regularizada,regularizada,MT,Poxoréo/MT; Novo São Joaquim/MT; General Carneiro/MT,100280.4
+TI0512,mpf,sangradouro volta grande|MT,Sangradouro/Volta Grande,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,General Carneiro/MT; Novo São Joaquim/MT; Poxoréo/MT,100280.4
+TI0512,mpf,sangradouro volta grande|MT#2,Sangradouro/Volta Grande,Em estudo,em_estudo,MT,General Carneiro/MT; Novo São Joaquim/MT; Poxoréo/MT,
+TI0513,funai,53601,Santa Cruz da Nova Aliança,Regularizada,regularizada,AM,Tonantins/AM,5969.22
+TI0513,mpf,santa cruz nova alianca|AM,Santa Cruz da Nova Aliança,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tonantins/AM,5969.0
+TI0514,funai,41201,Santa Inez,Regularizada,regularizada,RR,Amajari/RR,29698.04
+TI0514,mpf,santa inez|RR,Santa Inez,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Amajari/RR,29698.0
+TI0515,funai,41301,Santana,Regularizada,regularizada,MT,Nobres/MT,35470.75
+TI0515,mpf,santana|MT,Santana,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Nobres/MT,35470.0
+TI0516,funai,58201,São Domingos do Jacapari e Estação,Regularizada,regularizada,AM,Tonantins/AM; Jutaí/AM,134781.75
+TI0516,mpf,sao domingos jacapari estacao|AM,São Domingos do Jacapari e Estação,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Jutaí/AM; Tonantins/AM,134781.0
+TI0517,funai,58301,São Domingos - MT,Regularizada,regularizada,MT,Luciara/MT; São Félix do Araguaia/MT,5704.81
+TI0517,mpf,sao domingos mt|MT,São Domingos - MT,Homologada - Registrada em Cartório e/ou na SPU Homologada -,regularizada,MT,Luciara/MT,5704.81
+TI0518,funai,41501,São Francisco do Canimari,Regularizada,regularizada,AM,Amaturá/AM,3331.22
+TI0518,mpf,sao francisco canimari|AM,São Francisco do Canimari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Amaturá/AM,3331.0
+TI0519,funai,41601,São Jeronimo,Regularizada,regularizada,PR,São Jerônimo da Serra/PR,1339.34
+TI0519,mpf,sao jeronimo|PR,São Jeronimo,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,São Jerônimo da Serra/PR,1339.0
+TI0520,funai,41701,São Leopoldo,Regularizada,regularizada,AM,Benjamin Constant/AM,69270.54
+TI0520,mpf,sao leopoldo|AM,São Leopoldo,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Benjamin Constant/AM,69271.0
+TI0521,funai,58101,São Marcos - MT,Regularizada,regularizada,MT,Barra do Garças/MT,188478.26
+TI0521,mpf,sao marcos mt|MT,São Marcos - MT,Registrada em Cartório,regularizada,MT,Barra do Garças/MT,188478.0
+TI0522,funai,58401,São Marcos - RR,Regularizada,regularizada,RR,Boa Vista/RR; Pacaraima/RR,654110.1
+TI0522,mpf,sao marcos rr|RR,São Marcos - RR,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Boa Vista/RR; Pacaraima/RR,654110.0
+TI0523,funai,41801,São Pedro,Regularizada,regularizada,AM,Autazes/AM,726.18
+TI0523,mpf,sao pedro|AM,São Pedro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,726.0
+TI0524,funai,41901,São Pedro do Sepatini,Regularizada,regularizada,AM,Lábrea/AM,27644.25
+TI0524,mpf,sao pedro sepatini|AM,São Pedro do Sepatini,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,27644.0
+TI0525,funai,42001,São Sebastião,Regularizada,regularizada,AM,Tonantins/AM,61058.54
+TI0525,mpf,sao sebastiao|AM,São Sebastião,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tonantins/AM,61059.0
+TI0526,funai,51501,Sapotal,Regularizada,regularizada,AM,Tabatinga/AM,1264.47
+TI0526,mpf,sapotal|AM,Sapotal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tabatinga/AM,1265.0
+TI0527,funai,42101,Sararé,Regularizada,regularizada,MT,Vila Bela da Santíssima Trindade/MT; Nova Lacerda/MT,67419.52
+TI0527,mpf,sarare|MT,Sararé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Conquista D'Oeste/MT; Nova Lacerda/MT; Vila Bela da Santíssima Trindade/MT,67419.0
+TI0528,funai,58901,Sarauá,Regularizada,regularizada,PA,Ipixuna do Pará/PA,18610.32
+TI0528,mpf,saraua|PA,Sarauá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Ipixuna do Pará/PA,18610.0
+TI0529,funai,42201,Sassoró,Regularizada,regularizada,MS,Tacuru/MS,1922.64
+TI0529,mpf,sassoro|MS,Sassoró,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Tacuru/MS,1923.0
+TI0530,funai,73727,Sawré Bap in (Apompu),Declarada,declarada,PA,Itaituba/PA,150330.0
+TI0530,mpf,sawre bapin apompu|PA,Sawré Bap’in (Apompu),Delimitada,delimitada,PA,Itaituba/PA,
+TI0531,funai,56701,Sawré Muybu (Pimental),Declarada,declarada,PA,Itaituba/PA; Trairão/PA,178173.0
+TI0531,mpf,sawre muybu pimental|PA,Sawré Muybu (Pimental),Declarada,declarada,PA,Itaituba/PA; Trairão/PA,178173.0
+TI0532,funai,42301,Sepoti,Regularizada,regularizada,AM,Humaitá/AM; Manicoré/AM,251348.98
+TI0532,mpf,sepoti|AM,Sepoti,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM; Manicoré/AM,251348.0
+TI0533,funai,42501,Serra do Itatins,Regularizada,regularizada,SP,Itariri/SP,1212.47
+TI0534,funai,42401,Serra da Moça,Regularizada,regularizada,RR,Boa Vista/RR,11626.79
+TI0534,mpf,serra moca|RR,Serra da Moça,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR; Boa Vista/RR,11627.0
+TI0535,funai,42601,Serra Morena,Regularizada,regularizada,MT,Juína/MT,147836.15
+TI0535,mpf,serra morena|MT,Serra Morena,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Juína/MT,147836.0
+TI0536,funai,42701,Serrinha,Declarada,declarada,RS,Três Palmeiras/RS; Ronda Alta/RS; Engenho Velho/RS; Constantina/RS,11752.76
+TI0536,mpf,serrinha|RS,Serrinha,Declarada,declarada,RS,Constantina/RS; Engenho Velho/RS; Ronda Alta/RS; Três Palmeiras/RS,11752.0
+TI0537,funai,42801,Seruini/Mariene,Regularizada,regularizada,AM,Lábrea/AM; Pauini/AM,144971.37
+TI0537,mpf,seruini mariene|AM,Seruini/Mariene,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM; Pauini/AM,144971.0
+TI0538,funai,42901,Sete Cerros,Homologada,homologada,MS,Paranhos/MS,8584.72
+TI0539,funai,43001,Sete de Setembro,Regularizada,regularizada,MT;RO,Rondolândia; Espigão D´Oeste; Cacoal,248146.93
+TI0539,mpf,sete setembro|MT,Sete de Setembro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT;RO,Cacoal; Espigão d'Oeste; Rondolândia,248147.0
+TI0540,funai,43101,Setemã,Regularizada,regularizada,AM,Novo Aripuanã/AM; Borba/AM,49772.96
+TI0540,mpf,setema|AM,Setemã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Borba/AM; Novo Aripuanã/AM,49340.0
+TI0541,funai,69001,Sissaíma,Declarada,declarada,AM,Careiro da Várzea/AM,8780.0
+TI0541,mpf,sissaima|AM,Sissaíma,Declarada,declarada,AM,Careiro da Várzea/AM,8780.0
+TI0542,funai,55001,Sombrerito,Declarada,declarada,MS,Sete Quedas/MS,12608.0
+TI0542,mpf,sombrerito|MS,Sombrerito,Declarada,declarada,MS,Sete Quedas/MS,12608.0
+TI0543,funai,43201,Sororó,Regularizada,regularizada,PA,São Geraldo do Araguaia/PA; São Domingos do Araguaia/PA; Marabá/PA,26257.9
+TI0543,mpf,sororo|PA,Sororó,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Marabá/PA; São Domingos do Araguaia/PA; São Geraldo do Araguaia/PA,26257.0
+TI0544,funai,43301,Sucuba,Regularizada,regularizada,RR,Alto Alegre/RR,5983.03
+TI0544,mpf,sucuba|RR,Sucuba,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR,5983.0
+TI0545,funai,43401,Sucuriy,Regularizada,regularizada,MS,Maracaju/MS,535.1
+TI0545,mpf,sucuriy|MS,Sucuriy,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Maracaju/MS,535.0
+TI0546,funai,53901,Sururuá,Declarada,declarada,AM,São Paulo de Olivença/AM; Benjamin Constant/AM,36125.0
+TI0546,mpf,sururua|AM,Sururuá,Declarada,declarada,AM,Benjamin Constant/AM; São Paulo de Olivença/AM,36125.0
+TI0547,funai,73714,Taba dos Anacé,Encaminhada RI,reserva_em_constituicao,CE,Caucaia e São Gonçalo do Amarante/CE,543.0
+TI0547,mpf,taba anaces|CE,Taba dos Anacés,Encaminhada RI,reserva_em_constituicao,CE,Caucaia e São Gonçalo do Amarante/CE,543.0
+TI0548,funai,43501,Tabalascada,Regularizada,regularizada,RR,Cantá/RR,13014.74
+TI0548,mpf,tabalascada|RR,Tabalascada,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Cantá/RR,13015.0
+TI0549,funai,43601,Tabocal,Regularizada,regularizada,AM,Careiro/AM,906.15
+TI0549,mpf,tabocal|AM,Tabocal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Careiro/AM,907.0
+TI0550,funai,43701,Tadarimana,Regularizada,regularizada,MT,Rondonópolis/MT,9785.0
+TI0550,mpf,tadarimana|MT,Tadarimana,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Rondonópolis/MT,9785.0
+TI0551,funai,73301,Taego Ãwa,Declarada,declarada,TO,Formoso do Araguaia/TO,28510.0
+TI0551,mpf,taego awa|TO,Taego Ãwa,Declarada,declarada,TO,Formoso do Araguaia/TO,29000.0
+TI0552,funai,43801,Taihantesu,Regularizada,regularizada,MT,Nova Lacerda/MT,5362.33
+TI0552,mpf,taihantesu|MT,Taihantesu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Nova Lacerda/MT,5362.0
+TI0553,funai,43901,Takuaraty/Yvykuarusu,Homologada,homologada,MS,Paranhos/MS,2609.09
+TI0554,funai,73720,Takuari,Encaminhada RI,reserva_em_constituicao,SP,Eldorado/SP,2190.0
+TI0555,funai,66301,Tanaru ( restrição de uso ),Em Estudo,em_estudo,RO,Chupinguaia/RO; Parecis/RO; Pimenteiras do Oeste/RO; Corumbiara/RO,8070.0
+TI0556,funai,54601,Tapeba,Declarada,declarada,CE,Caucaia/CE,5294.0
+TI0556,mpf,tapeba|CE,Tapeba,Declarada,declarada,CE,Caucaia/CE,5838.0
+TI0557,funai,44001,Tapirapé/Karajá,Regularizada,regularizada,MT,Luciara e Santa Terezinha/MT,66166.3
+TI0557,mpf,tapirape karaja|MT,Tapirapé/Karajá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Luciara/MT; Santa Terezinha/MT,66166.0
+TI0558,funai,71301,Tapyi/Rio Branquinho,Declarada,declarada,SP,Cananéia/SP,1154.0
+TI0558,mpf,tapyi rio branquinho|SP,Tapyi (Rio Branquinho),Declarada,declarada,SP,Cananéia/SP,1154.0
+TI0559,funai,44101,Taquaperi,Regularizada,regularizada,MS,Coronel Sapucaia/MS,1776.96
+TI0559,mpf,taquaperi|MS,Taquaperi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Coronel Sapucaia/MS,1776.0
+TI0560,funai,44201,Taquara,Declarada,declarada,MS,Juti/MS,9700.0
+TI0560,mpf,taquara|MS,Taquara,Declarada,declarada,MS,Juti/MS,9700.0
+TI0561,funai,59101,Tarumã,Declarada,declarada,SC,Araquari/SC; Balneário Barra do Sul/SC,2172.0
+TI0561,mpf,taruma|SC,Tarumã,Declarada,declarada,SC,Araquari/SC; Balneário Barra do Sul/SC,2172.0
+TI0562,funai,44401,Taunay/Ipegue,Regularizada,regularizada,MS,Aquidauana/MS,6461.35
+TI0562,mpf,taunay ipegue|MS,Taunay/Ipegue,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Aquidauana/MS,
+TI0563,funai,44402,Taunay/Ipegue,Declarada,declarada,MS,Aquidauana/MS,33900.0
+TI0564,funai,73807,Tekoá Guavirá,Regularizada,regularizada,RS,Riozinho/RS,27.9
+TI0565,funai,73755,Tekoa Gwyra Pepo,Regularizada,regularizada,SP,Tapiraí/SP,330.06
+TI0565,mpf,tekoa guyra pepo|SP,Tekoa Guyra Pepo,Regularizada,regularizada,SP,Tapiraí/SP,330.0
+TI0566,funai,44501,Tekohá Añetete,Regularizada,regularizada,PR,Diamante D´Oeste/PR,1774.71
+TI0566,mpf,tekoha anetete|PR,Tekoha Añetete,Regularizada,regularizada,PR,Diamante d'Oeste/PR,1774.0
+TI0567,funai,70101,Tekoha Guasú Guavirá,Delimitada,delimitada,PR,Guaíra/PR; Altônia/PR; Terra Roxa/PR,24028.0
+TI0568,funai,65601,Tekoha Itamarã,Regularizada,regularizada,PR,Diamante D´Oeste/PR,242.0
+TI0568,mpf,tekoha itamara|PR,Tekoha Itamarã,Regularizada,regularizada,PR,Diamante d'Oeste/PR,242.0
+TI0569,funai,66101,Tekoha Jevy (Rio Pequeno),Delimitada,delimitada,RJ,Paraty/RJ,2370.0
+TI0570,funai,44601,Tembé,Regularizada,regularizada,PA,Tomé-Açu/PA,1075.19
+TI0570,mpf,tembe|PA,Tembé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Tomé-Açu/PA,1075.0
+TI0571,funai,44701,Tenharim do Igarapé Preto,Regularizada,regularizada,AM,Novo Aripuanã/AM,87413.15
+TI0571,mpf,tenharim igarape preto|AM,Tenharim do Igarapé Preto,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Novo Aripuanã/AM,87413.0
+TI0572,funai,44801,Tenharim Marmelos,Regularizada,regularizada,AM,Humaitá/AM; Manicoré/AM,497521.75
+TI0572,mpf,tenharim marmelos|AM,Tenharim Marmelos,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM; Manicoré/AM,497521.0
+TI0573,funai,62901,Tenharim Marmelos (Gleba B),Regularizada,regularizada,AM,Humaitá/AM; Manicoré/AM,474741.6
+TI0573,mpf,tenharim marmelos gleba b|AM,Tenharim Marmelos (Gleba B),Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM; Manicoré/AM,474741.0
+TI0574,funai,23602,Tenondé Porã,Declarada,declarada,SP,Mongaguá e São Bernardo do Campo e São Paulo e São Vicente/SP,15969.0
+TI0574,mpf,tenonde pora|SP,Tenondé Porã,Declarada,declarada,SP,São Bernardo do Campo/SP; São Vicente e Mongaguá/SP,15969.0
+TI0575,funai,44901,Terena Gleba Iriri,Regularizada,regularizada,MT,Matupá/MT,30588.81
+TI0575,mpf,terena gleba iriri|MT,Terena Gleba Iriri,Regularizada,regularizada,MT,Matupá/MT,30588.81
+TI0576,funai,45001,Tereza Cristina,Regularizada,regularizada,MT,Santo Antônio do Leverger/MT,30060.0
+TI0576,mpf,teresa cristina|MT,Teresa Cristina,Reestudo,em_estudo,MT,Santo Antônio do Leverger/MT,30060.0
+TI0577,funai,45201,Tibagy/Mococa,Regularizada,regularizada,PR,Ortigueira/PR,859.91
+TI0577,mpf,tibagy mococa|PR,Tibagy/Mococa,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Ortigueira/PR,859.0
+TI0578,funai,45301,Tikúna de Feijoal,Regularizada,regularizada,AM,São Paulo de Olivença/AM; Benjamin Constant/AM,40948.8
+TI0578,mpf,tikuna feijoal|AM,Tikuna de Feijoal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Benjamin Constant/AM; São Paulo de Olivença/AM,40949.0
+TI0579,funai,46801,Tikuna de Santo Antonio,Regularizada,regularizada,AM,Benjamin Constant/AM,1065.27
+TI0579,mpf,tikuna santo antonio|AM,Tikuna de Santo Antonio,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Benjamin Constant/AM,1065.0
+TI0580,funai,45402,Tingui Botó,Regularizada,regularizada,AL,Campo Grande e Feira Grande/AL,535.0
+TI0580,mpf,tingui boto|AL,Tingui-Botó,Regularizada,regularizada,AL,Campo Grande/AL; Feira Grande/AL,535.0
+TI0581,funai,45501,Tirecatinga,Regularizada,regularizada,MT,Sapezal/MT,130575.2
+TI0581,mpf,tirecatinga|MT,Tirecatinga,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Sapezal/MT,130575.0
+TI0582,funai,45601,Toldo Chimbangue,Regularizada,regularizada,SC,Chapecó/SC,988.66
+TI0582,mpf,toldo chimbangue|SC,Toldo Chimbangue,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Chapecó/SC,988.0
+TI0583,funai,45701,Toldo Chimbangue II,Regularizada,regularizada,SC,Chapecó/SC,954.07
+TI0583,mpf,toldo chimbangue ii|SC,Toldo Chimbangue II,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Chapecó/SC,954.0
+TI0584,funai,45801,Toldo Imbu,Homologada,homologada,SC,Abelardo Luz/SC,1960.69
+TI0584,mpf,toldo imbu|SC,Toldo Imbu,Homologada (sub judice),homologada,SC,Abelardo Luz/SC,1965.0
+TI0585,funai,35502,Toldo Pinhal,Declarada,declarada,SC,Paial e Seara/SC,4846.0
+TI0585,mpf,toldo pinhal|SC,Toldo Pinhal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Seara/SC,
+TI0586,funai,45901,Torá,Regularizada,regularizada,AM,Humaitá e Manicoré/AM,54960.99
+TI0586,mpf,tora|AM,Torá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Humaitá/AM; Manicoré/AM,54960.0
+TI0587,funai,46001,Tremembé de Almofala,Delimitada,delimitada,CE,Itarema/CE,4900.0
+TI0587,mpf,tremembe almofala|CE,Tremembé de Almofala,Delimitada,delimitada,CE,Itarema/CE,4900.0
+TI0588,funai,70601,Tremembé da Barra do Mundaú,Regularizada,regularizada,CE,Itapipoca/CE,3511.41
+TI0588,mpf,tremembe barra mandau|CE,Tremembé da Barra do Mandaú,Homologada - Registrada em Cartório e/ou na SPU,regularizada,CE,Itapipoca/CE,3580.0
+TI0589,funai,64601,Tremembé de Queimadas,Homologada,homologada,CE,Acaraú/CE,767.0
+TI0589,mpf,tremembe queimadas|CE,Tremembé de Queimadas,Declarada,declarada,CE,Acaraú/CE,767.0
+TI0590,funai,46101,Trincheira,Regularizada,regularizada,AM,Autazes/AM,1624.6
+TI0590,mpf,trincheira|AM,Trincheira,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Autazes/AM,1625.0
+TI0591,funai,46201,Trincheira Bacaja,Regularizada,regularizada,PA,Altamira e Anapu e Senador José Porfírio e São Félix do Xingu/PA,1650939.26
+TI0591,mpf,trincheira bacaja|PA,Trincheira Bacaja,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA; Anapu/PA; São Félix do Xingu/PA; Senador José Porfírio/PA,1650939.0
+TI0592,funai,46301,Trocará,Regularizada,regularizada,PA,Baião e Tucuruí/PA,21722.51
+TI0592,mpf,trocara|PA,Trocará,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Baião/PA; Tucuruí/PA,21722.0
+TI0593,funai,46302,Trocará - Doação,Regularizada,regularizada,PA,Tucuruí/PA,14048.0
+TI0594,funai,46401,Trombetas/Mapuera,Regularizada,regularizada,AM;PA;RR,Caroebe e Faro e Nhamundá e Oriximiná e São João da Baliza e Urucará,3970898.04
+TI0594,mpf,trombetas mapuera|AM,Trombetas Mapuera,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM;PA;RR,Caroebe; Faro Nhamundá; Oriximiná; São João da Baliza; Urucará,3970898.0
+TI0595,funai,46501,Truaru,Regularizada,regularizada,RR,Alto Alegre e Boa Vista/RR,5652.84
+TI0595,mpf,truaru|RR,Truaru,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Alto Alegre/RR; Boa Vista/RR,5653.0
+TI0596,funai,46601,Truká,Regularizada,regularizada,PE,Cabrobó/PE,1592.9
+TI0597,funai,46602,Truká - Ilha da Assunção,Declarada,declarada,PE,Cabrobó/PE,5769.0
+TI0598,funai,46701,Tubarão Latunde,Regularizada,regularizada,RO,Chupinguaia/RO,116613.37
+TI0598,mpf,tubarao latunde|RO,Tubarão Latunde,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Chupinguaia/RO,116613.0
+TI0599,funai,46901,Tukuna Porto Espiritual,Regularizada,regularizada,AM,Benjamin Constant/AM,2839.35
+TI0599,mpf,tikuna porto espiritual|AM,Tikuna Porto Espiritual,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Benjamin Constant/AM,2839.0
+TI0600,funai,47001,Tukuna Umariaçu,Regularizada,regularizada,AM,Tabatinga/AM,4855.0
+TI0600,mpf,tukuna umariacu|AM,Tukuna Umariaçu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tabatinga/AM,4855.0
+TI0601,funai,59201,Tumbalalá,Delimitada,delimitada,BA,Abaré e Curaçá/BA,44978.0
+TI0601,mpf,tumbalala|BA,Tumbalalá,Delimitada,delimitada,BA,Abaré/BA; Curaçá/BA,44978.0
+TI0602,funai,47101,Tumiã,Regularizada,regularizada,AM,Lábrea/AM,124357.42
+TI0602,mpf,tumia|AM,Tumiã,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Lábrea/AM,124357.0
+TI0603,funai,33701,Parque do Tumucumaque,Regularizada,regularizada,AP;PA,Laranjal do Jari; Almeirim; Alenquer; Oriximiná; Óbidos,3071067.88
+TI0603,mpf,tumucumaque|AP,Parque do Tumucumaque,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AP;PA,Alenquer; Almeirim; Laranjal do Jari; Óbidos; Oriximiná,3071068.0
+TI0604,funai,47201,Tupã-Supé,Regularizada,regularizada,AM,Alvarães e Uarini/AM,8589.51
+TI0604,mpf,tupa supe|AM,Tupã Supé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Alvarães/AM; Uarini/AM,8589.0
+TI0605,funai,68901,Tupinambá de Belmonte,Delimitada,delimitada,BA,Belmonte/BA,9521.0
+TI0605,mpf,tupinamba belmonte|BA,Tupinambá de Belmonte,Delimitada,delimitada,BA,Belmonte/BA,9521.0
+TI0606,funai,55501,Tupinambá de Olivença,Declarada,declarada,BA,Buerarema e Ilhéus e Una/BA,47376.0
+TI0607,funai,8003,Tupiniquim,Regularizada,regularizada,ES,Aracruz/ES,14282.8
+TI0607,mpf,tupiniquim|ES,Tupiniquim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,ES,Aracruz/ES,14283.0
+TI0608,funai,47301,Turé/Mariquita,Regularizada,regularizada,PA,Tomé-Açu/PA,146.98
+TI0608,mpf,ture mariquita|PA,Turé/Mariquita,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Tomé-Açu/PA,147.0
+TI0609,funai,47401,Turé/Mariquita II,Encaminhada RI,reserva_em_constituicao,PA,Tomé-Açu/PA,593.56
+TI0609,mpf,ture mariquita ii|PA,Turé/Mariquita II,Encaminhada RI,reserva_em_constituicao,PA,Tomé-Açu/PA,588.0
+TI0610,funai,63901,Tuwa Apekuokawera,Delimitada,delimitada,PA,Marabá e São Geraldo do Araguaia/PA,11764.0
+TI0611,funai,15401,Tuxá de Ibotirama,Regularizada,regularizada,BA,Ibotirama/BA,2019.71
+TI0612,funai,12601,Tuxá de Inajá,Encaminhada RI,reserva_em_constituicao,PE,Inajá/PE,140.0
+TI0613,funai,73798,Tuxá Setsor Bragagá,Encaminhada RI,reserva_em_constituicao,MG,Buritizeiro/MG,6525.26
+TI0614,funai,47601,Uaçá,Regularizada,regularizada,AP,Oiapoque/AP,470164.06
+TI0614,mpf,uaca|AP,Uaça,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AP,Oiapoque/AP,470164.0
+TI0615,funai,47701,Uati-Paraná,Regularizada,regularizada,AM,Fonte Boa e Japurá e Tonantins/AM,127199.06
+TI0615,mpf,auati parana|AM,Auati-Paraná,Em estudo,em_estudo,AM,Fonte Boa/AM,
+TI0615,mpf,uati parana|AM,Uati-Paraná,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Fonte Boa/AM; Japurá/AM; Tonantins/AM,127199.0
+TI0616,funai,47801,Ubawawe,Regularizada,regularizada,MT,Santo Antônio do Leste/MT,52234.48
+TI0616,mpf,ubawawe|MT,Ubawawe,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Novo São Joaquim/MT,52234.0
+TI0617,funai,47901,Uirapuru,Homologada,homologada,MT,Campos de Júlio e Nova Lacerda/MT,21680.0
+TI0617,mpf,uirapuru|MT,Uirapuru,Declarada,declarada,MT,Campos de Júlio/MT; Nova Lacerda/MT,21680.0
+TI0618,funai,48001,Umutina,Regularizada,regularizada,MT,Barra do Bugres/MT,28120.0
+TI0618,mpf,umutina|MT,Umutina,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Barra do Bugres/MT,28120.0
+TI0619,funai,48101,Uneiuxi,Regularizada,regularizada,AM,Japurá/AM; Santa Isabel do Rio Negro/AM,403182.81
+TI0619,mpf,uneiuxi|AM,Uneiuxi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Santa Isabel do Rio Negro/AM,551983.0
+TI0620,funai,48102,Uneiuxi - Reestudo,Regularizada,regularizada,AM,Japurá e Santa Isabel do Rio Negro/AM,554730.41
+TI0621,funai,48201,Uru-Eu-Wau-Wau,Regularizada,regularizada,RO,Alvorada D´Oeste e Cacaulândia e Campo Novo de Rondônia e Costa Marques e Governador Jorge Teixeira e Guajará-Mirim e Jaru e Mirante da Serra e Monte Negro e Nova Mamoré e Seringueiras e São Miguel do Guaporé/RO,1867117.8
+TI0621,mpf,uru eu wau wau|RO,Uru-Eu-Wau-Wau,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RO,Alvorada d'Oeste/RO; Cacaulândia/RO; Campo Novo de Rondônia/RO; Costa Marques/RO; Governador Jorge Teixeira/RO; Guajará- Mirim/RO; Jaru/RO; Mirante da Serra/RO; Monte Negro/RO; Nova Mamoré/RO; São Miguel do Guaporé/RO; Seringueiras/RO,1867118.0
+TI0622,funai,48301,Urubu Branco,Regularizada,regularizada,MT,Confresa e Luciara e Porto Alegre do Norte/MT,167533.33
+TI0622,mpf,urubu branco|MT,Urubu Branco,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Confresa/MT; Luciara/MT; Porto Alegre do Norte/MT; Santa Terezinha/MT,167533.0
+TI0623,funai,48401,Urucu/Juruá,Regularizada,regularizada,MA,Itaipava do Grajaú/MA,12697.04
+TI0623,mpf,urucu jurua|MA,Urucu/Juruá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MA,Itaipava do Grajaú/MA,12697.0
+TI0624,funai,62401,Utaria Wyhyna/Iròdu Iràna,Declarada,declarada,TO,Pium/TO,177466.0
+TI0624,mpf,utaria wyhyna irodu irana|TO,Utaria Wyhyna/Irodu Irana,Declarada,declarada,TO,Pium/TO,177466.0
+TI0625,funai,48501,Utiariti,Regularizada,regularizada,MT,Campo Novo do Parecis e Sapezal/MT,412304.2
+TI0625,mpf,utiariti|MT,Utiariti,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Campo Novo do Parecis/MT; Sapezal/MT,412304.0
+TI0626,funai,73745,Uty-Xunati,Encaminhada RI,reserva_em_constituicao,RO,Vilhena/RO,897.16
+TI0626,mpf,uty xunaty|RO,Uty-Xunaty,Encaminhada RI,reserva_em_constituicao,RO,Vilhena/RO,897.0
+TI0627,funai,48601,Vale do Guaporé,Regularizada,regularizada,MT,Comodoro e Nova Lacerda/MT,242593.0
+TI0627,mpf,vale guapore|MT,Vale do Guaporé,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Comodoro/MT; Nova Lacerda/MT,242593.0
+TI0628,funai,48701,Vale do Javari,Regularizada,regularizada,AM,Atalaia do Norte e Benjamin Constant e Jutaí e São Paulo de Olivença/AM,8544482.27
+TI0628,mpf,vale javari|AM,Vale do Javari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Atalaia do Norte/AM; Benjamin Constant/AM; Jutaí/AM; São Paulo de Olivença/AM,8544482.0
+TI0629,funai,73856,Valparaíso (RI),Encaminhada RI,reserva_em_constituicao,AM,Boca do Acre/AM,64093.02
+TI0629,mpf,valparaiso|AM,Valparaíso,Reivindicada,sem_providencia,AM,Boca do Acre/AM,
+TI0630,funai,48801,Vanuire,Regularizada,regularizada,SP,Arco-Íris e Tupã/SP,708.93
+TI0630,mpf,vanuire|SP,Vanuire,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Arco-íris/SP; Tupã/SP,709.0
+TI0631,funai,48901,Vargem Alegre,Regularizada,regularizada,BA,Serra do Ramalho/BA,981.08
+TI0631,mpf,vargem alegre|BA,Vargem Alegre,Regularizada,regularizada,BA,Serra do Ramalho/BA,981.0
+TI0632,funai,49001,Varzinha,Regularizada,regularizada,RS,Caraá e Maquiné/RS,776.28
+TI0632,mpf,varzinha|RS,Varzinha,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Caraã/RS; Maquiné/RS,776.0
+TI0633,funai,49101,Ventarra,Regularizada,regularizada,RS,Erebango/RS,772.95
+TI0633,mpf,ventarra|RS,Ventarra,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Erebango/RS,772.0
+TI0634,funai,73796,Vera Tupã?i,Regularizada,regularizada,PR,Campo Mourão/PR,4.84
+TI0635,funai,54101,Vista Alegre,Declarada,declarada,AM,Manaquiri/AM,13206.0
+TI0635,mpf,vista alegre|AM,Vista Alegre,Delimitada,delimitada,AM,Careiro/AM; Manaquiri/AM,13206.0
+TI0636,funai,49201,Votouro,Regularizada,regularizada,RS,Benjamin Constant do Sul e Faxinalzinho/RS,3341.1
+TI0636,mpf,votouro|RS,Votouro,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RS,Benjamin Constant do Sul/RS,3041.0
+TI0637,funai,54001,Votouro/Kandóia,Delimitada,delimitada,RS,Benjamin Constant do Sul e Faxinalzinho/RS,5977.0
+TI0637,mpf,votouro kandoia|RS,Votouro/Kandoia,Delimitada,delimitada,RS,Benjamin Constant do Sul/RS; Faxinalzinho/RS,5977.0
+TI0638,funai,49301,Vui-Uata-In,Regularizada,regularizada,AM,Amaturá/AM,121198.6
+TI0638,mpf,vui uata in|AM,Vui-Uata-In,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Amaturá/AM,121198.0
+TI0639,funai,49401,Waiãpi,Regularizada,regularizada,AP,Laranjal do Jari e Mazagão e Pedra Branca do Amapari/AP,607017.24
+TI0639,mpf,waiapi|AP,Waiãpi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AP,Laranjal do Jari/AP; Pedra Branca do Amapari/AP,607017.0
+TI0640,funai,49501,Waimiri-Atroari,Regularizada,regularizada,AM;RR,Novo Airão e Presidente Figueiredo e Rorainópolis e São João da Baliza e Urucará,2585911.57
+TI0640,mpf,waimiri atroari|AM,Waimiri-Atroari,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM;RR,Novo Airão; Presidente Figueiredo; Rorainópolis; São João da Baliza; Urucará,2585912.0
+TI0641,funai,73724,Waimiri-Atroari,Delimitada,delimitada,AM;RR,Novo Airão e Presidente Figueiredo e Rorainópolis e São Sebastião do Uatumã e Urucará,0.0
+TI0642,funai,49601,WaiWái,Regularizada,regularizada,RR,Caracaraí e Caroebe e São João da Baliza/RR,405698.01
+TI0642,mpf,wai wai|RR,Wai-Wai,Homologada - Registrada em Cartório e/ou na SPU,regularizada,RR,Caracaraí/RR; Caroebe/RR; São João da Baliza/RR,405698.0
+TI0643,funai,49701,Wassu-Cocal,Delimitada,delimitada,AL,Colônia Leopoldina e Joaquim Gomes e Matriz de Camaragibe e Novo Lino/AL,9098.0
+TI0643,mpf,wassu cocal|AL,Wassu Cocal,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AL,Colônia Leopoldina/AL; Joaquim Gomes/AL; Matriz de Camaragibe/AL; Novo Lino/AL,
+TI0644,funai,73770,Wassu Cocal,Regularizada,regularizada,AL,Colônia Leopoldina e Joaquim Gomes e Matriz de Camaragibe e Novo Lino/AL,2744.66
+TI0645,funai,49801,Wawi,Regularizada,regularizada,MT,Querência/MT,150329.19
+TI0645,mpf,wawi|MT,Wawi,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Querência/MT,150328.0
+TI0646,funai,73601,Wedezé,Delimitada,delimitada,MT,Cocalinho/MT,145881.0
+TI0647,funai,49901,Xacriabá,Regularizada,regularizada,MG,Itacarambi e São João das Missões/MG,46415.92
+TI0648,funai,49902,Xacriabá,Delimitada,delimitada,MG,Cônego Marinho e Itacarambi e São João das Missões/MG,43357.0
+TI0649,funai,50001,Xakriabá Rancharia,Regularizada,regularizada,MG,Itacarambi e São João das Missões/MG,6798.38
+TI0649,mpf,xakriaba rancharia|MG,Xakriabá Rancharia,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MG,Itacarambi e São João das Missões/MG,6798.0
+TI0650,funai,50101,Xambioá,Regularizada,regularizada,TO,Santa Fé do Araguaia/TO,3326.35
+TI0650,mpf,xambioa|TO,Xambioá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Santa Fé do Araguaia/TO,3326.0
+TI0651,funai,50201,Xapecó,Regularizada,regularizada,SC,Abelardo Luz e Entre Rios/SC,15623.96
+TI0651,mpf,xapeco|SC,Xapecó,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SC,Abelardo Luz/SC; Ipuaçu/SC; Entre Rios/SC,15623.0
+TI0652,funai,64901,Xapecó (Pinhalzinho-Canhadão),Declarada,declarada,SC,Abelardo Luz/SC,660.0
+TI0653,funai,50301,Xerente,Regularizada,regularizada,TO,Tocantínia/TO,167542.11
+TI0653,mpf,xerente|TO,Xerente,Homologada - Registrada em Cartório e/ou na SPU,regularizada,TO,Tocantínia/TO,167542.0
+TI0654,funai,50501,Xikrin do Rio Catete,Regularizada,regularizada,PA,Marabá e Parauapebas e Água Azul do Norte/PA,439150.55
+TI0654,mpf,xikrin rio catete|PA,Xikrin do Rio Catete,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Água Azul do Norte/PA; Marabá/PA; Parauapebas/PA,439151.0
+TI0655,funai,33801,Parque do Xingu,Regularizada,regularizada,MT;PA,Feliz Natal; Gaúcha do Norte; Querência; Canarana; São Félix do Araguaia; Nova Ubiratã; Marcelândia; Paranatinga; São Félix do Xingu,2642003.94
+TI0655,mpf,xingu|MT,Parque do Xingu,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Canarana/MT; Feliz Natal/MT; Gaúcha do Norte/MT; Marcelândia/MT; Nova Ubiratã/MT; Paranatinga/MT; Querência/MT; São Félix do Araguaia/MT; São José do Xingu/MT,2642004.0
+TI0656,funai,50601,Xipaya,Regularizada,regularizada,PA,Altamira/PA,178723.02
+TI0656,mpf,xipaya|PA,Xipaya,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Altamira/PA,178624.0
+TI0657,funai,50801,Xukuru,Regularizada,regularizada,PE,Pesqueira e Poção/PE,27555.06
+TI0657,mpf,xucuru|PE,Xucuru,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Pesqueira e Poção/PE,27555.0
+TI0658,funai,70201,Xukuru de Cimbres,Regularizada,regularizada,PE,Alagoinha e Pedra e Pesqueira e Venturosa/PE,1166.18
+TI0658,mpf,xucuru cimbres|PE,Xucuru de Cimbres,Regularizada,regularizada,PE,Alagoinha/PE; Pedra/PE; Pesqueira e Venturosa/PE,1166.0
+TI0659,funai,50701,Xukuru-Kariri,Declarada,declarada,AL,Palmeira dos Índios/AL,7020.44
+TI0659,mpf,xukuru kariri|AL,Xukuru-Kariri,Declarada,declarada,AL,Palmeira dos Índios/AL,7073.0
+TI0660,funai,50901,Yanomami,Regularizada,regularizada,AM;RR,Alto Alegre e Barcelos e Boa Vista e Caracaraí e Iracema e Mucajaí e Santa Isabel do Rio Negro e São Gabriel da Cachoeira,9664975.48
+TI0660,mpf,yanomami|AM,Yanomami,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM;RR,Alto Alegre; Barcelos; Boa Vista; Caracaraí; Mucajaí; Santa Isabel do Rio Negro; São Gabriel da Cachoeira,9664975.0
+TI0661,funai,73713,Ygua Porã (Amâncio),Delimitada,delimitada,SC,Biguaçu/SC,1392.0
+TI0661,mpf,ygua pora amancio|SC,Ygua Porã (Amâncio),Em Estudo,em_estudo,SC,Biguaçu/SC,
+TI0662,funai,73722,Ypoi/Triunfo,Declarada,declarada,MS,Paranhos/MS,19756.0
+TI0662,mpf,ypoi triunfo|MS,Ypoí/Triunfo,Delimitada,delimitada,MS,Paranhos/MS,19756.0
+TI0663,funai,36702,Yvy-katu,Declarada,declarada,MS,Japorã/MS,9494.16
+TI0664,funai,64001,Yvyporã Laranjinha,Declarada,declarada,PR,Abatiá e Cornélio Procópio e Ribeirão do Pinhal/PR,1238.0
+TI0664,mpf,yvypora laranjinha|PR,Yvyporã Laranjinha,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PR,Abatiá/PR; Cornélio Procópio/PR; Ribeirão do Pinhal/PR; Santa Amélia/PR,1238.0
+TI0665,funai,51001,Zoe,Regularizada,regularizada,PA,Óbidos/PA,668565.63
+TI0666,funai,51101,Zoró,Regularizada,regularizada,MT,Aripuanã/MT,355789.55
+TI0666,mpf,zoro|MT,Zoró,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Aripuanã/MT,355789.0
+TI0667,funai,51201,Zuruahã,Regularizada,regularizada,AM,Tapauá/AM,239069.74
+TI0668,mpf,|AM,Colônia,Reivindicada,sem_providencia,AM,Amaturá/AM,
+TI0669,mpf,acapuri meio|AM,Acapuri do Meio,Em estudo,em_estudo,AM,Fonte Boa/AM,
+TI0670,mpf,agachi|MS,Agachi,Em estudo,em_estudo,MS,Miranda/MS; Aquidauana/MS,
+TI0671,mpf,agua grande|RS,Água Grande,Regularizada,regularizada,RS,Camaquã/RS,165.0
+TI0672,mpf,agua limpa|MS,Água Limpa,Em estudo,em_estudo,MS,Rochedo/MS,
+TI0673,mpf,aldeia bom jesus kuaray haxa|PR,Aldeia Bom Jesus (Kuaray Haxa),Em estudo,em_estudo,PR,Guaraqueçaba/PR,
+TI0674,mpf,aldeia guajajara|MT,Aldeia Guajajara,Reivindicada,sem_providencia,MT,Cláudia/MT,
+TI0675,mpf,aldeia imburana|CE,Aldeia Imburana,Reivindicada,sem_providencia,CE,Poranga/CE,
+TI0676,mpf,aldeia indigena areal|ES,Aldeia Indígena de Areal,Reivindicada,sem_providencia,ES,Linhares/ES,
+TI0677,mpf,aldeia ita para serra caparao|ES,Aldeia Ita Pará da Serra do Caparaó,Reivindicada,sem_providencia,ES,Dores do Rio Preto/ES,
+TI0678,mpf,aldeia limao verde terra indigena amambai|MS,Aldeia Limão Verde (Terra Indígena Amambai),Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Amambaí/MS,668.0
+TI0679,mpf,aldeia renascer ywyty guacu|SP,Aldeia Renascer/Ywyty Guaçu,Em estudo,em_estudo,SP,Ubatuba/SP,
+TI0680,mpf,aldeia serra couro dantas aldeia cachimbo|BA,Aldeia Serra do Couro Dantas/Aldeia do Cachimbó,Em estudo,em_estudo,BA,Ribeirão do Largo/BA,
+TI0681,mpf,aldeia tha fene|BA,Aldeia Thá-Fene,Regularizada,regularizada,BA,Lauro de Freitas/BA,3.0
+TI0682,mpf,aldeia thery xavante auwe uptabi|GO,Aldeia Thery Xavante Auwé Uptabi,Reivindicada,sem_providencia,GO,Niquelândia/GO,0.0
+TI0683,mpf,aldeinha|MS,Aldeinha,Em estudo,em_estudo,MS,Anastácio/MS,4.0
+TI0684,mpf,alto rio ica|AM,Alto Rio Iça,Em estudo,em_estudo,AM,Santo Antonio do Iça/AM,
+TI0685,mpf,anace|CE,Anacé,Em estudo,em_estudo,CE,Caucaia e São Gonçalo do Amarante/CE,
+TI0686,mpf,andaia|MG,Andaiá,Regularizada,regularizada,MG,Araxá/MG,12.0
+TI0687,mpf,aningalzinho|PA,Aningalzinho,Em estudo,em_estudo,PA,Santarém/PA,
+TI0688,mpf,apapegua|MS,Apapeguá,Em estudo,em_estudo,MS,Bela Vista/MS; Caracol/MS; Porto/MS,
+TI0689,mpf,apinaye ii|TO,Apinayé II,Em estudo,em_estudo,TO,Tocantinópolis e Nazaré/TO,
+TI0690,mpf,arana caboclo|MG,Aranã Caboclo,Em estudo,em_estudo,MG,Araçuaí/MG; Coronel Murta/MG,
+TI0691,mpf,arana indio|MG,Aranã Índio,Em estudo,em_estudo,MG,Araçuaí/MG; Coronel Murta/MG,
+TI0692,mpf,arandu mirim|RJ,Arandu-Mirim,Em estudo,em_estudo,RJ,Parati/RJ,
+TI0693,mpf,arapua|RR,Arapuá,Em estudo,em_estudo,RR,Alto Alegre/RR,
+TI0694,mpf,arara baixo jatapu|AM,Ararà (Baixo Jatapú),Em estudo,em_estudo,AM,Urucará/AM; São Sebastião do Uatumã e Nhamundá/AM,
+TI0695,mpf,araraquara|ES,Araraquara,Regularizada,regularizada,ES,Aracruz/ES,84.0
+TI0696,mpf,arauaca|AM,Arauacá,Reivindicada,sem_providencia,AM,Maraã/AM,
+TI0697,mpf,areal|PA,Areal,Em estudo,em_estudo,PA,Santa Maria do Pará/PA,
+TI0698,mpf,aripuana ti|MT,Aripuanã (TI),Homologada - Registrada em Cartório e/ou na SPU,regularizada,MT,Aripuanã/MT; Juína/MT,750649.0
+TI0699,mpf,arroio conde|RS,Arroio do Conde,Em estudo,em_estudo,RS,Guaiba e Eldorado do Sul/RS,
+TI0700,mpf,ashaninka kulina colocacao porvir|AC,Ashaninka e Kulina da Colocação Porvir,Reivindicada,sem_providencia,AC,Santa Rosa do Purus/AC,
+TI0701,mpf,atikum cotegipe angical|BA,Atikum de Cotegipe/de Angical,Reivindicada,sem_providencia,BA,Cotegipe/BA; Angical/BA,
+TI0702,mpf,atikum nioaque|MS,Atikum/Nioaque,Reivindicada,sem_providencia,MS,Nioaque/MS,
+TI0704,mpf,baixo seruini baixo tumia|AM,Baixo Seruini/Baixo Tumiã,Em estudo,em_estudo,AM,Labrea e Paulini/AM,
+TI0705,mpf,bananal santuario pajes|DF,Bananal – Santuário dos Pajés,Reservada,,DF,Brasília/DF,32.0
+TI0706,mpf,barreirinha|AM,Barreirinha,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0707,mpf,boa vista sertao pro mirim|SP,Boa Vista do Sertão do Pro- Mirim,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Ubatuba/SP,5420.0
+TI0708,mpf,bom futuro|AM,Bom Futuro,Reivindicada,sem_providencia,AM,Careiro da Várzea/AM,
+TI0709,mpf,bom jesus tarara|AM,Bom Jesus do Tarará,Reivindicada,sem_providencia,AM,Jutaí/AM,
+TI0710,mpf,borari alter chao|PA,Borari/Alter do Chão,Em estudo,em_estudo,PA,Santarém/PA,773470.0
+TI0711,mpf,borboleta|RS,Borboleta,Em estudo,em_estudo,RS,Campos Borges/RS; Espumoso/RS; Salto do Jacuí/RS,
+TI0712,mpf,caiape|AM,Caiapé,Reivindicada,sem_providencia,AM,Manicoré/AM,
+TI0713,mpf,caiapuca|AM,Caiapucá,Em estudo,em_estudo,AM,Boca do Acre/AM,
+TI0714,mpf,caicara|SE,Caiçara,Homologada - Registrada em Cartório e/ou na SPU,regularizada,SE,Porto da Folha/SE,4317.0
+TI0715,mpf,cajueiro|CE,Cajueiro,Reivindicada,sem_providencia,CE,Poranga/CE,
+TI0716,mpf,camba bairro cristo redentor|MS,Camba/Bairro Cristo Redentor,Reivindicada,sem_providencia,MS,Corumbá/MS,
+TI0717,mpf,cambirela|SC,Cambirela,Em estudo,em_estudo,SC,Palhoça/SC,
+TI0718,mpf,campo meio re kuju|RS,Campo do Meio (Re Kuju),Em estudo,em_estudo,RS,Gentil e Ciriaco/RS,
+TI0719,mpf,canoana|TO,Canoanã,Em estudo,em_estudo,TO,Formoso do Araguaia/TO,
+TI0720,mpf,capivari rio capivari porai|RS,Capivari (Rio Capivari – Porãi),Em estudo,em_estudo,RS,Capivari do Sul/RS,
+TI0722,mpf,carazinho|RS,Carazinho,Em estudo,em_estudo,RS,Carazinho/RS,
+TI0723,mpf,cariru|AM,Cariru,Reivindicada,sem_providencia,AM,Jutaí/AM,
+TI0724,mpf,cassupa salamai|RO,Cassupá/Salamãi,Reservada,,RO,Chupinguaia/RO; Vilhena/RO,
+TI0725,mpf,cerco grande mbya guarani kuaray oguata|PR,Cerco Grande (M'byá Guarani Kuaray Oguatá),Delimitada,delimitada,PR,Guaraqueçaba/PR,1390.0
+TI0726,mpf,chandless|AC,Chandless,Reivindicada,sem_providencia,AC,Santa Rosa do Purus e Manoel Urbano/AC,
+TI0727,mpf,chapada a|ES,Chapada do A,Reivindicada,sem_providencia,ES,Anchieta/ES,
+TI0728,mpf,chiquitano|MT,Chiquitano,Em estudo,em_estudo,MT,Pontes e Lacerda/MT,
+TI0729,mpf,cinta vermelha jundiba|MG,Cinta Vermelha – Jundiba,Reservada,,MG,Araçuaí/MG,78.0
+TI0730,mpf,comexatiba cahy pequi|BA,Comexatiba (Cahy Pequi),Delimitada,delimitada,BA,Prado/BA,28077.0
+TI0731,mpf,comunidade beija flor|AM,Comunidade Beija-Flor,Regularizada,regularizada,AM,Rio Preto da Eva/AM,41.0
+TI0732,mpf,comunidade sao benedito|AM,Comunidade São Benedito,Reivindicada,sem_providencia,AM,Maués/AM,
+TI0733,mpf,coroa vermelha ponta grande|BA,Coroa Vermelha (Ponta Grande),Em estudo,em_estudo,BA,Porto Seguro/BA; Santa Cruz e Cabrália/BA,
+TI0734,mpf,corveta i ii|SC,Corveta I e II,Em estudo,em_estudo,SC,Araquari/SC,
+TI0735,mpf,coxilha cruz|RS,Coxilha da Cruz,Regularizada,regularizada,RS,Barra do Ribeiro/RS,202.0
+TI0736,mpf,dzorobabe aldeia mae|BA,D'Zorobabé (Aldeia Mãe),Em estudo,em_estudo,BA,Rodelas/BA,
+TI0737,mpf,djaiko aty santa ria ii jakoaty djaikoaty|SP,"Djaiko-Aty (Santa Ria II, Jakoaty, Djaikoaty)",Declarada,declarada,SP,Miracatu e Sete Barras/SP,1216.0
+TI0738,mpf,ebenezer|AM,Ebenézer,Reivindicada,sem_providencia,AM,Maraã/AM,
+TI0739,mpf,escrivao|PA,Escrivão,Em estudo,em_estudo,PA,Aveiro/PA,
+TI0740,mpf,estirao|AC,Estirão,Em Estudo,em_estudo,AC,Santa Rosa do Purus/AC,
+TI0741,mpf,estiva|RS,Estiva,Em estudo,em_estudo,RS,Viamão/RS,
+TI0742,mpf,estrada mar interlagos|RS,Estrada do Mar (Interlagos),Regularizada,regularizada,RS,Osorio/RS,
+TI0743,mpf,estrela|RS,Estrela,Encaminhada RI,reserva_em_constituicao,RS,Estrela/RS,25.0
+TI0744,mpf,eterairebere|MT,Eterãirebere,Em estudo,em_estudo,MT,Campinápolis/MT; Novo São Joaquim/MT; Santo Antônio do Leste/MT,
+TI0745,mpf,faxinal sao miguel goj kusa|RS,Faxinal/São Miguel (Goj Kusa),Em estudo,em_estudo,RS,Água Santa/RS,
+TI0746,mpf,fazenda alagadico apucare|MG,Fazenda Alagadiço/Apucaré,Reivindicada,sem_providencia,MG,Coronel Murta/MG,
+TI0747,mpf,fazenda altamira|BA,Fazenda Altamira,Em estudo,em_estudo,BA,Curaçá/BA,700.0
+TI0749,mpf,fazenda funil inaja|PE,Fazenda Funil/Inajá,Regularizada,regularizada,PE,Inajá/PE,140.0
+TI0750,mpf,fazenda gameleira|CE,Fazenda Gameleira,Reivindicada,sem_providencia,CE,Canindé/CE,
+TI0751,mpf,fazenda sitio tuxa banzae|BA,Fazenda Sítio/Tuxá de Banzaê,Regularizada,regularizada,BA,Quijingue/BA,414.0
+TI0753,mpf,fulnio serra ramalho|BA,Fulniô de Serra do Ramalho,Reivindicada,sem_providencia,BA,Serra do Ramalho/BA,
+TI0754,mpf,garuva|SC,Garuva,Em estudo,em_estudo,SC,Garuva/SC,
+TI0755,mpf,geru tucuna|MG,Geru Tucunã,Reivindicada,sem_providencia,MG,Açucena/MG; Guanhães/MG,
+TI0756,mpf,guarani barao antonina karugwa pyhau|SP,"Guarani Barão de Antonina (Karugwá, Pyhaú)",Em estudo,em_estudo,SP,Barão de Antonina/SP,
+TI0757,mpf,guarani itaporanga tekoa pora|SP,Guarani de Itaporanga (Tekoa Porã),Em estudo,em_estudo,SP,Itaporanga/SP,
+TI0758,mpf,guarani lami|RS,Guarani do Lami,Em estudo,em_estudo,RS,Porto Alegre/RS,
+TI0759,mpf,guarani ocoy|PR,Guarani de Ocoy,Em estudo,em_estudo,PR,São Miguel do Iguaçu/Santa Helena/PR,
+TI0760,mpf,guarasugwe riozinho|RO,Guarasugwe Riozinho,Em estudo,em_estudo,RO,Pimenteiras do Oeste/RO,
+TI0761,mpf,ham yixux aldeia verde|MG,Hâm Yixux (Aldeia Verde),Regularizada,regularizada,MG,Ladainha/MG,552.0
+TI0762,mpf,hene baria namakia kaxinawa seringal curralinho|AC,Henê Baria Namakia (Kaxinawá Seringal Curralinho),Em estudo,em_estudo,AC,Feijó/AC,
+TI0763,mpf,huuhi|MT,Hu'uhi,Em estudo,em_estudo,MT,Paranatinga/MT,
+TI0764,mpf,ibotirama|BA,Ibotirama,Regularizada,regularizada,BA,Ibotirama/BA,2019.0
+TI0765,mpf,igapo grande|AM,Igapó Grande,Reivindicada,sem_providencia,AM,Tikuna/AM,
+TI0766,mpf,igarape pataua|AM,Igarapé do Patauá,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0767,mpf,igarape taboca alto tarauaca rio muru|AC,Igarapé Taboca do Alto Tarauacá (Rio Muru),Com restrição de ingresso,restricao_de_uso,AC,Jordão/AC,287.0
+TI0768,mpf,iguatemipegua i mbaracay pyelito|MS,Iguatemipeguá I (Mbaracay e Pyelito),Delimitada,delimitada,MS,Iguatemi/MS,41571.0
+TI0769,mpf,iguatemipegua ii kurusu amba karaja yvy kaa jari kamakua|MS,"Iguatemipeguá II (Kurusu Amba, Karaja Yvy, Ka'a jari e Kamakua)",Em estudo,em_estudo,MS,Iguatemi/MS; Amambaí/MS; Aral Moreira/MS; Coronel Sapucaia/MS; Dourados/MS; Paranhos/MS; Tacuru/MS,
+TI0770,mpf,iguatemipegua iii vaqueriami jaguapire memby jukeri mboi veve lampino karaguaty|MS,"Iguatemipeguá III (Vaqueriami/Jaguapiré Memby, Jukeri, Mboi Veve, Lampiño e Karaguaty)",Em estudo,em_estudo,MS,Tacuru/MS,
+TI0771,mpf,ilha panamin|AM,Ilha do Panamin,Em estudo,em_estudo,AM,Alvarães/AM; Tefé e Maraã/AM,
+TI0772,mpf,ilhas varge caxoi cana brava|PE,"Ilhas da Varge, Caxoí e Cana Brava",Em estudo,em_estudo,PE,Belém do São Francisco/PE,
+TI0773,mpf,inhaa be lote 43 hiwy lote 44|AM,Inhaa-bé (Lote 43) e Hiwy (Lote 44),Reivindicada,sem_providencia,AM,Manaus (zona rural)/AM,
+TI0774,mpf,inhacapetum|RS,Inhacapetum,Regularizada,regularizada,RS,São Miguel das Missões/RS,236.0
+TI0775,mpf,isolados igarape tapada|AC,Isolados do Igarapé Tapada,Reivindicada,sem_providencia,AC,Mâncio Lima/AC,
+TI0776,mpf,isoupa|MT,Isoú'pà,Em estudo,em_estudo,MT,Água Boa/MT; Campinápolis/MT; Nova Xavantina/MT,
+TI0777,mpf,itapua|RS,Itapuã,Em estudo,em_estudo,RS,Viamão/RS,
+TI0778,mpf,itariri serra itatins|SP,Itariri (Serra do Itatins),Homologada - Registrada em Cartório e/ou na SPU,regularizada,SP,Itariri/SP,1212.0
+TI0779,mpf,itixi kanimari|AM,Itixi Kanimari,Reivindicada,sem_providencia,AM,Beruri/AM,
+TI0780,mpf,ituna itata interdicao|PA,Ituna/Itata (interdição),Com restrição de ingresso,restricao_de_uso,PA,Altamira/PA; Anapu/PA; Senador José Porfírio/PA,137765.0
+TI0781,mpf,jacareuba katawixi|AM,Jacareuba/Katawixi,Com restrição de ingresso,restricao_de_uso,AM,Canutama/AM; Lábrea/AM,647386.0
+TI0782,mpf,jaminawa colocacao sao paulino|AM,Jaminawa da Colocação São Paulino,Em estudo,em_estudo,AM,Boca do Acre/AM,
+TI0783,mpf,jaminawa rio caete|AC,Jaminawa do Rio Caeté,Em estudo,em_estudo,AC,Sena Madureira/AC,
+TI0785,mpf,jeju|PA,Jeju,Em estudo,em_estudo,PA,Santa Maria do Pará/PA,
+TI0786,mpf,jeripanco geripanco|AL,Jeripancó (Geripancó),Homologada - Registrada em Cartório e/ou na SPU,regularizada,AL,Água Branca/AL; Pariconha/AL,
+TI0787,mpf,jurubaxi tea baixo rio negro ii|AM,Jurubaxi-Teá (Baixo Rio Negro II),Declarada,declarada,AM,Santa Isabel do Rio Negro/AM,1208155.0
+TI0788,mpf,kaaguy mirim tekoa uruity|SP,Ka'aguy Mirim (Tekoa Uruity),Delimitada,delimitada,SP,Miracatu e Sete Barras/SP,1190.0
+TI0789,mpf,kaaguy poty|RS,Ka'aguy Poty,Em estudo,em_estudo,RS,Estrela Velha/RS,
+TI0790,mpf,kaingang pontao fag nor aldeia butia tenh mag|RS,Kaingang de Pontão Fag-Nor / Aldeia Butiá - Tenh Mág,Em estudo,em_estudo,RS,Pontão/RS,
+TI0791,mpf,kaingang vitorino|PR,Kaingang de Vitorino,Em estudo,em_estudo,PR,,
+TI0792,mpf,kaixana santo antonio ica|AM,Kaixana de Santo Antonio do Içá,Reivindicada,sem_providencia,AM,Santo Antonio do Içá/AM,
+TI0793,mpf,kalanko|AL,Kalankó,Em estudo,em_estudo,AL,Água Branca/AL,1810.0
+TI0794,mpf,kambeba fonte boa|AM,Kambeba de Fonte Boa,Reivindicada,sem_providencia,AM,Fonte Boa e São Paulo de Olivença/AM,
+TI0795,mpf,kaninde aratuba sitio fernandes|CE,Kanindé de Aratuba (Sítio Fernandes),Reivindicada,sem_providencia,CE,Aratuba/CE,
+TI0796,mpf,karuazu|AL,Karuazú,Reivindicada,sem_providencia,AL,Pariconha/AL,
+TI0797,mpf,karugua aracai|PR,Karuguá (Araça'i),Em estudo,em_estudo,PR,Piraquara/PR,
+TI0799,mpf,kiriri caldas rio verde|MG,Kiriri de Caldas (Rio Verde),Regularizada,regularizada,MG,Caldas/MG,60.0
+TI0800,mpf,kogunh mag jagtyg fykog|RS,Kógunh Mág/Jagtyg Fykóg,Em estudo,em_estudo,RS,Canela/RS,
+TI0801,mpf,kokama baixo rio ica|AM,Kokama do Baixo Rio Iça,Em estudo,em_estudo,AM,Santo Antonio do Iça e Tonantins/AM,
+TI0802,mpf,kokama sao paulo olivenca|AM,Kokama de São Paulo de Olivença,Reivindicada,sem_providencia,AM,São Paulo de Olivença/AM,
+TI0803,mpf,kokue y|MS,Kokue Y,Em estudo,em_estudo,MS,Ponta Porã/Antônio João/MS,
+TI0804,mpf,krenak krenak sete saloes|MG,Krenak/Krenak de Sete Salões,Delimitada,delimitada,MG,Resplendor/MG; Conselheiro Pena/MG; Itueta/MG; Santa Rita do Itueto/MG,
+TI0805,mpf,kulina rio uere matatibem|AM,Kulina do Rio Uerê – Matatibem,Em estudo,em_estudo,AM,Carauari/AM,
+TI0806,mpf,kuntanawa|AC,Kuntanawa,Em estudo,em_estudo,AC,Marechal Thaumaturgo/AC,
+TI0807,mpf,lago barrigudo|AM,Lago do Barrigudo,Em estudo,em_estudo,AM,Beruri/AM,
+TI0808,mpf,lago grande chiquitano|MT,Lago Grande (Chiquitano),Em estudo,em_estudo,MT,Porto Esperidião/MT; Pontes e Lacerda e Vila Bela da Santíssima Trindade./MT,
+TI0809,mpf,lago grande karaja|MT,Lago Grande (Karajá),Em estudo,em_estudo,MT,Santa Terezinha/MT,
+TI0810,mpf,lago soares urucurituba|AM,Lago do Soares e Urucurituba,Em estudo,em_estudo,AM,Autazes/AM,
+TI0811,mpf,lagoa neres lagoinha|CE,Lagoa dos Neres/Lagoinha,Reivindicada,sem_providencia,CE,Novo Oriente/CE,
+TI0812,mpf,lajeado bugre|RS,Lajeado do Bugre,Em estudo,em_estudo,RS,Lajeado do Bugre/RS,
+TI0813,mpf,lomba pinheiro|RS,Lomba do Pinheiro,Em estudo,em_estudo,RS,Porto Alegre/RS,
+TI0814,mpf,mamori|AM,Mamori,Em estudo,em_estudo,AM,Tapauá/AM,
+TI0815,mpf,mamoria grande igarape grande|AM,Mamoriá Grande e Igarapé Grande,Em estudo,em_estudo,AM,Lábrea/AM,
+TI0816,mpf,manoki irantxe|MT,Manoki (Irantxe),Declarada,declarada,MT,Brasnorte/MT,250539.0
+TI0818,mpf,massekury kamapa|AM,Massekury/Kâmapa,Em estudo,em_estudo,AM,Boca do Acre/AM,
+TI0819,mpf,massiambu|SC,Massiambu,Em estudo,em_estudo,SC,Palhoça - Enseada de Brito/SC,
+TI0821,mpf,migueleno|RO,Migueleno,Em estudo,em_estudo,RO,São Francisco do Guaporé/RO; Seringueiras/RO,
+TI0822,mpf,mirueira|MG,Mirueira,Reivindicada,sem_providencia,MG,Guanhães/MG,
+TI0823,mpf,moia mala jaguari|MT,Moia Mala (Jaguari),Em estudo,em_estudo,MT,Cocalinho/MT,
+TI0824,mpf,monte nebo|CE,Monte Nebo,Reivindicada,sem_providencia,CE,Cratéus/CE,
+TI0825,mpf,monte sinai|AM,Monte Sinai,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0826,mpf,morro coco|RS,Morro do Coco,Em estudo,em_estudo,RS,Viamão/RS,
+TI0826,mpf,morro osso|RS,Morro do Osso,Em estudo,em_estudo,RS,Porto Alegre/RS,
+TI0828,mpf,morro santana|RS,Morro Santana,Encaminhada RI,reserva_em_constituicao,RS,Guaíba/RS,
+TI0829,mpf,mukurin mucurim|MG,Mukurin (Mucurim),Em estudo,em_estudo,MG,Campanário/MG,
+TI0830,mpf,mundo novo viracao serra matas|CE,Mundo Novo-Viração (Serra das Matas),Em estudo,em_estudo,CE,Monsenhor Tabosa/CE; Tamboril/CE,
+TI0831,mpf,mundo verde aldeia cachoeirinha|MG,Mundo Verde (Aldeia Cachoeirinha),Regularizada,regularizada,MG,Teófilo Otoni/MG,606.0
+TI0832,mpf,nande ru marangatu nandevapegua mbocaja|MS,"Ñande Ru Marangatu Ñandevapeguá (Mbocajá,",Homologada,homologada,MS,Antônio João/MS,9317.0
+TI0833,mpf,nazare|PI,Nazaré,Dominial Indígena,,PI,Lagoa de São Francisco/PI,160.0
+TI0834,mpf,nazario mambira|CE,Nazário-Mambira,Reivindicada,sem_providencia,CE,Crateús/CE,5892.0
+TI0835,mpf,neo pankarare|BA,Neo-Pankararé,Reivindicada,sem_providencia,BA,Rodelas/BA,
+TI0836,mpf,norotsura|MT,Norotsurã,Em estudo,em_estudo,MT,Água Boa/MT; Campinápolis/MT; Nova Xavantina/MT,
+TI0837,mpf,nossa senhora fatima catua|AM,Nossa Senhora de Fátima do Catuá,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0838,mpf,nossa senhora nazare itaboca caju|AM,Nossa Senhora de Nazaré do Itaboca e Cajú,Reivindicada,sem_providencia,AM,Coari/AM,
+TI0839,mpf,nova jerusalem|AM,Nova Jerusálem,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0840,mpf,nova jerusalem caruara|AM,Nova Jerusalém do Caruara,Reivindicada,sem_providencia,AM,Maraã/AM,
+TI0841,mpf,novo xengu cheggu|RS,Novo Xengu (Chêg'gu),Em estudo,em_estudo,RS,Novo Xingu/RS,
+TI0842,mpf,olho dagua canuto serra matas|CE,Olho d'Água dos Canuto (Serra das Matas),Regularizada,regularizada,CE,Monsenhor Tabosa/CE,74.0
+TI0843,mpf,pacaja|PA,Pacajá,Em estudo,em_estudo,PA,Portel/PA,
+TI0844,mpf,pakurity antiga jakarey acarau|SP,"Pakurity (antiga Jakarey, Acaraú)",Delimitada,delimitada,SP,Cananeia/SP,5730.0
+TI0845,mpf,palmital kaaguy guaxy|PR,Palmital / Ka'aguy Guaxy,Em estudo,em_estudo,PR,União da Vitória/PR,
+TI0846,mpf,pankaiuka fazenda cristo rei|PE,Pankaiuká/Fazenda Cristo Rei,Encaminhada RI,reserva_em_constituicao,PE,Jatobá/PE,
+TI0847,mpf,pankararu gueyah|BA,Pankararu Gueyah,Reivindicada,sem_providencia,BA,Paulo Afonso/BA,
+TI0848,mpf,pankariri|AL,Pankariri,Reivindicada,sem_providencia,AL,Igreja Nova/AL,
+TI0849,mpf,paracuni|AM,Paracuni,Reivindicada,sem_providencia,AM,Nova Olinda do Norte/AM; Maués/AM,
+TI0850,mpf,passo grande|RS,Passo Grande,Em estudo,em_estudo,RS,Barra do Ribeiro/RS,
+TI0851,mpf,pataxo ha ha hae bertopolis|MG,Pataxó Hã Hã Hãe de Bertópolis,Reivindicada,sem_providencia,MG,Bertópolis/MG,
+TI0852,mpf,petim arasaty|RS,Petim/Arasaty,Em estudo,em_estudo,RS,Guaíba/RS,
+TI0853,mpf,piripkura interdicao|MT,Piripkura (Interdição),Com restrição de ingresso,restricao_de_uso,MT,Colniza/MT; Rondolândia/MT,242500.0
+TI0854,mpf,ponta arado|RS,Ponta do Arado,Em estudo,em_estudo,RS,Porto Alegre/RS,
+TI0855,mpf,ponta formiga|RS,Ponta da Formiga,Em estudo,em_estudo,RS,Barra do Ribeiro/RS,
+TI0856,mpf,por fi ga|RS,Por Fi Gã,Regularizada,regularizada,RS,São Leopoldo/RS,8.0
+TI0857,mpf,potrerito vitoi kue nioaque|MS,"Potrerito, Vitoi Kuê) Nioaque",Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Nioaque/MS,3029.0
+TI0858,mpf,projeto mapi|AM,Projeto MAPI,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0859,mpf,purubora|RO,Puruborá,Em estudo,em_estudo,RO,São Francisco do Guaporé/RO; Seringueiras/RO,
+TI0860,mpf,renascer|AM,Renascer,Reivindicada,sem_providencia,AM,Careiro/AM,
+TI0861,mpf,reta tapera|SC,Reta/Tapera,Em estudo,em_estudo,SC,São Francisco do Sul/SC,
+TI0862,mpf,riachao luiza vale|MG,Riachão/Luiza do Vale,Regularizada,regularizada,MG,Rio Pardo de Minas e Serranópolis de Minas/MG,10.0
+TI0863,mpf,rio arraias br 080|MT,Rio Arraias/BR 080,Em estudo,em_estudo,MT,Marcelândia/MT,
+TI0864,mpf,rio bonito|SC,Rio Bonito,Em estudo,em_estudo,SC,Itajaí/SC,
+TI0865,mpf,rio cautario|RO,Rio Cautário,Em estudo,em_estudo,RO,Costa Marques/RO,
+TI0866,mpf,rio copea|AM,Rio Copeá,Reivindicada,sem_providencia,AM,Coari/AM,
+TI0867,mpf,rio cuieiras|AM,Rio Cuieiras,Em estudo,em_estudo,AM,Manaus e Novo Airão/AM,
+TI0868,mpf,rio meio|SC,Rio do Meio,Em estudo,em_estudo,SC,Itajaí/SC,
+TI0869,mpf,rio pequeno|RJ,Rio Pequeno,Delimitada,delimitada,RJ,Parati/RJ,2370.0
+TI0870,mpf,riozinho liberdade|AC,Riozinho da Liberdade,Reivindicada,sem_providencia,AC,Tarauacá/AC,
+TI0871,mpf,rodelas|BA,Rodelas,Encaminhada RI,reserva_em_constituicao,BA,Rodelas/BA,4328.0
+TI0872,mpf,roro walu jatoba ikpeng|MT,Roro-Walu (Jatobá/Ikpeng),Em estudo,em_estudo,MT,Paranatinga/MT,
+TI0873,mpf,santa maria duplicada com arena|RS,Santa Maria (duplicada com Arena,Em estudo,em_estudo,RS,Santa Maria/RS,
+TI0874,mpf,sao gabriel sao salvador|AM,São Gabriel/São Salvador,Em estudo,em_estudo,AM,Santo Antônio do Içá/AM,
+TI0875,mpf,sao jose jenipaua|AM,São José do Jenipauá,Reivindicada,sem_providencia,AM,Tefé/AM,
+TI0876,mpf,sao miguel parana dururua|AM,São Miguel do Paraná do Dururuá,Reivindicada,sem_providencia,AM,Coari/AM,
+TI0877,mpf,sao raimundo|AM,São Raimundo,Reivindicada,sem_providencia,AM,Fonte Boa/AM,
+TI0878,mpf,sawre juybu sao luiz tapajos|PA,Sawré Juybu (São Luíz dos Tapajós),Em estudo,em_estudo,PA,Itaituba/PA,25323.0
+TI0879,mpf,segu|RS,Segu,Em estudo,em_estudo,RS,Constantina/RS; Novo XIngu/RS; Sarandi/RS,
+TI0880,mpf,seringal guanabara jaminawa guajara riozinho iaco|AC,Seringal Guanabara/Jaminawa do Guajará (Riozinho Iaco),Em estudo,em_estudo,AC,Assis Brasil/AC; Sena Madureira/AC,
+TI0881,mpf,serra periperi|BA,Serra do Periperi,Reivindicada,sem_providencia,BA,Vitória da Conquista/BA,
+TI0882,mpf,serrote campos|PE,Serrote dos Campos,Em estudo,em_estudo,PE,Itacuruba/PE,
+TI0883,mpf,setsor bragaga|MG,Setsor Bragágá,Encaminhada RI,reserva_em_constituicao,MG,Buritizeiro/MG,
+TI0884,mpf,tabajara|PB,Tabajara,Em estudo,em_estudo,PB,Conde/PB,
+TI0885,mpf,tabajara piripiri tocaia|PI,Tabajara de Piripiri (Tocaia),Dominial Indígena,,PI,Piripiri/PI,155.0
+TI0886,mpf,tabajara quiterianopolis|CE,Tabajara de Quiterianópolis,Reivindicada,sem_providencia,CE,Quiterianópolis/CE,
+TI0887,mpf,takuary eldorado|SP,Takuary Eldorado,Encaminhada RI,reserva_em_constituicao,SP,Eldorado/SP,2190.0
+TI0888,mpf,tanaru|RO,Tanaru,Com restrição de ingresso,restricao_de_uso,RO,Chupinguaia/RO; Corumbiara/RO; Parecis/RO; Pimenteiras do Oeste/RO,8070.0
+TI0889,mpf,tapayuna|MT,Tapayuna,Em estudo,em_estudo,MT,Nova Maringá/MT; São José do Rio Claro/MT,
+TI0890,mpf,taquara|AM,Taquara,Reivindicada,sem_providencia,AM,Carauari/AM,
+TI0891,mpf,taquaritiua|MA,Taquaritiua,Em estudo,em_estudo,MA,Viana/MA; Mantinha/MA; Penalva/MA,
+TI0892,mpf,tekoa itaoka icapara ii|SP,Tekoa Itaoka (Icapara II),Em estudo,em_estudo,SP,Iguape/SP,
+TI0893,mpf,tekoa itapua icapara i|SP,Tekoa Itapuã (Icapara I),Em estudo,em_estudo,SP,Iguape/SP,
+TI0894,mpf,tekoa jejyty toca bugio|SP,Tekoa Jejyty (Toca do Bugio),Em estudo,em_estudo,SP,Iguape/SP,
+TI0895,mpf,tekoha guasu guavira marangatu araguaju jevy nhemboete y hovy mirim guarani tatury yvyraty pora tajy poty|PR,"Tekoha Guasu Guavirá (Marangatu, Araguaju, Jevy, Nhemboete, Y Hovy, Mirim, Guarani, Tatury, Yvyraty Porã e Tajy Poty)",Delimitada,delimitada,PR,Altônia/PR; Guaíra e Terra Roxa/PR,
+TI0896,mpf,tekoha vera tupai|PR,Tekoha Vera Tupãi,Dominial Indígena,,PR,Campo Mourão/PR,
+TI0897,mpf,terena santa rita pardo|MS,Terena/Santa Rita do Pardo,Reivindicada,sem_providencia,MS,Santa Rita do Pardo/MS,
+TI0898,mpf,timbotuba montes claros sao benedito guariba ii igarape grande medio rio madeira|AM,"Timbotuba, Montes Claros, São Benedito e Guariba II e Igarapé Grande (Médio Rio Madeira)",Em estudo,em_estudo,AM,Manicoré/AM,
+TI0899,mpf,tremembe engenho|MA,Tremembé do Engenho,Em estudo,em_estudo,MA,São José de Ribamar/MA,
+TI0900,mpf,tremembe raposa|MA,Tremembé da Raposa,Reivindicada,sem_providencia,MA,Raposa/MA,
+TI0901,mpf,truka assuncao|PE,Truká - Assunção,Declarada,declarada,PE,Cabrobó/PE,5769.0
+TI0902,mpf,truka familia mozenir araujo|PE,Truká – Família de Mozenir Araújo,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PE,Cabrobó/PE,1592.0
+TI0903,mpf,truka sobradinho|BA,Truká de Sobradinho,Reivindicada,sem_providencia,BA,Sobradinho/BA,350.0
+TI0904,mpf,truka tupa|BA,Truká-Tupã,Reivindicada,sem_providencia,BA,Paulo Afonso/BA,
+TI0905,mpf,tucuma|AM,Tucumã,Reivindicada,sem_providencia,AM,Humaitá/AM,
+TI0906,mpf,tupinamba itapebi|BA,Tupinambá de Itapebi,Reivindicada,sem_providencia,BA,Itapebi/BA,
+TI0907,mpf,tuwa apekuokawera antiga sororo gleba taupekuakau|PA,Tuwa Apekuokawera (antiga Sororó-Gleba Taupekuakau),Delimitada,delimitada,PA,Marabá/PA; São Geraldo do Araguaia/PA,11764.0
+TI0908,mpf,tuxi|BA,Tuxi,Reivindicada,sem_providencia,BA,Abaré/BA,
+TI0911,mpf,vila real|MA,Vila Real,Em estudo,em_estudo,MA,Barra do Corda/MA,
+TI0912,mpf,wahuri|TO,Wahuri,Em estudo,em_estudo,TO,Sandolandia/TO,
+TI0914,mpf,wedeze pimentel baborsa|MT,Wedezé / Pimentel Baborsa,Delimitada,delimitada,MT,Cocalinho/MT,145881.0
+TI0915,mpf,xakriaba|MG,Xakriabá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,MG,Itacarambi e São João das Missões/MG,
+TI0916,mpf,xakriaba cocos|BA,Xakriabá de Côcos,Reivindicada,sem_providencia,BA,Côcos/BA,
+TI0917,mpf,xapeco glebas a b pinhalzinho canhadao|SC,Xapecó Glebas A e B (Pinhalzinho e Canhadão),Declarada,declarada,SC,Abelardo Luz/SC; Entre Rios/SC; Ipuaçu/SC,
+TI0918,mpf,xokleng zagaua konglui|RS,Xokleng Zagaua (Konglui),Em estudo,em_estudo,RS,Riozinho e São Francisco de Paula/RS,
+TI0921,mpf,yanwaka|AP,Yanwaka,Em estudo,em_estudo,AP,Oiapoque/AP,
+TI0922,mpf,yvy katu porto lindo fazenda remanso guacu|MS,Yvy Katu (Porto Lindo/Fazenda Remanso Guaçu),Homologada - Registrada em Cartório e/ou na SPU,regularizada,MS,Japorã/MS,9454.0
+TI0924,mpf,zuruaha zuruwaha|AM,Zuruahã / Zuruwahá,Homologada - Registrada em Cartório e/ou na SPU,regularizada,AM,Tapauá/AM,239069.0
+TI0925,mpf,zoe|PA,Zo’é,Homologada - Registrada em Cartório e/ou na SPU,regularizada,PA,Óbidos/PA,668565.0

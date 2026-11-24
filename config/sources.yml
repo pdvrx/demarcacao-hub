@@ -1,0 +1,69 @@
+# Fontes de dados. Cada fonte tem uma lista de nomes candidatos por coluna:
+# vale a primeira que existir no arquivo (sem diferenciar acento/caixa; casa por "contém").
+# Use `python -m demarcacao inspect <arquivo>` para ver as colunas reais e ajustar aqui.
+fontes:
+  funai:
+    rotulo: "Funai — Terras Indígenas (shapefile do Geoserver)"
+    tipo: geo                  # polígonos: coloque .zip/.shp/.gpkg em data/raw/funai/
+    url: ""                    # opcional: URL de download direto (ver README, seção 'fetch')
+    pagina: "https://www.gov.br/funai/pt-br/atuacao/terras-indigenas/geoprocessamento-e-mapas"
+    licenca: "verificar"
+    colunas:
+      id: [terrai_cod, cod_ti, codigo]
+      nome: [terrai_nom, terra_indigena, nome]
+      povo: [etnia_nome, etnia, povo]
+      municipio: [municipio_, municipio, municipios]
+      uf: [uf_sigla, uf]
+      area_ha: [superficie, area_ha, extensao]
+      fase: [fase_ti, fase, situacao]
+      modalidade: [modalidade_, modalidade]
+    extras:
+      cr: [cr]
+      reestudo: [reestudo_t]
+      data_fonte: [data_atual]
+  mpf:
+    rotulo: "MPF 6ª CCR — Tabela de Terras Indígenas"
+    tipo: tabela               # PDF, CSV ou XLSX em data/raw/mpf/
+    permite_varias_linhas: true
+    pagina: "https://www.mpf.mp.br/atuacao/populacoes-indigenas-e-comunidades-tradicionais/publicacoes/tabela-terras-indigenas-2020"
+    licenca: "verificar"
+    colunas:
+      nome: [terra indigena, terra, nome]
+      povo: [povo, etnia]
+      municipio: [municipio]
+      uf: [uf]
+      area_ha: [extensao, area]
+      fase: [situacao juridica, situacao atual, condicao atual]
+    extras:
+      ato: [ato]
+      processo_funai: [n processo funai, processo funai]
+      processos_judiciais: [processos judiciais]
+      etapa: [etapa do processo]
+      atuacao_administrativa: [atuacao administrativa]
+      situacao_revisao: [situacao juridica da revi]
+      sobreposicoes: [sobreposicoes]
+      observacoes: [observacoes]
+      populacao: [populacao]
+  cimi:
+    rotulo: "Cimi — Terras e reivindicações (levantamento anual)"
+    tipo: tabela               # você monta o CSV a partir do relatório/lista (ver docs)
+    pagina: "https://cimi.org.br"
+    licenca: "verificar"
+    colunas:
+      nome: [terra indigena, terra, nome]
+      povo: [povo, etnia]
+      municipio: [municipio]
+      uf: [uf]
+      fase: [situacao, fase, situacao fundiaria]
+  isa:
+    rotulo: "ISA — Terras Indígenas no Brasil"
+    tipo: tabela               # só use se os termos de uso do ISA permitirem
+    pagina: "https://terrasindigenas.org.br"
+    licenca: "verificar"
+    colunas:
+      nome: [terra indigena, nome]
+      povo: [povo, povos]
+      municipio: [municipio, municipios]
+      uf: [uf]
+      area_ha: [area, extensao, superficie]
+      fase: [situacao, fase, situacao juridica]
